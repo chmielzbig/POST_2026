@@ -153,3 +153,5 @@ with (OUT/"MANIFEST_WSZYSTKO.csv").open("w",encoding="utf-8",newline="") as f:
     w.writerows(rows)
 
 print(f"Wygenerowano {len(rows)} wpisów manifestu w {OUT}")
+
+# trigger: 2026-09-25 analysis extraction
