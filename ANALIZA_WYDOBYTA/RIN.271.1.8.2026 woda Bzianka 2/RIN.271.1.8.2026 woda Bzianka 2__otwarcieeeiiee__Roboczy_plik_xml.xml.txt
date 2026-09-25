@@ -1,0 +1,190 @@
+ŹRÓDŁO: RIN.271.1.8.2026 woda Bzianka 2
+PLIK: RIN.271.1.8.2026 woda Bzianka 2/otwarcieeeiiee/Roboczy_plik_xml.xml
+ROZMIAR: 10221
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<informacjaDlaPrezesa xmlns="https://ezamowienia.gov.pl/xml-schema/idp#1.0.0" dataWypelnienia="2026-08-26+02:00">
+    <trybZamowienia>
+        <trybZamowienia id="1.1.1">Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybZamowienia>
+    </trybZamowienia>
+    <sekcja1>
+        <nazwa>Gmina Rymanów</nazwa>
+        <kni>REGON 370440590</kni>
+        <adres>Mitkowskiego 14A</adres>
+        <miejscowosc>Rymanów</miejscowosc>
+        <kod>38-480</kod>
+        <woj>Podkarpackie</woj>
+        <kraj>Polska</kraj>
+        <www>https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-bcd2da74-4e40-4dcc-b750-3d3d7f4be296</www>
+        <rodzaj>Zamawiający publiczny -&gt; jednostka sektora finansów publicznych -&gt; jednostka samorządu terytorialnego</rodzaj>
+        <sposobPrzeprowadzeniaPostepowania>Postępowanie prowadzone jest samodzielnie przez zamawiającego</sposobPrzeprowadzeniaPostepowania>
+        <daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieNazwa></daneDotyczacePodmiotuPowierzonoProwadzenieNazwa>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieniKni></daneDotyczacePodmiotuPowierzonoProwadzenieniKni>
+        </daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+    </sekcja1>
+    <sekcja2>
+        <informacjaDotyczy>Zamówienia publicznego</informacjaDotyczy>
+        <rodzajZamowieniaUmRam>zamówienie klasyczne</rodzajZamowieniaUmRam>
+        <idPostepowania>ocds-148610-bcd2da74-4e40-4dcc-b750-3d3d7f4be296</idPostepowania>
+        <nrReferencyjnyPost>RIN.271.1.8.2026</nrReferencyjnyPost>
+        <nazwaZamowieniaUmowyRamowej>Budowa sieci wodociągowej rozdzielczej w miejscowości Bzianka cz.2</nazwaZamowieniaUmowyRamowej>
+        <rodzajPrzedmiotuZamowienia>Roboty budowlane</rodzajPrzedmiotuZamowienia>
+        <czyWCzesciach>false</czyWCzesciach>
+        <czyCzesciowe>false</czyCzesciowe>
+        <liczbaCzesci>1</liczbaCzesci>
+        <trybUdzieleniaZPodstawa>Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybUdzieleniaZPodstawa>
+        <dataWszczeciaPostepowania>2026-08-12</dataWszczeciaPostepowania>
+        <czyOgloszenieWBzpAlboTed>true</czyOgloszenieWBzpAlboTed>
+        <nrOgloszeniaBzpAlboTed>2026/BZP 00388335/01</nrOgloszeniaBzpAlboTed>
+        <czyWspolfinansowaneEU>false</czyWspolfinansowaneEU>
+        <nazwaProjektuEU></nazwaProjektuEU>
+    </sekcja2>
+    <sekcja4>
+        <informacjaOOfertach idSekcji="1">
+            <czyDotyczy>false</czyDotyczy>
+            <numerLubNazwaCzesci>1</numerLubNazwaCzesci>
+            <kwotaZamawiajacyNaSfinansowanie>1 000 000,00 PLN</kwotaZamawiajacyNaSfinansowanie>
+            <kwotaJakaZamierzaPrzeznaczyc></kwotaJakaZamierzaPrzeznaczyc>
+            <terminOtwarciaOfert>2026-08-26</terminOtwarciaOfert>
+            <liczbaZaproszonychWykonawcow>0</liczbaZaproszonychWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>PHU "INKO 2001" K. ŁUKASIK, K. KACZOR, J.MAJEWSKI SPÓŁKA JAWNA (INKO 2001)</nazwa>
+                    <kni>REGON 491895172</kni>
+                    <miejscowosc>Nowy Sącz</miejscowosc>
+                    <woj>małopolskie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 198 733,62 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>MULTIKOP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</nazwa>
+                    <kni>REGON 008095543</kni>
+                    <miejscowosc>Strzeszyn</miejscowosc>
+                    <woj>małopolskie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Nie określono</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>Przedsiębiorstwo Robót Inżynieryjnych i Drogowych w Krośnie Spółka Akcyjna</nazwa>
+                    <kni>REGON 370314080</kni>
+                    <miejscowosc>Krosno</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Średnie przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 126 311,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>WELKO HYDROTECHNIKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</nazwa>
+                    <kni>REGON 542979725</kni>
+                    <miejscowosc>Kosina</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 570 980,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>Zakład Budowlano-Instalacyjny Grzegorz Falger</nazwa>
+                    <kni>REGON 690481338</kni>
+                    <miejscowosc>Albigowa</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 845 625,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>Zakład Instalacyjno-Budowlany Edward Kwiek</nazwa>
+                    <kni>REGON 690454844</kni>
+                    <miejscowosc>Czudec</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 026 189,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>Zakład Instalacyjno - Budowlany Lisbud Paweł Lisowski (LISBUD)</nazwa>
+                    <kni>REGON 180371981</kni>
+                    <miejscowosc>Pstrągowa</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 170 591,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>true</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>Zakład Instalacji Sanitarnych Adam Niedziałek</nazwa>
+                    <kni>REGON 690480563</kni>
+                    <miejscowosc>Czudec</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Jednoosobowa działalność gospodarcza</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 248 942,00 PLN</cenaLubKoszt>
+                <wspolwykonawcySekcja>
+                    <nazwa>ZISAN Sp. z o.o.</nazwa>
+                    <kni>8191683289</kni>
+                </wspolwykonawcySekcja>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>F.H.U. "FLISEK" S.C. ROMAN FLIS, WALDEMAR FLIS, MATEUSZ FLIS</nazwa>
+                    <kni>REGON 690560227</kni>
+                    <miejscowosc>Leżajsk</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 795 819,27 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>GŁOWIK MARIUSZ, Przedsiębiorstwo "FORTIS"</nazwa>
+                    <kni>REGON 691677990</kni>
+                    <miejscowosc>Rzeszów</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Mikroprzedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 311 426,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>Polmad Rzeszów spółka z ograniczoną odpowiedzialnością (POLMAD)</nazwa>
+                    <kni>REGON 691569242</kni>
+                    <miejscowosc>Głogów Małopolski</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 892 252,13 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+        </informacjaOOfertach>
+    </sekcja4>
+    <sekcja5/>
+</informacjaDlaPrezesa>

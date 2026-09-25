@@ -1,0 +1,181 @@
+ŹRÓDŁO: RIN.271.1.12.2026 LekOfinansach
+PLIK: RIN.271.1.12.2026 LekOfinansach/otwoarcie/Raport_z_przebiegu_otwarcia_ofert (27) (1).pdf
+ROZMIAR: 99137
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 18.09.2026 10:16:04
+
+
+
+Identyfikator postępowania:           ocds-148610-d368337f-73cb-4c2f-814d-ce66b3b92466
+
+Numer etapu postępowania:             1
+
+Nazwa zamówienia:                   Usługa organizacji wycieczek obejmująca zagadnienia
+edukacji finansowej w ramach Programu „Lekcje o finansach”- edycja 2026
+
+Nazwa Zamawiającego:                  Gmina Rymanów
+
+Wyznaczony termin otwarcia ofert:     18.09.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:    18.09.2026 10:15:17
+
+Termin zakończenia otwarcia ofert:    18.09.2026 10:16:00
+
+Liczba złożonych ofert:               2
+
+W tym:
+
+        złożonych w terminie:                           2
+        wycofanych:                                     0
+
+
+
+Oferta nr 1:
+
+        Status:                                         Złożono w terminie
+        Termin rozpoczęcia składania:                   17.09.2026 15:58:37
+        Termin złożenia:                                17.09.2026 15:58:40
+        Całkowity czas składania oferty:                3 sek
+        Termin rozpoczęcia otwarcia:                    18.09.2026 10:15:17
+        Termin zakończenia otwarcia:                    18.09.2026 10:15:17
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:                 521,97 KB
+        Identyfikator oferty:                           ocds-148610-d368337f-73cb-4c2f-814d-
+         ce66b3b92466:112205:01:01
+        Dane Wykonawcy, który wysłał ofertę:            Krajowe Centrum Realizacji Sp. z o.o.||
+         7123459774|526048459|112205
+        Hash transportowy oferty:
+
+         7d31967ae7db323d40be3a7c2dffc8be3e699aeac9587a3f24ff9ea13686f7ba
+        Master hash oferty:
+
+         f2d1b7af6327e2781445d85820cd378bd460502a63d4d38470b24c5a8ea1bafa
+        Zaszyfrowany klucz:
+
+         UphmHNGRbZ/DImNo2iKWvRoTqTnwMwnzEz9iuZXVYn6cCE84rDia8WEtpdslD4A3864fgUj
+         HOGkmDKnResKFMfAsL50V8Pp87+oqJrjCERgTVmz8lwgn4EyG/KzXX5DAVnIKubDYGV5/
+
+
+                                                1
+        fE7cT7N0B8lp0zUvXINKYlKDKlk5NDK3RhoR1/Aqi2Xgfp4+pykc+Rl7BGOF/
+        hroucm+QSYKbVzUZMxL4ronATz/
+        3qwwxfyEQ6emiEC8w6moOnzx1ukFBcC8g2l8/9QslzRkuhPwXK22FzXXE11jOrhvI1gdA/
+        rPNqO6JQks7VzGHVoiUsANizT6VLAJBtGYfVDJYlfAnQ==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          Oferta_1-sig.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        514,35 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          Potwierdzenie_wadium-sig.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        130,72 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Załącznik_nr_2_-
+                   _Oświadczenie_art_125_ust_1_PZP-sig.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        219,85 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+Oferta nr 2:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    18.09.2026 09:44:27
+       Termin złożenia:                                 18.09.2026 09:44:28
+       Całkowity czas składania oferty:                 1 sek
+       Termin rozpoczęcia otwarcia:                     18.09.2026 10:15:17
+       Termin zakończenia otwarcia:                     18.09.2026 10:15:17
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:                  3,47 MB
+       Identyfikator oferty:                            ocds-148610-d368337f-73cb-4c2f-814d-
+        ce66b3b92466:134351:01:01
+       Dane Wykonawcy, który wysłał ofertę:             ZIĘBA ANNA TRAVEL-LINE||6842275545|
+        180585630|134351
+       Hash transportowy oferty:
+
+        14d6769909477274fce4072f39bfa983a70b1f36e95123cdf9695b75495585a2
+
+
+
+
+                                                  2
+   Master hash oferty:
+
+    088b06eb30d5db5ed02dc96b12a0a8043f738bf22808edc09e6625bbcc9be9cc
+   Zaszyfrowany klucz:
+
+    opYl/gSBYQlbtUKKvsSrUp1okb9etQC6T7qJFkkGHvP9squihTjmofYI4Xvd5xp4GjFnkua16INH
+    bWNTxdJWVfzS3OyyR9oRjAuWdYr0vKxEjBmE9iwpzwYsUpduG6vcqKaK4w5NlIRYa+tChc2S
+    ZRDx0XF53OU5PrVy/htAvRuz+lcZWIZdATX5XNpM+9GvAo+L2Y9+
+    +fpNHGkf+Zn8RxCNBaMOMRrT6VWOHA/
+    9+cL+rCLqS7n0hCItqHtEnpVW20OL+ftuxTZDn4VsaNps6GeQeXvuxiiIa2Ae262DqvPAZpQQA/
+    udT5oM3+A1OvKO9+NZYouuSqOPs8Z61WRK9g==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          oferta2.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        353,86 KB
+       o   czy formularz poprawnie przetworzony: Nie
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+       o   nazwa pliku:                          referencje (1).pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        1,65 MB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+       o   nazwa pliku:                          Załącznik_nr_2_-
+           _Oświadczenie_art_125_ust_1_PZP.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        360,41 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+       o   nazwa pliku:                          Załącznik_nr_3_-
+           _Oświadczenie_Wykonawcy_grupy_kapitałowej.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        374,94 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+       o   nazwa pliku:                          Załącznik_nr_4_-
+           _Wykaz_usług_wycieczek.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        589,70 KB
+
+
+                                          3
+           o   czy podpisany:                        Tak
+           o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+           o   nazwa pliku:                          Załącznik_nr_8_-
+               _Oświadczenie_art_125_ust_1_PZP (1).pdf
+           o   typ pliku:                            Inny plik
+           o   rozmiar pliku:                        449,56 KB
+           o   czy podpisany:                        Tak
+           o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+
+
+
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                              4
+

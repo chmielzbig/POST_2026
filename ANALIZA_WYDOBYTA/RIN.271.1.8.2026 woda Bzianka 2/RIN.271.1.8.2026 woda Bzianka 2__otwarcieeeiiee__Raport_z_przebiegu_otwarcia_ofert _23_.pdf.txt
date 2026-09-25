@@ -1,0 +1,914 @@
+ŹRÓDŁO: RIN.271.1.8.2026 woda Bzianka 2
+PLIK: RIN.271.1.8.2026 woda Bzianka 2/otwarcieeeiiee/Raport_z_przebiegu_otwarcia_ofert (23).pdf
+ROZMIAR: 394305
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 26.08.2026 10:16:17
+
+
+
+Identyfikator postępowania:          ocds-148610-bcd2da74-4e40-4dcc-b750-3d3d7f4be296
+
+Numer etapu postępowania:            1
+
+Nazwa zamówienia:                    Budowa sieci wodociągowej rozdzielczej w miejscowości
+Bzianka cz.2
+
+Nazwa Zamawiającego:                 Gmina Rymanów
+
+Wyznaczony termin otwarcia ofert:    26.08.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:   26.08.2026 10:15:45
+
+Termin zakończenia otwarcia ofert:   26.08.2026 10:16:14
+
+Liczba złożonych ofert:              13
+
+W tym:
+
+        złożonych w terminie:                           12
+        wycofanych:                                     1
+
+
+
+Oferta nr 1:
+
+        Status:                                Złożono w terminie
+        Termin rozpoczęcia składania:          25.08.2026 08:23:09
+        Termin złożenia:                       25.08.2026 08:23:11
+        Całkowity czas składania oferty:       2 sek
+        Termin rozpoczęcia otwarcia:           26.08.2026 10:15:45
+        Termin zakończenia otwarcia:           26.08.2026 10:15:45
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:        1,17 MB
+        Identyfikator oferty:                  ocds-148610-bcd2da74-4e40-4dcc-b750-
+         3d3d7f4be296:63661:01:01
+        Dane Wykonawcy, który wysłał ofertę:   PHU "INKO 2001" K. ŁUKASIK, K. KACZOR,
+         J.MAJEWSKI SPÓŁKA JAWNA|INKO 2001|7342632385|491895172|63661
+        Hash transportowy oferty:
+
+         541c5e08ff9116b3b9ef04251c64c2a4e34d47c3185dcd2083da0b51aa9b66f9
+        Master hash oferty:
+
+         3ec424cf662d21451aa50e11f91244919a94b9b78b08ad435edfe21496ea5403
+        Zaszyfrowany klucz:
+
+         UxDdyIUmByB6+arenZaQL0rR3ZsFuBi8PgmfFzgWWNsIchFI5WCXMCxG3ODp+gSB3O9Q/
+         R1H7CptDYdR/gxf2peHH3ksqxg2PYY3QbUaKgg4aTFkxJ/
+
+
+                                               1
+        kJXFzHP6bk1EsWVpuI8KAwqE0MstwKE7fHErvCs40CMSdQXd6+tQdZ7o3l5dJS7zWUIu2/
+        QxlXH8rDjb73HPY4W3HuMS3Bx9C8c5EqbjVFf4vinWGqL+7Udivr9Kmk4NlJzmpoZCM88uRp
+        C9U1Wpu4xGdPLa+usxEcdR9sXMOsm1BWF7P5tCvufRiDaczFwi4NuHw/
+        uI+YgZI4nDQJTxqgK+Zl/pliEQT+w==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+                   3d3d7f4be296_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        304,88 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        324,31 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Wydruk kosztorysu.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        484,28 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          wadium 3952-2026-PW Gmina Rymanów
+                   (1).pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        443,42 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 2:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    25.08.2026 10:10:50
+       Termin złożenia:                                 25.08.2026 10:11:06
+       Całkowity czas składania oferty:                 16 sek
+       Termin rozpoczęcia otwarcia:                     26.08.2026 10:15:45
+       Termin zakończenia otwarcia:                     26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:                  1,51 MB
+
+
+                                                  2
+   Identyfikator oferty:                         ocds-148610-bcd2da74-4e40-4dcc-b750-
+    3d3d7f4be296:63080:01:01
+   Dane Wykonawcy, który wysłał ofertę:          SPÓŁDZIELNIA USŁUG WODNO-
+    KANALIZACYJNYCH PRODUKCJI ROLNEJ I HANDLU "ROLWOD"|Spółdzielnia Usług Wodno-
+    Kanalizacyjnych Produkcji Rolnej i Handlu "ROLWOD"|6850005524|000479830|63080
+   Hash transportowy oferty:
+
+    efa893fa3b556130a3a919cd4d37969bc4c51746e03d637be69a3d029ba1c8f1
+   Master hash oferty:
+
+    2e1c0106f8c2e8108566d820bb011485685e6390fb060a398515754732f28402
+   Zaszyfrowany klucz:
+
+    E7AJeqxSs3XJuR80BA+UN665Ri8Cbnhb5uHR/ahFVf5x3iKzrBiHMJFgnGPfMP2Sdft7LR2feBJT
+    rb7ypI4yRqx/
+    uhlS7Er0PgcM+H6hA+4nIpvW9pH0FAxa5+E0NEQIusfE1zCc0zZ9kHhg9k7Jfayt+xcJf2nSpnVW
+    llLzBvGxKu7+tat5sJyPDlWc7Vf2rzGPj/
+    kDKTf2IQ87RJ1NS3kbS25uwhXjdKZaDppzre7ibSG9WUkVrlddYEl+ZgPdlE6CaHHEG5+XZ7MK
+    B9LNptW0hg0kF76PV+r3dR7r7zoW40lXvKTPVs7ML8vCDI/4MnnF9sXMNUgIcod4PfGntA==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+           3d3d7f4be296_Oferta_1-1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        449,65 KB
+       o   czy formularz poprawnie przetworzony: Nie
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                           Kosztorys Budowa sieci wodociągowej
+           rozdzielczej w miejscowości Bzianka etap II - przyłącza kwalifikowane - etap II
+           2026.pdf
+       o   typ pliku:                             Inny plik
+       o   rozmiar pliku:                         479,83 KB
+       o   czy podpisany:                         Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                           Kosztorys Budowa sieci wodociągowej
+           rozdzielczej w miejscowości Bzianka etap II - sieć rozdzielcza - etap II 2026.pdf
+       o   typ pliku:                             Inny plik
+       o   rozmiar pliku:                         544,86 KB
+       o   czy podpisany:                         Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                             potwierdzenie_operacji wadium.pdf
+
+                                             3
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        214,38 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp-1.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        226,74 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 3:
+
+       Status:                               Złożono w terminie
+       Termin rozpoczęcia składania:         25.08.2026 12:47:18
+       Termin złożenia:                      25.08.2026 12:47:20
+       Całkowity czas składania oferty:      2 sek
+       Termin rozpoczęcia otwarcia:          26.08.2026 10:15:45
+       Termin zakończenia otwarcia:          26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:       1,77 MB
+       Identyfikator oferty:                 ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:61298:01:01
+       Dane Wykonawcy, który wysłał ofertę:  MULTIKOP SPÓŁKA Z OGRANICZONĄ
+        ODPOWIEDZIALNOŚCIĄ||7380005265|008095543|61298
+       Hash transportowy oferty:
+
+        f5bd4e9572e225b22ea670b3227f92016f9c007945bb7143fa829bef1a581ce7
+       Master hash oferty:
+
+        20aad42050c7d94b4a3db6ab3a79b49e2d1ddfdae58506b5985566dc965b5e26
+       Zaszyfrowany klucz:
+
+        fz6Lcf9ddOXrOoRmuO0dfOn51jojoAQ/Dj9mGQ0yTKY3xKnv0uM5D1dmTZEyOqZ7f1VZI16il
+        Q8eX9MBS6OFuAFIHQCzVSH+E4VQZ9tm/iCSP2nWR+Tgh8UDyLyFa/
+        rK7xZwx3h9zE6TAnqj/
+        2BQWLeX9xHOldknXFShetakYSHPH8fJt7cQOb61g7GuYjaWPI80Aw4BvpKg9O7oTUiB2qLRH
+        D+DOHQvCrO4KghRs57JVL1xEO3IEVnY79RXXXWcOzHbddHHmeuVR6jYQpH1y7hr2GH3+5L
+        QWmBxrtODiEoDdJCExnT+PcWkpPRHC5bOj+huHQQTFbYDK7exGw+QCA==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+                   3d3d7f4be296_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+
+
+                                                  4
+               o   rozmiar pliku:                        261,24 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          Oferta załaczniki podpisane.zip
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        1,64 MB
+               o   czy podpisany:                        Nie
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+Oferta nr 4:
+
+       Status:                                    Złożono w terminie
+       Termin rozpoczęcia składania:              25.08.2026 14:12:10
+       Termin złożenia:                           25.08.2026 14:12:11
+       Całkowity czas składania oferty:           1 sek
+       Termin rozpoczęcia otwarcia:               26.08.2026 10:15:45
+       Termin zakończenia otwarcia:               26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:            1,19 MB
+       Identyfikator oferty:                      ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:2547:01:01
+       Dane Wykonawcy, który wysłał ofertę:       Przedsiębiorstwo Robót Inżynieryjnych i
+        Drogowych w Krośnie Spółka Akcyjna||6840000749|370314080|2547
+       Hash transportowy oferty:
+
+        dc8f9f007bb0609d8df83deba73e94c525e579bdb8f42586609fd6fbdea9a04d
+       Master hash oferty:
+
+        13cff1c76b27fbf0e34f4eeb83bfbd43984ea3493eee4adbd0b7b35345875de1
+       Zaszyfrowany klucz:
+
+        hQS0OuaIV6AXpvwxfHRUNTC6slfeBJ5xMrcUeOzvxX3lUbNeojmQynl5frVs5JGUIITsCs/
+        IStf+Oc+ncoAxVRwghxPHVG91gCmvyoAd1oJJpnXRWRuRKSjdmYFEODTRHQeHovLd//
+        eHLWowhZ+OagFh2N05PMfcU+2UVddnNUcPmif7lzFY176bTlf3x33H8KknB2o6jqXfahHbQd/
+        jErgcBaYMlGpkTProqr8zEe3tctb7BEFEjnTL/
+        4q7eunP0aT9oIzeQqqylFe2tuJGWKIfvb96nIZQJ7V8Ib9SzKua4sB9+J30DVbmMwailyP8FBRm
+        KaazQnpzX1VkDzafUA==
+       Czy udało się odszyfrować klucz oferty:  Tak
+       Czy udało się odszyfrować ofertę:        Tak
+       Czy udało się rozpakować ofertę:         Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+                   3d3d7f4be296_Oferta_1-1-sig.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        481,65 KB
+
+
+                                                  5
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                           Pełnomocnictwo_Sylwia
+                   ZdziebaPudlo_2026 - 14 sierpnia 2026r.-sig-sig-1.pdf
+               o   typ pliku:                             Inny plik
+               o   rozmiar pliku:                         372,28 KB
+               o   czy podpisany:                         Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          Potwierdzenie transakcji - Wadium-sig.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        247,92 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp-sig.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        450,60 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 5:
+
+       Status:                              Złożono w terminie
+       Termin rozpoczęcia składania:        25.08.2026 20:14:37
+       Termin złożenia:                     25.08.2026 20:15:39
+       Całkowity czas składania oferty:     1,02 min
+       Termin rozpoczęcia otwarcia:         26.08.2026 10:15:45
+       Termin zakończenia otwarcia:         26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:      1,25 MB
+       Identyfikator oferty:                ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:167144:01:01
+       Dane Wykonawcy, który wysłał ofertę: WELKO HYDROTECHNIKA SPÓŁKA Z
+        OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ||8151825079|542979725|167144
+       Hash transportowy oferty:
+
+        6bd3a7b84ed781340d94c576053bc8610675a5c4ef1baf615f2abf701c7499bd
+       Master hash oferty:
+
+        05fc0caadbba0c8b507b8752664a2cf9d0a231ac1bd2bcb4d9bb91f7f2d3693c
+       Zaszyfrowany klucz:
+
+        dQBxEeVpo2miJZOipmJ0vMxaegfa3vyKgrIGPXOK4ad+ZAyaKBsaBPCoGs80zulO3PUfzTk9HO
+        GGxHicGH8lGITkGjW5DkaAF3m4uthTGZ8C7yy/
+
+                                                  6
+        MVrzAJSlLf2af27sbcRnNPftJZKeY04QXwF+9Cg0ewjLl4i3oxefctbspSUlypYOC1QjHjqkGpIyg46
+        qpZ7RI/
+        P1AhAf4x4q7GYQFiF7mBRmzXE1QN9IrPgEIRIFPhW53uxGs5UK8gZk1xJFLCINoEsv9x5injhoR
+        F5C9KC4cf7zP85taFXRLCGbaSQo57/KJx+fazbfbkUj30BgjAC3ZdBOGZ9uyQJ++XHZTA==
+       Czy udało się odszyfrować klucz oferty:  Tak
+       Czy udało się odszyfrować ofertę:        Tak
+       Czy udało się rozpakować ofertę:         Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+                   3d3d7f4be296_Oferta_1-sig.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        386,92 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Gwarancja_920069296801.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        184,91 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Kosztorys ofertowy-sig.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        596,31 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          Odpis_Pełny_KRS_0001199629.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        50,32 KB
+               o   czy podpisany:                        Nie
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp-sig.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        288,79 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 6:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    26.08.2026 07:14:31
+       Termin złożenia:                                 26.08.2026 07:14:33
+       Całkowity czas składania oferty:                 2 sek
+
+                                                  7
+   Termin rozpoczęcia otwarcia:                 26.08.2026 10:15:45
+   Termin zakończenia otwarcia:                 26.08.2026 10:15:45
+   Całkowity czas otwierania oferty:
+   Rozmiar scalonego pliku oferty:              3,56 MB
+   Identyfikator oferty:                        ocds-148610-bcd2da74-4e40-4dcc-b750-
+    3d3d7f4be296:68111:01:01
+   Dane Wykonawcy, który wysłał ofertę:         Zakład Budowlano-Instalacyjny Grzegorz
+    Falger||8151449512|690481338|68111
+   Hash transportowy oferty:
+
+    4b06cc878466d3417fd0a034533cb260471b51b6096f96b78b383c8d7d0614af
+   Master hash oferty:
+
+    5c0a6a9bb4d58dc97458b37df78a8688be4307a5fcfe843e4b81f5a5cc55ec15
+   Zaszyfrowany klucz:
+
+    Gyn5+Y6pspdGqexupoYd5I8wc256OsDJIrTT8Os3JBYPmguKPmdv8SoJhyEavyWjLP5m0BqGo
+    Gu38jKQX84fbasQ4y6W0+pFUeUiY3dkvP6do+0XT4Q42r8qAGDjr+90q/
+    b4vhwcNOax+XXahZsgl+xK7LuCZAgW5eys3AJ4bqrv1dpEImC8TPnapciB2qFYxvc4/
+    ThGpwKjIojx52lJsF/
+    Dpzq+H+GC8jdnTIPRBEhyO+4hWjRkuyliAZBwi6FEzpFcehOYSy+teeQ8RJYAfcp+LJvGKaQemP
+    zrtjhxOTv5y3cCFSUPdhQjPR9klj1Q0jV5qHes8/xsDtALETJqtA==
+   Czy udało się odszyfrować klucz oferty:   Tak
+   Czy udało się odszyfrować ofertę:         Tak
+   Czy udało się rozpakować ofertę:          Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+           3d3d7f4be296_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        305,87 KB
+       o   czy formularz poprawnie przetworzony: Tak
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Aneks do gwarancji_920069291729A01.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        257,01 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          CEIDG ZBI.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        122,98 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Tak
+
+       o   nazwa pliku:                          Gwarancja_920069291729.pdf
+
+                                           8
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        252,23 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          Kosztorys ofertowy ZBI.BES.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        2,78 MB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp ZBI.BES.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        554,72 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 7:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    26.08.2026 07:39:39
+       Termin złożenia:                                 26.08.2026 07:39:41
+       Całkowity czas składania oferty:                 2 sek
+       Termin rozpoczęcia otwarcia:                     26.08.2026 10:15:45
+       Termin zakończenia otwarcia:                     26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:                  1,72 MB
+       Identyfikator oferty:                            ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:53324:01:02
+       Dane Wykonawcy, który wysłał ofertę:             Zakład Instalacyjno-Budowlany Edward
+        Kwiek||8191004590|690454844|53324
+       Hash transportowy oferty:
+
+        8478fb0240c49da40c3292633572de8ad4c81a8a031a7770eff1126b058bbbb9
+       Master hash oferty:
+
+        c34c634c3e958eaaf87b4db2c1d31fc2673ccf8dfdf840186b51faefec5d5f5b
+       Zaszyfrowany klucz:
+
+        hWcB6trtCRLLPoRNJt50YO/r0Tf4+0JVnWion1L4nCcvW9t8uBFtaPrvXRLzTelnCyBkW5ZKJEdp
+        7GqbpeDn+5lMjWn477NKWDxxtbDhcRY19/
+        PxdyEf1a7HNaTHv9TwkaQzGPXsI3PfCpRDPw0s/
+        RkiVjxbEtDWTwpMINuOLzrL2DXQcb94286PhUtQmE+hqMbuqC6YW/
+        hdNRMeXBKw7UOsHEkACZD658/wlMy8PeqnM4AC8/
+        EcK0vrB5DJtWtnWtMa5AwuzhB34Apxe5VGVo7K1ya6wheJO0R6WSxBukPxpZytutBdqcd+g
+        TYKMMdCN6RZE4DYwr0TRVjW83XO/A==
+       Czy udało się odszyfrować klucz oferty: Tak
+
+                                                  9
+       Czy udało się odszyfrować ofertę:                Tak
+       Czy udało się rozpakować ofertę:                 Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+                   3d3d7f4be296_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        285,08 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          2_Oświadczenie - Kwiek.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        389,88 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Gwarancja_920069310705 (1).pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        251,53 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Kosztorys ofertowy Bzianka przyłacza.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        442,05 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Kosztorys ofertowy Bzianka sieć .pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        486,26 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Aneks do gwarancji_920069310705A01 (1)
+                   (1).pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        257,19 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 8:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    26.08.2026 08:17:08
+
+
+                                                  10
+   Termin złożenia:                         26.08.2026 08:17:13
+   Całkowity czas składania oferty:         5 sek
+   Termin rozpoczęcia otwarcia:             26.08.2026 10:15:45
+   Termin zakończenia otwarcia:             26.08.2026 10:15:45
+   Całkowity czas otwierania oferty:
+   Rozmiar scalonego pliku oferty:          12,08 MB
+   Identyfikator oferty:                    ocds-148610-bcd2da74-4e40-4dcc-b750-
+    3d3d7f4be296:46014:01:01
+   Dane Wykonawcy, który wysłał ofertę:     Zakład Instalacyjno - Budowlany Lisbud
+    Paweł Lisowski|LISBUD|8191482800|180371981|46014
+   Hash transportowy oferty:
+
+    3c21587feaa351d370ff9dc5050d423c69716b9c8aa5cd9e8246badd91245ac8
+   Master hash oferty:
+
+    5c36f89fe7708791c91b9baac051736ed226bb6887884f8449aed8a008f08fa2
+   Zaszyfrowany klucz:
+
+    l6nqwaw7tkwbxeqOOGlPd1MBcwi9VX+GzL+iR9Ca7gNaaUV0qcrNEhcK33gRMuDsOPPphdI
+    0NF2Xgcv00GpWP6plEbgBbb8U415DqE165gLWa5ddkoEtghdE450P4g2BXybJOsGa3tg/
+    7jf9LP02W0si4nxaUC+YbJl0W9PjhO+qJHaiA0O3tghnSF14er8jLAZBuRETWFHCsG0A7qgkYCK
+    qqyY3gjeFyyH3XYP0XhmyJpWtt+9a1zNkGRF3om7jxeSrPJbA+abHlt8RLM1GPmS7Xjf6+/
+    zmEMERWvQrulw349lRcEafuNV7IuozPjPB/jBs6Ql8LiB4/pusldZi0g==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+           3d3d7f4be296_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        339,70 KB
+       o   czy formularz poprawnie przetworzony: Tak
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Kosztorys cz1.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        4,56 MB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+       o   nazwa pliku:                          Kosztorys cz2.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        8,13 MB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+
+                                          11
+               o   nazwa pliku:                          Poręczenie wadium P.Lisowski_Gmina
+                   Rymanów (002).pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        246,19 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        270,39 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 9:
+
+       Status:                                         Złożono w terminie
+       Termin rozpoczęcia składania:                   26.08.2026 08:19:16
+       Termin złożenia:                                26.08.2026 08:19:17
+       Całkowity czas składania oferty:                1 sek
+       Termin rozpoczęcia otwarcia:                    26.08.2026 10:15:45
+       Termin zakończenia otwarcia:                    26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:                 3,25 MB
+       Identyfikator oferty:                           ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:62810:01:01
+       Dane Wykonawcy, który wysłał ofertę:            Zakład Instalacji Sanitarnych Adam
+        Niedziałek||8191004578|690480563|62810
+       Hash transportowy oferty:
+
+        b6c0312dd7fc8b5ba635509b69b38fd157ff8040bf2937d10d071e73967d59c2
+       Master hash oferty:
+
+        02e296f3f78be71a89ed12123ac62dfb892e36c06af7fc0e0ef0b70e9ca73914
+       Zaszyfrowany klucz:
+
+        kK1pfNxvH3V0V59dcTL6vx+Suvl8V1UPmPihKbr4KAQG4iNOc6NfDh+CBZRNWfnrzG5O7xFys
+        jMGmwcEgE1ofjAQdRs897/
+        Dof943qT4V4AwUqbTYPmOfEa4chXNIIGkwfT3+65WJ5w5NEHRzHBf7OT6CEkBZn8ZGf5f0Vu
+        T6N0JVDGnk1DGJUi42W8KdXBRhFAWZaSNT75eIxuRsInEp9lED2REK18uF7o9MoDRFGu6uX
+        g4YzQKbjD5xLCyOwGSSlgGQwbSt5a6UFIn0nTBV44Ll3hquJj7LSWZVG/wRYOUWf+/
+        r4YrCE61X9+WUswn4/sz3D4RINvOeOrbwJGxng==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+
+
+
+                                                 12
+o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+    3d3d7f4be296_Oferta_1.pdf
+o   typ pliku:                            Formularz
+o   rozmiar pliku:                        390,95 KB
+o   czy formularz poprawnie przetworzony: Tak
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Oświadczenie.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        576,67 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+o   nazwa pliku:                          Pełnomocnictwo.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        403,40 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+o   nazwa pliku:
+
+    potwierdzenie_operacji_20260825_124110.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        228,32 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+o   nazwa pliku:                          Wydruk z CEIDG.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        120,13 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Tak
+
+o   nazwa pliku:                            Zał nr 2 do SWZ oświadczenia wykonawcy z
+    art 125 ust 1 ustawy PZP -A.Niedziałek.pdf
+o   typ pliku:                              Inny plik
+o   rozmiar pliku:                          626,71 KB
+o   czy podpisany:                          Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                             Zał nr 2 do SWZ oświadczenia wykonawcy z
+    art 125 ust 1 ustawy PZP -ZISAN Sp. z o.o..pdf
+o   typ pliku:                               Inny plik
+o   rozmiar pliku:                           601,48 KB
+o   czy podpisany:                           Tak
+
+
+                                   13
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+            o   nazwa pliku:                          Kosztorysy ofertowe- tajemnica
+                przedsiębiorstwa.zip
+            o   typ pliku:                            Inny plik
+            o   rozmiar pliku:                        708,67 KB
+            o   czy podpisany:                        Nie
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+            o   nazwa pliku:                          Odpis_Pełny_KRS_0001184048.pdf
+            o   typ pliku:                            Inny plik
+            o   rozmiar pliku:                        43,79 KB
+            o   czy podpisany:                        Nie
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+Oferta nr 10:
+
+       Status:                                 Złożono w terminie
+       Termin rozpoczęcia składania:           26.08.2026 08:32:14
+       Termin złożenia:                        26.08.2026 08:32:17
+       Całkowity czas składania oferty:        3 sek
+       Termin rozpoczęcia otwarcia:            26.08.2026 10:15:45
+       Termin zakończenia otwarcia:            26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:         4,47 MB
+       Identyfikator oferty:                   ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:52070:01:01
+       Dane Wykonawcy, który wysłał ofertę:    F.H.U. "FLISEK" S.C. ROMAN FLIS,
+        WALDEMAR FLIS, MATEUSZ FLIS||8161436592|690560227|52070
+       Hash transportowy oferty:
+
+        00a34f2eb1e09afb0185a699514e21eda184ae9f2d5072a496aa7f4c4da4595a
+       Master hash oferty:
+
+        764a3c787c997e4ccb01a48acbc7efbd2ffc1e76f05bff2b2c4f07f5526f4ae0
+       Zaszyfrowany klucz:
+
+        MrcVTJ+Gp8RkcpDIFHZJBbX7mfma4pR6tY8ugKeUiuqDRZdqw4GIQ/sy911hcAr1M0L5k0zsQ
+        Sfs8KKT9L+88b9qcgeVemKlUwo/dTn61VdnXQEKiBqc63xid3elPK9eynpGqxAHv/
+        DANi2WkvyUi09FMsZUOcAf8MZHk76SkfT0uX+5qI0XwrHdOSZqXj8BS61KbBZkOV/
+        iG83GdPwHh3NQ5mrg11OX0P10gdxCccIpmyY/
+        8dKAIOvLbhcGJewVIgQzuOcVc4n0whzW6MQVLGdTrtE6mBoaYQT+0On3NxyBzGYk3j5UsH+
+        Up3ALxiS3z1J5EhWfYVs0jiB/uZ05gg==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+
+                                               14
+o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+    3d3d7f4be296_Oferta_1.pdf
+o   typ pliku:                            Formularz
+o   rozmiar pliku:                        461,14 KB
+o   czy formularz poprawnie przetworzony: Tak, ale wymaga weryfikacji własnej po
+    stronie użytkownika
+o   czy podpisany:                        Tak, ale zmodyfikowany po podpisaniu
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+o   nazwa pliku:                          727500175612 gwarancja.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        280,98 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Kosztorys ofertowy Gm. Rymanów.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        670,99 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          pełnomocnictwo spółka cywilna.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        1,17 MB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+    wykonawcow-z-art-125-ust-1-ustawy-Pzp MF.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        674,99 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+    wykonawcow-z-art-125-ust-1-ustawy-Pzp RF.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        659,97 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                        Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+    wykonawcow-z-art-125-ust-1-ustawy-Pzp WF.pdf
+o   typ pliku:                          Inny plik
+o   rozmiar pliku:                      676,76 KB
+o   czy podpisany:                      Tak
+
+
+                                  15
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+            o   nazwa pliku:                          Oświadczenie wykonawców.pdf
+            o   typ pliku:                            Inny plik
+            o   rozmiar pliku:                        700,14 KB
+            o   czy podpisany:                        Tak
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 11:
+
+       Status:                                       Złożono w terminie
+       Termin rozpoczęcia składania:                 26.08.2026 09:17:51
+       Termin złożenia:                              26.08.2026 09:17:52
+       Całkowity czas składania oferty:              1 sek
+       Termin rozpoczęcia otwarcia:                  26.08.2026 10:15:45
+       Termin zakończenia otwarcia:                  26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:               788,66 KB
+       Identyfikator oferty:                         ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:49606:01:01
+       Dane Wykonawcy, który wysłał ofertę:          GŁOWIK MARIUSZ, Przedsiębiorstwo
+        "FORTIS"||8132673355|691677990|49606
+       Hash transportowy oferty:
+
+        ceb2f609ecf53ed12684028f81f2ccf4af4d8343931023787c494efce68328e6
+       Master hash oferty:
+
+        e82d0bfd74f78fb9c60009d2f5c862349c5dba56309fae0eafba820ef2ec085c
+       Zaszyfrowany klucz:
+
+        nDyaTjwUzwNISr/XkPS1wfVg/bdm8KSL9i2XSH8arEA13a9wuCtC+NrWXt/MERpD30L7mjaAi
+        B/htjjbo0yYVCFVoSfI/2fzlAKL4XxCGG9EaJg7FBDQFPmlnCP5oRoGSyjzxa2E/LjNV+/+e/
+        Zpv637Q/QznzeIyIUkdkTqKt4lreuoPOoR50kE4VW7NOCkrUEFSSfKKvoBas4yEnhO1LFshQ/
+        BlZ5YFkHMMhPxniOm+BfnHIE6sHtgFbCPUnLgPdB6+NEdaASoMPrv+ODydg35/5ica5Ofs5kS
+        8QwwuE9dun/b5STSnb/u6MVMRrs9+kcBDMnUTZBHxBNa1DVihg==
+       Czy udało się odszyfrować klucz oferty:   Tak
+       Czy udało się odszyfrować ofertę:         Tak
+       Czy udało się rozpakować ofertę:          Tak
+       Lista plików w odszyfrowanej ofercie:
+
+            o   nazwa pliku:                          ocds-148610-bcd2da74-4e40-4dcc-b750-
+                3d3d7f4be296_Oferta_1.pdf
+            o   typ pliku:                            Formularz
+            o   rozmiar pliku:                        283,91 KB
+            o   czy formularz poprawnie przetworzony: Tak
+            o   czy podpisany:                        Tak
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+
+
+                                               16
+            o   nazwa pliku:                          oświadczenie wykonawcy.pdf
+            o   typ pliku:                            Inny plik
+            o   rozmiar pliku:                        624,31 KB
+            o   czy podpisany:                        Tak
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+            o   nazwa pliku:                          potwierdzenie wniesienia wadium.pdf
+            o   typ pliku:                            Inny plik
+            o   rozmiar pliku:                        56,58 KB
+            o   czy podpisany:                        Nie
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+Oferta nr 12:
+
+       Status:                                 Złożono w terminie
+       Termin rozpoczęcia składania:           26.08.2026 09:55:10
+       Termin złożenia:                        26.08.2026 09:55:10
+       Całkowity czas składania oferty:
+       Termin rozpoczęcia otwarcia:            26.08.2026 10:15:45
+       Termin zakończenia otwarcia:            26.08.2026 10:15:45
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:         250,02 KB
+       Identyfikator oferty:                   ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:60695:01:01
+       Dane Wykonawcy, który wysłał ofertę:    Polmad Rzeszów spółka z ograniczoną
+        odpowiedzialnością|POLMAD|8133256760|691569242|60695
+       Hash transportowy oferty:
+
+        e8e00e706fbe7b8355c2816cdad1dff31eea447705bcceae5b0d9a6959dab658
+       Master hash oferty:
+
+        a916aacb19b4247d3c36ec8eb2c42121ca934a0ac99d388d03a8792262a6de5f
+       Zaszyfrowany klucz:
+
+        NJ7q43FxL2EUCuk96EzHkJnijfdkXgwKkR4lYMl3x451nKWMTeocv4AzBI2Kv/2j1Q/Q/
+        XnHsNFFhvVxUVPcAjuStBjLsM5N5lCr9TMcY7W7I8BbL+xVfA3nQsJkN1Aup5tmba+Z/
+        zGH9Jt6McYnDF4PGyQUcwV4R22U/
+        OL8fvYDXziMxYMNONw8I6H267CYNFjb6pN2P8m1M4OW2CTBM0xpkJDw4M33OZSp3Iw30
+        /1C/g30Jrz5Xk/
+        LnzEkzNV5SJN1p9Rq0rEGBwgrFEYdnZeDX0tFt8+hpLBuGyZlzyurzE3wENRLjifmO6viqliCoJ7iv
+        4FR2u/at4jdOUiKdA==
+       Czy udało się odszyfrować klucz oferty:  Tak
+       Czy udało się odszyfrować ofertę:        Tak
+       Czy udało się rozpakować ofertę:         Tak
+       Lista plików w odszyfrowanej ofercie:
+
+            o   nazwa pliku:                         ocds-148610-bcd2da74-4e40-4dcc-b750-
+                3d3d7f4be296_Oferta_1.pdf
+
+
+                                              17
+            o   typ pliku:                            Formularz
+            o   rozmiar pliku:                        465,62 KB
+            o   czy formularz poprawnie przetworzony: Tak
+            o   czy podpisany:                        Tak
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+            o   nazwa pliku:
+
+                domesticTransferForm_26082026_095302.pdf
+            o   typ pliku:                            Inny plik
+            o   rozmiar pliku:                        12,49 KB
+            o   czy podpisany:                        Nie
+            o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Tak
+
+Oferta nr 13:
+
+       Status:                                       Wycofano
+       Termin rozpoczęcia składania:                 25.08.2026 13:36:02
+       Termin złożenia:                              25.08.2026 13:36:03
+       Całkowity czas składania oferty:              1 sek
+       Termin wycofania oferty:                      26.08.2026 07:36:24
+       Rozmiar scalonego pliku oferty:               1,52 MB
+       Identyfikator oferty:                         ocds-148610-bcd2da74-4e40-4dcc-b750-
+        3d3d7f4be296:53324:01:01
+       Dane Wykonawcy, który wysłał ofertę:          Zakład Instalacyjno-Budowlany Edward
+        Kwiek||8191004590|690454844|53324
+       Hash transportowy oferty:
+
+        5b43bcec75902935458b516dd96f9dbf37a6f43a54bc9b74c61c7d5c234d60bc
+       Master hash oferty:
+
+        aa014aa88a95e370443bf6e53f60749848c827495232be160d66735b94d7f604
+       Zaszyfrowany klucz:
+
+        f4oHuJ3DVo56/n0rPnlT5EJZGzMxvmwWjdktf1xaQkC+4NojtSjKMCvr4LQTtxLhzPw2dzb87IXi
+        w5b2M4GhmMA63wYuY6y4n6RQgkUy+jdy80eOuzy7k+ve3R2+fpY73ZW9QF1+VX3JB+Dxl4
+        8nc58DmRc5xX1VNxqC0MNeG7zMyAuT4z/gQrHs7j0d5/
+        SdqqkTMR6QLA37KOoJoFb8TAxIeE3f2PXwMhM3WVe9h3C3WdKA+SftYxXIyANc6FflsWgv
+        MudxyXrMQDJlhISWpNY+SVhO1nuXaqOBAtJT4ymPRkE9MIovH7yGL+ZPm6cH9FFubG2okp
+        kjln5pIDLNuA==
+
+
+
+
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                               18
+

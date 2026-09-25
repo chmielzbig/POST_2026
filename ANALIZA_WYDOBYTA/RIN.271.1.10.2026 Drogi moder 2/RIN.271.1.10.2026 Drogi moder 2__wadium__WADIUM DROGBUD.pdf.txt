@@ -1,0 +1,67 @@
+ŹRÓDŁO: RIN.271.1.10.2026 Drogi moder 2
+PLIK: RIN.271.1.10.2026 Drogi moder 2/wadium/WADIUM DROGBUD.pdf
+ROZMIAR: 1001106
+
+Transactions Details
+Transaction Details for NONREF
+
+
+
+
+Numer rachunku                     Nazwa rachunku                             Transaction Amount
+59 1030 1508 0000 0008 2413 7003   SD SUMY DEPOZYTOWE                         4,000.00
+
+Waluta                             Credit/Debit
+PLN                                Cr
+
+
+Additional Details
+
+Field Name                                              Value
+Nazwa oddziału                                          WARSAW CITIBANK
+
+Numer oddziału                                          815
+
+Nazwa banku                                             CITIBANK
+
+Numer IBAN                                              PL59103015080000000824137003
+
+Remitter Account Number                                 20253000082051108195920001
+
+Remitter Name & Address                                 DROGBUD GOLCOWA PRO SPOLKA Z OGRANI, CZONA
+                                                        ODPOWIEDZIALNOSCIA,PL,UL. GOL, COWA 89A 36-231 GOLCOWA
+
+Waluta                                                  PLN
+
+Transaction Amount                                      4,000.00
+
+Opis                                                    INCOMING EXPRESS ELIXIR
+
+Transaction Reference                                   NONREF
+
+Data waluty                                             2026-09-08T00:00
+
+Data wpisu                                              2026-09-08T01:58:58
+
+Data wyciągu                                            2026-09-08T00:00
+
+Typ produktu                                            FT
+
+Nazwa klienta                                           GMINA RYMANW
+
+Customer Number                                         824137
+
+Customer Reference                                      NONREF
+
+Ordering Bank Name & Address                            25300008
+
+Payment Details                                         WADIUMCZESC 1,2RIN.271.1.10.2026
+
+Posted Date / Time                                      2026-09-08T00:00
+
+Numer referencyjny banku                                4251016396
+
+Pierwotna nazwa konta                                   DROGBUD GOLCOWA PRO SPOLKA Z OGRANI
+
+Pierwotny numer konta                                   20253000082051108195920001
+

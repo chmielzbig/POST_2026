@@ -1,0 +1,256 @@
+ŹRÓDŁO: RIN.271.1.2.2026 Woda Bzianka
+PLIK: RIN.271.1.2.2026 Woda Bzianka/ranking ofert.xlsx
+ROZMIAR: 19722
+
+### xl/worksheets/sheet1.xml
+Nr oferty
+Wykonawca
+Kryterium 1
+Kryterium 2
+Przyznana punktacja w kryterium 
+/pkt /
+Do umowy
+5
+waga /pkt/
+waga /pkt/
+Oferty
+%
+70
+30
+Cena brutto
+ /zł/
+Gwarancja
+ /m-c/
+Odrzucone
+Cena
+Gwarancja
+Razem
+część 1
+konto
+kwota
+zw oferty
+1.
+Przedsiębiorstwo Robót Inżynieryjnych i Drogowych w Krośnie Spółka Akcyjna, ul. Grodzka 26, 38-400 Krosno, podkarpackie
+2434354.5
+60
+66.824722939900496
+30
+0
+96.824722939900496
+Sylwiusz Sabik, e-mail: przetargi@prid.krosno.pl, tel: 13-43-215-89 wew. 110
+73150014901214900016460000
+34000
+0
+0
+2.
+Spółdzielnia Usług Wodno-Kanalizacyjnych Produkcji Rolnej i Handlu "ROLWOD", 38-242 Skołyszyn 11, podkarpackie
+2323929.5
+60
+70
+30
+100
+Agnieszka Zając , wodkan@rolwod.pl, biuro@rolwod.pl
+tel: 13 44910 11
+78862710372003500003580001
+34000
+Spółdzielnia Usług Wodno-Kanalizacyjnych Produkcji Rolnej i Handlu "ROLWOD", 38-242 Skołyszyn 11, podkarpackie
+116196.47500000001
+3.
+PHU "INKO 2001" K. ŁUKASIK, K. KACZOR, J.MAJEWSKI SPÓŁKA JAWNA (INKO 2001), ul. Lwowska 220, 33-300 Nowy Sącz, małopolskie
+2873534.65
+60
+56.611485440065955
+30
+86.611485440065962
+Krzysztof Łukasik, plukasik67@gmail.com, 18 444 36 51
+gwarancja
+34000
+0
+0
+4.
+F.H.U. SOLO-MEGA HENRYK STYGAR, 38-200 Wolica 209, podkarpackie
+2929355.91
+60
+55.532707529553825
+30
+85.532707529553818
+Henryk Stygar e-mail: solo540@wp.pl, tel. 500260190
+24 8627 1011 2001 0004 5085 0001
+34000
+0
+0
+5.
+PUSH PRO-AQUA A.M.M. Jaskóła sp.j., ul. Żeromskiego 18, 28-200 Staszów, świętokrzyskie
+2783910.84
+60
+58.434006816109104
+30
+88.434006816109104
+Alicja Jaskóła
+pro.aqua.staszow@gmail.com
+603586162
+gwarancje ubezpieczeniowe
+34000
+0
+0
+6.
+F.H.U. "FLISEK" S.C. ROMAN FLIS, WALDEMAR FLIS, MATEUSZ FLIS, ul. Nad Stojadłem 3 , 37-300 Leżajsk, podkarpackie
+3649014.08
+60
+44.580552837987405
+30
+74.580552837987398
+Waldemar Flis, e-mail: kk.flisek@gmail.com, wf.flisek@gmail.com, tel. 500 256 450
+gwarancje ubezpieczeniowe
+34000
+0
+0
+7.
+Zakład Instalacyjno - Budowlany Lisbud Paweł Lisowski (LISBUD), 38-121 Pstrągowa 340, podkarpackie
+2841300
+60
+57.253744764720381
+30
+0
+87.253744764720381
+Paweł Lisowski, email: lisbud_plisowski@wp.pl, tel.: 607662002
+gwarancje ubezpieczeniowe
+34000
+0
+0
+8.
+Zakład Instalacji Sanitarnych Adam Niedziałek, ul. Św. Jana 4, 38-120 Czudec, podkarpackie
+2667132
+60
+60.992506182671129
+30
+0
+90.992506182671121
+Adam Niedziałek, zis.aniedzialek@interia.pl, 502044477
+26 9162 0000 2001 0008 3801 0001
+34000
+0
+0
+9.
+Zakład Instalacyjno-Budowlany Edward Kwiek, ul. Rzeszowska 60, 38-120 Czudec, podkarpackie
+2619900
+60
+62.092089392724915
+30
+0
+92.092089392724915
+Edward Kwiek - Właściciel
+edward.kwiek@wp.pl 
+Tel: 504 090 278
+gwarancje ubezpieczeniowe
+34000
+0
+0
+10.
+Polmad Rzeszów spółka z ograniczoną odpowiedzialnością (POLMAD), ul. Lotniskowa 2, 36-060 Głogów Małopolski, podkarpackie
+2622261.6
+60
+62.036169465319553
+30
+0
+92.036169465319546
+Jakub Malik -  malikkuba@polmad.rzeszow.pl, 727 555 250
+gwarancje ubezpieczeniowe
+34000
+0
+0
+11.
+PION SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (PION Sp. z o.o.), 36-042 Lubenia 347, podkarpackie
+3167138.51
+60
+51.363419846137397
+30
+0
+81.36341984613739
+Zuzanna Mazur, z.mazur@pion.biz.pl, 885057466
+gwarancje bankowe
+34000
+0
+0
+12.
+60
+0
+30
+0
+30
+0
+0
+13.
+60
+0
+30
+0
+30
+0
+0
+14.
+60
+0
+30
+0
+30
+0
+0
+15.
+60
+0
+30
+0
+30
+0
+0
+16.
+60
+0
+30
+0
+30
+0
+0
+17.
+60
+0
+30
+0
+30
+0
+0
+18.
+60
+0
+30
+0
+30
+0
+0
+30%od średniej
+cena
+wynik
+średnia arytm
+2810166.5081818183
+843049.95245454542
+1967116.5557272728
+rażąco niska
+1922884.534888491
+badana oferta
+2323929.5
+ok
+ok
+0.8269721716609546
+0
+0
+0.1730278283390454
+cena kosztorysowa
+85050.920699999988
+25515.276209999996
+59535.644489999991
+27.323978163589715
+badana oferta
+2323929.5
+ok
+-26.323978163589715

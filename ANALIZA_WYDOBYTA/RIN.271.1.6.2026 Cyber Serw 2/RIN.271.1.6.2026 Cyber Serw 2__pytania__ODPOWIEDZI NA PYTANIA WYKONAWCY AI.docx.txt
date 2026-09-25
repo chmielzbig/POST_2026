@@ -1,0 +1,66 @@
+ŹRÓDŁO: RIN.271.1.6.2026 Cyber Serw 2
+PLIK: RIN.271.1.6.2026 Cyber Serw 2/pytania/ODPOWIEDZI NA PYTANIA WYKONAWCY AI.docx
+ROZMIAR: 16469
+
+ODPOWIEDZI NA PYTANIA WYKONAWCY
+dot. postępowania pn. „Poprawa obszaru technicznego poprzez zakup urządzeń oraz oprogramowania z zakresu
+cyberbezpieczeństwa
+UG Rymanów w ramach projektu
+Cyberbezpieczny
+Samorząd”
+Działając na podstawie art. 135 ust. 2 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych, Zamawiający udziela następujących wyjaśnień treści SWZ:
+Pytanie nr 1
+Czy Zamawiający dopuści rozwiązania równoważne w zakresie wymagań dotyczących serwera opisanych w Załączniku nr 1A pkt 4?
+Odpowiedź:
+Zamawiający, mając na uwadze zachowanie zasad uczciwej konkurencji oraz równoważności rozwiązań, dopuszcza rozwiązania równoważne spełniające wymagania funkcjonalne określone w SWZ.
+W związku z powyższym Zamawiający dopuszcza:
+a) obudowę z możliwością wyposażenia w panel LCD zintegrowany z obudową lub w formie zewnętrznego modułu diagnostycznego podłączanego do dedykowanego portu z przodu obudowy, umożliwiającego prezentację podstawowych stanów pracy serwera, w tym adresu IP karty zarządzającej;
+b) możliwość konfiguracji i monitoringu najważniejszych komponentów serwera zarówno poprzez dedykowaną aplikację mobilną (Android/iOS) z wykorzystaniem BLE/
+WiFi
+, jak również poprzez sieć IP;
+c) kartę zarządzającą umożliwiającą bezpośrednie zarządzanie poprzez dedykowany port RJ-45 lub USB umieszczony z przodu lub z tyłu obudowy serwera.
+Pozostałe wymagania SWZ pozostają bez zmian.
+Pytanie nr 2
+Czy Zamawiający dopuści rozwiązania równoważne w zakresie wymagań dotyczących macierzy opisanych w Załączniku nr 1A pkt 5?
+Odpowiedź:
+Zamawiający dopuszcza:
+a) rozwiązanie umożliwiające rozbudowę macierzy bez wymiany kontrolerów do co najmniej 132 dysków;
+b) rozwiązania wykorzystujące mechanizmy ochrony danych równoważne funkcjonalnie względem wymaganej technologii RAID z rozproszoną przestrzenią zapasową, w szczególności
+distributed
+RAID (DRAID), ADAPT,
+Dynamic
+Disk
+Pools
+(DDP), RAID-TEC lub RAID-DP;
+c) rozwiązania realizujące funkcjonalność
+tieringu
+danych pomiędzy warstwami SSD/HDD oraz warstwą chmurową, pod warunkiem zapewnienia funkcjonalności równoważnej względem wymagań określonych w SWZ.
+Pozostałe wymagania SWZ pozostają bez zmian.
+Pytanie nr 3
+Czy Zamawiający dopuści rozwiązania równoważne dotyczące
+deduplikatora
+?
+Odpowiedź:
+a) Zamawiający dopuszcza minimalny współczynnik redukcji danych na poziomie 20:1.
+b) Zamawiający dopuści rozwiązania zapewniające funkcjonalność WORM/
+immutability
+realizowaną poprzez blokadę modyfikacji lub usunięcia danych przez określony czas, również z wykorzystaniem mechanizmów równoważnych funkcjonalnie względem SEC
+Rule
+17a-4(f), pod warunkiem zapewnienia ochrony danych przed modyfikacją i usunięciem także przez administratora systemu w okresie retencji.
+Pozostałe wymagania SWZ pozostają bez zmian.
+Pytanie nr 4
+Czy Zamawiający dopuści oświadczenia własne Wykonawcy w miejsce oświadczeń producenta?
+Odpowiedź:
+Zamawiający dopuszcza złożenie oświadczeń własnych Wykonawcy wszędzie tam, gdzie SWZ przewidywała konieczność przedłożenia oświadczeń producenta, pod warunkiem że oświadczenia te będą jednoznacznie potwierdzać spełnianie przez oferowane rozwiązania wszystkich wymagań określonych w OPZ.
+Wykonawca ponosi pełną odpowiedzialność za zgodność oferowanego sprzętu i oprogramowania z wymaganiami SWZ.
+Pytanie nr 5
+Wykonawca zwraca uwagę na rozbieżność pomiędzy zapisami OPZ a projektem umowy dotyczącymi okresu gwarancji.
+Odpowiedź:
+Zamawiający informuje, że obowiązującym wymaganiem jest zapewnienie gwarancji producenta na okres 5 lat dla urządzeń wskazanych w Załączniku nr 1A.
+W związku z powyższym Zamawiający dokona modyfikacji § 7 ust. 5 Projektu Umowy poprzez nadanie mu następującego brzmienia:
+„Na sprzęt dostarczony na podstawie niniejszej Umowy Wykonawca udzieli gwarancji na okres 5 lat, licząc od dnia podpisania protokołu odbioru końcowego bez zastrzeżeń.”
+Pytanie nr 6
+Czy Zamawiający wydłuży termin realizacji zamówienia do 90 dni od dnia zawarcia umowy?
+Odpowiedź:
+Zamawiający, po analizie harmonogramu realizacji projektu oraz terminów wynikających z dofinansowania, wyraża zgodę na wydłużenie terminu realizacji zamówienia do 90 dni od dnia zawarcia umowy.
+W związku z powyższym odpowiedniej zmianie ulega treść SWZ oraz Projektu Umowy.

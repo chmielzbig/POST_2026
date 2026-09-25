@@ -1,0 +1,66 @@
+ŹRÓDŁO: RIN.271.1.6.2026 Cyber Serw 2
+PLIK: RIN.271.1.6.2026 Cyber Serw 2/otwarcieeee/oferty/Roboczy_plik_xml.xml
+ROZMIAR: 3814
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<informacjaDlaPrezesa xmlns="https://ezamowienia.gov.pl/xml-schema/idp#1.0.0" dataWypelnienia="2026-06-03+02:00">
+    <trybZamowienia>
+        <trybZamowienia id="1.1.1">Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybZamowienia>
+    </trybZamowienia>
+    <sekcja1>
+        <nazwa>Gmina Rymanów</nazwa>
+        <kni>REGON 370440590</kni>
+        <adres>Mitkowskiego 14A</adres>
+        <miejscowosc>Rymanów</miejscowosc>
+        <kod>38-480</kod>
+        <woj>Podkarpackie</woj>
+        <kraj>Polska</kraj>
+        <www>https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-b722a5bf-13a3-4057-b5f0-a57288b56ba1</www>
+        <rodzaj>Zamawiający publiczny -&gt; jednostka sektora finansów publicznych -&gt; jednostka samorządu terytorialnego</rodzaj>
+        <sposobPrzeprowadzeniaPostepowania>Postępowanie prowadzone jest samodzielnie przez zamawiającego</sposobPrzeprowadzeniaPostepowania>
+        <daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieNazwa></daneDotyczacePodmiotuPowierzonoProwadzenieNazwa>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieniKni></daneDotyczacePodmiotuPowierzonoProwadzenieniKni>
+        </daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+    </sekcja1>
+    <sekcja2>
+        <informacjaDotyczy>Zamówienia publicznego</informacjaDotyczy>
+        <rodzajZamowieniaUmRam>zamówienie klasyczne</rodzajZamowieniaUmRam>
+        <idPostepowania>ocds-148610-b722a5bf-13a3-4057-b5f0-a57288b56ba1</idPostepowania>
+        <nrReferencyjnyPost>RIN.271.1.6.2026</nrReferencyjnyPost>
+        <nazwaZamowieniaUmowyRamowej>Poprawa obszaru technicznego poprzez zakup urządzeń oraz oprogramowania z zakresu cyberbezpieczeństwa UG Rymanów w ramach proj “Cyberbezpieczny samorząd”</nazwaZamowieniaUmowyRamowej>
+        <rodzajPrzedmiotuZamowienia>Dostawy</rodzajPrzedmiotuZamowienia>
+        <czyWCzesciach>false</czyWCzesciach>
+        <czyCzesciowe>false</czyCzesciowe>
+        <liczbaCzesci>1</liczbaCzesci>
+        <trybUdzieleniaZPodstawa>Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybUdzieleniaZPodstawa>
+        <dataWszczeciaPostepowania>2026-05-22</dataWszczeciaPostepowania>
+        <czyOgloszenieWBzpAlboTed>true</czyOgloszenieWBzpAlboTed>
+        <nrOgloszeniaBzpAlboTed>2026/BZP 00256236/01</nrOgloszeniaBzpAlboTed>
+        <czyWspolfinansowaneEU>true</czyWspolfinansowaneEU>
+        <nazwaProjektuEU>Cyberbezpieczny samorząd</nazwaProjektuEU>
+    </sekcja2>
+    <sekcja4>
+        <informacjaOOfertach idSekcji="1">
+            <czyDotyczy>false</czyDotyczy>
+            <numerLubNazwaCzesci>1</numerLubNazwaCzesci>
+            <kwotaZamawiajacyNaSfinansowanie>588 461,35 PLN</kwotaZamawiajacyNaSfinansowanie>
+            <kwotaJakaZamierzaPrzeznaczyc></kwotaJakaZamierzaPrzeznaczyc>
+            <terminOtwarciaOfert>2026-06-03</terminOtwarciaOfert>
+            <liczbaZaproszonychWykonawcow>0</liczbaZaproszonychWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>JT-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (JT-Systems)</nazwa>
+                    <kni>REGON 526608958</kni>
+                    <miejscowosc>Szczecin</miejscowosc>
+                    <woj>zachodniopomorskie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Mikroprzedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 573 878,64 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+        </informacjaOOfertach>
+    </sekcja4>
+    <sekcja5/>
+</informacjaDlaPrezesa>

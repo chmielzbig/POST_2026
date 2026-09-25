@@ -1,0 +1,50 @@
+ŹRÓDŁO: RIN.271.1.12.2026 LekOfinansach
+PLIK: RIN.271.1.12.2026 LekOfinansach/otwoarcie/odpNaWez/08df1573-a321-2eca-f222-b0000101c05e-wiadomosc (1).pdf
+ROZMIAR: 34341
+
+                                                                                                  Wygenerowano na Platformie e-Zamówienia
+
+
+
+
+        Odpowiedź na Wezwanie do złożenia podmiotowych środków dowodowych
+Data wysłania: 18-09-2026 12:57:31
+Identyfikator postępowania: ocds-148610-d368337f-73cb-4c2f-814d-ce66b3b92466
+Nazwa zamówienia: Usługa organizacji wycieczek obejmująca zagadnienia edukacji finansowej w ramach Programu „Lekcje o finansach”-
+edycja 2026
+Numer BZP: 2026/BZP 00432036/01
+Podstawa prawna: Art. 274 ust. 1
+
+Nadawca wiadomości:
+ZIĘBA ANNA TRAVEL-LINE
+PL-NIP: 6842275545
+PL-REGON: 180585630
+ID: 134351
+
+Odbiorcy wiadomości:
+
+Nazwa:
+Gmina Rymanów
+PL-NIP: 6842377352
+PL-REGON: 370440590
+ID: 4966
+
+                                                          Treść wiadomości
+
+Dzień dobry, Przesyłam dokumenty z wezwania.
+
+Załączniki:
+Referencje (1).pdf
+– sha256: 704207de7363f4708101c298efb2de0cb3b8b27a7336e5ee9b0ef8c2802d1f1e
+Załącznik_nr_4_-_Wykaz_usług_wycieczek.pdf
+– sha256: 43e4e1078ef70bd8526787410ef5f3fe9a0b3e31a458f39b9ed430288ceb2029
+Załącznik_nr_8_-_Oświadczenie_art_125_ust_1_PZP.pdf
+– sha256: 72764693cdfcaad5a5e650925633dbac9fc9681933f6326b973a64c024e77c70
+Załącznik_nr_3_-_Oświadczenie_Wykonawcy_grupy_kapitałowej.pdf
+– sha256: f12f5f7ec3d34deb7988430a8bd257dd0fb68eed3cabc737f4697298cb4af68e
+
+
+
+
+                                                                   1
+

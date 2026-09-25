@@ -1,0 +1,168 @@
+ŹRÓDŁO: RIN.271.1.3.2026 dach gminy
+PLIK: RIN.271.1.3.2026 dach gminy/ottwwwarcciee/offertyy/wezw do złożenia ośw/odp na wezw/Raport_20260522081424389.pdf
+ROZMIAR: 75876
+
+Szafir 2.0.0 (build 704)                                                                2026-05-22 08:14:24
+
+
+
+
+                                                                                    elektronicznypodpis.pl
+
+
+
+
+                             Raport z weryfikacji podpisu
+
+INFORMACJE O DOKUMENCIE:
+Nazwa pliku                      Zał nr 3 do SWZ oświadczenie o grupie kapitałowej (2).pdf
+Liczba podpisów                  1
+Data weryfikacji podpisów        2026-05-22 08:14:24
+
+SZCZEGÓŁY WERYFIKACJI:
+
+Podpis: 1 - Pozytywny
+Rodzaj certyfikatu               Kwalifikowana pieczęć elektroniczna
+Format podpisu                   PAdES-BES
+Data złożenia podpisu            2026-05-21 19:13:59
+Podpis zawiera znacznik czasu    Brak
+Certyfikat podpisującego /       Nazwa powszechna: Minister do spraw informatyzacji - pieczęć podpisu
+składającego pieczęć             zaufanego
+                                 Nazwa organizacji: Ministerstwo Cyfryzacji
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-5252955037
+Numer seryjny certyfikatu        20892124217292921814138920212746575688618877
+Wystawca certyfikatu             Nazwa powszechna: Centrum Kwalifikowane EuroCert
+                                 Nazwa organizacji: EuroCert Sp. z o.o.
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-9512352379
+Lista CRL wykorzystana do        8127 (2026-05-22T06:00:02Z)
+weryfikacji certyfikatu
+Odpowiedź OCSP wykorzystana do
+weryfikacji certyfikatu
+Zweryfikowano na dzień           2026-05-22 08:14:06 (Bieżący czas systemowy)
+Status weryfikacji               Pozytywny
+                                 Zaawansowana pieczęć poprawnie zweryfikowana certyfikatem
+                                 kwalifikowanym
+Uwagi                            Informacja PAdES: Opatrzono pieczęcią ministra właściwego do spraw
+                                 informatyzacji w imieniu: : EMIL BAIDA, PESEL: 87061517315, PZ ID:
+                                 EmilBaida819
+
+
+
+INFORMACJE O DOKUMENCIE:
+Nazwa pliku                      Zał nr 5-B wykaz osób do SWZ (2).pdf
+Liczba podpisów                  1
+Data weryfikacji podpisów        2026-05-22 08:14:24
+
+SZCZEGÓŁY WERYFIKACJI:
+
+Podpis: 1 - Pozytywny
+Rodzaj certyfikatu               Kwalifikowana pieczęć elektroniczna
+Format podpisu                   PAdES-BES
+Data złożenia podpisu            2026-05-21 19:13:59
+Podpis zawiera znacznik czasu    Brak
+
+
+
+
+                                                  1
+Szafir 2.0.0 (build 704)                                                               2026-05-22 08:14:24
+
+
+Certyfikat podpisującego /       Nazwa powszechna: Minister do spraw informatyzacji - pieczęć podpisu
+składającego pieczęć             zaufanego
+                                 Nazwa organizacji: Ministerstwo Cyfryzacji
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-5252955037
+Numer seryjny certyfikatu        20892124217292921814138920212746575688618877
+Wystawca certyfikatu             Nazwa powszechna: Centrum Kwalifikowane EuroCert
+                                 Nazwa organizacji: EuroCert Sp. z o.o.
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-9512352379
+Lista CRL wykorzystana do        8127 (2026-05-22T06:00:02Z)
+weryfikacji certyfikatu
+Odpowiedź OCSP wykorzystana do
+weryfikacji certyfikatu
+Zweryfikowano na dzień           2026-05-22 08:14:11 (Bieżący czas systemowy)
+Status weryfikacji               Pozytywny
+                                 Zaawansowana pieczęć poprawnie zweryfikowana certyfikatem
+                                 kwalifikowanym
+Uwagi                            Informacja PAdES: Opatrzono pieczęcią ministra właściwego do spraw
+                                 informatyzacji w imieniu: : EMIL BAIDA, PESEL: 87061517315, PZ ID:
+                                 EmilBaida819
+
+
+
+INFORMACJE O DOKUMENCIE:
+Nazwa pliku                      Zaświadczenie o wpisie.pdf
+Liczba podpisów                  2
+Data weryfikacji podpisów        2026-05-22 08:14:24
+
+SZCZEGÓŁY WERYFIKACJI:
+
+Podpis: 1 - Pozytywny
+Rodzaj certyfikatu               Niekwalifikowany
+Format podpisu                   PAdES-BES
+Data złożenia podpisu            2026-05-21 21:12:38
+Podpis zawiera znacznik czasu    Brak
+Certyfikat podpisującego /       Nazwa powszechna: *.ceidg.gov.pl
+składającego pieczęć             Nazwa organizacji: MINISTERSTWO ROZWOJU I TECHNOLOGII
+                                 Kraj: PL
+Numer seryjny certyfikatu        124633114030923618215749890528899013101
+Wystawca certyfikatu             Nazwa powszechna: Certum Organization Validation CA SHA2
+                                 Nazwa organizacji: Unizeto Technologies S.A.
+                                 Kraj: PL
+Lista CRL wykorzystana do        -
+weryfikacji certyfikatu
+Odpowiedź OCSP wykorzystana do   Status: GOOD
+weryfikacji certyfikatu
+                                 CN=Certum Organization Validation CA SHA2 OCSP
+                                 O=Asseco Data Systems S.A.
+                                 C=PL - 22 May 2026 06:14:13 GMT
+Zweryfikowano na dzień           2026-05-22 08:14:13 (Bieżący czas systemowy)
+Status weryfikacji               Pozytywny
+                                 Podpis niekwalifikowany poprawnie zweryfikowany certyfikatem
+                                 niekwalifikowanym
+Uwagi                            Informacja PAdES: Zabezpieczenie dokumentu przed zmianami
+
+
+Podpis: 2 - Pozytywny
+Rodzaj certyfikatu               Kwalifikowana pieczęć elektroniczna
+Format podpisu                   PAdES-BES
+Data złożenia podpisu            2026-05-21 19:13:59
+Podpis zawiera znacznik czasu    Brak
+
+
+
+                                                    2
+Szafir 2.0.0 (build 704)                                                               2026-05-22 08:14:24
+
+
+Certyfikat podpisującego /       Nazwa powszechna: Minister do spraw informatyzacji - pieczęć podpisu
+składającego pieczęć             zaufanego
+                                 Nazwa organizacji: Ministerstwo Cyfryzacji
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-5252955037
+Numer seryjny certyfikatu        20892124217292921814138920212746575688618877
+Wystawca certyfikatu             Nazwa powszechna: Centrum Kwalifikowane EuroCert
+                                 Nazwa organizacji: EuroCert Sp. z o.o.
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-9512352379
+Lista CRL wykorzystana do        8127 (2026-05-22T06:00:02Z)
+weryfikacji certyfikatu
+Odpowiedź OCSP wykorzystana do
+weryfikacji certyfikatu
+Zweryfikowano na dzień           2026-05-22 08:14:16 (Bieżący czas systemowy)
+Status weryfikacji               Pozytywny
+                                 Zaawansowana pieczęć poprawnie zweryfikowana certyfikatem
+                                 kwalifikowanym
+Uwagi                            Informacja PAdES: Opatrzono pieczęcią ministra właściwego do spraw
+                                 informatyzacji w imieniu: : EMIL BAIDA, PESEL: 87061517315, PZ ID:
+                                 EmilBaida819
+
+
+
+
+                                                  3
+

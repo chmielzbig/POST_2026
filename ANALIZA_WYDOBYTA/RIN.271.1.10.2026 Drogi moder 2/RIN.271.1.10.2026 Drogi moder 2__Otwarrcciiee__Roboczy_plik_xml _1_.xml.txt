@@ -1,0 +1,134 @@
+ŹRÓDŁO: RIN.271.1.10.2026 Drogi moder 2
+PLIK: RIN.271.1.10.2026 Drogi moder 2/Otwarrcciiee/Roboczy_plik_xml (1).xml
+ROZMIAR: 7383
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<informacjaDlaPrezesa xmlns="https://ezamowienia.gov.pl/xml-schema/idp#1.0.0" dataWypelnienia="2026-09-08+02:00">
+    <trybZamowienia>
+        <trybZamowienia id="1.1.1">Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybZamowienia>
+    </trybZamowienia>
+    <sekcja1>
+        <nazwa>Gmina Rymanów</nazwa>
+        <kni>REGON 370440590</kni>
+        <adres>Mitkowskiego 14A</adres>
+        <miejscowosc>Rymanów</miejscowosc>
+        <kod>38-480</kod>
+        <woj>Podkarpackie</woj>
+        <kraj>Polska</kraj>
+        <www>https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-bdbe1cbc-6fdf-4cdf-9709-c633fce29e19</www>
+        <rodzaj>Zamawiający publiczny -&gt; jednostka sektora finansów publicznych -&gt; jednostka samorządu terytorialnego</rodzaj>
+        <sposobPrzeprowadzeniaPostepowania>Postępowanie prowadzone jest samodzielnie przez zamawiającego</sposobPrzeprowadzeniaPostepowania>
+        <daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieNazwa></daneDotyczacePodmiotuPowierzonoProwadzenieNazwa>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieniKni></daneDotyczacePodmiotuPowierzonoProwadzenieniKni>
+        </daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+    </sekcja1>
+    <sekcja2>
+        <informacjaDotyczy>Zamówienia publicznego</informacjaDotyczy>
+        <rodzajZamowieniaUmRam>zamówienie klasyczne</rodzajZamowieniaUmRam>
+        <idPostepowania>ocds-148610-bdbe1cbc-6fdf-4cdf-9709-c633fce29e19</idPostepowania>
+        <nrReferencyjnyPost>RIN.271.1.10.2026</nrReferencyjnyPost>
+        <nazwaZamowieniaUmowyRamowej>Modernizacja dróg gminnych i wewnętrznych zarządzanych przez Gminę Rymanów - etap 2</nazwaZamowieniaUmowyRamowej>
+        <rodzajPrzedmiotuZamowienia>Roboty budowlane</rodzajPrzedmiotuZamowienia>
+        <czyWCzesciach>true</czyWCzesciach>
+        <czyCzesciowe>true</czyCzesciowe>
+        <liczbaCzesci>2</liczbaCzesci>
+        <trybUdzieleniaZPodstawa>Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybUdzieleniaZPodstawa>
+        <dataWszczeciaPostepowania>2026-08-24</dataWszczeciaPostepowania>
+        <czyOgloszenieWBzpAlboTed>true</czyOgloszenieWBzpAlboTed>
+        <nrOgloszeniaBzpAlboTed>2026/BZP 00404329/01</nrOgloszeniaBzpAlboTed>
+        <czyWspolfinansowaneEU>false</czyWspolfinansowaneEU>
+        <nazwaProjektuEU></nazwaProjektuEU>
+    </sekcja2>
+    <sekcja4>
+        <informacjaOOfertach idSekcji="1">
+            <czyDotyczy>false</czyDotyczy>
+            <numerLubNazwaCzesci>1</numerLubNazwaCzesci>
+            <kwotaZamawiajacyNaSfinansowanie></kwotaZamawiajacyNaSfinansowanie>
+            <kwotaJakaZamierzaPrzeznaczyc>230 000,00 PLN</kwotaJakaZamierzaPrzeznaczyc>
+            <terminOtwarciaOfert>2026-09-08</terminOtwarciaOfert>
+            <liczbaZaproszonychWykonawcow>0</liczbaZaproszonychWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>REJON BUDOWY DRÓG I MOSTÓW W KROŚNIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</nazwa>
+                    <kni>REGON 370380036</kni>
+                    <miejscowosc>Krosno</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Średnie przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 222 939,96 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>STRABAG Sp. z o.o. (STRABAG)</nazwa>
+                    <kni>NIP 5210421928</kni>
+                    <miejscowosc>Pruszków</miejscowosc>
+                    <woj>mazowieckie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Inny rodzaj</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 221 560,48 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>ZAKŁAD PRODUKCYJNO-USŁUGOWO-HANDLOWY "BOGBUD" BOGDAN WRONKOWICZ</nazwa>
+                    <kni>REGON 371104114</kni>
+                    <miejscowosc>Rymanów</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 210 606,75 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>DROGBUD GOLCOWA PRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (DROGBUD PRO)</nazwa>
+                    <kni>REGON 383223217</kni>
+                    <miejscowosc>Golcowa</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 290 553,68 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+        </informacjaOOfertach>
+        <informacjaOOfertach idSekcji="2">
+            <czyDotyczy>false</czyDotyczy>
+            <numerLubNazwaCzesci>2</numerLubNazwaCzesci>
+            <kwotaZamawiajacyNaSfinansowanie></kwotaZamawiajacyNaSfinansowanie>
+            <kwotaJakaZamierzaPrzeznaczyc>230 000,00 PLN</kwotaJakaZamierzaPrzeznaczyc>
+            <terminOtwarciaOfert>2026-09-08</terminOtwarciaOfert>
+            <liczbaZaproszonychWykonawcow>0</liczbaZaproszonychWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>ZAKŁAD PRODUKCYJNO-USŁUGOWO-HANDLOWY "BOGBUD" BOGDAN WRONKOWICZ</nazwa>
+                    <kni>REGON 371104114</kni>
+                    <miejscowosc>Rymanów</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 166 495,24 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>DROGBUD GOLCOWA PRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (DROGBUD PRO)</nazwa>
+                    <kni>REGON 383223217</kni>
+                    <miejscowosc>Golcowa</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 209 907,50 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+        </informacjaOOfertach>
+    </sekcja4>
+    <sekcja5/>
+</informacjaDlaPrezesa>

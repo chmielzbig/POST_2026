@@ -1,0 +1,186 @@
+ŹRÓDŁO: RIN.271.1.11.2026 Elewacja BG
+PLIK: RIN.271.1.11.2026 Elewacja BG/otwarciiieee/kryteria ofert.xlsx
+ROZMIAR: 19825
+
+### xl/worksheets/sheet1.xml
+Nr oferty
+Wykonawca
+Kryterium 1
+Kryterium 2
+Przyznana punktacja w kryterium 
+/pkt /
+Do umowy
+5
+waga /pkt/
+waga /pkt/
+Oferty
+%
+70
+30
+Cena brutto
+ /zł/
+Gwarancja
+ /m-c/
+Odrzucone
+Cena
+Gwarancja
+Razem
+część 1
+konto
+kwota
+zw oferty
+1.
+Majsterbud Sp. z o.o. (Majsterbud Sp. z o.o.), Leszka Czarnego 1A, 35-615 Rzeszów
+236620
+60
+70
+30
+0
+100
+Sławomir Wróbel , sw@majsterbud.com.pl, 535335842
+23 1140 2004 0000 3302 7951 0152
+2000
+Majsterbud Sp. z o.o. (Majsterbud Sp. z o.o.), Leszka Czarnego 1A, 35-615 Rzeszów
+11831
+1. 
+236620
+ , cena:  
+100
+ punktów 
+236620
+ , gwarancja:  
+ mies.  
+Majsterbud Sp. z o.o. (Majsterbud Sp. z o.o.), Leszka Czarnego 1A, 35-615 Rzeszów
+1. 
+2.
+ACORDI Dominik Ziobro (ACORDI Dominik Ziobro), ul. Budziwojska 36, 35-317 Rzeszów
+344400
+60
+48.09349593495935
+30
+78.09349593495935
+Dominik Ziobro, dominik@acordi.eu, 537464537
+37 1050 1562 1000 0090 8379 7200
+2000
+2. 
+344400
+ , cena:  
+78.09349593495935
+ punktów 
+ , gwarancja:  
+ mies.  
+3.
+60
+0
+30
+30
+2000
+4.
+60
+0
+30
+30
+2000
+5.
+60
+0
+30
+30
+2000
+6.
+60
+0
+30
+30
+7.
+60
+0
+30
+0
+30
+8.
+60
+0
+30
+0
+30
+9.
+60
+0
+30
+0
+30
+10.
+60
+0
+30
+0
+30
+11.
+60
+0
+30
+0
+30
+12.
+60
+0
+30
+0
+30
+13.
+0
+0
+0
+0
+14.
+0
+0
+0
+0
+15.
+0
+0
+0
+0
+16.
+0
+0
+0
+0
+17.
+0
+0
+0
+0
+18.
+0
+0
+0
+0
+30%od średniej
+cena
+wynik
+średnia arytm
+290510
+87153
+203357
+rażąco niska
+198784.3726
+badana oferta
+236620
+ok
+ok
+0.81449864032219199
+0
+0
+0.18550135967780801
+cena kosztorysowa
+518337.99
+155501.397
+362836.59299999999
+0.45649750657867083
+badana oferta
+236620
+rażąco niska
+0.54350249342132917

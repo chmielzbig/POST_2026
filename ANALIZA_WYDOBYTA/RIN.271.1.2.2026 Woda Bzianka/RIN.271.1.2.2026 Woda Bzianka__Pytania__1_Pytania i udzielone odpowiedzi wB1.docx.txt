@@ -1,0 +1,167 @@
+ŹRÓDŁO: RIN.271.1.2.2026 Woda Bzianka
+PLIK: RIN.271.1.2.2026 Woda Bzianka/Pytania/1_Pytania i udzielone odpowiedzi wB1.docx
+ROZMIAR: 95015
+
+5231262
+-137647
+0
+0
+GMIN
+A
+RYMANÓW
+Rymanów,
+TIME \@ "dd.MM.yyyy"
+20.04.2026
+.
+Zamawiający:
+Gmina
+Rymanów
+ul.
+Mitkowskiego
+14a
+38-480 Rymanów
+NIP:
+648-23-77-352,
+REGON
+370440590
+tel.
+13 435
+50
+06
+e-mail:
+przetargi@rymanow.pl
+;
+gmina@rymanow.pl
+Wykonawcy biorący udział w postępowaniu
+o udzielenie zamówienia publicznego
+Dotyczy:
+postępowania znak:
+RIN.271.
+1.2
+.202
+6
+p.n.:
+Budowa sieci wodociągowej rozdzielczej
+w miejscowości Bzianka cz.1
+Gmina Rymanów jako Zamawiający, działając na podstawie art. 284 ust. 6 ustawy z dnia 11 września 2019r. – Prawo zamówień publicznych udostępnia pytania otrzymane od Wykonawcy oraz udzieloną odpowiedź w  powyższym postępowaniu
+Pytanie:
+Zgodnie z SWZ „Należy zastosować rury PE100RC zgodnie z normą PAS 1075”.
+Czy Zamawiający wzorem poprzednich postępowań dopuszcza zastosowanie rur typu RC
+dwuwarstwowych?
+.
+Odp.
+Należy stosować rury PE100RC dwuwarstwowe  zgodne ze specyfikacją  PAS 1075 potwierdzoną certyfikatem wydanym osobno dla każdej z grup wymiarowych
+.
+Prosimy o określenie projektowanego sposobu łączenia rur z armaturą żeliwna kołnierzową.
+Czy należy stosować tuleje kołnierzowe na luźny kołnierz, czy systemowe kołnierze specjalne
+z funkcją zabezpieczenia przed przesunięciem?
+.
+Odp.
+Należy stosować głównie tuleje kołnierzowe na luźny kołnierz, dopuszcza się również systemowe kołnierze specjalne z funkcją zabezpieczenia przed przesunięciem
+.
+Prosimy o uzupełnienie przedmiaru robót o brakujące pozycje uwzględniające koszt zakupu,
+dostawy i zgrzewania łuków wodociągowych niezbędnych przy zmianach kierunku
+projektowanej sieci wodociągowej w następującym asortymencie i ilościach:
+-
+Łuki wodociągowe Fi160mm: 23 szt
+.,
+- Łuki wodociągowe Fi110mm: 68 szt
+.,
+- Łuki wodociągowe Fi90mm: 7 szt
+.
+?
+.
+Odp.
+Należy uwzględnić w przedmiarze montaż łuków PE /wykonane metodą wtryskową/ w
+ilościach:
+- Łuki wodociągowe Fi-160mm: 23 szt.
+- Łuki wodociągowe Fi-110mm: 68 szt.
+- Łuki wodociągowe Fi-90mm: 7 szt.
+.
+Prosimy o określenie wymaganego rodzaju śrub do połączeń kołnierzowych. Czy należy
+zastosować śruby ze stali ocynkowanej, czy śruby ze stali nierdzewnej?
+Odp.
+Należy zastosować śruby ze stali ocynkowanych
+ogniowo
+,
+Po przeanalizowaniu planów sytuacyjnych i profili podłużnych stwierdzamy, że:- łączna długość wodociągu Fi63mm do wykonania to 296,90m
+(49,51+30,77+29,45+42,79+63,1+18,63+19,62+4,6+17,59+20,84)
+?
+Natomiast przedmiar robót uwzględnia jedynie 247,9m wodociągu Fi63mm
+.
+Prosimy o potwierdzenie, że należy wykonać 296,90 m wodociągu Fi63mm.
+Odp.
+Łączna długość wodociągu z rur PE-63mm jest zgodna z przedmiarem i wynosi 247,90m. Odcinek W22-b5/b6 nie jest objęty zakresem robót
+,
+Po przeanalizowaniu planów sytuacyjnych i profili podłużnych stwierdzamy, że:
+- łączna długość wodociągu Fi90mm do wykonania to 1495,95 m
+(119,14+113,1+58,33+176,58+313,88+97,2+129,28+81,29+65,03+126,92+170,91+44,29)
+,
+przedmiar robót uwzględnia jedynie 1103,61 m wodociągu Fi90mm
+.
+Prosimy o potwierdzenie, że należy wykonać 1495,95 m wodociągu Fi90mm.
+Odp.
+Łączna długość wodociągu z rur PE-90mm wynosi 1366,67m. Odcinek W20-Hb2 nie jest objęty zakresem robót,
+Należy przyjąć w przedmiarze: Poz. 17 – 1366,67m
+.
+Po przeanalizowaniu planów sytuacyjnych i profili podłużnych stwierdzamy, że łączna
+powierzchnia nawierzchni z mas mineralno-bitumicznych do rozebrania i odtworzenia to ok
+241m2 (sieć + przyłącza), natomiast przedmiar robót uwzględnia jedynie 184,82m2
+(172,32+12,5)
+Prosimy o potwierdzenie, że należy rozebrać i odtworzyć ok 241m2 nawierzchni z mas
+mineralno-bitumicznych.
+Odp.
+Należy przyjąć w przedmiarze sieci wodociągowej:
+-
+Poz. 2 - 219,67m2
+-
+Poz. 71 - 219,67m2
+-
+Poz. 72 - 219,67m2
+W przedmiarze przyłączy kwalifikowanych pozycje pozostają bez zmian
+.
+Po przeanalizowaniu planów sytuacyjnych i profili podłużnych stwierdzamy, że zakres
+przedmiotu zamówienia obejmuje wykonanie przewiertów rurą ochronną Fi200mm o
+łącznej
+długości 120,5 m (11+15+17+19,5+14,5+14,5+21+8)
+.
+Natomiast przedmiar robót uwzględnia jedynie przewierty rurą ochronna Fi200mm o długości
+.
+Prosimy o potwierdzenie, że należy wykonać 120,5 m przewiertów rurą ochronną Fi200mm
+.
+Odp.
+Łączna długość przewiertów z dokumentacji projektowej wynosi 120,5m przewiertów rurą ochronną Fi-200mm.
+Należy przyjąć w przedmiarze:
+-
+Poz. 54 – 120,50m
+-
+Poz.  58 – 294,50m
+Ponadto należy skorygować w przedmiarze przyłączy kwalifikowanych łączną długość przewiertów rurą ochronną FI-63mm. Należy przyjąć w przedmiarze:
+-
+Poz. 21 – kpl. 2
+-
+Poz. 22 -
+mb
+. 39,
+-
+Poz. 23 -
+mb
+. 39,
+-
+Poz. 24 - szt.   4,
+………………………………..
+
+
+2905801
+-17277
+0
+0
+u
+l.
+Mitkowskiego 14a,  38-480 Rymanów
+tel. +48 13 435 50 06;  fax +48 13 435 57 65
+www.rymanow.pl
+;  e-mail:
+gmina@rymanow.pl
+;
+NIP: 6842377352;  REGON: 370440590

@@ -1,0 +1,277 @@
+ŹRÓDŁO: RIN.271.1.6.2026 Cyber Serw 2
+PLIK: RIN.271.1.6.2026 Cyber Serw 2/otwarcieeee/oferty/Raport_z_przebiegu_otwarcia_ofert (21).pdf
+ROZMIAR: 146356
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 03.06.2026 10:19:26
+
+
+
+Identyfikator postępowania:          ocds-148610-b722a5bf-13a3-4057-b5f0-a57288b56ba1
+
+Numer etapu postępowania:            1
+
+Nazwa zamówienia:                  Poprawa obszaru technicznego poprzez zakup urządzeń oraz
+oprogramowania z zakresu cyberbezpieczeństwa UG Rymanów w ramach proj “Cyberbezpieczny
+samorząd”
+
+Nazwa Zamawiającego:                 Gmina Rymanów
+
+Wyznaczony termin otwarcia ofert:    03.06.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:   03.06.2026 10:18:05
+
+Termin zakończenia otwarcia ofert:   03.06.2026 10:19:26
+
+Liczba złożonych ofert:              2
+
+W tym:
+
+        złożonych w terminie:                           2
+        wycofanych:                                     0
+
+
+
+Oferta nr 1:
+
+        Status:                                Złożono w terminie
+        Termin rozpoczęcia składania:          02.06.2026 12:06:36
+        Termin złożenia:                       02.06.2026 12:07:30
+        Całkowity czas składania oferty:       54 sek
+        Termin rozpoczęcia otwarcia:           03.06.2026 10:18:05
+        Termin zakończenia otwarcia:           03.06.2026 10:18:05
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:        5,45 MB
+        Identyfikator oferty:                  ocds-148610-b722a5bf-13a3-4057-b5f0-
+         a57288b56ba1:109503:01:01
+        Dane Wykonawcy, który wysłał ofertę:   JT-SYSTEMS SPÓŁKA Z OGRANICZONĄ
+         ODPOWIEDZIALNOŚCIĄ|JT-Systems|8522700002|526608958
+        Hash transportowy oferty:
+
+         c30ac58fc539b6083d2e0fca602388d8841ee24937b8299bf20e580189c6e61b
+        Master hash oferty:
+
+         f045acecab1a9cc41ddc6d3a5ada7a6f26fd8bc8a074b30b0dd76dd24ff49518
+        Zaszyfrowany klucz:
+
+         KxRfJ2Fk59zBdCtvotScD3UC2iHaZExF7ekV0czD0xk8T4bjSTDTfQsQRUeXVDzKrpoc7nSt1dAr
+
+
+                                               1
+    4xB3u10kWYWldT70TogpZsJvlXdo/1zoT4ScRf/
+    wzAsMCgZrJnIbPlx4vIEwhs7avxtAs2yptLRBDAJRZoaYL+ib5JPyW7nngOBiFB39MxGr3JynHN
+    3aVvxXbZ/9MTY8YqBOAWlgSi2CQWO/
+    qHzkmP1V8wiRKdau19LVBSVBe6d27rpckClyRXGNLJ2Hk/
+    MvC0w6pZrtpkNTmFQ2YpQDXejOyFwMnwW8lkHJSESrj5DYkZw81HyeZksFey3DUdD2+Gho
+    aYS5Aw==
+   Czy udało się odszyfrować klucz oferty:  Tak
+   Czy udało się odszyfrować ofertę:        Tak
+   Czy udało się rozpakować ofertę:         Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-b722a5bf-13a3-4057-b5f0-
+           a57288b56ba1_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        300,01 KB
+       o   czy formularz poprawnie przetworzony: Tak
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          ISO_50001 do 2028 PL.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        153,22 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:    Nie
+
+       o   nazwa pliku:                          ISO_50001 do 2028.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        252,54 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:    Nie
+
+       o   nazwa pliku:                          PassMark CPU Benchmarks - CPU List -
+           Intel.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        373,33 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Specyfikacja oferowanych urządzeń.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        570,30 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          TS-855eU_CE Certificate.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        567,02 KB
+
+                                          2
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+o   nazwa pliku:                          Załącznik nr 2 do SWZ - Oświadczenie o
+    spełnieniu 2.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        444,28 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Confirmation_202614664001697263.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        77,13 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          cpu2017-20240212-41311.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        395,90 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          DELL PowerEdge R760 _ EPEAT Registry
+    ENG.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        155,46 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          DELL PowerEdge R760 _ EPEAT Registry
+    PL.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        144,76 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Gmina Rymanów.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        217,77 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+o   nazwa pliku:                          ISO 9001 2029.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        248,69 KB
+o   czy podpisany:                        Tak
+
+
+                                   3
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          ISO 9001 COMP 2025.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        652,86 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          ISO 9001 DELL do 2029 PL.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        992,99 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          ISO 9001 DELL do 2029.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        402,73 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          ISO 14001 2028.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        160,60 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          ISO 27001 COMP.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        660,67 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          ISO Dell 14001 ENG.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        314,05 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          ISO Dell 14001 PL.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        323,34 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+Oferta nr 2:
+
+       Status:                                          Złożono w terminie
+
+                                                  4
+   Termin rozpoczęcia składania:               03.06.2026 09:48:06
+   Termin złożenia:                            03.06.2026 09:48:08
+   Całkowity czas składania oferty:            2 sek
+   Termin rozpoczęcia otwarcia:                03.06.2026 10:18:05
+   Termin zakończenia otwarcia:                03.06.2026 10:18:05
+   Całkowity czas otwierania oferty:
+   Rozmiar scalonego pliku oferty:             6,65 MB
+   Identyfikator oferty:                       ocds-148610-b722a5bf-13a3-4057-b5f0-
+    a57288b56ba1:44654:01:01
+   Dane Wykonawcy, który wysłał ofertę:        STIMO SP. Z O.O.||6842508653|
+    180253193
+   Hash transportowy oferty:
+
+    1e961a82702b962e688d59c20832ae81adb6220434bc387a88612e44bef7b468
+   Master hash oferty:
+
+    1f89612c829570db20980fcadc8af08b727b94c2f3039a22790410d17bd90db9
+   Zaszyfrowany klucz:
+
+    GKgiEt8az24ka6KN+caca+mjP76hGXOhQ1xpS+DRB824mAR3YLeV6/VPsB4pNxzPXXPtzRFAu
+    /f/oCP34nxMSM68GKXaQTcb3NNP0eZ3Ud/
+    ylzX8hQmTMwHMTHF6ex1jrs9thwM6Ku59lA/
+    UsetYbk4fj1VWxGTS+apcZNdhVdZvkmzQCcZaL8pJm9+e+yLdg6AiOSPr/
+    EKhpSzHUONrSFQN9f9ZeFPtDbDTkjSf3kcbVgT7ICAewhJruxzbQyvzFRkQlyHlfSLFVr0SEpWVi
+    EXRzlxqNhtSK0JNdaQ9A7w1zrCacBgF5hYnimCVed3oR86C1eZx3ElMlGi6/WDl0A==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-b722a5bf-13a3-4057-b5f0-
+           a57288b56ba1_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        1,06 MB
+       o   czy formularz poprawnie przetworzony: Nie
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          STIMO-Załącznik nr 2 do SWZ -
+           Oświadczenie o spełnieniu 2.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        1,21 MB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                         STIMO-Przedmiotowe środki
+           dowodowe.pdf
+       o   typ pliku:                           Inny plik
+
+                                           5
+           o   rozmiar pliku:                        4,73 MB
+           o   czy podpisany:                        Tak
+           o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+           o   nazwa pliku:                          wadium.pdf
+           o   typ pliku:                            Inny plik
+           o   rozmiar pliku:                        96,34 KB
+           o   czy podpisany:                        Nie
+           o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Tak
+
+
+
+
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                              6
+

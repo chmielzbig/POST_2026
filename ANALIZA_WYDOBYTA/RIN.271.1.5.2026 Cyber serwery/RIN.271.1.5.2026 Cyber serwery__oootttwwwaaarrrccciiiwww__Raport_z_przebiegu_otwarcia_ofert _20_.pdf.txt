@@ -1,0 +1,152 @@
+ŹRÓDŁO: RIN.271.1.5.2026 Cyber serwery
+PLIK: RIN.271.1.5.2026 Cyber serwery/oootttwwwaaarrrccciiiwww/Raport_z_przebiegu_otwarcia_ofert (20).pdf
+ROZMIAR: 81424
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 18.05.2026 10:17:11
+
+
+
+Identyfikator postępowania:          ocds-148610-d3d80267-719c-4fe3-a6a8-22d2c41f562f
+
+Numer etapu postępowania:            1
+
+Nazwa zamówienia:                  Poprawa obszaru technicznego poprzez zakup urządzeń oraz
+oprogramowania z zakresu cyberbezpieczeństwa UG Rymanów w ramach proj “ Cyberbezpieczny
+samorząd”
+
+Nazwa Zamawiającego:                 Gmina Rymanów
+
+Wyznaczony termin otwarcia ofert:    18.05.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:   18.05.2026 10:16:42
+
+Termin zakończenia otwarcia ofert:   18.05.2026 10:17:11
+
+Liczba złożonych ofert:              3
+
+W tym:
+
+        złożonych w terminie:                           1
+        wycofanych:                                     2
+
+
+
+Oferta nr 1:
+
+        Status:                                Złożono w terminie
+        Termin rozpoczęcia składania:          16.05.2026 13:10:44
+        Termin złożenia:                       16.05.2026 13:10:46
+        Całkowity czas składania oferty:       2 sek
+        Termin rozpoczęcia otwarcia:           18.05.2026 10:16:42
+        Termin zakończenia otwarcia:           18.05.2026 10:16:42
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:        8,93 MB
+        Identyfikator oferty:                  ocds-148610-d3d80267-719c-4fe3-a6a8-
+         22d2c41f562f:109503:01:03
+        Dane Wykonawcy, który wysłał ofertę:   JT-SYSTEMS SPÓŁKA Z OGRANICZONĄ
+         ODPOWIEDZIALNOŚCIĄ|JT-Systems|8522700002|526608958
+        Hash transportowy oferty:
+
+         7ee5fac3adfe7fa9745ce55106eb0d2641786999309b43e7d0a07dda532edb46
+        Master hash oferty:
+
+         6e7f1aecb8a69f4d8a8b83f5fe6d87c18babe385b8cba99a690498dba51ceb14
+        Zaszyfrowany klucz:
+
+         UB73QvroRMk4F4de0WRj9Ekt0bfelg+FYH7hjLtH+ZaWwPQ7/Ws7PsSfaWWbrBqOzNbDLS6
+
+
+                                               1
+        m+FMFgCYSUYhilo24OCYJq44kzPayRuiRI/+EAWOPAGbxsnz8ymbsMXx3TEuSEoO7fshjzkt/
+        QiNd+iq75zTlp4HpmdAUn3jmpQ+QgIaKI/
+        RUY4JNgCkyYcowfvHFR4vkHUvHsFdlPBgXwDOLuuZykaidm3tI40Mgfr/
+        dJngs5kXVgPW0wR0ArZ5fiLUg/F/bhtBo1BLERTUL/
+        03DQ6y4aHu1o0zoAyBoGlQK2WmpIuzKMmUKw3NGZjWNvktmvyxpgY9GAHeqzUYymg==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-d3d80267-719c-4fe3-a6a8-
+                   22d2c41f562f_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        340,39 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          załączniki do oferty.7z
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        8,68 MB
+               o   czy podpisany:                        Nie
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Tak
+
+Oferta nr 2:
+
+       Status:                                Wycofano
+       Termin rozpoczęcia składania:          15.05.2026 14:43:21
+       Termin złożenia:
+       Całkowity czas składania oferty:
+       Termin wycofania oferty:               15.05.2026 16:42:10
+       Rozmiar scalonego pliku oferty:        0B
+       Identyfikator oferty:                  ocds-148610-d3d80267-719c-4fe3-a6a8-
+        22d2c41f562f:109503:01:01
+       Dane Wykonawcy, który wysłał ofertę:   JT-SYSTEMS SPÓŁKA Z OGRANICZONĄ
+        ODPOWIEDZIALNOŚCIĄ|JT-Systems|8522700002|526608958
+       Hash transportowy oferty:
+
+        99487494a93b188760ff5245120e400214bdaa51a06c89ab6067f00036b4f62f
+       Master hash oferty:
+
+        b2b126c042a0460d7bc6e80fb696b44c600cc0e29266009eeba5d6097642c16e
+       Zaszyfrowany klucz:
+
+        azS3pzvjw/pGyyhjOATMWrnRGU+WsG/MqKyORLyv8VwcdSlVXweofwcjSiUGClL5mUp5nrp
+        8ashfceB20iXL7taIdftMbNMlSaJvtCz5i+GYFaKWOdPGCZGt346zYW64C7q2+ONa8BbSDuiXLg
+        jaKn8XLHwedx/zmo02Soz6LxSsd7lDNAEvB7BmwMmR4M+sLCNKnaRwCLqy8LcnsCxHz/
+
+
+
+                                                  2
+        SgVPx+hfYMtrmZSH6b8C58Djh9hwhI2wlgv1sVY7Q5i1OuBsJ5ucJjHUXiNkKtPd9q4IbQsk4f02
+        7IjBETQNd50M+ki1gqtyfkYwFghiAezhiBl3M1Pzv6YRvgGSAFQg==
+
+
+Oferta nr 3:
+
+       Status:                                Wycofano
+       Termin rozpoczęcia składania:          16.05.2026 13:05:42
+       Termin złożenia:
+       Całkowity czas składania oferty:
+       Termin wycofania oferty:               16.05.2026 13:08:53
+       Rozmiar scalonego pliku oferty:        0B
+       Identyfikator oferty:                  ocds-148610-d3d80267-719c-4fe3-a6a8-
+        22d2c41f562f:109503:01:02
+       Dane Wykonawcy, który wysłał ofertę:   JT-SYSTEMS SPÓŁKA Z OGRANICZONĄ
+        ODPOWIEDZIALNOŚCIĄ|JT-Systems|8522700002|526608958
+       Hash transportowy oferty:
+
+        8823140581705b54bae5242cfacd50090168bda003c8afa6eca8641f6f8a2003
+       Master hash oferty:
+
+        64ae79aff3ac74a0f146b276bccf9cb7c3825b445f906652dc3a3b8a66a8e358
+       Zaszyfrowany klucz:
+
+        Tf/BLyBalQf9AReJJ5Bf+BRrnzpQ5qwD7FzYidol4cN50HN1EzHYJhNWC9TnTflzis4pNB8dGAf9
+        1wgVBMEEDavkrujFHwYl/
+        Hf2vUVpSRUhlqZKlchhQSsFdAbyt+KhrrYVdM2amQ+6XwaAzLR2znmtEDEBafZ4f6FeVbi5Rp4
+        P42ZjUIm6bLxiKCr54GKstvuEt4daVWznwI+yq3CzPepuFRu6qcz3aXlEU4uU6qpvdK2SUOXE3
+        oqaFv5WtSS4FGv5wqyFTF5DqoVxjJB/Xqjue+j1V32YXvx/
+        XDIDoVcVCnPqBitsN+qRQn6m9u9hHneOVppecrNfBOfxqXQIIw==
+
+
+
+
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                              3
+

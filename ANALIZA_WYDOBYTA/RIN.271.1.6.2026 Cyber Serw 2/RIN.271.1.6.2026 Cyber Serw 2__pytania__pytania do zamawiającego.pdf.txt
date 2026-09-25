@@ -1,0 +1,163 @@
+ŹRÓDŁO: RIN.271.1.6.2026 Cyber Serw 2
+PLIK: RIN.271.1.6.2026 Cyber Serw 2/pytania/pytania do zamawiającego.pdf
+ROZMIAR: 135811
+
+Szanowni Państwo,
+zgodnie z art. 135 ust. 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych,
+zwracamy się z wnioskiem o wyjaśnienie treści Specyfikacji Warunków Zamówienia pn.:
+Poprawa obszaru technicznego poprzez zakup urządzeń oraz oprogramowania z zakresu
+cyberbezpieczeństwa UG Rymanów w ramach projektu "Cyberbezpieczny samorząd”
+
+
+1.
+Szczegółowa analiza wymagań minimalnych w Załączniku nr 1A, pkt. 4. Serwer wskazuje
+na zastosowany przez Zamawiającego dyskryminujący zbieg kilku wymagań technicznych
+charakterystyczny dla produktów wyłącznie jednego producenta serwerów (Dell
+Technologies).
+Co istotne, wszystkie zidentyfikowane zapisy dotyczą zaledwie „możliwości” wyposażenia lub
+„możliwości” aktywacji funkcji, których Zamawiający w ramach niniejszego postępowania nie
+zamawia - stanowią one wymóg zdolności konstrukcyjnej serwera do obsłużenia rozwiązań,
+które nie wchodzą w skład dostawy. Należy także podkreślić, że z perspektywy funkcjonalnej
+żadne z poniższych wymagań nie ma realnego wpływu na jakość rozwiązania, tj.
+     -   Obudowa z możliwością wyposażenia w panel LCD umieszczony na froncie
+         obudowy, pozwalający jednoznacznie stwierdzić, czy system działa poprawnie i
+         pokazujący podstawowe stany działania serwera w tym adres IP karty zarządzającej
+     -   Obudowa z możliwością wyposażenia w kartę umożliwiającą dostęp bezpośredni
+         poprzez urządzenia mobilne - serwer musi posiadać możliwość konfiguracji oraz
+         monitoringu najważniejszych komponentów serwera przy użyciu dedykowanej aplikacji
+         mobilnej min. (Android/ Apple iOS) przy użyciu jednego z protokołów BLE/ WIFI (oraz
+         powtórzenie tych wymagań w opisie Karty Zarządzania)
+     -   Kartę zarządzania z możliwością:
+            o bezpośredniego zarządzania poprzez złącze microUSB umieszczone na
+                froncie obudowy
+            o monitorowania z jednej konsoli min. 100 serwerami fizycznymi
+Zgodnie z art. 99 ust. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych:
+„Przedmiotu zamówienia nie można opisywać w sposób, który mógłby utrudniać uczciwą
+konkurencję, w szczególności przez wskazanie znaków towarowych, patentów lub
+pochodzenia, źródła lub szczególnego procesu, który charakteryzuje produkty lub usługi
+dostarczane przez konkretnego wykonawcę, jeżeli mogłoby to doprowadzić do
+uprzywilejowania lub wyeliminowania niektórych wykonawców lub produktów.”
+Orzecznictwo Krajowej Izby Odwoławczej wielokrotnie kwalifikowało zbieg wymagań
+technicznych odpowiadających kombinacji funkcji jednego producenta jako naruszenie tej
+zasady – również w sytuacjach, gdy każde z wymagań osobno mogło być spełnione przez
+kilku producentów (m.in. wyroki KIO w sprawach dotyczących serwerów dla podmiotów
+publicznych). Dodatkowo, zasada proporcjonalności wyrażona w art. 16 ustawy Pzp nakazuje,
+by wymagania techniczne były proporcjonalne do celu zamówienia. Wymóg „możliwości
+wyposażenia” w funkcje, których Zamawiający nie zamawia, nie spełnia testu
+proporcjonalności – nie ma związku przyczynowego między tym wymogiem a celem
+zamówienia (zwiększenie poziomu cyberbezpieczeństwa gminy).
+Mając na uwadze powyższe czy zachowując wszystkie potrzeby funkcjonalne, a jednocześnie
+umożliwiając zaoferowanie produktów od wiodących producentów serwerów – Zamawiający
+dopuści jako równoważne rozwiązanie, gdzie:
+     a) Obudowa z możliwością wyposażenia w panel LCD (zintegrowany z obudową lub
+        jako zewnętrzny moduł diagnostyczny – podłączany kablem do dedykowanego portu
+        z przodu obudowy), pozwalający jednoznacznie stwierdzić, czy system działa
+        poprawnie i pokazujący podstawowe stany działania serwera w tym adres IP karty
+        zarządzającej
+     b) Obudowa z możliwością wyposażenia w kartę umożliwiającą dostęp bezpośredni
+        poprzez sieć IP lub urządzenia mobilne - serwer musi posiadać możliwość konfiguracji
+        oraz monitoringu najważniejszych komponentów serwera przy użyciu sieci IP lub
+        dedykowanej aplikacji mobilnej min. (Android/ Apple iOS) przy użyciu jednego z
+        protokołów BLE/ WIFI
+     c) Karta zarządzająca umożliwia bezpośrednie zarządzanie poprzez dedykowany port
+        (RJ-45 lub USB) na obudowie serwera – z przodu lub z tyłu
+
+
+2.
+Ponieważ także szczegółowa analiza wymagań minimalnych w Załączniku nr 1A, pkt.
+5. Macierz wskazuje na zastosowany przez Zamawiającego dyskryminujący zbieg kilku
+wymagań technicznych charakterystyczny dla produktów wyłącznie jednego producenta
+serwerów (Dell Technologies), czy Zamawiający zamiast:
+     a) możliwości rozbudowy (bez wymiany kontrolerów macierzy) do co najmniej 276
+        dysków twardych – dopuści obniżenie wymaganej maksymalnej rozbudowy do co
+        najmniej 132 dysków, która to wartość ta odpowiada realnym potrzebom rozbudowy w
+        perspektywie 5-letniej oraz pozwala na zaoferowanie rozwiązań konkurencyjnych,
+     b) sposobu zabezpieczenia danych gdzie „Macierz musi obsługiwać mechanizmy RAID
+        zgodne z RAID0, RAID1, RAID10, RAID5, RAID6 oraz RAID z tzw. rozproszoną wolną
+        pojemnością (…) – dopuści Macierz obsługującą mechanizm RAID realizujący ochronę
+        danych z wykorzystaniem przestrzeni zapasowej (spare) rozproszonej równomiernie
+        pomiędzy wszystkimi dyskami w grupie dysków korzystającą z technologii i
+        mechanizmów o tożsamych skutkach funkcjonalnych, w szczególności: distributed
+        RAID (DRAID), ADAPT, Dynamic Disk Pools (DDP), RAID-TEC, RAID-DP,
+     c) funkcjonalności Tieringu między dyskami SSD i SAS i między dyskami SAS i NL SAS
+        gdzie Tiering musi obejmować wszystkie woluminy w danej puli dyskowej – dopuści
+        Tiering w architekturze nadrzędnej – na poziomie FabricPool / SSD Read Cache / Flash
+        Pool, dzielący dane na warstwy SSD/HDD oraz dodatkowo na warstwę chmurową,
+
+
+3.
+W wymaganiach Załącznika nr 1A, pkt. 6. Deduplikator Zamawiający określił
+     a) maksymalny stopień redukcji danych na co najmniej 65:1.
+Warto podkreślić, że wartość „65:1” to ratio maksymalne, marketingowe, deklarowane przez
+producenta w warunkach laboratoryjnych dla idealnie deduplikowalnych danych (np.
+wielokrotne pełne kopie zapasowe maszyn wirtualnych z identycznym systemem
+operacyjnym). Ponieważ wymagane przez Zamawiającego „65:1” ma charakter wyłącznie
+eliminacyjny dla renomowanych producentów – czy Zamawiający dopuści minimalny stopień
+deduplikacji 20:1, który odpowiada rzeczywistej charakterystyce urządzeń pochodzących od
+liderów rynku
+     b) możliwość zablokowania plików przed modyfikacją lub usunięciem (WORM) na
+        poziomie całego file system’u, mechanizm ten musi być zgodny ze standardem SEC
+        Rule 17a-4(f)
+Ponieważ SEC Rule 17a-4(f) jest wymaganiem dla amerykańskiego rynku finansowego, pod
+regulacje którego Zamawiający nie podlega - czy Zamawiający dopuści jako równoważną
+możliwość zablokowania plików/kopii zapasowych przed modyfikacją lub usunięciem
+(WORM/immutability) przez wybrany okres czasu na poziomie całego systemu plików lub
+udziału/repozytorium, gdzie mechanizm ten uniemożliwia modyfikację i usunięcie danych
+nawet przez administratora urządzenia w okresie ochrony przy pomocy równoważnych
+mechanizmów
+
+
+4.
+Z treści wymagań SIWZ i Załącznika nr 1A wynika konieczność złożenia przez Wykonawców
+środków dowodowych w postaci oświadczeń podmiotów trzecich (producentów sprzętu).
+Ponieważ ww. oświadczenia stanowią w istocie przedmiotowe środki dowodowe, czyli w
+rozumieniu art. 104–107 Pzp służą wyłącznie potwierdzeniu, że oferowane urządzenia
+spełniają wymagane cechy - jak wskazała KIO, „oświadczenie producenta odnoszące się do
+cech produktu nie stanowi oświadczenia woli, tylko oświadczenie wiedzy” — a więc jego
+funkcją jest jedynie udowodnienie określonego stanu faktycznego (cechy sprzętu), który
+równie wiarygodnie może potwierdzić sam wykonawca, ponoszący przy tym pełną
+odpowiedzialność kontraktową i z tytułu rękojmi za zgodność dostawy z OPZ.
+Należy także podkreślić, że wymóg uzyskania pisemnego oświadczenia bezpośrednio od
+producenta sprzętu różnicuje sytuację wykonawców w zależności od ich statusu względem
+producenta, w rezultacie producent decyduje o tym, który z wykonawców i w jakim terminie
+uzyska oświadczenie — mimo że oferują identyczny, spełniający OPZ sprzęt. Jest to klasyczny
+przykład dyskryminacji pośredniej, którą KIO definiuje jako „ustalanie wymagań na tyle
+rygorystycznych, że nie jest to uzasadnione potrzebami Zamawiającego, a jednocześnie
+ograniczających krąg wykonawców zdolnych do wykonania zamówienia”. Zgodnie z art. 16
+pkt 3 Pzp proporcjonalność oznacza „zachowanie równowagi pomiędzy interesem
+Zamawiającego w uzyskaniu rękojmi należytego wykonania zamówienia a interesem
+wykonawców, którzy przez sformułowanie nadmiernych wymagań mogą zostać
+wyeliminowani z postępowania.
+Biorąc pod uwagę powyższe, oraz fakt że oświadczenie własne wykonawcy w żaden sposób
+nie osłabia ochrony interesu Zamawiającego ponieważ to wykonawca, a nie producent jest
+stroną umowy i ponosi pełną odpowiedzialność za zgodność dostarczonego sprzętu z OPZ, w
+tym z tytułu rękojmi i gwarancji – czy Zamawiający dopuści jako równoważne oświadczenia
+wykonawcy wszędzie tam, gdzie początkowo wymagano oświadczeń producenta.
+
+
+
+
+5.
+W Załączniku nr 1A (OPZ) pkt 4, pkt 5, pkt 6 – wiersz „Warunki gwarancji”: „Zamawiający
+wymaga zapewnienia gwarancji Producenta z zakresu wdrażanej technologii na okres 5 lat.”
+Jednocześnie w Załączniku nr 4 (Projekt umowy) § 7 ust. 5: „Na sprzęt dostarczony na
+podstawie niniejszej Umowy Wykonawca udzieli gwarancji na okres (zgodnie z ofertą) 24
+miesięcy, licząc od daty podpisania protokołu odbioru przez przedstawicieli Wykonawcy i
+przedstawicieli Zamawiającego.
+Ww. sprzeczność sprawia, że wykonawcy mogą interpretować postanowienia w skrajnie różny
+sposób, co prowadzi do niewłaściwej kalkulacji ceny i nieporównywalności ofert, może również
+stanowić przesłankę do unieważnienia postępowania na podstawie art. 255 pkt 6 Pzp. –
+dlatego zwracamy się o wprowadzenie odpowiedniej modyfikacji projektu umowy.
+
+
+6.
+W SWZ Rozdział VI pkt 1: określono „Termin realizacji zamówienia: do 27 czerwca 2026 roku
+od dnia podpisania umowy.”
+Przy planowanym otwarciu ofert 1 czerwca 2026 r. oraz zachowaniu minimalnego 5-dniowego
+okresu przed podpisaniem umowy – Zamawiający pozostawia wykonawcy realnie nie więcej
+niż 3 tygodnie na zamówienie, dostawę i wdrożenie sprzętu klasy enterprise.
+Ponieważ z uwagi na trwający kryzys na rynku półprzewodników terminy dostaw sprzętu klasy
+enterprise są wydłużone, zaś dla Beneficjentów programu Cyberbezpieczny Samorząd
+istnieją możliwości wydłużenia projektów – zwracamy się do Zamawiającego o wydłużenie
+terminu realizacji zamówienia na 90dni od daty zawarcia umowy.
+

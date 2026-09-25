@@ -1,0 +1,46 @@
+ŹRÓDŁO: RIN.271.1.13.2026 transp Odpad
+PLIK: RIN.271.1.13.2026 transp Odpad/SWZ_odpPszok/Szacunek.xlsx
+ROZMIAR: 11319
+
+### xl/worksheets/sheet1.xml
+RODZAJ
+ILOŚĆ [Mg]
+zagospodarowanie netto
+wartość netto
+transport
+załadunek
+budowlano-remontowe
+32.5
+500
+16250
+110000
+12000
+wielkogabarytowe
+110
+1100
+121000
+opony
+10
+650
+6500
+odzież
+6
+950
+5700
+tekstylia
+6
+950
+5700
+opakowania zawierające pozostałości substancji niebezpiecznych...
+4
+4400
+17600
+farby, tusze, farby drukarskie...
+4
+4400
+17600
+190350
+110000
+12000
+312350
+384190.5

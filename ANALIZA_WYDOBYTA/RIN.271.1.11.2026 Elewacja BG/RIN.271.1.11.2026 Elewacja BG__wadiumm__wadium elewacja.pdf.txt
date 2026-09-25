@@ -1,0 +1,67 @@
+ŹRÓDŁO: RIN.271.1.11.2026 Elewacja BG
+PLIK: RIN.271.1.11.2026 Elewacja BG/wadiumm/wadium elewacja.pdf
+ROZMIAR: 999589
+
+Transactions Details
+Transaction Details for NONREF
+
+
+
+
+Numer rachunku                     Nazwa rachunku                             Transaction Amount
+59 1030 1508 0000 0008 2413 7003   SD SUMY DEPOZYTOWE                         2,000.00
+
+Waluta                             Credit/Debit
+PLN                                Cr
+
+
+Additional Details
+
+Field Name                                              Value
+Nazwa oddziału                                          WARSAW CITIBANK
+
+Numer oddziału                                          815
+
+Nazwa banku                                             CITIBANK
+
+Numer IBAN                                              PL59103015080000000824137003
+
+Remitter Account Number                                 68862710112001002303640001
+
+Remitter Name & Address                                 KAROL WESOLOWSKI USLUGI SPRZETOWO-T, RANSPORTOWE NIEPLA
+                                                        135 38-203 NIEP
+
+Waluta                                                  PLN
+
+Transaction Amount                                      2,000.00
+
+Opis                                                    INCOMING EXPRESS ELIXIR
+
+Transaction Reference                                   NONREF
+
+Data waluty                                             2026-09-07T00:00
+
+Data wpisu                                              2026-09-07T08:09:44
+
+Data wyciągu                                            2026-09-07T00:00
+
+Typ produktu                                            FT
+
+Nazwa klienta                                           GMINA RYMANW
+
+Customer Number                                         824137
+
+Customer Reference                                      NONREF
+
+Ordering Bank Name & Address                            86271011
+
+Payment Details                                         WADIUM - NR POSTEPOWANIA RIN.271.1.10.2026. CZESC 2
+
+Posted Date / Time                                      2026-09-07T00:00
+
+Numer referencyjny banku                                4250321117
+
+Pierwotna nazwa konta                                   KAROL WESOLOWSKI USLUGI SPRZETOWO-T
+
+Pierwotny numer konta                                   68862710112001002303640001
+

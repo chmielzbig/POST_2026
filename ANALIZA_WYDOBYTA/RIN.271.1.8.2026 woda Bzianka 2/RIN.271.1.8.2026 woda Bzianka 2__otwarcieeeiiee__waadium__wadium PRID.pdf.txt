@@ -1,0 +1,67 @@
+ŹRÓDŁO: RIN.271.1.8.2026 woda Bzianka 2
+PLIK: RIN.271.1.8.2026 woda Bzianka 2/otwarcieeeiiee/waadium/wadium PRID.pdf
+ROZMIAR: 999753
+
+Transactions Details
+Transaction Details for NONREF
+
+
+
+
+Numer rachunku                     Nazwa rachunku                              Transaction Amount
+59 1030 1508 0000 0008 2413 7003   SD SUMY DEPOZYTOWE                          18,000.00
+
+Waluta                             Credit/Debit
+PLN                                Cr
+
+
+Additional Details
+
+Field Name                                              Value
+Nazwa oddziału                                          WARSAW CITIBANK
+
+Numer oddziału                                          815
+
+Nazwa banku                                             CITIBANK
+
+Numer IBAN                                              PL59103015080000000824137003
+
+Remitter Account Number                                 73150014901214900016460000
+
+Remitter Name & Address                                 PRZEDSIEBIORSTWO ROBOT INZYNIERYJNY, CH I DROGOWYCH W
+                                                        KROSNIE SPOLKA AKC, YJNA UL. GRODZKA 26 38-400 KROSNO
+
+Waluta                                                  PLN
+
+Transaction Amount                                      18,000.00
+
+Opis                                                    INC. CLEARING TRANSF
+
+Transaction Reference                                   NONREF
+
+Data waluty                                             2026-08-21T00:00
+
+Data wpisu                                              2026-08-21T04:29:47
+
+Data wyciągu                                            2026-08-21T00:00
+
+Typ produktu                                            FT
+
+Nazwa klienta                                           GMINA RYMANW
+
+Customer Number                                         824137
+
+Customer Reference                                      NONREF
+
+Ordering Bank Name & Address                            10900004
+
+Payment Details                                         WADIUM - NR POSTEPOWANIA RIN.271.1.8.2026
+
+Posted Date / Time                                      2026-08-21T00:00
+
+Numer referencyjny banku                                4233073130
+
+Pierwotna nazwa konta                                   PRZEDSIEBIORSTWO ROBOT INZYNIERYJNY
+
+Pierwotny numer konta                                   73150014901214900016460000
+

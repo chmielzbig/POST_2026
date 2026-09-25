@@ -1,0 +1,79 @@
+ŹRÓDŁO: RIN.271.1.2.2026 Woda Bzianka
+PLIK: RIN.271.1.2.2026 Woda Bzianka/Pytania/Pyt 1/odpowiedzi na pytania PRID.docx
+ROZMIAR: 15058
+
+Sugerowane odpowiedzi na pytania:
+Pytanie 1.
+Należy stosować rury PE100RC dwuwarstwowe  zgodne ze specyfikacją  PAS 1075 potwierdzoną certyfikatem wydanym osobno dla każdej z grup wymiarowych,
+Pytanie 2.
+Należy stosować głównie tuleje kołnierzowe na luźny kołnierz, dopuszcza się również systemowe kołnierze specjalne z funkcją zabezpieczenia przed przesunięciem,
+Pytanie 3
+.
+Należy uwzględnić w przedmiarze montaż łuków PE
+/wykonane metodą wtryskową/
+w ilościach:
+- Łuki wodociągowe Fi
+-160mm: 23
+szt
+.
+- Łuki wodociągowe Fi
+-110mm: 68
+szt
+.
+- Łuki wodociągowe Fi
+-90mm: 7
+szt
+.
+Podstawa wyceny:  KNNR4 1011/03-07,
+Pytanie 4.
+Należy zast
+osować śruby ze stali
+ocynkowanych
+ogniowo
+,
+Pytanie 5
+.
+Łączna długość wodociągu z rur PE-63mm jest zgodna z przedmiarem i wynosi 247,90m. Odcinek W22-b5/b6 nie jest objęty zakresem robót,
+Pytanie 6
+.
+Łączna długość wodociągu z rur PE-90mm wynosi 1366,67m. Odcinek W20-Hb2 nie jest objęty zakresem robót,
+Należy przyjąć w przedmiarze: Poz. 17 – 1366,67m
+Pytanie 7
+.
+Należy przyjąć w przedmiarze sieci wodociągowej:
+Poz. 2 - 219,67m
+2
+Poz. 71 - 219,67m
+2
+Poz. 72 - 219,67m
+2
+W przedmiarze przyłączy kwalifikowanych pozycje pozostają bez zmian,
+Pytanie 8
+.
+Łączna długość przewiertów z dokumentacji projektowej wynosi
+120,5m przewiertów rurą ochronną Fi
+-
+200mm
+.
+Należy przyjąć w przedmiarze: Poz. 54 – 120,50m
+Poz.
+58 – 294,50m
+Ponadto n
+ależy
+skorygować
+w przedmiarze
+przyłączy kwalifikowanych
+łączną
+długość przewiertów rurą ochronną FI-63mm
+. Należy przyjąć w przedmiarze:
+Poz. 21 – kpl. 2
+- Poz. 22 -
+mb
+. 39,
+-
+Poz. 23 -
+mb
+. 39,
+- Poz. 24 - szt.   4,
+Inspektor Nadzoru -Piotr
+Kozubal

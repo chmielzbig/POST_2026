@@ -1,0 +1,177 @@
+ŹRÓDŁO: RIN.271.1.11.2026 Elewacja BG
+PLIK: RIN.271.1.11.2026 Elewacja BG/otwarciiieee/Raport_z_przebiegu_otwarcia_ofert (26).pdf
+ROZMIAR: 59520
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 15.09.2026 10:17:11
+
+
+
+Identyfikator postępowania:           ocds-148610-f5b29cbc-577d-4b20-b6dd-0f2bb505d0ba
+
+Numer etapu postępowania:             1
+
+Nazwa zamówienia:                     Remont elewacji budynku Urzędu Gminy w Rymanowie
+
+Nazwa Zamawiającego:                  Gmina Rymanów
+
+Wyznaczony termin otwarcia ofert:     15.09.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:    15.09.2026 10:16:07
+
+Termin zakończenia otwarcia ofert:    15.09.2026 10:17:11
+
+Liczba złożonych ofert:               2
+
+W tym:
+
+        złożonych w terminie:                           2
+        wycofanych:                                     0
+
+
+
+Oferta nr 1:
+
+        Status:                                         Złożono w terminie
+        Termin rozpoczęcia składania:                   14.09.2026 10:47:48
+        Termin złożenia:                                14.09.2026 10:47:50
+        Całkowity czas składania oferty:                2 sek
+        Termin rozpoczęcia otwarcia:                    15.09.2026 10:16:07
+        Termin zakończenia otwarcia:                    15.09.2026 10:16:07
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:                 1,37 MB
+        Identyfikator oferty:                           ocds-148610-f5b29cbc-577d-4b20-
+         b6dd-0f2bb505d0ba:114189:01:01
+        Dane Wykonawcy, który wysłał ofertę:            Majsterbud Sp. z o.o.|Majsterbud Sp. z
+         o.o.|5170399216|383282102|114189
+        Hash transportowy oferty:
+
+         70a3787071ee9dd48e447117fb0f5a5f5c0881497c0360fe5902b102015f5d9b
+        Master hash oferty:
+
+         35083b381d0c56c76e945d9068ee31f42ee60fb9f6940673bf2c72dc94376e5a
+        Zaszyfrowany klucz:
+
+         f5m7WmEONlIKTwjBgSND7QPvC9SGqMflBn+FKFZjoSjN8I+dsIzVmCgqoQ2PYgeJuWqGgJiow
+         d9xRhMTXRg5S5No1VQiFL+R4XL2Z7kwUTJd60MX/XVuCfOSa/
+         bmQHPzjuK6BRGNRlU0GehGLwKkNE7aezqZA/ZpUrI9wnh/
+
+
+                                                1
+        LLfQodpDab4F4sVWSxBSk3zNvp2kMo7NsDASGI6IOdQMRbyKzLIGPZmyvWnkJRNG1eChzzl
+        aXTjTZo9mjyWVrjOQuPFGwbcdM210MU3i0/+2tNbnzLhvo/
+        sLJ9xFEvIzHWmnkveweH0E4tqHiUANW0BnP3ZHXQ3EVEH17nLxs5a7Yw==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-f5b29cbc-577d-4b20-
+                   b6dd-0f2bb505d0ba_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        358,36 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Pełnomocnictwo_SW_publiczne.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        453,42 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 3 do SWZ oświadczenie o grupie
+                   kapitałowej.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        351,75 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 5-B wykaz osób do SWZ.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        303,46 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ osw-wyk-art-125-ust-1-
+                   ustawy-Pzp.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        236,95 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 2:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    14.09.2026 13:23:57
+       Termin złożenia:                                 14.09.2026 13:23:57
+       Całkowity czas składania oferty:
+
+                                                  2
+   Termin rozpoczęcia otwarcia:                 15.09.2026 10:16:07
+   Termin zakończenia otwarcia:                 15.09.2026 10:16:07
+   Całkowity czas otwierania oferty:
+   Rozmiar scalonego pliku oferty:              465,31 KB
+   Identyfikator oferty:                        ocds-148610-f5b29cbc-577d-4b20-
+    b6dd-0f2bb505d0ba:48506:01:01
+   Dane Wykonawcy, który wysłał ofertę:         ACORDI Dominik Ziobro|ACORDI Dominik
+    Ziobro|8191662287|180773870|48506
+   Hash transportowy oferty:
+
+    087adb0221da0f0dcb8a2fcceb310f586cf94ccda127c616fef8d422d711b9a3
+   Master hash oferty:
+
+    99a3012173ed00a51b4c66a2d1d32c211a875008b32abefd27d38bfac98f5049
+   Zaszyfrowany klucz:
+
+    btu/IE4UX7f2hP9Wgsne9PhK8OpwU9j4nJlL0yW1BN51I27BfeGnxnSUPF+Mfqd+fLw+wQBQl
+    MmcnlDd1xGrpUwNYUbMVouNp2iEsk92B3yos3oADMrpryLIl8pK246p9+bZQThbaoiM8yqU
+    HZhBETN8po57QbBzH/VZzxvCPz9bOOgHTjAZ/wDsj+VwEe3C9mjqga7E/X+7xq8b0+/
+    kJoe3trmGgQAopHlnaG+LNTJZxoQ3MOAtLjns327c5VWNeX5IylHXc82WJkcNiNdY9hEgZBOc
+    LnM+U7DheefpU9Fvfv0rvMU63Y1RLZfL/Ykdbt3Vz3NLxj+GFlvTq8oxZg==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          SIGNED_ocds-148610-f5b29cbc-577d-4b20-
+           b6dd-0f2bb505d0ba_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        426,81 KB
+       o   czy formularz poprawnie przetworzony: Tak
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:
+
+           SIGNED_Confirmation_202625764001353753.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        130,59 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+       o   nazwa pliku:                          SIGNED_Zał nr 2 do SWZ osw-wyk-art-125-
+           ust-1-ustawy-Pzp.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        203,82 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+                                           3
+           o   nazwa pliku:                          SIGNED_SIGNED_2024.04.15
+               pełnomocnictwo Paweł.pdf
+           o   typ pliku:                            Inny plik
+           o   rozmiar pliku:                        224,66 KB
+           o   czy podpisany:                        Tak
+           o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+
+
+
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                              4
+

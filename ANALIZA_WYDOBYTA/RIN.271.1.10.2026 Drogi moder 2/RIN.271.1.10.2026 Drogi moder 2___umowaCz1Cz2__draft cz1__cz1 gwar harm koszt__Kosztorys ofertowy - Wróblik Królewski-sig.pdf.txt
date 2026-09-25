@@ -1,0 +1,72 @@
+ŹRÓDŁO: RIN.271.1.10.2026 Drogi moder 2
+PLIK: RIN.271.1.10.2026 Drogi moder 2/_umowaCz1Cz2/draft cz1/cz1 gwar harm koszt/Kosztorys ofertowy - Wróblik Królewski-sig.pdf
+ROZMIAR: 599617
+
+                                                       UPROSZCZONY KOSZTORYS OFERTOWY
+
+                 1_3_2026__Remont drogi gminnej o nr 130152R we Wróbliku Królewskim na działce o nr ewid. 767 od km 0+002 do km 0+390
+
+
+ 1         2                                                          3                                                     4       5             6             7
+       Pomocniczy
+                                                                 Opis robót
+L.p.    Normatyw                                                                                                           J.m.    Ilość     Cena jedn.      Wartość
+                                                      lokalizacja i obliczenie ich ilości
+        STWiORB
+                    Roboty pomiarowe przy liniowych robotach ziemnych - geodezyjne wytyczenie trasy drogi w terenie
+ 1        D-01                                                                                                             km      0,390       4 000,00 zł    1 560,00 zł
+                    pagórkowatym lub podgórskim, inwentarycazja powykonawcza, itp.
+
+
+ 2        D-04      Rozbiórka ogrodzenia ze słupków betonowych oraz siatką metalową wraz z utylizacją                      mb      35,00          50,00 zł    1 750,00 zł
+
+
+
+                    Wykonanie koryta mechanicznie wraz z profilowaniem i zagęszczeniem podłoża w gr.kat. I-VI, głębokość
+ 3        D-02                                                                                                             m2      30,00          12,00 zł      360,00 zł
+                    koryta średnio 20 cm
+
+
+                    Transport gruzu/ziemi z rozbiórki/korytowania pojazdami samowyładowczymi na odległość do 5 km z
+ 4        D-02                                                                                                              t      12,00          15,00 zł      180,00 zł
+                    załadunkiem mechanicznym.
+
+                    Podbudowa dolna z kruszywa naturalnego łamanego ze skał litych (frakcji 0-63 mm) o grubości po
+ 5        D-07                                                                                                             m2      30,00          46,00 zł    1 380,00 zł
+                    zagęszczeniu ~ 20 cm
+
+                    Podbudowa górna z kruszywa naturalnego łamanego ze skał litych (frakcji 0-31,5 mm) o grubości po
+ 6        D-07                                                                                                             m2      30,00          46,00 zł    1 380,00 zł
+                    zagęszczeniu mechanicznym warstwowym ~ 20 cm.
+
+
+ 7        D-08      Oczyszczenie i skropienie nawierzchni drogowej asfaltem.                                               m2     1100,00          4,00 zł    4 400,00 zł
+
+
+                    Wyrównanie istniejącej podbudowy z betonu asfaltowego AC 16 W z wbudowaniem mechanicznym (~ 50
+ 8        D-09                                                                                                              t      55,00         420,00 zł   23 100,00 zł
+                    kg/1m2, tj ~2 cm).
+
+                    Wykonanie nawierzchni z betonu asfaltowego AC 11S w-wa ścierlana grub. 4 cm,
+                    przedmiar:
+ 9        D-09      390 m * 2,7 m szerokości średnio +                                                                     m2     1100,00         48,00 zł   52 800,00 zł
+                    poszerzenie na łukach 40 mb * 0,3 m +
+                    poszerzenie na zjazdach 120 mb * 0,3 m = ~1100 m2
+
+                    Pobocza - Wyrównanie ubytków istniejących poboczy kruszywem łamanym sortowanym frakcji 0/31,5 z
+                    zagęszczeniem mechanicznym - średnia grubość warstwy po zagęszczeniu ~ 6 cm (obustronne wzdłuż
+10        D-12      jezdni szer. ~ 25 cm).                                                                                 m3      10,00         260,00 zł    2 600,00 zł
+                    przedmiar:
+                    [390 mb * 2 strony - wjazdy ( 120 mb)] * 0,06 m gr. * 0,25 m szer. = ~10 m3
+
+
+
+
+11        D-11      Profilowanie / odmulenie rowów wraz z wywiezieniem i utylizacją urobku                                 mb     300,00          22,00 zł    6 600,00 zł
+
+
+
+                                                                                                                                         RAZEM netto (zł)      96 110,00
+                                                                                                                                            VAT - 23% (zł)     22 105,30
+                                                                                                                                        RAZEM brutto (zł)     118 215,30
+

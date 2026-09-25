@@ -1,0 +1,137 @@
+ŹRÓDŁO: RIN.271.1.5.2026 Cyber serwery
+PLIK: RIN.271.1.5.2026 Cyber serwery/wszecie cyberbezpieczny samorzad .docx
+ROZMIAR: 24815
+
+Wniosek o wszczęcie postępowania w sprawie
+udzielenia zamówienia publicznego powyżej 170 000,00 PLN
+WNIOSKUJĄCY (REFERAT MERYTORYCZNY):
+BIURO DS. OBSŁUGI INFORMATYCZNEJ I RADY MIEJSKIEJ
+Szczegółowy opis przedmiotu zamówienia 1) (określa wnioskodawca, podając jego nazwę, ewentualnie liczbę lub wagę, cechy charakterystyczne. Jeżeli przedmiotem zamówienia są usługi - należy podać ich rodzaj, zakres itp.)
+Przedmiotem niniejszego zamówienia jest
+:
+dostawa, montaż wraz z uruchomieniem sprzętu komputerowego
+– fabrycznie nowego
+(
+tj.:
+serwer, macierz, deduplikator, NAS
+)
+oraz
+zasilaczy awaryjnych – 3 sztuk,
+wdrożenie c
+entraln
+ego
+s
+ystem
+u
+b
+ezpieczeństwa
+o
+programowani
+a
+klasy SIEM wraz z wdrożeniem
+, Szkoleniem z VEEAM
+:
+Zakres
+:
+Zakup fabrycznie nowego sprzętu komputerowego serwera, macierzy, ded
+u
+plikatora oraz NAS, 3 sztuk zasilaczy awaryjnych, wdrożenie wraz ze szkoleniem, dostawa i wdrożenie centralnego systemu bezpieczeństwa oprogramowania klasy SIEM oraz szkolenie z zakresu obsługi VEEAM.
+Wymagania dotyczące przedmiotu zamówienia:
+dostawa, montaż, uruchomienie, szkolenie
+Określenie warunków udziału w postępowaniu w zakresie:
+1)
+zdolności do występowania w obrocie gospodarczym:
+nie dotyczy
+2)
+uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile    wynika to z odrębnych przepisów:
+nie dotyczy
+.
+3) sytuacji ekonomicznej lub finansowej
+nie dotyczy
+.
+4) zdolności technicznej lub zawodowej:
+nie dotyczy
+.
+Szacunkowa wartość zamówienia (netto złotych):
+5
+35
+000
+,00
+zł
+Kwota brutto przeznaczona na sfinansowanie zamówienia
+:
+6
+8
+4
+401
+,
+35
+złotych
+.
+Data ustalenia wartości zamówienia:
+kwiecień 2026 r.
+Proponowany termin wszczęcia postępowania:
+m
+aj 2026 r.
+Oznaczenie przedmiotu zamówienia według Wspólnego Słownika Zamówień (CPV):
+48820000-2, 30233000-1,
+72000000-5
+,
+48000000-8
+,
+30236000-2
+Propozycja dotycząca trybu zamówienia:
+przetarg nieograniczony
+.
+Nr pozycji planu postępowań o udzielenie zamówień publicznych: …………………….
+Termin wykonania zamówienia:
+27 czerwca
+2026 r.
+Współfinansowanie zamówienia ze środków Unii Europejskiej (podać nazwę projektu/programu):.
+Cyberbezpieczny samorząd.
+Kandydat referatu zamawiającego do komisji przetargowej:
+Grzegorz Sołtysik
+Istotne postanowienia umowy
+:
+nie dotyczy
+.
+Rymanów, dnia
+20.04.2026 r.
+_______________________________
+Podpis pracownika merytorycznego
+Akceptacja kierownika referatu merytorycznego.
+Rymanów, dnia
+20.04.2026 r
+.
+_______________________________
+Podpis kierownika referatu merytorycznego
+Opinia inspektora ds. zamówień publicznych dotycząca wyboru trybu zamówienia:
+…………………………………………………………………………………..
+Rymanów, dnia
+20.04.2026
+r.
+_______________________________
+Podpis inspektora ds. zamówień publicznych
+Opinia dotycząca dostępności środków finansowych na realizację zamówienia publicznego –
+………………………………………………………………………………………………………………………………………………………………………………………………………………….
+Rymanów, dnia
+20.04.2026
+r.
+_______________________________
+Podpis Skarbnika Gminy/Głównego Księgowego
+Zatwierdzam
+Rymanów, dnia
+20.04.2026
+r.
+_______________________________
+Podpis Kierownika Zamawiającego lub
+osoby upoważnionej
+Przedmiot zamówienia (pkt. 1)
+,
+Wnioskodawca podaje pełną nazwę towaru, oznaczenie, model, itp. dane jednoznacznie opisujące przedmiot zamówienia, a także zamawianą ilość. Gdy przedmiotem zamówienia są usługi lub roboty budowlane należy podać ich rodzaj, zakres itp. W przypadku konieczności dokonania zakupu urządzeń o specyficznych standardach technicznych lub znakach towarowych wnioskujący musi uzasadnić ten fakt (np. doposażenie do istniejącej aparatury itp.). Załącznikiem do wniosku może być szczegółowa specyfikacja przedmiotu zamówienia, zawierająca wszelkie istotne informacje mające wpływ na należyte wykonanie zamówienia, zawierająca dokładny jego opis. Załącznik winien być potwierdzony podpisem Wnioskującego.
+Istotne postanowienia umowy
+które zostaną wprowadzone do SWZ a następnie do projektu zawieranej umowy w sprawie zamówienia publicznego, określając: przedmiot umowy (nazwa lub/oraz główne elementy przedmiotu), termin realizacji umowy, sposób wynagrodzenia, sposób finansowania w przypadku środków UE, kary umowne oraz przewidywane zmiany umowy i warunki tych zmian
+.
+
+
+

@@ -1,0 +1,57 @@
+ŹRÓDŁO: RIN.271.1.2.2026 Woda Bzianka
+PLIK: RIN.271.1.2.2026 Woda Bzianka/otwarccciee/odp na wezwanie ROLWOD/08dea4f5-526d-32e6-d377-8b000115e559-wiadomosc.pdf
+ROZMIAR: 39466
+
+                                                                                                   Wygenerowano na Platformie e-Zamówienia
+
+
+
+
+       Odpowiedź na Wezwanie do złożenia podmiotowych środków dowodowych
+Data wysłania: 28-04-2026 09:11:09
+Identyfikator postępowania: ocds-148610-297ed4e2-0fa8-4554-ae64-5aeb9d6ff099
+Nazwa zamówienia: Budowa sieci wodociągowej rozdzielczej w miejscowości Bzianka cz.1
+Numer BZP: 2026/BZP 00192270/01
+Podstawa prawna: Art. 274 ust. 1
+
+Nadawca wiadomości:
+SPÓŁDZIELNIA USŁUG WODNO-KANALIZACYJNYCH PRODUKCJI ROLNEJ I HANDLU "ROLWOD"
+Spółdzielnia Usług Wodno-Kanalizacyjnych Produkcji Rolnej i Handlu "ROLWOD"
+PL-NIP: 6850005524
+PL-REGON: 000479830
+ID: 63080
+
+Odbiorcy wiadomości:
+
+Nazwa:
+Gmina Rymanów
+PL-NIP: 6842377352
+PL-REGON: 370440590
+ID: 4966
+
+                                                           Treść wiadomości
+
+Szanowni Państwo, Spółdzielnia Usług Wodno-Kanalizacyjnych Produkcji Rolnej i Handlu ,,ROLWOD" przedkłada w załączeniu dokumenty zgodnie
+z Wezwaniem z dnia 27.04.2026 r znak RIN.271.1.2.2026
+
+Załączniki:
+Odpis_Aktualny_KRS_0000157037-16.pdf
+– sha256: d6c246f0758b070ad42365c58288ffabd9274b137a9b1f74fc691853e87811f5
+Polisa OC.pdf
+– sha256: 4374ec790012287b6ebe9cbcdf1402d147922e33bc01b3d9501233fb1d3406b0
+Referencje Zał nr 4-B - wykaz robót do SWZ.pdf
+– sha256: 47713f0491c75bd868e15ffdf24338f0d41fe5342b3b1dd2f3a2a5202764fd79
+Uprawnienia Marcin Bal Zał nr 5-B wykaz osób do SWZ.pdf
+– sha256: 2860319874e551ca1b2d06ce00d6b9724c992fd4ce0f55495461df01a4dc58a2
+Zał nr 3 do SWZ oświadczenie o grupie kapitałowej.pdf
+– sha256: 8d23a8d7b0404a73fcb876270149bfe9f72529acce1b3d4cb383cd17f8305fac
+Zał nr 4-B - wykaz robót do SWZ.pdf
+– sha256: 67a87609d035a202edf98cda99c1ddb176f3a981ff938e55d2f7a1ceae81f421
+Zał nr 5-B wykaz osób do SWZ.pdf
+– sha256: 17527cf9a2af0816fe99e6ff18ab509877f7812fbd8dfa3eb58e0e6af527a6e5
+
+
+
+
+                                                                    1
+

@@ -1,0 +1,304 @@
+ŹRÓDŁO: RIN.271.1.8.2026 woda Bzianka 2
+PLIK: RIN.271.1.8.2026 woda Bzianka 2/Kryterium oceny ofert woda Bzianka 2.xlsx
+ROZMIAR: 21734
+
+### xl/worksheets/sheet1.xml
+Nr oferty
+Wykonawca
+Kryterium 1
+Kryterium 2
+Przyznana punktacja w kryterium 
+/pkt /
+Do umowy
+5
+waga /pkt/
+waga /pkt/
+Oferty
+%
+70
+30
+Cena brutto
+ /zł/
+Gwarancja
+ /m-c/
+Odrzucone
+Cena
+Gwarancja
+Razem
+część 1
+konto
+kwota
+zw oferty
+1.
+PHU "INKO 2001" K. ŁUKASIK, K. KACZOR, J.MAJEWSKI SPÓŁKA JAWNA (INKO 2001), ul. Lwowska 220, 33-300 Nowy Sącz, małopolskie
+1198733.6200000001
+60
+49.380236786885142
+30
+0
+79.380236786885149
+Krzysztof Łukasik, plukasik67@gmail.com, 18 444 36 51
+gwarancja
+18000
+1. 
+1198733.6200000001
+ , cena:  
+79.380236786885149
+ punktów 
+ , gwarancja:  
+ mies.  
+2.
+SPÓŁDZIELNIA USŁUG WODNO-KANALIZACYJNYCH PRODUKCJI ROLNEJ I HANDLU "ROLWOD" (Spółdzielnia Usług Wodno-Kanalizacyjnych Produkcji Rolnej i Handlu "ROLWOD"), 38-242 Skołyszyn 11, podkarpackie
+1049275.42
+60
+56.413929909841976
+30
+86.413929909841983
+Agnieszka Zając , 13 4491 011, wodkan@rolwod.pl
+78 8627 1037 2003 5000 0358 0001
+18000
+2. 
+1049275.42
+ , cena:  
+86.413929909841983
+ punktów 
+ , gwarancja:  
+ mies.  
+3.
+MULTIKOP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, 38-340 Strzeszyn 567, małopolskie
+1094294.71
+60
+54.093060543078018
+30
+84.093060543078025
+Marcin Soczek - Prezes Zarządu
+89 8627 0001 2002 3017 8566 0001
+18000
+3. 
+1094294.71
+ , cena:  
+84.093060543078025
+ punktów 
+ , gwarancja:  
+ mies.  
+4.
+Przedsiębiorstwo Robót Inżynieryjnych i Drogowych w Krośnie Spółka Akcyjna, ul. Grodzka 26, 38-400 Krosno, podkarpackie
+1126311
+60
+52.555422081467732
+30
+82.555422081467725
+Sylwiusz Sabik, e-mail: przetargi@prid.krosno.pl, 
+tel: 13-43-215-89
+73 1500 1490 1214 9000 1646 0000
+18000
+4. 
+1126311
+ , cena:  
+82.555422081467725
+ punktów 
+ , gwarancja:  
+ mies.  
+5.
+WELKO HYDROTECHNIKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, 37-112 Kosina 754, podkarpackie
+1570980
+60
+37.679505786197147
+30
+67.679505786197154
+Bartłomiej Pelc - Wiceprezes Zarządu, welkop750@wp.pl, 50955504101
+gwarancja
+18000
+5. 
+1570980
+ , cena:  
+67.679505786197154
+ punktów 
+ , gwarancja:  
+ mies.  
+6.
+Zakład Budowlano-Instalacyjny Grzegorz Falger, 37-122 Albigowa 344, podkarpackie
+845625
+60
+70
+30
+100
+Grzegorz Falger, grzesiekfalger@o2.pl, 606138882
+gwarancja
+18000
+Zakład Budowlano-Instalacyjny Grzegorz Falger, 37-122 Albigowa 344, podkarpackie
+42281.25
+6. 
+845625
+ , cena:  
+100
+ punktów 
+845625
+ , gwarancja:  
+ mies.  
+Zakład Budowlano-Instalacyjny Grzegorz Falger, 37-122 Albigowa 344, podkarpackie
+6. 
+7.
+Zakład Instalacyjno-Budowlany Edward Kwiek, 38-120 Czudec , ul. Rzeszowska 60, podkarpackie
+1026189
+60
+57.683087618362705
+30
+0
+87.683087618362705
+Edward Kwiek, edward.kwiek@wp.pl, 504090278
+gwarancja
+18000
+7. 
+1026189
+ , cena:  
+87.683087618362705
+ punktów 
+ , gwarancja:  
+ mies.  
+8.
+Zakład Instalacyjno - Budowlany Lisbud Paweł Lisowski (LISBUD), 38-121 Pstrągowa 340, podkarpackie
+1170591
+60
+50.567405695071976
+30
+0
+80.567405695071983
+Paweł Lisowski, lisbud_plisowski@wp.pl, tel.: 607 662 002
+poręczenie zapłaty wadium
+18000
+8. 
+1170591
+ , cena:  
+80.567405695071983
+ punktów 
+ , gwarancja:  
+ mies.  
+9.
+Zakład Instalacji Sanitarnych Adam Niedziałek, 38-120 Czudec, ul. Św. Jana 4, podkarpackie
+1248942
+60
+47.395115225526887
+30
+0
+77.395115225526894
+Adam Niedziałek, zis.aniedzialek@interia.pl, 502044477
+26 9162 0000 2001 0008 3801 0001
+18000
+9. 
+1248942
+ , cena:  
+77.395115225526894
+ punktów 
+ , gwarancja:  
+ mies.  
+10.
+F.H.U. "FLISEK" S.C. ROMAN FLIS, WALDEMAR FLIS, MATEUSZ FLIS, 37-300 Leżajsk, ul. Nad Stojadłem 3, podkarpackie
+1795819.27
+60
+32.961975065564367
+30
+0
+62.961975065564367
+Waldemar Flis, kk.flisek@gmail.com, wf.flisek@gmail.com, tel. 500 256 450
+gwarancja
+18000
+10. 
+1795819.27
+ , cena:  
+62.961975065564367
+ punktów 
+ , gwarancja:  
+ mies.  
+11.
+GŁOWIK MARIUSZ, Przedsiębiorstwo "FORTIS", 35-330 Rzeszów, ul. Jana Wąsacza 8, podkarpackie
+1311426
+60
+45.136934909022699
+30
+0
+75.136934909022699
+Mariusz Głowik, biuro@fortis.rzeszow.pl, tel. 783299406
+19 1020 4900 0000 8102 3173 2099
+18000
+11. 
+1311426
+ , cena:  
+75.136934909022699
+ punktów 
+ , gwarancja:  
+ mies.  
+12.
+Polmad Rzeszów spółka z ograniczoną odpowiedzialnością (POLMAD), 36-060 Głogów Małopolski, ul. Lotniskowa 2, podkarpackie
+1892252.13
+60
+31.282168513135723
+30
+0
+61.282168513135723
+Jakub Malik - 727 555 250, malikkuba@polmad.rzeszow.pl
+42 1240 1792 1111 0000 1973 9759
+18000
+12. 
+1892252.13
+ , cena:  
+61.282168513135723
+ punktów 
+ , gwarancja:  
+ mies.  
+13.
+0
+0
+0
+0
+14.
+0
+0
+0
+0
+15.
+0
+0
+0
+0
+16.
+0
+0
+0
+0
+17.
+0
+0
+0
+0
+18.
+0
+0
+0
+0
+30%od średniej
+cena
+wynik
+średnia arytm
+1277536.5958333332
+383260.97874999995
+894275.6170833332
+rażąco niska
+874167.19106491655
+badana oferta
+845625
+rażąco niska
+ok
+0.66191841608138158
+0
+0
+0.33808158391861842
+cena kosztorysowa
+518337.99
+155501.397
+362836.59299999999
+1.6314162116498543
+badana oferta
+845625
+ok
+-0.63141621164985429

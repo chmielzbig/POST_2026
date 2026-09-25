@@ -1,0 +1,28 @@
+ŹRÓDŁO: RIN.271.1.6.2026 Cyber Serw 2
+PLIK: RIN.271.1.6.2026 Cyber Serw 2/wadia/WADIUM STIMO.pdf
+ROZMIAR: 378282
+
+                     Płatności na 59 1030 1508 0000 0008 2413 7003                                                                                                                             1 rekord wydrukowany z 3 rekordów.
+
+
+
+ Kryteria wyszukiwania :
+ Data od                                           :            czwartek, 28 maja 2026
+
+ Data do                                           :            wtorek, 25 sierpnia 2026
+
+  Data wyciągu                 Kwota                   Waluta                    Szczegóły płatności                         Beneficjent                  Opis                   Numer                   Nazwa                      Identyfikator
+                                                                                                                                                                                oddziału                oddziału                           klienta
+
+                                                                                                                          STIMO SPOLKA
+        wtorek, 02                                                          WADIUM NR POSTEPOWANIA                                  Z              INC. CLEARING                                        WARSAW
+                                5000                     PLN                                                                                                                        815                                                  NONREF
+    czerwca 2026                                                                     RIN.271.1.6.2026                     OGRANICZONA                   TRANSF                                          CITIBANK
+                                                                                                                             ODPOWIED
+
+
+
+
+Aby dane zostały poprawnie wydrukowane, konieczne może być dostosowanie liczby wybranych kolumn na podsumowaniu. Aby wydrukować wszystkie kolumny tabeli, może być konieczne wyeksportowanie danych do pliku XLS lub CSV
+Strona 1 z 1                                                                                                                                                                                                      Wydrukowano w dniu wtorek, 02 czerwca 2026 w 12:49:26
+

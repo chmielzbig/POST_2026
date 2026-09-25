@@ -1,0 +1,319 @@
+ŹRÓDŁO: RIN.271.1.10.2026 Drogi moder 2
+PLIK: RIN.271.1.10.2026 Drogi moder 2/Otwarrcciiee/kryterium cz1 cz2.xlsx
+ROZMIAR: 25782
+
+### xl/worksheets/sheet1.xml
+Nr oferty
+Wykonawca
+Kryterium 1
+Kryterium 2
+Przyznana punktacja w kryterium 
+/pkt /
+Do umowy
+5
+waga /pkt/
+waga /pkt/
+Oferty
+%
+70
+30
+Cena brutto
+ /zł/
+Gwarancja
+ /m-c/
+Odrzucone
+Cena
+Gwarancja
+Razem
+część 1
+konto
+kwota
+zw oferty
+1.
+REJON BUDOWY DRÓG I MOSTÓW W KROŚNIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, ul. Tysiąclecia 38, 38-400 Krosno, podkarpackie
+222939.96
+60
+60.369264890870177
+30
+0
+90.36926489087017
+Adam jarosz - tech@rbdim.pl tel.: 504-214-134
+09 1240 2311 1111 0000 3881 0288
+2000
+1. 
+222939.96
+ , cena:  
+90.36926489087017
+ punktów 
+ , gwarancja:  
+ mies.  
+2.
+STRABAG Sp. z o.o. (STRABAG), ul. Parzniewska 10, 05-800 Pruszków, mazowieckie
+221560.48
+60
+60.74513604592299
+30
+90.74513604592299
+Magdalena Mitoraj
+przetargi.rzeszow@strabag.com
+tel: 532 233 192
+24 1050 0086 1000 0022 7788 8117
+2000
+2. 
+221560.48
+ , cena:  
+90.74513604592299
+ punktów 
+ , gwarancja:  
+ mies.  
+3.
+LUKATRANS ŁUKASZ POTOCZNY, 36-245 Nozdrzec 47, podkarpackie
+192267.45
+60
+70
+30
+100
+Łukasz Potoczny, biuro@lukatrans.com.pl, 
+tel:886 667 507
+gwarancja
+2000
+LUKATRANS ŁUKASZ POTOCZNY, 36-245 Nozdrzec 47, podkarpackie
+9613.3724999999995
+3. 
+192267.45
+ , cena:  
+100
+ punktów 
+192267.45
+ , gwarancja:  
+ mies.  
+LUKATRANS ŁUKASZ POTOCZNY, 36-245 Nozdrzec 47, podkarpackie
+3. 
+4.
+ZAKŁAD PRODUKCYJNO-USŁUGOWO-HANDLOWY "BOGBUD" BOGDAN WRONKOWICZ, ul. Zielona 10, 38-480 Rymanów, podkarpackie
+210606.75
+60
+63.904511607533955
+30
+93.904511607533948
+Bogdan Wronkowicz, zpuhbogbud@wp.pl, tel. 607805666
+gwarancja
+2000
+4. 
+210606.75
+ , cena:  
+93.904511607533948
+ punktów 
+ , gwarancja:  
+ mies.  
+5.
+DROGBUD GOLCOWA PRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (DROGBUD PRO), 36-231 Golcowa 89A
+290553.68
+60
+46.320946614752913
+30
+76.320946614752913
+Małgorzata Filip, biuro@drogbudgolcowa.pl,                           13 4347148, 693887523
+20 2530 0008 2051 1081 9592 0001
+2000
+5. 
+290553.68
+ , cena:  
+76.320946614752913
+ punktów 
+ , gwarancja:  
+ mies.  
+6.
+60
+0
+30
+30
+7.
+60
+0
+30
+0
+30
+8.
+60
+0
+30
+0
+30
+9.
+60
+0
+30
+0
+30
+10.
+60
+0
+30
+0
+30
+11.
+60
+0
+30
+0
+30
+12.
+60
+0
+30
+0
+30
+13.
+0
+0
+0
+0
+14.
+0
+0
+0
+0
+15.
+0
+0
+0
+0
+16.
+0
+0
+0
+0
+17.
+0
+0
+0
+0
+18.
+0
+0
+0
+0
+30%od średniej
+cena
+wynik
+średnia arytm
+227585.66400000002
+68275.699200000003
+159309.96480000002
+rażąco niska
+155727.76644864
+badana oferta
+192267.45
+ok
+ok
+0.844813537991567
+0
+0
+0.155186462008433
+cena kosztorysowa
+467400
+140220
+327180
+0.41135526315789478
+badana oferta
+192267.45
+rażąco niska
+0.58864473684210528
+
+### xl/worksheets/sheet2.xml
+Nr oferty
+Wykonawca
+Kryterium 1
+Kryterium 2
+Przyznana punktacja w kryterium 
+/pkt /
+5
+waga /pkt/
+waga /pkt/
+%
+70
+30
+Cena brutto
+ /zł/
+Gwarancja
+ /m-c/
+Cena
+Gwarancja
+Razem
+WADIUM
+część 2
+konto
+kwota
+3. 
+LUKATRANS ŁUKASZ POTOCZNY, 36-245 Nozdrzec 47, podkarpackie
+190714.58
+60
+60.060205674888628
+30
+90.060205674888635
+kasa
+Łukasz Potoczny, biuro@lukatrans.com.pl, 
+tel:886 667 507
+gwarancja
+2000
+0
+4. 
+ZAKŁAD PRODUKCYJNO-USŁUGOWO-HANDLOWY "BOGBUD" BOGDAN WRONKOWICZ, ul. Zielona 10, 38-480 Rymanów, podkarpackie
+166495.24
+60
+68.796903142696465
+30
+98.796903142696465
+kasa
+Bogdan Wronkowicz, zpuhbogbud@wp.pl, tel. 607805666
+gwarancja
+2000
+0
+5. 
+DROGBUD GOLCOWA PRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (DROGBUD PRO), 36-231 Golcowa 89A
+209907.5
+60
+54.568592832557201
+30
+84.568592832557201
+kasa
+Małgorzata Filip, biuro@drogbudgolcowa.pl,                           13 4347148, 693887523
+20 2530 0008 2051 1081 9592 0001
+2000
+0
+6.
+Karol Wesołowski Usługi Sprzętowo-Transportowe, 38-203 Niepla 135, podkarpackie
+163633.67000000001
+60
+70
+30
+100
+gwarancja
+karol Wesołowski, karolwesol@op.pl, tel. 505916972
+68 8627 1011 2001 0023 0364 0001
+2000
+8181.683500000001
+0
+0
+0
+gwarancja
+0
+0
+0
+0
+pieniądz
+0
+0
+0
+0
+gwarancja
+0
+8.
+0
+0
+0
+kasa
+7550000
+290553.68
+7259446.3200000003

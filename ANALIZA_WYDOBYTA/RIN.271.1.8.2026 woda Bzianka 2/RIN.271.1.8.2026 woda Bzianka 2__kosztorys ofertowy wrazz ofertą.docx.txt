@@ -1,0 +1,334 @@
+ŹRÓDŁO: RIN.271.1.8.2026 woda Bzianka 2
+PLIK: RIN.271.1.8.2026 woda Bzianka 2/kosztorys ofertowy wrazz ofertą.docx
+ROZMIAR: 30164
+
+Przyjmuję wariant:
+tryb podstawowy
+art. 275 pkt 1 Pzp
+,
+roboty budowlane,
+wynagrodzenie
+ryczałtowe
+,
+Zamawiający udostępnia
+przedmiar
+,
+Wykonawca składa wraz z ofertą
+szczegółowy kosztorys ofertowy
+,
+kosztorys ma być szczegółowy,
+cena z formularza ofertowego jest ceną ryczałtową,
+kosztorys nie służy do bieżącego rozliczania podstawowego zakresu robót.
+Aktualny tekst jednolity Pzp to Dz.U. z 2026 r. poz. 793.
+1. SWZ – „Opis przedmiotu zamówienia”
+Tutaj
+nie wpisuj szczegółowych zasad kosztorysu
+. W tym rozdziale określ przede wszystkim, czym jest przedmiar i jaka jest relacja przedmiaru do dokumentacji projektowej.
+Proponuję dodać:
+Przedmiar robót
+Zamawiający udostępnia przedmiar robót stanowiący załącznik do SWZ.
+Przedmiar robót ma charakter pomocniczy i służy w szczególności do ułatwienia Wykonawcom przygotowania ofert oraz sporządzenia kosztorysu ofertowego.
+Podstawą określenia zakresu przedmiotu zamówienia jest całość dokumentacji zamówienia, w szczególności dokumentacja projektowa oraz opis przedmiotu zamówienia.
+Przedmiar robót nie zwalnia Wykonawcy z obowiązku zapoznania się z całością dokumentacji zamówienia i uwzględnienia w cenie ofertowej wszystkich robót niezbędnych do prawidłowego wykonania przedmiotu zamówienia.
+W przypadku rozbieżności pomiędzy przedmiarem robót a dokumentacją projektową lub opisem przedmiotu zamówienia, zakres zobowiązania Wykonawcy wynika z dokumentów określających przedmiot zamówienia, zgodnie z zasadami pierwszeństwa dokumentów określonymi w SWZ.
+Gdzie:
+rozdział SWZ dotyczący
+OPZ / opisu przedmiotu zamówienia
+.
+2. SWZ – „Informacje o przedmiotowych środkach dowodowych”
+Tutaj moja rekomendacja jest:
+nie wpisuj kosztorysu jako przedmiotowego środka dowodowego
+, jeżeli jego podstawowym zadaniem jest przedstawienie kalkulacji ceny.
+Art. 106 Pzp mówi, że PŚD mają służyć potwierdzeniu, że oferowane roboty, dostawy lub usługi spełniają określone przez Zamawiającego wymagania, cechy lub kryteria.
+Kosztorys, który ma pokazać:
+robociznę,
+materiały,
+sprzęt,
+narzuty,
+zysk,
+ceny jednostkowe,
+jest przede wszystkim
+kalkulacją ceny
+.
+Dlatego zamiast wrzucać go do PŚD, zrobiłbym osobny wymóg w SWZ:
+„Dokumenty składane wraz z ofertą”
+To jest dużo czytelniejsze.
+3. SWZ – „Dokumenty składane wraz z ofertą”
+Tutaj wpisz obowiązek złożenia kosztorysu.
+Dokumenty składane wraz z ofertą
+Wykonawca wraz z ofertą zobowiązany jest złożyć:
+Formularz ofertowy sporządzony zgodnie z wzorem stanowiącym załącznik do SWZ;
+szczegółowy kosztorys ofertowy sporządzony zgodnie z wymaganiami określonymi w SWZ;
+oświadczenie, o którym mowa w art. 125 ust. 1 ustawy Prawo zamówień publicznych;
+pozostałe dokumenty i oświadczenia wymagane w SWZ.
+Gdzie:
+rozdział SWZ typu
+„Informacje o podmiotowych środkach dowodowych / dokumentach składanych wraz z ofertą”
+— najlepiej jako osobny podpunkt dotyczący dokumentów składanych
+wraz z ofertą
+, a nie w części PŚD.
+4. SWZ – „Sposób sporządzenia kosztorysu ofertowego”
+Tu dajesz wszystkie wymagania techniczne dotyczące szczegółowego kosztorysu.
+Szczegółowy kosztorys ofertowy
+Wykonawca zobowiązany jest do złożenia wraz z ofertą szczegółowego kosztorysu ofertowego.
+Kosztorys ofertowy należy sporządzić na podstawie przedmiaru robót udostępnionego przez Zamawiającego oraz całej dokumentacji zamówienia.
+Kosztorys ofertowy należy sporządzić metodą szczegółową.
+Kosztorys ofertowy powinien zawierać co najmniej:
+numer pozycji,
+podstawę wyceny,
+opis robót,
+jednostkę miary,
+ilość,
+nakłady robocizny,
+nakłady materiałowe,
+nakłady pracy sprzętu,
+stawkę robocizny,
+ceny materiałów,
+ceny pracy sprzętu,
+koszty pośrednie,
+zysk,
+cenę jednostkową,
+wartość pozycji,
+wartość netto,
+podatek VAT,
+wartość brutto.
+Wykonawca powinien zachować numerację i opis pozycji przedmiaru, umożliwiające Zamawiającemu identyfikację poszczególnych elementów kosztorysu.
+Kosztorys ofertowy powinien obejmować wszystkie roboty wynikające z dokumentacji zamówienia.
+Wykonawca może zastosować własne podstawy kalkulacji, jeżeli Zamawiający nie określił obowiązującej podstawy wyceny dla danej pozycji, z zachowaniem wymaganego zakresu robót.
+Kosztorys ofertowy należy sporządzić w sposób umożliwiający Zamawiającemu weryfikację zakresu rzeczowego oferty oraz sposobu kalkulacji ceny.
+Kosztorys ofertowy należy złożyć w formie określonej w SWZ dla dokumentów składanych wraz z ofertą.
+5. SWZ – „Sposób obliczenia ceny”
+Tutaj jest najważniejsza część.
+Musisz jednoznacznie powiedzieć:
+kosztorys ≠ wynagrodzenie kosztorysowe.
+Czyli:
+kosztorys pokazuje, jak wykonawca policzył cenę, ale płacimy cenę ryczałtową.
+Wstaw:
+Sposób obliczenia ceny
+Wykonawca zobowiązany jest do podania w Formularzu ofertowym ceny za wykonanie całego przedmiotu zamówienia.
+Wynagrodzenie Wykonawcy ma charakter
+ryczałtowy
+.
+Cena ofertowa brutto wskazana w Formularzu ofertowym stanowi cenę za wykonanie całego przedmiotu zamówienia i obejmuje wszystkie koszty niezbędne do jego prawidłowego wykonania.
+Cena ofertowa obejmuje w szczególności koszty robocizny, materiałów, urządzeń, sprzętu, transportu, dostaw, robót przygotowawczych, zabezpieczających i porządkowych oraz wszelkie inne koszty związane z realizacją przedmiotu zamówienia.
+Wykonawca zobowiązany jest uwzględnić w cenie ryczałtowej wszystkie roboty wynikające z dokumentacji zamówienia, również w przypadku gdy nie zostały one wyodrębnione w osobnej pozycji przedmiaru robót.
+Szczegółowy kosztorys ofertowy składany wraz z ofertą ma charakter pomocniczy w zakresie kalkulacji ceny oraz weryfikacji zakresu rzeczowego oferty.
+Wartości poszczególnych pozycji kosztorysu ofertowego nie stanowią podstawy do bieżącego rozliczania podstawowego zakresu robót.
+Podstawą ustalenia wynagrodzenia Wykonawcy jest cena ryczałtowa brutto wskazana w Formularzu ofertowym.
+W przypadku rozbieżności pomiędzy wartością wynikającą z kosztorysu ofertowego a ceną wskazaną w Formularzu ofertowym, dla celów ustalenia wynagrodzenia Wykonawcy wiążąca jest cena wskazana w Formularzu ofertowym, z uwzględnieniem zasad poprawiania omyłek określonych w ustawie Prawo zamówień publicznych.
+Pominięcie przez Wykonawcę w kosztorysie ofertowym określonej pozycji robót nie zwalnia Wykonawcy z obowiązku jej wykonania, jeżeli obowiązek jej wykonania wynika z dokumentacji zamówienia, a koszt wykonania tej pozycji uznaje się za uwzględniony w cenie ryczałtowej.
+Wykonawca nie może żądać dodatkowego wynagrodzenia z tytułu pominięcia lub niedoszacowania pozycji robót, których obowiązek wykonania wynikał z dokumentacji zamówienia dostępnej na etapie składania ofert.
+6. SWZ – „Kryteria oceny ofert”
+Tutaj
+nie oceniasz kosztorysu
+.
+Jeżeli kryterium jest cena 100%, wpisujesz po prostu:
+Cena – 100%.
+Cena brana do oceny to
+cena brutto z Formularza ofertowego
+.
+Przykładowo:
+Kryterium „Cena”
+Przy wyborze najkorzystniejszej oferty Zamawiający będzie stosował kryterium:
+Cena – 100 pkt – 100%.
+Ocenie podlega cena brutto wskazana przez Wykonawcę w Formularzu ofertowym.
+Liczba punktów zostanie obliczona według wzoru:
+C = (
+Cmin
+/
+Cbad
+) × 100 pkt
+gdzie:
+C – liczba punktów przyznanych badanej ofercie,
+Cmin
+– najniższa cena brutto spośród ofert niepodlegających odrzuceniu,
+Cbad
+– cena brutto badanej oferty.
+Maksymalna liczba punktów możliwa do uzyskania w kryterium „Cena” wynosi 100 pkt.
+Szczegółowy kosztorys ofertowy nie stanowi odrębnego kryterium oceny ofert.
+7. SWZ – „Badanie i ocena ofert”
+Tutaj warto zabezpieczyć kwestię błędów w kosztorysie.
+Art. 223 ust. 1 Pzp pozwala Zamawiającemu żądać od wykonawców wyjaśnień dotyczących treści ofert, a art. 223 ust. 2 reguluje poprawianie omyłek.
+Możesz wpisać:
+Badanie kosztorysu ofertowego
+Zamawiający może żądać od Wykonawcy wyjaśnień dotyczących treści kosztorysu ofertowego, w szczególności w przypadku:
+rozbieżności pomiędzy kosztorysem a przedmiarem;
+rozbieżności pomiędzy kosztorysem a dokumentacją projektową;
+pominięcia pozycji przedmiaru;
+zastosowania innej ilości robót;
+wystąpienia pozycji wycenionych na 0,00 zł;
+wystąpienia innych okoliczności powodujących wątpliwości co do zakresu robót uwzględnionych w cenie.
+Zamawiający dokonuje poprawienia omyłek w ofercie na zasadach określonych w art. 223 ust. 2 ustawy Prawo zamówień publicznych.
+Różnica w wartości poszczególnych pozycji kosztorysu ofertowego nie powoduje automatycznie odrzucenia oferty, jeżeli nie prowadzi do niezgodności treści oferty z warunkami zamówienia.
+Zamawiający ocenia każdorazowo, czy stwierdzona niezgodność kosztorysu ofertowego ma wpływ na treść zobowiązania Wykonawcy.
+Jeżeli z treści oferty jednoznacznie wynika, że Wykonawca nie zamierza wykonać części zakresu zamówienia wymaganego przez Zamawiającego, a niezgodności tej nie można usunąć na podstawie przepisów ustawy Prawo zamówień publicznych, oferta może podlegać odrzuceniu na podstawie art. 226 ust. 1 pkt 5 ustawy.
+To ostatnie jest ważne:
+nie piszesz „każdy błąd w kosztorysie = odrzucenie”
+. Odrzucenie następuje wtedy, gdy rzeczywiście zachodzi ustawowa przesłanka, np. niezgodność treści oferty z warunkami zamówienia. Art. 226 ust. 1 pkt 5 Pzp jest właśnie podstawą odrzucenia oferty w przypadku takiej niezgodności.
+8. Formularz ofertowy
+W formularzu powinieneś mieć
+jedną zasadniczą cenę
+.
+CENA OFERTOWA
+Oferujemy wykonanie całego przedmiotu zamówienia zgodnie z wymaganiami określonymi w SWZ za:
+Cena netto:
+........................................ zł
+Podatek VAT:
+........................................ zł
+Cena brutto:
+........................................ zł
+Słownie cena brutto:
+....................................................................................
+Oświadczamy, że podana cena brutto ma charakter
+ryczałtowy
+i obejmuje wszystkie koszty niezbędne do wykonania całego przedmiotu zamówienia zgodnie z dokumentacją zamówienia.
+Oświadczamy, że wraz z ofertą składamy szczegółowy kosztorys ofertowy sporządzony zgodnie z wymaganiami SWZ.
+Oświadczamy, że zapoznaliśmy się z całością dokumentacji zamówienia i uwzględniliśmy w cenie ofertowej wszystkie koszty związane z realizacją przedmiotu zamówienia.
+Oświadczamy, że zobowiązujemy się do wykonania całego zakresu robót wynikającego z dokumentacji zamówienia.
+9. Załącznik do SWZ – przedmiar
+Przedmiar dajesz jako
+osobny załącznik do SWZ
+.
+Najlepiej np.:
+Załącznik nr X – Przedmiar robót
+I na pierwszej stronie przedmiaru:
+UWAGA:
+Przedmiar robót ma charakter pomocniczy i służy do przygotowania oferty oraz sporządzenia kosztorysu ofertowego. Zakres przedmiotu zamówienia wynika z dokumentacji projektowej, opisu przedmiotu zamówienia oraz pozostałych dokumentów zamówienia.
+To bardzo ważne przy ryczałcie.
+10. Załącznik – wzór kosztorysu ofertowego
+Daj wykonawcom
+wzór tabeli
+, zamiast pozwalać każdemu robić kosztorys w zupełnie innej formie.
+Przykładowe kolumny:
+Lp.
+Podstawa
+Opis
+J.m.
+Ilość
+Robocizna
+Materiały
+Sprzęt
+Kp
+Zysk
+Cena jedn.
+Wartość netto
+1
+KNR…
+…
+m²
+…
+…
+…
+…
+…
+…
+…
+…
+2
+KNR…
+…
+m³
+…
+…
+…
+…
+…
+…
+…
+…
+3
+KNR…
+…
+szt.
+…
+…
+…
+…
+…
+…
+…
+…
+RAZEM
+…
+Na końcu:
+Wartość netto:
+… zł
+VAT:
+… zł
+Wartość brutto kosztorysu:
+… zł
+I tu bardzo ważne:
+wartość brutto kosztorysu nie jest ceną ofertową
+, jeżeli różni się od ceny z formularza. Cena ofertowa jest w Formularzu ofertowym.
+11. Projektowane postanowienia umowy
+W umowie też musisz to spiąć.
+Wprowadziłbym osobny paragraf:
+Wynagrodzenie Wykonawcy
+Za wykonanie przedmiotu Umowy Wykonawcy przysługuje wynagrodzenie ryczałtowe w wysokości:
+netto: ................................ zł
+VAT: ................................ zł
+brutto: ................................ zł
+Wynagrodzenie, o którym mowa w ust. 1, obejmuje wykonanie całego przedmiotu Umowy zgodnie z dokumentacją zamówienia.
+Szczegółowy kosztorys ofertowy stanowiący załącznik do Umowy ma charakter pomocniczy i nie stanowi podstawy do bieżącego rozliczania podstawowego zakresu robót.
+Wykonawca zobowiązany jest wykonać wszystkie roboty wynikające z dokumentacji zamówienia w ramach wynagrodzenia ryczałtowego, niezależnie od sposobu ich ujęcia w kosztorysie ofertowym.
+Pominięcie lub niedoszacowanie przez Wykonawcę poszczególnych pozycji kosztorysu ofertowego nie stanowi podstawy do zwiększenia wynagrodzenia ryczałtowego, jeżeli obowiązek wykonania tych robót wynikał z dokumentacji zamówienia.
+Ceny jednostkowe zawarte w kosztorysie ofertowym mogą zostać wykorzystane pomocniczo do ustalenia wartości robót w przypadkach zmian zakresu przedmiotu Umowy, jeżeli możliwość dokonania takich zmian oraz sposób ustalenia ich wartości zostały przewidziane w Umowie.
+Wykorzystanie cen jednostkowych z kosztorysu ofertowego przy rozliczeniu zmian Umowy nie zmienia ryczałtowego charakteru wynagrodzenia za podstawowy zakres przedmiotu Umowy.
+12. Co z przedmiotowym środkiem dowodowym?
+W Twojej sytuacji zrobiłbym w SWZ osobny rozdział:
+„Informacja o przedmiotowych środkach dowodowych”
+i wpisał:
+Zamawiający nie wymaga złożenia przedmiotowych środków dowodowych.
+A kosztorys umieścił w:
+„Dokumenty składane wraz z ofertą”
+To jest
+moja rekomendacja
+.
+Dlaczego? Bo art. 106 Pzp definiuje PŚD jako dokumenty mające potwierdzać, że oferowane roboty spełniają wymagania/cechy/kryteria określone przez Zamawiającego.
+Jeżeli natomiast zrobicie:
+„Kosztorys szczegółowy jest PŚD”
+to automatycznie wchodzicie w art. 107: musi być złożony z ofertą, a możliwość jego uzupełnienia zależy od tego, czy przewidzieliście ją w ogłoszeniu lub dokumentach zamówienia.
+Nie widzę tutaj korzyści, żeby sobie to dodatkowo komplikować.
+13. Ostateczna mapa Twojej dokumentacji
+Czyli całość powinna wyglądać mniej więcej tak:
+Dokument / część SWZ
+Co wpisujesz
+SWZ – OPZ
+zakres zamówienia + charakter pomocniczy przedmiaru
+SWZ – dokumenty składane z ofertą
+obowiązek złożenia szczegółowego kosztorysu
+SWZ – sposób sporządzenia kosztorysu
+metoda szczegółowa + wymagane kolumny
+SWZ – sposób obliczenia ceny
+ryczałt + wszystkie koszty
+SWZ – kryteria oceny
+cena brutto z formularza, np. 100%
+SWZ – badanie ofert
+wyjaśnienia + art. 223 + omyłki
+Formularz ofertowy
+jedna cena netto/VAT/brutto
+Załącznik – przedmiar
+dokument pomocniczy
+Załącznik – kosztorys
+wzór szczegółowego kosztorysu
+Projekt umowy
+ryczałt + kosztorys pomocniczy + zasady zmian
+PŚD
+najlepiej: brak PŚD
+Najważniejsza zasada
+Nie róbcie tak:
+przedmiar → kosztorys → suma kosztorysu = wynagrodzenie.
+Bo to zaczyna przypominać wynagrodzenie kosztorysowe.
+Róbcie tak:
+dokumentacja projektowa + OPZ + przedmiar pomocniczy → kalkulacja wykonawcy → kosztorys szczegółowy →
+jedna cena ryczałtowa w formularzu
+.
+Wtedy kosztorys jest narzędziem pomocniczym, a
+zobowiązanie wykonawcy i wynagrodzenie opierają się na cenie ryczałtowej i pełnym zakresie zamówienia
+.
+I jeszcze jedno: jeżeli kolega chce
+koniecznie, żeby brak kosztorysu skutkował odrzuceniem
+, to przed wpisaniem takiego postanowienia zatrzymałbym się. Wtedy trzeba przeanalizować konstrukcję kosztorysu pod kątem art. 226 ust. 1 pkt 5 i orzecznictwa KIO, bo nie wystarczy samo napisanie w SWZ „kosztorys obowiązkowy”. To jest właśnie miejsce, w którym najłatwiej stworzyć wykonawcy podstawę do odwołania.
+Jeśli chcesz, mogę w kolejnym kroku zrobić Ci
+cały gotowy „Rozdział XV – Sposób obliczenia ceny” do wklejenia do SWZ
+, już w stylu typowej polskiej dokumentacji przetargowej, z numeracją ustępów i bez komentarzy.

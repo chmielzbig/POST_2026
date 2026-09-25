@@ -1,0 +1,447 @@
+ŹRÓDŁO: RIN.271.1.9.2026 oświetlenie
+PLIK: RIN.271.1.9.2026 oświetlenie/OttttWarcie/Raport_z_przebiegu_otwarcia_ofert (24) (1).pdf
+ROZMIAR: 210740
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 07.09.2026 10:16:46
+
+
+
+Identyfikator postępowania:          ocds-148610-c03b1146-f0b9-48e4-a284-2242ee3999af
+
+Numer etapu postępowania:            1
+
+Nazwa zamówienia:                    Budowa oświetlenia ulicznego na terenie Gminy Rymanów
+
+Nazwa Zamawiającego:                 Gmina Rymanów
+
+Wyznaczony termin otwarcia ofert:    07.09.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:   07.09.2026 10:16:03
+
+Termin zakończenia otwarcia ofert:   07.09.2026 10:16:45
+
+Liczba złożonych ofert:              5
+
+W tym:
+
+        złożonych w terminie:                           4
+        wycofanych:                                     1
+
+
+
+Oferta nr 1:
+
+        Status:                               Złożono w terminie
+        Termin rozpoczęcia składania:         04.09.2026 08:50:08
+        Termin złożenia:                      04.09.2026 08:50:19
+        Całkowity czas składania oferty:      11 sek
+        Termin rozpoczęcia otwarcia:          07.09.2026 10:16:03
+        Termin zakończenia otwarcia:          07.09.2026 10:16:03
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:       26,28 MB
+        Identyfikator oferty:                 ocds-148610-c03b1146-f0b9-48e4-a284-
+         2242ee3999af:81496:01:01
+        Dane Wykonawcy, który wysłał ofertę:  FIRMA USŁUGOWA "AC-DC" SPÓŁKA Z
+         OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ|Firm Usługowa "AC-DC" Sp. z o.o.|8722426882|
+         385320433|81496
+        Hash transportowy oferty:
+
+         b1db9b21116d4fa486f6e9898d1e17d7a4d2c974dd49031437450af1bdc34a3a
+        Master hash oferty:
+
+         485a959aa171a33224cdbe8a9dd847f48559febb202a40bce76e23b0164bbda4
+        Zaszyfrowany klucz:
+
+         AHktbwz1SSLmITjA5S8fENtCN1sOrpeQJIZdTVL11v7JLPJLAukOjwK1LJB4wv4bAWLPCmLGzG
+         KpcA6v28oGeJa3pcI22dYec/dtfD74wbc/
+
+
+                                               1
+        0x9DhSjjUGTz9C2Qz0c6uuqy2s3yk5pJVf9QMgn7CmYaCjbmi4p0bhUpZEUapjA3S3Fg5OF+CJ
+        krh9e02qtQGFKzvgBH1U+AbHm8cuBjoMgvu7ljb36bjwpcY+rbiVsUCoLvp308/
+        aNqlZPrcRDYJWmkXKDxBQadZMtrDYpEvYvuaWHIIbajR71I6isvNNPFgTeWjWCY5kpXXabIYl
+        HXpG5lCNbe4F708+t/x4VZKQ==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-c03b1146-f0b9-48e4-a284-
+                   2242ee3999af_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        1008,03 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Kosztorys - oświetlenie Gminy
+                   Rymanów.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        1,73 MB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        1,24 MB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Gwarancja_920069606326-2.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        990,35 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          KARTY.zip
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        23,67 MB
+               o   czy podpisany:                        Nie
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Tak
+
+Oferta nr 2:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    06.09.2026 17:33:29
+       Termin złożenia:                                 06.09.2026 17:33:39
+
+                                                  2
+   Całkowity czas składania oferty:             10 sek
+   Termin rozpoczęcia otwarcia:                 07.09.2026 10:16:03
+   Termin zakończenia otwarcia:                 07.09.2026 10:16:03
+   Całkowity czas otwierania oferty:
+   Rozmiar scalonego pliku oferty:              76,97 MB
+   Identyfikator oferty:                        ocds-148610-c03b1146-f0b9-48e4-a284-
+    2242ee3999af:114753:01:01
+   Dane Wykonawcy, który wysłał ofertę:         EKO-SERWIS Sp. z o.o.||6842673010|
+    526454484|114753
+   Hash transportowy oferty:
+
+    5b3a53fcb47f670d49767c62c7be68b0b9c595f96df42a840cdfcab7a16506ac
+   Master hash oferty:
+
+    f149b486a1a5d0ef7d217e38aa0ea606c328ba0bdceaed69cafd2b0cc46f0681
+   Zaszyfrowany klucz:
+
+    WY1OyCQ1lkqZg0Jn0mLciQO0IivBiPVgmXR/6FP4BviJ2iY5q7PgWhq3pV1CqAVQ01bvShC0Q
+    gtDXlsHfrUTtdWGJXtQ/4ltOWeC2tb1rRDkXilglSM9aFu9/
+    iujhR6sZ169bAs+bNB+f5Y06jULulGnQ/
+    7FfM3ZmtSweoa1YX7hOwjhLAu8uSOzfCg3796Her2ybF1Gh/
+    pNPmHkBRtw17lFlIEktztjmFeZ8rA0NjNmFr1pv7zwBNPNpHrmz7odMF54chnh8DBV3oOWA
+    mgx56OXRNOgPNpqv2SWlGIKzj779sSDHVuPyEdDnrXxGzlSGoRm0bgz8tBxnG3ki3NyYg==
+   Czy udało się odszyfrować klucz oferty:  Tak
+   Czy udało się odszyfrować ofertę:        Tak
+   Czy udało się rozpakować ofertę:         Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-c03b1146-f0b9-48e4-a284-
+           2242ee3999af_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        396,14 KB
+       o   czy formularz poprawnie przetworzony: Tak
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          PŚD.zip.xades
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        10,52 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+       o   nazwa pliku:                          Odpis_Aktualny_KRS_0001059582-4.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        39,29 KB
+       o   czy podpisany:                        Nie
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+
+                                           3
+               o   nazwa pliku:                          pko_trans_details_20260904_094934.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        61,37 KB
+               o   czy podpisany:                        Nie
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+               o   nazwa pliku:                          PŚD.zip
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        74,33 MB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        961,19 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 8 do SWZ zobowiązania Podmiotu o
+                   oddaniu Wykonawcy swoich zasobów (...tyczy).pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        1,48 MB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 3:
+
+       Status:                                  Złożono w terminie
+       Termin rozpoczęcia składania:            07.09.2026 09:05:18
+       Termin złożenia:                         07.09.2026 09:05:26
+       Całkowity czas składania oferty:         8 sek
+       Termin rozpoczęcia otwarcia:             07.09.2026 10:16:03
+       Termin zakończenia otwarcia:             07.09.2026 10:16:03
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:          18,36 MB
+       Identyfikator oferty:                    ocds-148610-c03b1146-f0b9-48e4-a284-
+        2242ee3999af:26383:01:02
+       Dane Wykonawcy, który wysłał ofertę:     Firma Usługowa "El-Mag" Magdalena
+        Mysona|Firma Usługowa "El-Mag" Magdalena Mysona|8721967570|180394491|26383
+       Hash transportowy oferty:
+
+        5e9c9d0ddd8d65f8cdf0568bd758514242734eb186a3d090b6e9de9551b903a4
+       Master hash oferty:
+
+        c0c756c117750a4168c5c619bc40c0f96a92953a28a55053e209d7645903ad91
+
+
+
+                                                  4
+   Zaszyfrowany klucz:
+
+    BXz27QC457A5zchXb6DcE5I6+GCK/a3VhUP/IHCf75DW9VciqrS4GtxgA38DMnq+UJDYrAyqI
+    NJSwfd717e3wGviVAN6EMouI5jfNAXDLdqsfGeQrv3sTaJImRUdQRDkJtnwmqz1AJ4aoxtvkn
+    LsPzIEwKHZv9t7HSnrSVHwPpPBoOpMNZSdldEeFrsc7dtPdYsbtYhmKiIMVGfmi42eBSzgpW9
+    w6HKQ5/MeNvSzc3h2Jf5r4Zlq6/xQF3rzgGfU4g/
+    rxdeTqd6AwZCgvvdehShz0cbKLP0kHYFOMc1WDH4WkPLzMdtcccJTZr5uZd3nBK/
+    uyMUF3m54yveURwbrtA==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-c03b1146-f0b9-48e4-a284-
+           2242ee3999af_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        195,95 KB
+       o   czy formularz poprawnie przetworzony: Tak
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Subczak_A_04_05_11_2025_elektr.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        283,81 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          02GG29_0382_26_0002V Gwarancja-
+           sig.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        297,97 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+           wykonawcow-z-art-125-ust-1-ustawy-Pzp..pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        541,38 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          kosztorys szczegółowy - Rymanów.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        1,10 MB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+
+
+                                          5
+o   nazwa pliku:                          Cuddle II 72W 4000K optyka T3.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        2,98 MB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Iskra 36( 4000K) optyka T3.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        1,90 MB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Iskra Alfa 24 (4000K) optyka T3.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        1,95 MB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Iskra Alfa 36 (4000K) optyka DW.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        1,95 MB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Iskra Alfa 36 (4000K) optyka T3.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        1,95 MB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          Mizar 48 4000K optyka VS.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        630,65 KB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                          OW 48 4000K klosz mrożony.pdf
+o   typ pliku:                            Inny plik
+o   rozmiar pliku:                        2,71 MB
+o   czy podpisany:                        Tak
+o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+o   nazwa pliku:                           SAL-6.pdf
+o   typ pliku:                             Inny plik
+o   rozmiar pliku:                         478,55 KB
+o   czy podpisany:                         Tak
+
+
+                                    6
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          SAL-9 WL 1-1,5-3,2-5.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        466,50 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          SAL-9 WL 2-1,5 -3,2- 5.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        473,42 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          SAL-60.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        496,89 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          SAL-65.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        501,20 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+               o   nazwa pliku:                          SAL-70.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        498,16 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+Oferta nr 4:
+
+       Status:                                 Złożono w terminie
+       Termin rozpoczęcia składania:           07.09.2026 09:45:44
+       Termin złożenia:                        07.09.2026 09:45:49
+       Całkowity czas składania oferty:        5 sek
+       Termin rozpoczęcia otwarcia:            07.09.2026 10:16:03
+       Termin zakończenia otwarcia:            07.09.2026 10:16:03
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:         5,45 MB
+       Identyfikator oferty:                   ocds-148610-c03b1146-f0b9-48e4-a284-
+        2242ee3999af:64272:01:01
+       Dane Wykonawcy, który wysłał ofertę:    F.H.U."ALMAX" ANETA LIWOSZ|
+        F.H.U."ALMAX" ANETA LIWOSZ|6841419870|180629646|64272
+
+
+
+                                                  7
+   Hash transportowy oferty:
+
+    abb895fc71773e4e979493ed6ed4e80fdc93836e69932d69927fce8048a483b6
+   Master hash oferty:
+
+    a1ba66ab833933ff343611b2556d1c55417aab69f93366220a2757eca1cc8438
+   Zaszyfrowany klucz:
+
+    hfnvQB7JzYU1WIRVUA4fz10iS926fiuURYrZLUe5d3Thyj0uvSg1GCI67JepkLE3HEFmiXTmKgZA
+    MeAhhog3pYbvUwslGw05IH16i5KD0XvtzRgiW9b0T9PEjK7VlVczcLIc/PRLL4/
+    JrOAcaa7QD+ahOmAJuzc0FzSb969azFaT3pbfi0b/
+    P0figFQjvmuM1n+hJZ+T6xXCTJTu2KMLiTgFdlJhssaX4/dravTGStX1cWswDY9D3jE/
+    yvWqevpd+yiZS1nEQSQGzbUXNtzp71bG5+a/zngfudAL/F+MpmOr/
+    uD2Tb5fFZZQFqZKB+Vi1bJL8xTt25/WK/n4Ewdj5w==
+   Czy udało się odszyfrować klucz oferty:  Tak
+   Czy udało się odszyfrować ofertę:        Tak
+   Czy udało się rozpakować ofertę:         Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-c03b1146-f0b9-48e4-a284-
+           2242ee3999af_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        203,98 KB
+       o   czy formularz poprawnie przetworzony: Nie
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Kosztorys ofertowy Budowa Oświetlenia
+           ulicznego Rymanów.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        380,16 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Oświadczenie Wykonawcy.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        575,85 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Środki dowodowe.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        4,60 MB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+
+
+
+                                          8
+Oferta nr 5:
+
+       Status:                                  Wycofano
+       Termin rozpoczęcia składania:            07.09.2026 08:58:47
+       Termin złożenia:                         07.09.2026 08:58:51
+       Całkowity czas składania oferty:         4 sek
+       Termin wycofania oferty:                 07.09.2026 09:01:57
+       Rozmiar scalonego pliku oferty:          18,36 MB
+       Identyfikator oferty:                    ocds-148610-c03b1146-f0b9-48e4-a284-
+        2242ee3999af:26383:01:01
+       Dane Wykonawcy, który wysłał ofertę:     Firma Usługowa "El-Mag" Magdalena
+        Mysona|Firma Usługowa "El-Mag" Magdalena Mysona|8721967570|180394491|26383
+       Hash transportowy oferty:
+
+        dcd844a0d691fe7f75f50d3ee728a9f2e69fae89daa192fa459c541bac34b286
+       Master hash oferty:
+
+        424a2fd9aa4615f09cb4422fbbd9b6e33b99d96920083d50048cec9c0aaff1b9
+       Zaszyfrowany klucz:
+
+        bFqmot+O2y30j96ZE6yo5lW9kbi0JJyDPz5KB0ga5aHMKWxxfMIMMOEkT3HbTmE8ogDgscQl
+        HV/joI0/
+        DYodZK7syskKbsQj2m1jCGQpcpgFOPjH08rzJqmiXOGxAJWv1Cz20v1cXfcLfCskVyQ5Vwk/
+        0ygfMLPx7+1UOcGzxzVb1iW5v9nEw2s66FDT1bzskZa/
+        8WMdn+DEQjw0bvoXbv5Hck0O5yMhUm26/Gh/
+        rrr+fA3InajY3ipRpQjJIhVIwwuM4ODc9OCzpAsY3FC+Z6DTori2sz9G0wex6PqpxITAV1DYPTp2
+        jFt5dnuavl412u9yqg7QLiXNPiDs5MphAQ==
+
+
+
+
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                              9
+

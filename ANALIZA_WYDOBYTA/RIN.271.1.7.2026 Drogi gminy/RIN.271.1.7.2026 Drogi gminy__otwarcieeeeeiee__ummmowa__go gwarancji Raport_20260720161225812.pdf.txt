@@ -1,0 +1,63 @@
+ŹRÓDŁO: RIN.271.1.7.2026 Drogi gminy
+PLIK: RIN.271.1.7.2026 Drogi gminy/otwarcieeeeeiee/ummmowa/go gwarancji Raport_20260720161225812.pdf
+ROZMIAR: 66736
+
+Szafir 2.0.0 (build 704)                                                              2026-07-20 16:12:25
+
+
+
+
+                                                                                  elektronicznypodpis.pl
+
+
+
+
+                             Raport z weryfikacji podpisu
+
+INFORMACJE O DOKUMENCIE:
+Nazwa pliku                      GUG-2400123-1503-2601398 oraz GUG-2400123-1504-2601399.pdf
+Liczba podpisów                  1
+Data weryfikacji podpisów        2026-07-20 16:12:25
+
+SZCZEGÓŁY WERYFIKACJI:
+
+Podpis: 1 - Pozytywny
+Rodzaj certyfikatu               Kwalifikowany
+Format podpisu                   PAdES-T
+Data złożenia podpisu            2026-07-20 15:44:11
+Podpis zawiera znacznik czasu    Data znacznika czasu: 2026-07-20 15:44:12
+
+                                 Rodzaj certyfikatu: Kwalifikowany
+                                 Data ważności certyfikatu: 2035-12-14 00:59:59
+                                 Wystawca znacznika czasu: organizationIdentifier=VATPL-
+                                 5170359458,CN=Certum QTSA G3 R35,O=Asseco Data Systems S.A.,C=PL
+Certyfikat podpisującego /       Nazwa powszechna: Jolanta Marcinkiewicz
+składającego pieczęć             Kraj: PL
+Numer seryjny certyfikatu        140097301297177677235594266372804346296
+Wystawca certyfikatu             Nazwa powszechna: Certum QCA 2017
+                                 Nazwa organizacji: Asseco Data Systems S.A.
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-5170359458
+Lista CRL wykorzystana do        -
+weryfikacji certyfikatu
+Odpowiedź OCSP wykorzystana do   Status: GOOD
+weryfikacji certyfikatu          ArchiveCutOff: 15 Mar 2017 10:17:34 GMT
+
+                                 organizationIdentifier=VATPL-5170359458
+                                 CN=OCSP Certum QCA 2017
+                                 O=Asseco Data Systems S.A.
+                                 C=PL - 20 Jul 2026 14:12:23 GMT
+Zweryfikowano na dzień           2026-07-20 15:44:12 (Znacznik czasu)
+Status weryfikacji               Pozytywny
+                                 Kwalifikowany podpis poprawnie zweryfikowany certyfikatem
+                                 kwalifikowanym
+Uwagi                            Weryfikowany podpis został uznany za kwalifikowany. Zgodnie z Art. 25.
+                                 Punkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z
+                                 23 lipca 2014 r. kwalifikowany podpis elektroniczny ma skutek prawny
+                                 równoważny podpisowi własnoręcznemu.
+
+
+
+
+                                                  1
+

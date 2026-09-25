@@ -1,0 +1,134 @@
+ŹRÓDŁO: RIN.271.1.6.2026 Cyber Serw 2
+PLIK: RIN.271.1.6.2026 Cyber Serw 2/umowa do podpis/Raport_20260611130822599.pdf
+ROZMIAR: 74641
+
+Szafir 2.0.0 (build 704)                                                                 2026-06-11 13:08:22
+
+
+
+
+                                                                                      elektronicznypodpis.pl
+
+
+
+
+                             Raport z weryfikacji podpisu
+
+INFORMACJE O DOKUMENCIE:
+Nazwa pliku                      Umowa RIN.272.1.6.20226 z dn.9.06 serwCS.pdf
+Liczba podpisów                  3
+Data weryfikacji podpisów        2026-06-11 13:08:22
+
+SZCZEGÓŁY WERYFIKACJI:
+
+Podpis: 1 - Pozytywny
+Rodzaj certyfikatu               Kwalifikowany
+Format podpisu                   PAdES-BES
+Data złożenia podpisu            2026-06-10 12:48:58
+Podpis zawiera znacznik czasu    Brak
+Certyfikat podpisującego /       Nazwa powszechna: Grzegorz Marek Wołczański
+składającego pieczęć             Kraj: PL
+Numer seryjny certyfikatu        627729780932312322762896008633367102368082863404
+Wystawca certyfikatu             Nazwa powszechna: COPE SZAFIR - Kwalifikowany
+                                 Nazwa organizacji: Krajowa Izba Rozliczeniowa S.A.
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-5260300517
+Lista CRL wykorzystana do        -
+weryfikacji certyfikatu
+Odpowiedź OCSP wykorzystana do   Status: GOOD
+weryfikacji certyfikatu          ArchiveCutOff: 13 Mar 2017 14:07:47 GMT
+
+                                 CN=COPE SZAFIR OCSP Responder OZK62
+                                 O=Krajowa Izba Rozliczeniowa S.A.
+                                 L=Warszawa
+                                 ST=mazowieckie
+                                 C=PL - 11 Jun 2026 11:07:26 GMT
+Zweryfikowano na dzień           2026-06-11 13:07:26 (Bieżący czas systemowy)
+Status weryfikacji               Pozytywny
+                                 Kwalifikowany podpis poprawnie zweryfikowany certyfikatem
+                                 kwalifikowanym
+Uwagi                            Weryfikowany podpis został uznany za kwalifikowany. Zgodnie z Art. 25.
+                                 Punkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z
+                                 23 lipca 2014 r. kwalifikowany podpis elektroniczny ma skutek prawny
+                                 równoważny podpisowi własnoręcznemu.
+
+
+Podpis: 2 - Pozytywny
+Rodzaj certyfikatu               Kwalifikowany
+Format podpisu                   PAdES-BES
+Data złożenia podpisu            2026-06-10 12:49:18
+Podpis zawiera znacznik czasu    Brak
+Certyfikat podpisującego /       Nazwa powszechna: Bernarda Elżbieta Łożańska
+składającego pieczęć             Kraj: PL
+Numer seryjny certyfikatu        359523452697111971320180009384961252466578644564
+Wystawca certyfikatu             Nazwa powszechna: COPE SZAFIR - Kwalifikowany
+                                 Nazwa organizacji: Krajowa Izba Rozliczeniowa S.A.
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-5260300517
+Lista CRL wykorzystana do        -
+weryfikacji certyfikatu
+
+
+
+                                                  1
+Szafir 2.0.0 (build 704)                                                              2026-06-11 13:08:22
+
+
+Odpowiedź OCSP wykorzystana do   Status: GOOD
+weryfikacji certyfikatu          ArchiveCutOff: 13 Mar 2017 14:07:47 GMT
+
+                                 CN=COPE SZAFIR OCSP Responder OZK62
+                                 O=Krajowa Izba Rozliczeniowa S.A.
+                                 L=Warszawa
+                                 ST=mazowieckie
+                                 C=PL - 11 Jun 2026 11:07:34 GMT
+Zweryfikowano na dzień           2026-06-11 13:07:34 (Bieżący czas systemowy)
+Status weryfikacji               Pozytywny
+                                 Kwalifikowany podpis poprawnie zweryfikowany certyfikatem
+                                 kwalifikowanym
+Uwagi                            Weryfikowany podpis został uznany za kwalifikowany. Zgodnie z Art. 25.
+                                 Punkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z
+                                 23 lipca 2014 r. kwalifikowany podpis elektroniczny ma skutek prawny
+                                 równoważny podpisowi własnoręcznemu.
+
+
+Podpis: 3 - Pozytywny
+Rodzaj certyfikatu               Kwalifikowany
+Format podpisu                   PAdES-T
+Data złożenia podpisu            2026-06-10 19:41:36
+Podpis zawiera znacznik czasu    Data znacznika czasu: 2026-06-10 19:41:38
+
+                                 Rodzaj certyfikatu: Kwalifikowany
+                                 Data ważności certyfikatu: 2035-12-14 00:59:59
+                                 Wystawca znacznika czasu: organizationIdentifier=VATPL-
+                                 5170359458,CN=Certum QTSA G3 R35,O=Asseco Data Systems S.A.,C=PL
+Certyfikat podpisującego /       Nazwa powszechna: Tomasz Kosatka
+składającego pieczęć             Kraj: PL
+Numer seryjny certyfikatu        70008692223035791561203426349114360372
+Wystawca certyfikatu             Nazwa powszechna: Certum QCA 2017
+                                 Nazwa organizacji: Asseco Data Systems S.A.
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-5170359458
+Lista CRL wykorzystana do        -
+weryfikacji certyfikatu
+Odpowiedź OCSP wykorzystana do   Status: GOOD
+weryfikacji certyfikatu          ArchiveCutOff: 15 Mar 2017 10:17:34 GMT
+
+                                 organizationIdentifier=VATPL-5170359458
+                                 CN=OCSP Certum QCA 2017
+                                 O=Asseco Data Systems S.A.
+                                 C=PL - 11 Jun 2026 11:08:18 GMT
+Zweryfikowano na dzień           2026-06-10 19:41:38 (Znacznik czasu)
+Status weryfikacji               Pozytywny
+                                 Kwalifikowany podpis poprawnie zweryfikowany certyfikatem
+                                 kwalifikowanym
+Uwagi                            Weryfikowany podpis został uznany za kwalifikowany. Zgodnie z Art. 25.
+                                 Punkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z
+                                 23 lipca 2014 r. kwalifikowany podpis elektroniczny ma skutek prawny
+                                 równoważny podpisowi własnoręcznemu.
+
+
+
+
+                                                  2
+

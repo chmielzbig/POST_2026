@@ -1,0 +1,140 @@
+ŹRÓDŁO: RIN.271.1.9.2026 oświetlenie
+PLIK: RIN.271.1.9.2026 oświetlenie/Pytania/3_Pyt/42972-pl-SAL DP-607G-2026-07-27.pdf
+ROZMIAR: 458615
+
+Oświetleniowy
+
+
+Słup aluminiowy SAL DP-607G
+146 mm przy podstawie
+
+
+                                                                             DANE TECHNICZNE
+                                                                             Anodowanie                 10 kolorów
+
+                                                                             Montaż oprawy              bezpośrednio na słupie, oprawy z mocowaniem ø60mm o
+                                                                                                        parametrach wagi i powierzchni nie przekraczających danych z
+                                                                                                        tabeli wytrzymałościowej
+
+                                                                             Typ stosowanych            wg tabeli wytrzymałościowej
+                                                                             wysięgników
+
+                                                                             Pakowanie                  włóknina polipropylenowa
+
+                                                                             Właściwości przy           50-NE-B-S-SE-MD-0,
+                                                                             uderzeniu pojazdu          70-NE-B-S-SE-MD-0,
+                                                                             (bezpieczeństwo            100-NE-B-S-SE-MD-0
+                                                                             bierne)
+
+                                                                             Średnica przy podstawie 146 mm
+
+                                                                             Wykończenie                szlifowane anodowane aluminium - grubość powłoki anody
+                                                                                                        standardowo wynosi 20µm (możliwość wykonania również
+                                                                                                        powłoki o grubości 25µm), opcja zabezpieczenia elastomerem do
+                                                                                                        wysokości 350 mm, w kolorze zbliżonym do koloru anody
+                                                                                                        (możliwa inna wysokość lub kolor elastomeru wg palety RAL na
+                                                                                                        życzenia klienta) - grubość powłoki zabezpieczającej wynosi od
+                                                                                                        0,8 mm do 1,2 mm
+
+                                                                             Średnica zakończenia       ø60 x 180 mm przystosowane do montażu wysięgników ROSA (z
+                                                                             słupa                      efektem licującej się głowicy) oraz opraw ROSA (zgodnie z
+                                                                                                        parametrem montażu zawartym w karcie technicznej oprawy)
+
+
+
+
+                                                                                65.98 kg
+
+
+
+
+                                                                 10
+
+
+
+                                                                                 TABELA WARIANTÓW
+                                                                                                          Typ
+                                                                            Grubość                                     Kod fundamentu /        Komplet
+                                                                Wysokość                  Objętość        fundamentu
+                                Kod            Nazwa                        ścianki                                     kosza                   elementów       Waga netto
+                                                                H                         jednostkowa     / kosza
+                                                                            słupa                                       zbrojeniowego           złącznych
+                                                                                                          zbrojeniowego
+
+                                42972/C…       SAL DP-607G      6m          4,2 mm        0,187 m³        B-51 / Z-51      311151 / 311251      4008            28,5 kg
+
+
+
+                                                                            TABELA WYTRZYMAŁOŚCIOWA
+                                                        SAL DP-607G                                  Dopuszczalna powierzchnia boczna pojedynczej oprawy [m2] dla Cx=1
+                                                         kod 42972                                Vref. = 22 m/s        Vref. = 24 m/s       Vref. = 26 m/s      Vref. = 28 m/s
+
+
+                                                                             dopuszczalna                                  I i III strefa,                           III strefa,
+                                                                                                 I strefa, II kateg.                             II strefa,
+                                  kod wysięgnika         typ wysięgnika     waga pojedynczej                            II kateg. terenu                         II kateg. terenu
+                                                                                                       terenu                                II kateg. terenu
+                                                                                oprawy                                  do 450m n.p.m.                           do 755m n.p.m.
+
+
+                                           -                      -                  30                 0,68                  0,55                0,44                0,37
+
+                                      47114101           WA-14S/1 fi42               10                 0,61                  0,47                0,34                0,27
+
+                                      47114201           WA-14S/2 fi42                8                 0,23                  0,16                0,10                0,06
+
+                                       471701                WA-17/1 fi42            10                 0,33                  0,24                0,15                0,10
+
+                                      47120101           WA-20S/1 fi42               10                 0,38                  0,28                0,19                0,13
+
+                                      47120201           WA-20S/2 fi42                8                 0,09                    x                   x                     x
+
+                                       471031                WA-31 fi42              10                 0,34                  0,24                0,16                0,09
+
+                                       472071                WR-7/1/0,5              15                 0,64                  0,50                0,39                0,32
+
+                                       472072                WR-7/2/0,5              10                 0,28                  0,22                0,16                0,13
+
+                                      472230/42        WR-23A/1/0,76 fi42            15                 0,46                  0,35                0,26                0,20
+
+                                      472331/42         WR-33/1/0,76 fi42            15                 0,46                  0,35                0,26                0,20
+
+                                      472431/42         WR-43/1/0,8 fi42             15                 0,53                  0,42                0,33                0,27
+
+                                      472531/42          WR-53/1/1 fi42              15                 0,40                  0,31                0,23                0,18
+
+
+Data aktualizacji: 27-07-2026                                                                    Zakład Produkcji Sprzętu Oświetleniowego „ROSA” Sp. z o.o.
+                                                                                                          43-109 Tychy, ul. Strefowa 1 tel. +48 32 73 88 901
+                                                                                                                                               www.rosa.pl
+Oświetleniowy
+
+
+Słup aluminiowy SAL DP-607G
+146 mm przy podstawie
+
+
+                                                 SAL DP-607G                               Dopuszczalna powierzchnia boczna pojedynczej oprawy [m2] dla Cx=1
+                                                  kod 42972                             Vref. = 22 m/s       Vref. = 24 m/s       Vref. = 26 m/s     Vref. = 28 m/s
+
+
+                                                                     dopuszczalna                               I i III strefa,                          III strefa,
+                                                                                       I strefa, II kateg.                            II strefa,
+                                kod wysięgnika    typ wysięgnika    waga pojedynczej                         II kateg. terenu                        II kateg. terenu
+                                                                                             terenu                               II kateg. terenu
+                                                                        oprawy                               do 450m n.p.m.                          do 755m n.p.m.
+
+
+                                   472731        WR-73/1/0,5 fi42         15                  0,59                 0,46                0,35               0,28
+
+
+
+                                                                         KOLORY ANODOWANIA
+
+
+
+
+Data aktualizacji: 27-07-2026                                                          Zakład Produkcji Sprzętu Oświetleniowego „ROSA” Sp. z o.o.
+                                                                                                43-109 Tychy, ul. Strefowa 1 tel. +48 32 73 88 901
+                                                                                                                                     www.rosa.pl
+

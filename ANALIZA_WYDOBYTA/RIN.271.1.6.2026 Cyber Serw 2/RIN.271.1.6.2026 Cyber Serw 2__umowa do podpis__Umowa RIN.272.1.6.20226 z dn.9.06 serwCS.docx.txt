@@ -1,0 +1,633 @@
+ŹRÓDŁO: RIN.271.1.6.2026 Cyber Serw 2
+PLIK: RIN.271.1.6.2026 Cyber Serw 2/umowa do podpis/Umowa RIN.272.1.6.20226 z dn.9.06 serwCS.docx
+ROZMIAR: 157043
+
+Umowa nr
+RI
+N.272.1.6.2026
+zawarta w
+dniu
+9 czerwiec 2026
+r. w Rymanowie, pomiędzy:
+Gminą Ry
+manów, ul. Mitkowskiego 14A, 38
+-480 Rymanów, NIP: 6842377352
+reprezentowaną przez Pana
+Grzegorza
+Wołczańskiego
+– Burmistrza Gminy Rymanów, Panią Bernardę Łożańską – Skarbnika Gminy Rymanów, zwaną dalej
+Zamawiającym,
+a
+JT-Systems Sp. z o.o., ul. Władysława Łokietka 27, 70-255 Szczecin, NIP 8522700002
+, reprezentowaną przez Pana Tomasza Kosatka – Członek Zarządu
+– zwanym w dalszej części umowy
+Wykonawcą,
+łącznie zwanymi
+Stronami
+na podstawie dokonanego przez Zamawiającego wyboru oferty Wykonawcy w wyniku postępowania o udzielenie zamówienia publicznego prowadzonego w trybie podstaw
+owym na podstawie art. 275 pkt
+1 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (
+Dz.U.2024.1320 t.j. z dnia 2024.08.30
+) zwanej dalej także „ustawa ” pn.:
+„
+Poprawa obszaru technicznego poprzez zakup urządzeń oraz oprogramowania z zakresu
+cyberbezpieczeństwa
+UG Rymanów” w ramach
+proj
+“
+Cyberbezpieczny
+samorząd”
+obejmująca
+„
+Dostaw
+ę
+, montaż wraz z uruchomieniem sprzętu komputerowego – fabrycznie nowego (tj.: serwer, macierz,
+deduplikator
+, NAS) oraz zasilaczy awaryjnych – 3 sztuk, wdrożenie centralnego  systemu bezpieczeństwa oprogramowania klasy SIEM wraz z wdrożeniem, Szkoleniem z VEEAM: Zakres: Zakup fabrycznie nowego sprzętu komputerowego serwera, macierzy,
+deduplikatora
+oraz NAS, 3 sztuk zasilaczy awaryjnych, wdrożenie wraz ze szkoleniem, dostawa i wdrożenie centralnego systemu bezpieczeństwa oprogramowania klasy SIEM oraz szkolenie z zakresu obsługi VEEAM
+”
+została zawarta umowa o
+następującej treści:
+§1
+Przedmiot Umowy
+Zamawiający zleca, a Wykonawca przyjmuje do wykonania dostawę
+, montaż wraz z uruchomieniem sprzętu komputerowego – fabrycznie nowego (tj.: serwer, macierz,
+deduplikator
+, NAS) oraz zasilaczy awaryjnych – 3 sztuk, wdrożenie centralnego  systemu bezpieczeństwa oprogramowania klasy SIEM wraz z wdrożeniem, Szkoleniem z VEEAM: Zakres: Zakup fabrycznie nowego sprzętu komputerowego serwera, macierzy,
+deduplikatora
+oraz NAS, 3 sztuk zasilaczy awaryjnych, wdrożenie wraz ze szkoleniem, dostawa i wdrożenie centralnego systemu bezpieczeństwa oprogramowania klasy SIEM oraz szkolenie z zakresu obsługi VEEAM”
+do siedziby Zamawiającego. Wykonawca dokona dostawy przedmiotu zamówienia zgodnie z parametrami określonymi w
+szczegółowym opisie przedmiotu zamówienia z kalkulacją cen jednostkowych – załącznik nr 1 - , który będzie nieużywany, kompletny, wolny od wszelkich wad
+. Wykonawca dostarczy również wymagane prawem certyfikaty, deklaracje zgodności CE, instrukcje obsługi sprzętu , dokumenty gwarancyjne.
+Wykaz przedmiotu zamówienia zawiera „Szczegółowy opis przedmiotu zamówienia z kalkulacją cen jednostkowych” będący załącznikiem nr 1 do Umowy.
+Wykonawca ponosi odpowiedzialność za dotrzymanie deklarowanych warunków realizacji
+przedmiotu Umowy przedstawionych w ofercie.
+§2
+Termin realizacji Umowy
+Termin realizacji
+90
+dni
+od dnia podpisania umowy tj.
+do dnia
+7
+września
+202
+6
+r.
+§ 3
+Wartość umowy i sposób płatności
+Strony ustalają cenę za przedmiot umowy na podstawie oferty Wykonawcy w kwocie:
+573 878,64
+zł brutto
+(słownie:
+pięćset siedemdziesiąt trzy tysiące osiemset siedemdziesiąt osiem złotych, 64/100
+)
+w tym kwotę netto
+466 568,00
+(słownie:
+czterysta sześćdziesiąt sześć tysięcy pięćset sześćdziesiąt osiem
+zł
+otych, /100
+).
+Cena zawiera w sobie wszelkie koszty Wykonawcy wynikające z realizacji przedmiotu Umowy, w tym w szczególności udzielone licencje na warunkach określonych w załączniku, upusty, rabaty, cła, marże, koszty związane z transportem: załadunek, dowóz, wyładunek pod adres wskazany przez Zamawiającego i nie ulegnie zwiększeniu w
+okresie obowiązywania niniejszej umowy.
+Rozliczenie końcowe dostawy nastąpi fakturą końcową po dostarczeniu całości
+przedmiotu zamówienia
+zgodnego
+z szczegółowym
+opisie przedmiotu zamówienia – załącznik nr 1, oraz wol
+nego
+od wad.
+Wykonawca przedłoży fakturę w terminie nie dłuższym 30 dni od podpisania
+protokół
+odbioru
+przedmiotu zamówienia
+przez przedstawicieli Zamawiającego i
+Wykonawcy
+.
+Faktura opłacana będzie na konto Wykonawcy
+75 1050 1559 1000 0090 8288 9461
+w ciągu 30 dni od dnia dostarczenia prawidłowo wystawionej faktury wraz z protokołem odbioru podpisanego przez obie strony.
+W związku z wejściem w życie obowiązku stosowania przepisów nakładających obowiązek wystawiania faktur ustrukturyzowanych w Krajowym Systemie e-Faktur (
+KSeF
+), Strony ustalają, że:
+za datę doręczenia faktury do Gminy Rymanów uznaje się datę przydzielenia tej fakturze numeru identyfikującego w
+KSeF
+, z zastrzeżeniem wyjątków, o których mowa w art. 106ne ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775 z późn. zm., dalej ustawa o VAT)
+w przypadku wystąpienia okoliczności określonych w art. 106ne ust. 1 ustawy o VAT, Wykonawca przekazuje fakturę do Gminy Rymanów w sposób określony w art. 106nf
+tej ustawy,
+d
+la prawidłowego doręczania faktur w Krajowym Systemie e-faktur (
+KSeF
+) kontrahent zobowiązany jest do wskazania w fakturze
+ustruktyzowanej
+:
+- w węźle Dane nabywcy - podmiot2:
+Gmina Rymanów ul. Mitkowskiego 14A, 38-480 Rymanów NIP: 6842377352 oraz wartość „1” w polu znacznikowym JST;
+- w węźle - podmiot3 danych właściwej jednostki organizacyjnej naszej gminy: Urząd Gminy w Rymanowie, NIP: 6841003313, oraz wskazanie w polu Rola wartości „8” (oznaczającej rolę: JST – odbiorca)”
+Za datę zapłaty strony przyjmują datę obciążenia rachunku Zamawiającego.
+Zamawiający oświadcza,  że Wykonawca może przesyłać ustrukturyzowane faktury elektronicz
+ne, o których mowa w art. 2 pkt
+4 ustawy z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych
+,
+koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym
+(Dz.U. z 20
+26
+r., poz.
+276
+), tj. faktury spełniające wymagania umożliwiające przesyłanie za pośrednictwem plat
+formy faktur elektronicznych, o których mowa w art. 2 pkt
+32 ustawy z dnia 11 marca 2004 r. o podatku  od towarów i usług (tj. Dz. U. z 202
+5
+r. poz.
+775
+). Zamawiający informuje, iż posiada konto na platformie elektronicznego fakturowania (w skrócie: PEF), umożliwiające odbiór i przesyłanie ustrukturyzowanych faktur elektronicznych oraz innych ustrukturyzowanych dokumentów elektronicznych za swoim pośrednictwem, a
+także przy wykorzystaniu systemu teleinformatycznego obsługiwanego przez Open PEPPOL, której funkcjonowanie zapewnia Minister Przedsiębiorczości i Technologii z
+siedzibą przy Placu Trzech Krzyży 3/5, 00-507 Warszawa. Platforma dostępna jest pod adresem:
+https://efaktura.gov.pl/uslugi-pef/
+.
+Wykonawca zamierzający wystawić ustrukturyzowane faktury elektroniczne za pośrednictwem PEF zobowiązany jest do uwzględniania czasu pracy Zamawiającego, umożliwiającego Zamawiającemu terminowe wywiązanie się z zapłaty wynagrodzenia Wykonawcy. W szczególności Zamawiający informuje że przesłanie ustrukturyzowanych faktur winno nastąpić w godzinach
+: 7:30-14:30 od poniedziałku do piątku.
+W przypadku przesłania ustrukturyzowanej faktury elektronicznej poza godzinami pracy, w dni wolne od pracy lub święta uznaje się, że została ona doręczona w następnym dniu roboczym.
+Wykonawca oświadcza, że numer rachunku rozliczeniowego wskazany we wszystkich fakturach, które będą wystawione w jego imieniu, jest rachunkiem dla którego zgodnie z Rozdziałem 3a ustawy z dnia 29 sierpnia 1997 r. - Prawo Bankowe (tj. Dz. U. z
+2026
+r., poz.
+38
+z późn. zm.) prowadzony jest rachunek VAT.
+Zamawiający oświadcza, że będzie realizować płatności za faktury z zastosowaniem mechanizmu podzielonej płatności tzw. split payment o ile zachodzą do tego przesłanki wynikające z przepisów ogólnych, tj. z ustawy o podatku od towarów i usług. Zapłatę w tym systemie uznaje się za dokonanie płatności w terminie ustalonym w ust. 4.
+Podzieloną płatność tzw. split payment stosuje się wyłącznie przy płatnościach bezgotówkowych, realizowanych za pośrednictwem polecenia przelewu lub polecenia zapłaty dla czynnych podatników VAT. Mechanizm podzielonej płatności nie
+będzie wykorzystywany
+do zapłaty za czynności lub zdarzenia pozostające poza zakresem VAT (np. zapłata odszkodowania), a także za świadczenia zwolnione z VAT lub opodatkowane stawką 0%.
+Wykonawca, który w dniu podpisania umowy nie jest czynnym podatnikiem VAT, a podczas obowiązywania umowy stanie się takim podatnikiem, zobowiązuje się do niezwłocznego powiadomienia Zamawiającego o tym fakcie oraz o wskazanie rachunku rozliczeniowego, na który ma wpływać wynagrodzenie, dla którego prowadzony jest rachunek VAT.
+§4
+Warunki odbioru oraz warunki techniczne
+Wykonawca dostarczy przedmiot zamówienia do Urzędu Gminy w Rymanowie, ul.
+Mitkowskiego 14A, 38-480 Rymanów, we wszystkie dni robocze
+w
+godzinach pracy urzędu: poniedziałek- piątek 7:30-14:30.
+Wykonawca najpóźniej wraz dostawą sprzętu dostarczy wszystkie
+wymagane
+licencje i
+certyfikaty
+dotyczące
+sprzętu
+w
+oferowanej
+konfiguracji zgodnie z
+szczegółowym opisie przedmiotu zamówienia – załącznik nr 1a
+.
+Potwierdzeniem
+należytej
+realizacji
+przedmiotu
+Umowy
+będzie
+protokół
+odbioru
+podpisany
+przez przedstawicieli Zamawiającego i
+Wykonawcy.
+O konkretnym dniu dostawy Wykonawca zawiadomi Zamawiającego z co najmniej dwudniowym
+wyprzedzeniem na adres e-mali gmina@rymanow.pl lub telefonicznie nr tel. 134355006.
+Zamawiający w momencie odbioru przedmiotu Umowy dokonywać będzie jego oceny jakościowej i ilościowej zgodnie ze „Szczegółowym opisem przedmiotu zamówienia z kalkulacją cen jednostkowych” załączonym do
+oferty.
+Jeżeli w trakcie odbioru zostaną stwierdzone wady nadające się do usunięcia, Zamawiający odmówi
+przyjęcia
+przedmiotu
+umowy
+do
+czasu
+usunięcia
+wad
+przez
+Wykonawcę.
+Jeżeli w trakcie odbioru zostaną stwierdzone wady nienadające się do usunięcia, Zamawiający odmówi
+przyjęcia
+przedmiotu
+umowy, a Wykonawca zobowiązany jest do dostarczeni
+a nowego towaru wolnego od wad.
+Braki ilościowe lub wady jakościowe stwierdzone w przedmiocie umowy Zamawiający reklamuje w ciągu 10 dni roboczych od ich stwierdzenia. Wykonawca zobowiązuje się na własny koszt do uzupełnienia braków lub usunięcia wad niezwłocznie, nie później jednak niż w terminie 5 dni roboczych, licząc od daty otrzymania
+wezwania, o którym mowa w zadaniu pierwszym. W przypadku nieusunięcia wad w terminach wskazanych w zdaniu poprzedzającym Zamawiający uprawniony jest do usunięcia tych wad na koszt i ryzyko Wykonawcy.
+§5
+Zasady realizacji Umowy
+Wykonawca przedstawi Zamawiającemu pisemne potwierdzenie, że dostarczony sprzęt i licencje na oprogramowanie pochodzą z legalnego kanału dystrybucji producenta na rynek polski. Urządzenia muszą być fabrycznie nowe
+i nieużywane
+(
+nie mogą
+pochodzić z wystaw, ekspozycji i prezentacji).
+Dostarczony
+przez
+Wykonawcę
+sprzęt
+winien
+być
+tożsamy
+z
+wykazanym
+w
+ofercie oraz zgodny z
+szczegółowym opisie przedmiotu zamówienia – załącznik nr 1
+.
+Strony ustalają, możliwość zmiany modelu lub typu przedmiotu zamówienia po podpisaniu Umowy, pod warunkiem wycofania z produkcji objętego Umową modelu lub typu i zastąpienie ich nowocześniejszymi modelami o
+nie
+gorszych parametrach technicznych lub korzystniejszych
+dla
+Zamawiającego określonych w
+szczegółowym opisie przedmiotu zamówienia z kalkulacją cen jednostkowych – załącznik nr 1
+.
+,
+z
+zachowaniem
+formy
+pisemnej
+poprzez
+wprowadzenie aneksu do
+Umowy. W każdym przypadku zgodę na zmianę musi wyrazić Zamawiający w formie pisemnej pod rygorem nieważności.
+§6
+Współdziałanie Stron i organizacja prac
+W celu realizacji postanowień niniejszej Umowy Zamawiający i Wykonawca, wyznaczają, jako swoich przedstawicieli
+odpowiednio:
+ze Strony Zamawiającego –
+Grzegorz Sołtysik,
+gsoltysik@rymanow.pl
+, 13 435 50 06 wew. 111
+Ze Strony Wykonawcy –
+Tomasz Kosatka, biuro@jt-systems.pl, +48 789 083 293
+Zmiana przedstawiciela ze strony Zamawiającego lub Wykonawcy wymaga pisemnego powiadomienia
+drugiej
+ze
+Stron
+i
+staje
+się
+skuteczna
+z
+chwilą
+otrzymania
+przez
+adresata
+pisma z danymi nowego
+przedstawiciela.
+Zgodnie z treścią złożonej oferty, Wykonawca powierza podwykonawcy(om)……
+……..
+……wykonanie następującego zakresu umowy: ……………
+…..
+Opcjonalnie:
+Zgodnie z treścią złożonej oferty, Wykonawca wykona przedmiot umowy samodzielnie..
+Wykonawca, w trakcie realizacji umowy w sprawie zamówienia publicznego, może powierzyć realizację części zamówienia podwykonawcy (om), mimo niewskazania w ofercie takiej części zamówienia do powierzenia podwykonawcom. W takim przypadku, Wykonawca pisemnie niezwłocznie poinformuje Zamawiającego o powierzeniu części zamówienia podwykonawcy (om).
+Wykonawca nie może zwolnić się od odpowiedzialności względem Zamawiającego z tego powodu, że niewykonanie lub nienależyte wykonanie umowy przez Wykonawcę było
+następstwem niewykonania lub nienależytego wykonania zobowiązań wobec Wykonawcy przez jego podwykonawców.
+Wykonawca ponosi pełną odpowiedzialność odszkodowawczą za działania i zaniechania podjęte przez podwykonawcę w związku z realizacją niniejszej umowy.
+§7
+Warunki gwarancji, rękojmi serwisu
+Wykonawca gwarantuje, że każdy egzemplarz dostarczonego sprzętu jest wolny od wad fizycznych, prawnych oraz posiada cechy zgodne z cechami określonymi w
+szczegółowym opisie przedmiotu zamówienia – załącznik nr 1
+Wykonawca odpowiada za wady prawne i fizyczne, ujawnione w dostarczonym sprzęcie, ponosi z tego tytułu wszelkie zobowiązania. Jest odpowiedzialny względem Zamawiającego, jeżeli dostarczone
+sprzęt:
+stanowią
+własność
+osoby
+trzeciej,
+albo
+jeżeli
+są
+obciążone
+prawem
+osoby
+trzeciej,
+mają
+wadę
+zmniejszającą
+ich
+wartość
+lub
+użyteczność
+wynikającą
+z
+ich
+przeznaczenia,
+nie mają właściwości wymaganych przez Zamawiającego parametrów zgodnie z
+szczegółowym opisie przedmiotu zamówienia z kalkulacją cen jednostkowych – załącznik nr 1
+, albo jeżeli dostarczono je w stanie niekompletnym.
+O wadzie fizycznej i prawnej przedmiotu Umowy Zamawiający informuje Wykonawcę jak najszybciej po ujawnieniu w nich wad, w celu realizacji przysługujących z tego tytułu uprawnień.
+Wykonawca jest zobowiązany do usunięcia wad fizycznych i prawnych sprzętu  lub do dostarczenia
+sprzętów
+wolnych
+od
+wad,
+jeżeli
+wady
+te
+ujawnią
+się
+w
+okresie
+gwarancji.
+Na sprzęt dostarczony na podstawie niniejszej Umowy Wykonawca udzieli
+gwarancji
+na okres (zgodnie
+z
+ofertą)
+60
+miesięcy
+, licząc od daty podpisania protokołu odbioru
+przez przedstawicieli Wykonawcy i przedstawicieli Zamawiającego.
+Strony
+ustalają
+,
+iż
+okres
+rękojmi
+za
+wady
+jest
+równy
+okresowi
+gwarancji.
+Realizacja naprawy gwarancyjnej następuje w systemie gwarancyjnym on-
+site
+(
+naprawa pod wskazanym adresem przez Zamawiającego
+) przy czym Zamawiający nie poniesie żadnych kosztów.
+W przypadku stwierdzenia w okresie gwarancji wad fizycznych i prawnych w dostarczonym sprzęcie
+Wykonawca:
+rozpatrzy reklamację w ciągu 5 dni licząc od daty
+otrzymania zawiadomienia do Zamawiającego,
+usprawni
+wadliwy sprzęt naprawialny
+lub
+w przypadku wad nienaprawialnych wymieni na sprzęt wolny od wad w
+terminie
+14
+dni licząc od daty rozparzenia reklamacji lub upływu terminu wskazanego w pkt 1,
+przedłuży termin gwarancji o czas, w ciągu którego wskutek wad sprzętu naprawialnego objętego gwarancją uprawniony nie mógł z niego korzystać,
+a w przypadku sprzętu nienaprawialnego dostarczy sprzęt nowy – wolny od wad, termin gwarancji biegnie
+na nowo
+od
+chwili
+jego dostarczenia.
+Wymiany
+wyrobów
+Wykonawca
+dokona
+bez
+żadnej
+dopłaty, nawet gdyby ceny na takie wyroby uległy
+zmianie
+,
+W przypadku odmowy rozpoznania reklamacji lub nie uwzględnienia reklamacji przez Wykonawcę
+,
+Zamawiający może
+zlecić autoryzowanemu serwisowi sprzętu dokonanie przeprowadzenie badania przyczyny powstania wady sprzętu. W przypadku, gdy
+wynik
+badań
+potwierdzi podejrzenie Zamawiającego, że wada powstała bez winy użytkowania sprzętu
+,
+W
+ykonawca pokryje koszty związane z badaniem oraz przyjmie do reklamacji sprzęt zgodnie z zasadami określonymi w ust. 8 (terminy liczone od dnia powiadomienia Wykonawcy o wynikach przeprowadzonych badań) oraz zapłaci karę umowną w
+wysokości 1
+000,00 zł za każd
+y przypadek odmowy uwzględnienia reklamacji
+W
+przypadku dalszej odmowy naprawy sprzętu, Zamawiający może zlecić naprawę podmiotowi trzeciemu na koszt i ryzyko Wykonawcy.
+Utrata roszczeń z tytułu wad fizycznych i prawnych nie następuje mimo upływu terminu gwarancji, jeżeli Wykonawca wadę
+zataił
+.
+§8
+Obowiązki Wykonawcy
+Wykonawca zobowiązany jest do:
+Wykonania przedmiotu Umowy ze starannością przyjętą w obrocie profesjonalnym, oraz aktualną wiedzą i
+kwalifikacjami;
+Wyznaczenia personelu o liczebności i kompetencjach zapewniających terminową i zgodną z wymaganiami jakościowymi realizację dostawy w umownym
+terminie;
+Niezwłocznego informowania Zamawiającego o wszelkich okolicznościach, które w ocenie Wykonawcy mogą mieć wpływ na realizację Umowy, w
+szczególności:
+zmianie siedziby lub nazwy
+Wykonawcy,
+zmianie osób reprezentujących
+Wykonawcę,
+wszczęciu postępowania upadłościowego lub restrukturyzacyjnego, w którym
+Wykonawca uczestniczy jako
+dłużnik,
+ogłoszeniu likwidacji przedsiębiorstwa
+Wykonawcy,
+zawieszeniu działalności przedsiębiorstwa
+Wykonawcy.
+§9
+Obowiązki Zamawiającego
+Zamawiający będzie współdziałał z Wykonawcą, co Strony rozumieją w szczególności jako:
+Terminowe
+realizowanie
+przez
+Zamawiającego
+zadań,
+za
+które
+jest
+odpowiedzialny.
+Niezwłoczne informowanie Wykonawcy o wszelkich okolicznościach, które w ocenie Zamawiającego mogą mieć wpływ na realizację
+Umowy.
+Udostępnianie Wykonawcy posiadanych informacji i danych dotyczących wykonania Umowy w
+terminie
+5
+dni
+roboczych
+od
+daty
+zgłoszenia
+zapotrzebowania
+przez
+Wykonawcę.
+§10
+Kary Umowne
+W razie niewykonania lub nienależytego wykonania umowy Zamawiającemu przysługują kary umowne w wysokość
+:
+20% wartości umowy brutto (§ 3 ust. 1 umowy), gdy Wykonawca odstąpi od umowy z powodu okoliczności, za które nie odpowiada Zamawiający.
+20% wartości umowy brutto (§ 3 ust. 1 umowy), gdy Zamawiający odstąpi od umowy z
+powodu okoliczności, za które odpowiada Wykonawca.
+0,20 % wartości umowy brutto (§ 3 ust. 1 umowy) za każdy rozpoczęty dzień zwłoki w wykonaniu przedmiotu umowy, określony w § 2 oraz niedotrzymania terminu (zwłoki), o którym mowa w § 4 ust. 8 lub § 7 ust. 8 niniejszej umowy,
+1.
+000 zł
+za każdy przypadek o
+którym mowa w § 7 ust. 9 niniejszej umowy
+Łączna wartość kar wskazanych w ust. 1 nie może przekroczyć 20%
+wartości umowy brutto (§
+3
+ust. 1 umowy).
+Zamawiający zastrzega sobie prawo do dochodzenia odszkodowania uzupełniającego do wysokości faktycznie poniesionej szkody, niezależnie od kar umownych.
+Zamawiający ma prawo potrącania kar umownych z należnego Wykonawcy wynagrodzenia, po uprzednim wystawieniu noty obciążeniowej na co Wykonawca wyraża zgodę.
+§11
+Zmiana Umowy
+Zamawiający
+zastrzega
+sobie
+prawo
+zmiany
+postanowień
+umowy
+w
+przypadku:
+aktualizacji
+rozwiązań
+ze
+względu
+na
+postęp
+techniczny
+lub
+technologiczny
+(np.
+wycofanie
+z obrotu
+urządzeń
+lub
+podzespołów),
+zmiana
+nie
+może
+spowodować
+podwyższenia
+ceny
+oraz obniżenia parametrów technicznych, jakościowych
+i innych
+wynikających z oferty (opisu przedmiotu zamówienia /opisu oferowanego sprzętu), na podstawie której był dokonany wybór
+Wykonawcy;
+gdy nastąpi zmiana powszechnie obowiązujących przepisów prawa w zakresie mającym wpływ na realizację umowy, w tym zmiana stawki podatku od towarów i usług na asortyment stanowiący przedmiot
+umowy;
+w razie zmiany terminu wykonania umowy z
+powodu:
+wystąpienia uzasadnionych dodatkowych okoliczności, niemożliwych do
+przewidzenia przed zawarciem
+umowy,
+siły wyższej, np. wystąpienia zdarzenia losowego wywołanego przez czynniki zewnętrzne, którego nie można było przewidzieć z pewnością, w szczególności zagrażające bezpośrednio życiu lub zdrowiu ludzi lub grożącego powstaniu szkody w znacznych
+rozmiarach,
+działania osób trzecich uniemożliwiających wykonanie zamówienia, które to
+działania nie są konsekwencją winy którejkolwiek ze
+stron.
+Inicjatorem zmian może być Zamawiający lub Wykonawca poprzez pisemne
+wystąpienie w okresie
+obowiązywania
+umowy
+zawierające
+opis
+proponowanych
+zmian
+i
+ich
+uzasadnienie.
+Zmiany umowy mogą nastąpić wyłącznie w formie pisemnego aneksu pod rygorem nieważności
+za
+zgodą
+obu
+stron.
+Zmiany
+umowy
+nie
+mogą
+naruszać
+postanowień
+zawartych
+w art. 454 - 455
+ustawy
+Prawo zamówień publicznych
+.
+Strona występująca o zmianę postanowień umowy zobowiązana jest do udokumentowania zaistnienia okoliczności, o których mowa w §11 ust.
+1.
+Wniosek o zmianę postanowień umowy
+musi być wyrażony na piśmie.
+§12
+Odstąpienie od Umowy
+Strony
+ustalają,
+że
+oprócz
+przypadków
+wymienionych
+w
+Kodeksie
+cywilnym
+Zamawiającemu przysługuje prawo odstąpienia od Umowy w terminie 30 dni od
+powzięcia informacji o tym, że:
+nastąpi rozwiązanie lub otwarcie likwidacji przedsiębiorstwa
+Wykonawcy,
+zostanie złożony wniosek o upadłość
+Wykonawcy,
+zostanie wydany nakaz zajęcia majątku
+Wykonawcy,
+Wykonawca dostarczy sprzęt nie odpowiadający właściwym dla niego Normom oraz cechom
+technicznym
+określonym
+w
+„Szczegółowym
+opisie
+przedmiotu
+zamówienia” i mimo jednokrotnego wezwania do wymiany lub naprawy sprzętu nie wywiąże się ze swojego obowiązku wynikającego z treści niniejszej umowy,
+zwłoka w wykonaniu umowy przekroczyła 30 dni w stosunku do terminu wykonania umowy określonym w § 2
+.
+Zamawiający i Wykonawca może ponadto odstąpić od Umowy w terminie określonym w ust. 1 powyżej, jeżeli druga Strona narusza w rażący sposób postanowienia
+Umowy.
+Do rażących naruszeń Umowy zalicza się w szczególności zwłokę Wykonawcy w
+realizacji istotnych zobowiązań wynikających z niniejszej Umowy i nie wywiązanie się z nich w
+ciągu
+7
+dni
+od
+daty
+otrzymania
+pisemnego
+żądania
+ich
+wypełnienia.
+Odstąpienie od umowy powinno nastąpić w formie pisemnej z podaniem uzasadnienia – pod rygorem nieważności
+.
+W razie wątpliwości Strony przyjmują, iż odstąpienie od Umowy wywiera skutek tylko w części dotyczącej niezrealizowanej części zobowiązań, chyba, że spełniona część
+świadczenia nie będzie miała dla Strony odstępującej od Umowy znaczenia lub wartości ze względu na brak możliwości osiągnięcia celu określonego w Umowie.
+Wykonawca może żądać jedynie wynagrodzenia należnego mu z tytułu wykonania części umowy
+.
+Odstąpienie następuje z chwilą pisemnego zawiadomienia o przyczynie odstąpienia od umowy.
+Do zachowania terminu wystarczy nadanie przez Zamawiającego oświadczenia o odstąpieniu w palcówce operatora pocztowego
+.
+W przypadku stwierdzenia wadliwie wykonanego przedmiotu umowy, kosztami niezbędnymi do prawidłowego zrealizowania przedmiotu umowy obciążony zostanie
+Wykonawca, z którym rozwiązano umowę poprzez odstąpienie.
+Odstąpienie od umowy nie pozbawia Zamawiającego prawa do żądania kar umownych.
+§14
+Postanowienia końcowe
+W sprawach nieuregulowanych umową mają zastosowanie przepisy Kodeksu cywilnego i ustawy Prawo zamówień
+publicznych.
+Sprawy
+sporne,
+mogące
+wyniknąć
+w
+związku
+z
+realizacją
+umowy,
+rozstrzygane
+będą
+przez
+sąd właściwy ze względu na siedzibę
+Zamawiającego.
+Umowę sporządzono w trzech jednobrzmiących egzemplarzach, z których dwa otrzymuje Zamawiający, a jeden
+Wykonawca.
+Załączniki stanowiące integralną część
+Umowy:
+Szczegółowy opis przedmiotu
+zamówienia z kalkulacją cen jednostkowych.
+ZAMAWIAJ
+Ą
+CY:
+WYKONAWCA:
+....................................................
+....................................................
+Kontrasygnata:
+………………………………………………..
+
+
+
+PAGE
+2
+
+PAGE   \* MERGEFORMAT
+2

@@ -1,0 +1,53 @@
+ŹRÓDŁO: RIN.271.1.3.2026 dach gminy
+PLIK: RIN.271.1.3.2026 dach gminy/umowa.rin.3.2026/do umowy/Kosztorys ofertowy.pdf
+ROZMIAR: 293946
+
+                                                 Wartość kosztorysowa                              94 000,00
+                                                 Podatek VAT 23,00%                                21 620,00
+                                                 Cena kosztorysowa                                115 620,00
+                                                 Słownie: sto piętnaście tysięcy sześćset dwadzieścia zł
+
+
+
+
+                                       Kosztorys ofertowy
+
+
+Obiekt              Urząd Gminy Rymanów
+Inwestor            Gmina Rymanów
+Wykonawca           ABE Budownictwo Emil Baida
+
+Stawka robocizny    41,00 zł/r-g
+Koszty zakupu       10,00%
+Koszty pośrednie    68% (R+S)
+Zysk                18% R+S+Kp(R+S)
+
+
+
+
+Sporządził inż. Emil Baida
+Rymanów, maj 2026
+Rodos 7.0.17 [L136716]                                                                                                                       Strona 2/2
+                                                                     Kosztorys
+Urząd Gminy Rymanów
+ Nr Podstawa Opis                                                                                             Jm    Ilość        Cena        Wartość
+                                                                                                                              jednostkowa
+                 1 Remont pokrycia dachowego budynku Urzędu Gminy Rymanów                                                                    94 000,00
+  1   KNR 4-01 Rozbiórka murów ogniowych, okapów, kołnierzy, gzymsów itp. z blachy nie nadającej się do użytku m2   114,62          24,79     2 841,43
+       0535/08 - obróbka attyki
+  2   KNR 4-04 Wywóz złomu z terenu rozbiórki samochodem skrzyniowym na odległość do 1km z załadunkiem i       t       0,57        349,12       199,00
+       1107/01 wyładunkiem ręcznym
+  3   TZKNBK Analogia - Wymiana stelażu z płyty OSB pod obróbkę attyk                                         m2    100,94          80,00     8 075,20
+          VII
+       I-12/101
+  4   NNRNKB Obróbki blacharskie z blachy powlekanej o szerokości w rozwinięciu ponad 25cm - obróbka attyki   m2    114,62         150,00 17 193,00
+      6 0541/02
+  5   2.10.2.001 Pokrycie dachu papą zgrzewalną                                                               m2    597,14         110,01 65 691,37
+           /
+      NNRNKB
+         202
+       0534-01
+                                                                                                      Razem                                  94 000,00
+                                                                                           Podatek VAT 23%                                      21 620
+                                                                                           Ogółem kosztorys                                 115 620,00
+

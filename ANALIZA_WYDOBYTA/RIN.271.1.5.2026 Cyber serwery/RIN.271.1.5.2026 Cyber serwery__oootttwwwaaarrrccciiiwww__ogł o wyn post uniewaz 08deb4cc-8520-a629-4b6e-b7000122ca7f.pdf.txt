@@ -1,0 +1,145 @@
+ŹRÓDŁO: RIN.271.1.5.2026 Cyber serwery
+PLIK: RIN.271.1.5.2026 Cyber serwery/oootttwwwaaarrrccciiiwww/ogł o wyn post uniewaz 08deb4cc-8520-a629-4b6e-b7000122ca7f.pdf
+ROZMIAR: 52591
+
+Ogłoszenie nr 2026/BZP 00248528/01 z dnia 2026-05-18
+
+
+
+
+                                            Ogłoszenie o wyniku postępowania
+                                                        Dostawy
+        Poprawa obszaru technicznego poprzez zakup urządzeń oraz oprogramowania z zakresu cyberbezpieczeństwa UG
+                                  Rymanów w ramach proj “ Cyberbezpieczny samorząd”
+
+
+ SEKCJA I - ZAMAWIAJĄCY
+
+1.1.) Rola zamawiającego
+Postępowanie prowadzone jest samodzielnie przez zamawiającego
+
+1.2.) Nazwa zamawiającego: Gmina Rymanów
+
+1.4) Krajowy Numer Identyfikacyjny: REGON 370440590
+
+1.5) Adres zamawiającego
+
+1.5.1.) Ulica: Mitkowskiego 14A
+
+1.5.2.) Miejscowość: Rymanów
+
+1.5.3.) Kod pocztowy: 38-480
+
+1.5.4.) Województwo: podkarpackie
+
+1.5.5.) Kraj: Polska
+
+1.5.6.) Lokalizacja NUTS 3: PL821 - Krośnieński
+
+1.5.9.) Adres poczty elektronicznej: przetargi@rymanow.pl
+
+1.5.10.) Adres strony internetowej zamawiającego: www.rymanow.pl
+
+1.6.) Adres strony internetowej prowadzonego postępowania:
+https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d3d80267-719c-4fe3-a6a8-22d2c41f562f
+1.7.) Rodzaj zamawiającego: Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu
+terytorialnego
+
+1.8.) Przedmiot działalności zamawiającego: Ogólne usługi publiczne
+
+ SEKCJA II – INFORMACJE PODSTAWOWE
+
+2.1.) Ogłoszenie dotyczy:
+
+Zamówienia publicznego
+2.2.) Ogłoszenie dotyczy usług społecznych i innych szczególnych usług: Nie
+
+2.3.) Nazwa zamówienia albo umowy ramowej:
+Poprawa obszaru technicznego poprzez zakup urządzeń oraz oprogramowania z zakresu cyberbezpieczeństwa UG
+Rymanów w ramach proj “ Cyberbezpieczny samorząd”
+2.4.) Identyfikator postępowania: ocds-148610-d3d80267-719c-4fe3-a6a8-22d2c41f562f
+
+2.5.) Numer ogłoszenia: 2026/BZP 00248528
+
+2.6.) Wersja ogłoszenia: 01
+
+2.7.) Data ogłoszenia: 2026-05-18
+
+2.8.) Zamówienie albo umowa ramowa zostały ujęte w planie postępowań: Tak
+
+2.9.) Numer planu postępowań w BZP: 2026/BZP 00012341/06/P
+
+2.10.) Identyfikator pozycji planu postępowań:
+
+1.2.2 Poprawa obszaru technicznego poprzez zakup urządzeń oraz oprogramowania z zakresu cyberbezpieczeństwa UG
+Rymanów w ramach proj “ Cyberbezpieczny samorząd”
+2.11.) Czy zamówienie albo umowa ramowa dotyczy projektu lub programu współfinansowanego ze środków Unii
+Europejskiej: Tak
+
+2.12.) Nazwa projektu lub programu:
+Cyberbezpieczny samorząd
+
+
+
+2026-05-18 Biuletyn Zamówień Publicznych                                                               Ogłoszenie o wyniku postępowania - - Dostawy
+Ogłoszenie nr 2026/BZP 00248528/01 z dnia 2026-05-18
+
+
+
+
+2.13.) Zamówienie/umowa ramowa było poprzedzone ogłoszeniem o zamówieniu/ogłoszeniem o zamiarze zawarcia umowy:
+Tak
+
+2.14.) Numer ogłoszenia: 2026/BZP 00230611
+
+ SEKCJA III – TRYB UDZIELENIA ZAMÓWIENIA LUB ZAWARCIA UMOWY RAMOWEJ
+
+3.1.) Tryb udzielenia zamówienia wraz z podstawą prawną Zamówienie udzielane jest w trybie podstawowym na podstawie: art.
+275 pkt 1 ustawy
+
+ SEKCJA IV – PRZEDMIOT ZAMÓWIENIA
+
+4.1.) Numer referencyjny: RIN.271.1.5.2026
+
+4.2.) Zamawiający udziela zamówienia w częściach, z których każda stanowi przedmiot odrębnego postępowania: Nie
+
+4.4.) Rodzaj zamówienia: Dostawy
+
+4.5.1.) Krótki opis przedmiotu zamówienia
+
+1. Przedmiotem niniejszego zamówienia jest: dostawa, montaż wraz z uruchomieniem sprzętu komputerowego – fabrycznie
+nowego (tj.: serwer, macierz, deduplikator, NAS) oraz zasilaczy awaryjnych – 3 sztuk, wdrożenie centralnego systemu
+bezpieczeństwa oprogramowania klasy SIEM wraz z wdrożeniem, Szkoleniem z VEEAM: Zakres: Zakup fabrycznie nowego
+sprzętu komputerowego serwera, macierzy, deduplikatora oraz NAS, 3 sztuk zasilaczy awaryjnych, wdrożenie wraz ze
+szkoleniem, dostawa i wdrożenie centralnego systemu bezpieczeństwa oprogramowania klasy SIEM oraz szkolenie z
+zakresu obsługi VEEAM.
+Szczegółowy opis przedmiotu zamówienia (OPZ), „załącznik nr 1A OPZ cyberbezpieczny samorząd” zawiera warunki
+wymagane (obligatoryjne) oraz preferowane (fakultatywne) dla poszczególnych rodzajów urządzeń oraz oprogramowania z
+zakresu cyberbezpieczeństwa UG Rymanów
+4.5.3.) Główny kod CPV: 48820000-2 - Serwery
+
+4.5.4.) Dodatkowy kod CPV:
+
+30233000-1 - Urządzenia do przechowywania i odczytu danych
+
+72000000-5 - Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia
+
+48000000-8 - Pakiety oprogramowania i systemy informatyczne
+
+30236000-2 - Różny sprzęt komputerowy
+
+ SEKCJA V ZAKOŃCZENIE POSTĘPOWANIA
+
+5.1.) Postępowanie zakończyło się zawarciem umowy albo unieważnieniem postępowania: Postępowanie/cześć
+postępowania zakończyła się unieważnieniem
+
+5.2.) Podstawa prawna unieważnienia postępowania: art. 255 pkt 3 ustawy
+
+5.2.1.) Przyczyna unieważnienia postępowania:
+przekracza kwotę jaką Zamawiający przeznaczył na sfinansowanie zamówienia
+
+
+
+
+2026-05-18 Biuletyn Zamówień Publicznych                                                              Ogłoszenie o wyniku postępowania - - Dostawy
+

@@ -1,0 +1,32 @@
+ŹRÓDŁO: RIN.271.1.7.2026 Drogi gminy
+PLIK: RIN.271.1.7.2026 Drogi gminy/Wadium/wadium STRABAG.pdf
+ROZMIAR: 474671
+
+                      Płatności na 59 1030 1508 0000 0008 2413 7003                                                                                                             1 do 1 rekordów wydrukowanych z 1 rekordów.
+
+
+
+ Kryteria wyszukiwania :
+ Data od                                           :            piątek, 03 lipca 2026
+
+ Data do                                           :            piątek, 03 lipca 2026
+
+ Maks. kwota                                       :            15,000.00
+
+ Min. kwota                                        :            15,000.00
+
+  Data wyciągu                 Kwota                   Waluta                    Szczegóły płatności                         Beneficjent                  Opis                   Numer                   Nazwa                       Identyfikator
+                                                                                                                                                                                oddziału                oddziału                            klienta
+
+                                                                                                                              STRABAG
+  piątek, 03 lipca                                                         WADIUM NR POSTEPOWANIA                             SPOLKA Z             INC. CLEARING                                        WARSAW
+                                15000                    PLN                                                                                                                        815                                                   NONREF
+               2026                                                                  RIN.271.1.7.2026                     OGRANICZONA                   TRANSF                                          CITIBANK
+                                                                                                                               ODPOWI
+
+
+
+
+Aby dane zostały poprawnie wydrukowane, konieczne może być dostosowanie liczby wybranych kolumn na podsumowaniu. Aby wydrukować wszystkie kolumny tabeli, może być konieczne wyeksportowanie danych do pliku XLS lub CSV
+Strona 1 z 1                                                                                                                                                                                                    Wydrukowano w dniu poniedziałek, 06 lipca 2026 w 05:09:40
+

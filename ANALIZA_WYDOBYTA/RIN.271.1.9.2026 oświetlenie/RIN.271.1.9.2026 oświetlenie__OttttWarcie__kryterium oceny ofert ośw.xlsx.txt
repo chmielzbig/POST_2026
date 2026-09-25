@@ -1,0 +1,207 @@
+ŹRÓDŁO: RIN.271.1.9.2026 oświetlenie
+PLIK: RIN.271.1.9.2026 oświetlenie/OttttWarcie/kryterium oceny ofert ośw.xlsx
+ROZMIAR: 20209
+
+### xl/worksheets/sheet1.xml
+Nr oferty
+Wykonawca
+Kryterium 1
+Kryterium 2
+Przyznana punktacja w kryterium 
+/pkt /
+Do umowy
+5
+waga /pkt/
+waga /pkt/
+Oferty
+%
+70
+30
+Cena brutto
+ /zł/
+Gwarancja
+ /m-c/
+Odrzucone
+Cena
+Gwarancja
+Razem
+część 1
+konto
+kwota
+zw oferty
+1.
+FIRMA USŁUGOWA "AC-DC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Firm Usługowa "AC-DC" Sp. z o.o.), 39-220 Lipiny 219A
+1463700
+60
+57.388809182209471
+30
+0
+87.388809182209471
+Piotr Pękala , kontakt@ac-dc.com.pl , 724140655
+gwarancja
+12000
+1. 
+1463700
+ , cena:  
+87.388809182209471
+ punktów 
+ , gwarancja:  
+ mies.  
+2.
+EKO-SERWIS Sp. z o.o., 38-483 Wróblik Szlachecki, ul. Długa 46a
+1200000
+60
+70
+30
+100
+Piotr Błaż tel. 665 417 157
+47 1020 2964 0000 6102 0218 0016
+12000
+EKO-SERWIS Sp. z o.o., 38-483 Wróblik Szlachecki, ul. Długa 46a
+60000
+2. 
+1200000
+ , cena:  
+100
+ punktów 
+1200000
+ , gwarancja:  
+ mies.  
+EKO-SERWIS Sp. z o.o., 38-483 Wróblik Szlachecki, ul. Długa 46a
+2. 
+3.
+Firma Usługowa "El-Mag" Magdalena Mysona (Firma Usługowa "El-Mag" Magdalena Mysona), 33-100 Tarnów, ul. Do Huty, 17
+2324699.36
+60
+36.133704618045748
+30
+66.133704618045755
+Magdalena Mysona, tel: 662219440, sekretariat@biuroelmag.com
+gwarancja
+12000
+3. 
+2324699.36
+ , cena:  
+66.133704618045755
+ punktów 
+ , gwarancja:  
+ mies.  
+4.
+F.H.U."ALMAX"Aneta Liwosz, ul. Szczepana 11, 38-457 Świerzowa Polska
+1593000
+60
+52.730696798493405
+30
+82.730696798493398
+Adam Liwosz, almax.krosno@gmail.com, tel.697605395
+33 1050 1458 1000 0090 7663 0376
+12000
+4. 
+1593000
+ , cena:  
+82.730696798493398
+ punktów 
+ , gwarancja:  
+ mies.  
+5.
+60
+0
+30
+30
+6.
+60
+0
+30
+30
+7.
+60
+0
+30
+0
+30
+8.
+60
+0
+30
+0
+30
+9.
+60
+0
+30
+0
+30
+10.
+60
+0
+30
+0
+30
+11.
+60
+0
+30
+0
+30
+12.
+60
+0
+30
+0
+30
+13.
+0
+0
+0
+0
+14.
+0
+0
+0
+0
+15.
+0
+0
+0
+0
+16.
+0
+0
+0
+0
+17.
+0
+0
+0
+0
+18.
+0
+0
+0
+0
+30%od średniej
+cena
+wynik
+średnia arytm
+1645349.8399999999
+493604.95199999993
+1151744.8879999998
+rażąco niska
+1125847.0815183998
+badana oferta
+1200000
+ok
+ok
+0.72932817740450873
+0
+0
+0.27067182259549127
+cena kosztorysowa
+467400
+140220
+327180
+2.5673940949935816
+badana oferta
+1200000
+ok
+-1.5673940949935816

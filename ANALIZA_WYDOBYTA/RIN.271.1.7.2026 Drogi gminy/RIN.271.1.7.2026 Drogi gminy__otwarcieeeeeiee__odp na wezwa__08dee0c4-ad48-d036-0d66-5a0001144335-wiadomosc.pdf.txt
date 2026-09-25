@@ -1,0 +1,58 @@
+ŹRÓDŁO: RIN.271.1.7.2026 Drogi gminy
+PLIK: RIN.271.1.7.2026 Drogi gminy/otwarcieeeeeiee/odp na wezwa/08dee0c4-ad48-d036-0d66-5a0001144335-wiadomosc.pdf
+ROZMIAR: 35358
+
+                                                                                               Wygenerowano na Platformie e-Zamówienia
+
+
+
+
+       Odpowiedź na Wezwanie do złożenia podmiotowych środków dowodowych
+Data wysłania: 13-07-2026 11:54:05
+Identyfikator postępowania: ocds-148610-88cea165-1811-4145-926b-b84b323d8dcf
+Nazwa zamówienia: Modernizacja dróg gminnych i wewnętrznych zarządzanych przez Gminę Rymanów
+Numer BZP: 2026/BZP 00303189/01
+Podstawa prawna: Art. 274 ust. 1
+
+Nadawca wiadomości:
+DROGBUD GOLCOWA PRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ
+DROGBUD PRO
+PL-NIP: 6861691167
+PL-REGON: 383223217
+ID: 59820
+
+Odbiorcy wiadomości:
+
+Nazwa:
+Gmina Rymanów
+PL-NIP: 6842377352
+PL-REGON: 370440590
+ID: 4966
+
+                                                       Treść wiadomości
+
+W odpowiedzi na wezwanie przesyłamy dokumenty.
+
+Załączniki:
+Odpis_Pełny_KRS_0000784252-2.pdf
+– sha256: f423a3ddcfd8782dfaa2a4b7d13c52fc2d528cebdc5df1c9f9e3ac9cc4701530
+ODPOWIEDŹ NA WEZWANIE.pdf
+– sha256: 16b48f6e2af11f7ce92b943aac2c63da1e01ed7893ce8ee5ec4461209cd33f1a
+OŚWIADCZENIE WYKONAWCY.pdf
+– sha256: d81e95970a3f8bfe05adf5b5a62e406c2f1b8144f2a1aa28f4ac654b16954672
+poświadczenie .pdf
+– sha256: ea6966d6cdb2c7afcc8c8f1752a0db1569518f1b415356c0c493cfcf6c1ca40b
+Uprawnienia Paweł Filip.pdf
+– sha256: 0e91be16456a9a466a4d281ed8853109a8a38905c3c35426f3c0744d31c419b9
+Załącznik nr 4B – wykaz robót do SWZ.pdf
+– sha256: 7fad3b2ac0715c46f795432e11d4b17c6d369dbd8cad77d584e4fc94032e77ba
+Załącznik nr 5B wykaz osób do SWZ.pdf
+– sha256: fca5339047e2fd7d56879f03e6d70b2910c6fe41493fa4ecf3941ccabc3021c1
+Zaswiadczenie Paweł Filip Ważne do 31.12.2026.pdf
+– sha256: 843b2673937a84096a8b7bcfc7567ac84cb9da79e52bde39c41eb3f459f05850
+
+
+
+
+                                                               1
+

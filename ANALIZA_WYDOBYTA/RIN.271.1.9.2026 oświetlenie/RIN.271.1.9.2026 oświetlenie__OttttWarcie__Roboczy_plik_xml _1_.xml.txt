@@ -1,0 +1,90 @@
+ŹRÓDŁO: RIN.271.1.9.2026 oświetlenie
+PLIK: RIN.271.1.9.2026 oświetlenie/OttttWarcie/Roboczy_plik_xml (1).xml
+ROZMIAR: 4989
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<informacjaDlaPrezesa xmlns="https://ezamowienia.gov.pl/xml-schema/idp#1.0.0" dataWypelnienia="2026-09-07+02:00">
+    <trybZamowienia>
+        <trybZamowienia id="1.1.1">Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybZamowienia>
+    </trybZamowienia>
+    <sekcja1>
+        <nazwa>Gmina Rymanów</nazwa>
+        <kni>REGON 370440590</kni>
+        <adres>Mitkowskiego 14A</adres>
+        <miejscowosc>Rymanów</miejscowosc>
+        <kod>38-480</kod>
+        <woj>Podkarpackie</woj>
+        <kraj>Polska</kraj>
+        <www>https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-c03b1146-f0b9-48e4-a284-2242ee3999af</www>
+        <rodzaj>Zamawiający publiczny -&gt; jednostka sektora finansów publicznych -&gt; jednostka samorządu terytorialnego</rodzaj>
+        <sposobPrzeprowadzeniaPostepowania>Postępowanie prowadzone jest samodzielnie przez zamawiającego</sposobPrzeprowadzeniaPostepowania>
+        <daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieNazwa></daneDotyczacePodmiotuPowierzonoProwadzenieNazwa>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieniKni></daneDotyczacePodmiotuPowierzonoProwadzenieniKni>
+        </daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+    </sekcja1>
+    <sekcja2>
+        <informacjaDotyczy>Zamówienia publicznego</informacjaDotyczy>
+        <rodzajZamowieniaUmRam>zamówienie klasyczne</rodzajZamowieniaUmRam>
+        <idPostepowania>ocds-148610-c03b1146-f0b9-48e4-a284-2242ee3999af</idPostepowania>
+        <nrReferencyjnyPost>RIN.271.1.9.2026</nrReferencyjnyPost>
+        <nazwaZamowieniaUmowyRamowej>Budowa oświetlenia ulicznego na terenie Gminy Rymanów</nazwaZamowieniaUmowyRamowej>
+        <rodzajPrzedmiotuZamowienia>Roboty budowlane</rodzajPrzedmiotuZamowienia>
+        <czyWCzesciach>false</czyWCzesciach>
+        <czyCzesciowe>false</czyCzesciowe>
+        <liczbaCzesci>1</liczbaCzesci>
+        <trybUdzieleniaZPodstawa>Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybUdzieleniaZPodstawa>
+        <dataWszczeciaPostepowania>2026-08-21</dataWszczeciaPostepowania>
+        <czyOgloszenieWBzpAlboTed>true</czyOgloszenieWBzpAlboTed>
+        <nrOgloszeniaBzpAlboTed>2026/BZP 00401929/01</nrOgloszeniaBzpAlboTed>
+        <czyWspolfinansowaneEU>false</czyWspolfinansowaneEU>
+        <nazwaProjektuEU></nazwaProjektuEU>
+    </sekcja2>
+    <sekcja4>
+        <informacjaOOfertach idSekcji="1">
+            <czyDotyczy>false</czyDotyczy>
+            <numerLubNazwaCzesci>1</numerLubNazwaCzesci>
+            <kwotaZamawiajacyNaSfinansowanie>1 150 000,00 PLN</kwotaZamawiajacyNaSfinansowanie>
+            <kwotaJakaZamierzaPrzeznaczyc></kwotaJakaZamierzaPrzeznaczyc>
+            <terminOtwarciaOfert>2026-09-07</terminOtwarciaOfert>
+            <liczbaZaproszonychWykonawcow>0</liczbaZaproszonychWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>FIRMA USŁUGOWA "AC-DC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Firm Usługowa "AC-DC" Sp. z o.o.)</nazwa>
+                    <kni>REGON 385320433</kni>
+                    <miejscowosc>Lipiny</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Małe przedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 463 700,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>EKO-SERWIS Sp. z o.o.</nazwa>
+                    <kni>REGON 526454484</kni>
+                    <miejscowosc>Wróblik Szlachecki</miejscowosc>
+                    <woj>podkarpackie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Mikroprzedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 1 200 000,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>Firma Usługowa "El-Mag" Magdalena Mysona (Firma Usługowa "El-Mag" Magdalena Mysona)</nazwa>
+                    <kni>REGON 180394491</kni>
+                    <miejscowosc>Tarnów</miejscowosc>
+                    <woj>małopolskie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Mikroprzedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 2 324 699,36 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+        </informacjaOOfertach>
+    </sekcja4>
+    <sekcja5/>
+</informacjaDlaPrezesa>

@@ -1,0 +1,12634 @@
+ŹRÓDŁO: RIN.271.1.4.2026 ubezpieczenia
+PLIK: RIN.271.1.4.2026 ubezpieczenia/do zamieszczenia/zał. wykaz mienia.xlsx
+ROZMIAR: 1669166
+
+### xl/worksheets/sheet1.xml
+Lista ubezpieczonych
+nazwa
+adres
+regon
+NIP
+liczba pracownikow
+liczba uczniów
+1
+Gmina Rymanów
+ul. Mitkowskiego 14a, 38-480 Rymanów
+370440590
+684-23-77-352
+48
+x
+2
+Gminna Biblioteka Publiczna w Rymanowie
+ul. Rynek 20, 38-480 Rymanów
+001033444
+684-17-22-232
+5
+x
+3
+Gminny Ośrodek Kultury w Rymanowie
+ul. Grunwaldzka 11, 38-480 Rymanów
+370333858
+6841755378
+14
+x
+4
+Gminny Ośrodek Pomocy Społecznej
+ul. Dworska 42, 38-480 Rymanów
+004010797
+684-21-75-105
+17
+x
+5
+Gminny Ośrodek Sportu i Rekreacji
+ul. Zdrojowa 40/5, 38-481 Rymanów
+384946998
+6842655503
+12
+x
+6
+Zakład Gospodarki Komunalnej
+Osiedle 40, 38-480 Rymanów
+004022843
+6840001097
+54+2 umowy zlecenie
+x
+7
+Zespół Ekonomiczno-Administracyjny Szkół w Rymanowie
+ul. Dworska 42, 38-480 Rymanów
+370274110
+684-10-46-239
+12
+x
+8
+Szkoła Podstawowa Im. Jana Pawła Ii w Klimkówce
+UL. ZDROJOWA 49, 38-480 Rymanów
+001198211
+684-234-99-82
+32
+167
+9
+Szkoła Podstawowa Im. Polskich Noblistów w Króliku Polskim
+UL. BIESZCZADZKA 137, 38-481 RYMANÓW ZDRÓJ
+001198286
+684-235-00-05
+28
+121
+10
+Szkoła Podstawowa w Sieniawie
+ul. Kwiatowa 15, 38-480 Rymanów
+370474926
+684-234-99-76
+35
+222
+11
+Szkoła Podstawowa Im. Ks. Kardynała Stefana Wyszyńskiego we Wróbliku Szlacheckim
+UL. SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+001198263
+684-234-99-53
+33
+153
+12
+Zespół Szkół Publicznych w Milczy
+UL. SZKOLNA 16, 38-483 WRÓBLIK SZLACHECKI
+371165268
+684-234-99-99
+30
+133
+13
+Zespół Szkół Publicznych w Rymanowie
+UL. SZKOLNA 2, 38-480 Rymanów
+371165311
+684-237-43-59
+160
+1159
+14
+Zespół Szkół Publicznych w Posadzie Górnej
+UL.3 MAJA 164 POSADA GÓRNA, 38-481 Rymanów Zdrój
+001198240
+684-222-00-47
+31
+258
+15
+Gminny Żłobek w Rymanowie
+UL. SZKOLNA 2, 38-480 Rymanów
+526915637
+6842674469
+15
+
+### xl/worksheets/sheet10.xml
+Ubezpieczenie mienia  od wszystkich ryzyk
+Wykaz sprzętu elektronicznego przenośnego
+WYKAZ  SPRZĘTU PRZENOŚNEGO - SPRZĘT NIE STARSZY NIŻ 5 LAT- rok 2022 i młodszy
+Lp.
+Nazwa sprzętu
+Nr inwentarzowy
+Rok produkcji/ data przyjęcia
+Rodzaj wartości - podstawa określenia sumy ubezpieczenia
+Suma ubezpieczenia
+Miejsce ubezpieczenia
+Urząd Gminy Rymanów
+1.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51857
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+2.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51858
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+3.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51859
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+4.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51860
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+5.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51861
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+6.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51862
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+7.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51863
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+8.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51864
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+9.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51865
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+10.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51866
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+11.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51867
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+12.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51868
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+13.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51869
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+14.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51870
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+15.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51871
+31.01.2022
+wartość księgowa brutto
+2131.8359999999998
+16.
+FUJITSU NOTEBOOK 15-6
+UG-W/GR-4/51872
+31.01.2022
+wartość księgowa brutto
+1981.952
+18.
+DELL V3681
+UG-W/GR-4/51917
+31.05.2022
+wartość księgowa brutto
+2583
+19.
+FUJITSU LIFEBOOK U7411
+UG-W/GR-4/52060
+11.01.2023
+wartość księgowa brutto
+7496.85
+20.
+FUJITSU LIFEBOOK U7411
+UG-W/GR-4/52061
+11.01.2023
+wartość księgowa brutto
+7496.85
+21.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52360
+11.12.2025
+wartość księgowa brutto
+2869.59
+22.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52361
+11.12.2025
+wartość księgowa brutto
+2869.59
+23.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52362
+11.12.2025
+wartość księgowa brutto
+2869.59
+24.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52363
+11.12.2025
+wartość księgowa brutto
+2869.59
+25.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52364
+11.12.2025
+wartość księgowa brutto
+2869.59
+26.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52365
+11.12.2025
+wartość księgowa brutto
+2869.59
+27.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52366
+11.12.2025
+wartość księgowa brutto
+2869.59
+28.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52367
+11.12.2025
+wartość księgowa brutto
+2869.59
+29.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52368
+11.12.2025
+wartość księgowa brutto
+2869.59
+30.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52369
+11.12.2025
+wartość księgowa brutto
+2869.59
+31.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52370
+11.12.2025
+wartość księgowa brutto
+2869.59
+32.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52371
+11.12.2025
+wartość księgowa brutto
+2869.59
+33.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52372
+11.12.2025
+wartość księgowa brutto
+2869.59
+34.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52373
+11.12.2025
+wartość księgowa brutto
+2869.59
+35.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52374
+11.12.2025
+wartość księgowa brutto
+2869.59
+36.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52375
+11.12.2025
+wartość księgowa brutto
+2869.59
+37.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52376
+11.12.2025
+wartość księgowa brutto
+2869.59
+38.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52377
+11.12.2025
+wartość księgowa brutto
+2869.59
+39.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52378
+11.12.2025
+wartość księgowa brutto
+2869.59
+40.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52379
+11.12.2025
+wartość księgowa brutto
+2869.59
+41.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52380
+11.12.2025
+wartość księgowa brutto
+2869.59
+42.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52381
+11.12.2025
+wartość księgowa brutto
+2869.59
+43.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52382
+11.12.2025
+wartość księgowa brutto
+2869.59
+44.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52383
+11.12.2025
+wartość księgowa brutto
+2869.59
+45.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52384
+11.12.2025
+wartość księgowa brutto
+2869.59
+46.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52385
+12.12.2025
+wartość księgowa brutto
+2869.59
+47.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52386
+12.12.2025
+wartość księgowa brutto
+2869.59
+48.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52387
+12.12.2025
+wartość księgowa brutto
+2869.59
+49.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52388
+12.12.2025
+wartość księgowa brutto
+2869.59
+50.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52389
+12.12.2025
+wartość księgowa brutto
+2869.59
+51.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52390
+12.12.2025
+wartość księgowa brutto
+2869.59
+52.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52391
+12.12.2025
+wartość księgowa brutto
+2869.59
+53.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52392
+12.12.2025
+wartość księgowa brutto
+2869.59
+54.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52393
+12.12.2025
+wartość księgowa brutto
+2869.59
+55.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52394
+12.12.2025
+wartość księgowa brutto
+2869.59
+56.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52395
+12.12.2025
+wartość księgowa brutto
+2869.59
+57.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52396
+12.12.2025
+wartość księgowa brutto
+2869.59
+58.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52397
+12.12.2025
+wartość księgowa brutto
+2869.59
+59.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52398
+12.12.2025
+wartość księgowa brutto
+2869.59
+60.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52399
+12.12.2025
+wartość księgowa brutto
+2869.59
+61.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52400
+12.12.2025
+wartość księgowa brutto
+2869.59
+62.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52401
+12.12.2025
+wartość księgowa brutto
+2869.59
+63.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52402
+12.12.2025
+wartość księgowa brutto
+2869.59
+64.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52403
+12.12.2025
+wartość księgowa brutto
+2869.59
+65.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52404
+12.12.2025
+wartość księgowa brutto
+2869.59
+66.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52405
+12.12.2025
+wartość księgowa brutto
+2869.59
+67.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52406
+12.12.2025
+wartość księgowa brutto
+2869.59
+68.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52407
+12.12.2025
+wartość księgowa brutto
+2869.59
+69.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52408
+12.12.2025
+wartość księgowa brutto
+2869.59
+70.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52409
+12.12.2025
+wartość księgowa brutto
+2869.59
+71.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52410
+12.12.2025
+wartość księgowa brutto
+2869.59
+72.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52411
+12.12.2025
+wartość księgowa brutto
+2869.59
+73.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52412
+12.12.2025
+wartość księgowa brutto
+2869.59
+74.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52413
+12.12.2025
+wartość księgowa brutto
+2869.59
+75.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52414
+15.12.2025
+wartość księgowa brutto
+2869.59
+76.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52415
+15.12.2025
+wartość księgowa brutto
+2869.59
+77.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52416
+15.12.2025
+wartość księgowa brutto
+2869.59
+78.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52417
+15.12.2025
+wartość księgowa brutto
+2869.59
+79.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52418
+15.12.2025
+wartość księgowa brutto
+2869.59
+80.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52419
+15.12.2025
+wartość księgowa brutto
+2869.59
+81.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52420
+15.12.2025
+wartość księgowa brutto
+2869.59
+82.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52421
+15.12.2025
+wartość księgowa brutto
+2869.59
+83.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52422
+15.12.2025
+wartość księgowa brutto
+2869.59
+84.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52423
+15.12.2025
+wartość księgowa brutto
+2869.59
+85.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52424
+15.12.2025
+wartość księgowa brutto
+2869.59
+86.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52425
+15.12.2025
+wartość księgowa brutto
+2869.59
+87.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52426
+15.12.2025
+wartość księgowa brutto
+2869.59
+88.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52427
+15.12.2025
+wartość księgowa brutto
+2869.59
+89.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52428
+15.12.2025
+wartość księgowa brutto
+2869.59
+90.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52429
+15.12.2025
+wartość księgowa brutto
+2869.59
+91.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52430
+15.12.2025
+wartość księgowa brutto
+2869.59
+92.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52431
+15.12.2025
+wartość księgowa brutto
+2869.59
+93.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52432
+15.12.2025
+wartość księgowa brutto
+2869.59
+94.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52433
+15.12.2025
+wartość księgowa brutto
+2869.59
+95.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52434
+15.12.2025
+wartość księgowa brutto
+2869.59
+96.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52435
+15.12.2025
+wartość księgowa brutto
+2869.59
+97.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52436
+15.12.2025
+wartość księgowa brutto
+2869.59
+98.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52437
+15.12.2025
+wartość księgowa brutto
+2869.59
+99.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52438
+15.12.2025
+wartość księgowa brutto
+2869.59
+100.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52439
+15.12.2025
+wartość księgowa brutto
+2869.59
+101.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52440
+15.12.2025
+wartość księgowa brutto
+2869.59
+102.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52441
+15.12.2025
+wartość księgowa brutto
+2869.59
+103.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52442
+15.12.2025
+wartość księgowa brutto
+2869.59
+104.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52443
+15.12.2025
+wartość księgowa brutto
+2869.59
+105.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52444
+15.12.2025
+wartość księgowa brutto
+2869.59
+106.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52445
+15.12.2025
+wartość księgowa brutto
+2869.59
+107.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52446
+15.12.2025
+wartość księgowa brutto
+2869.59
+108.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52447
+15.12.2025
+wartość księgowa brutto
+2869.59
+109.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52448
+15.12.2025
+wartość księgowa brutto
+2869.59
+110.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52449
+15.12.2025
+wartość księgowa brutto
+2869.59
+111.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52450
+15.12.2025
+wartość księgowa brutto
+2869.59
+112.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52451
+15.12.2025
+wartość księgowa brutto
+2869.59
+113.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52452
+15.12.2025
+wartość księgowa brutto
+2869.59
+114.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52453
+15.12.2025
+wartość księgowa brutto
+2869.59
+115.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52454
+15.12.2025
+wartość księgowa brutto
+2869.59
+116.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52455
+15.12.2025
+wartość księgowa brutto
+2869.59
+117.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52456
+15.12.2025
+wartość księgowa brutto
+2869.59
+118.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52457
+15.12.2025
+wartość księgowa brutto
+2869.59
+119.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52458
+15.12.2025
+wartość księgowa brutto
+2869.59
+120.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52459
+15.12.2025
+wartość księgowa brutto
+2869.59
+121.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52460
+15.12.2025
+wartość księgowa brutto
+2869.59
+122.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52461
+15.12.2025
+wartość księgowa brutto
+2869.59
+123.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52462
+15.12.2025
+wartość księgowa brutto
+2869.59
+124.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52463
+15.12.2025
+wartość księgowa brutto
+2869.59
+125.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52464
+15.12.2025
+wartość księgowa brutto
+2869.59
+126.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52465
+15.12.2025
+wartość księgowa brutto
+2869.59
+127.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52466
+15.12.2025
+wartość księgowa brutto
+2869.59
+128.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52467
+15.12.2025
+wartość księgowa brutto
+2869.59
+129.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52468
+15.12.2025
+wartość księgowa brutto
+2869.59
+130.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52469
+15.12.2025
+wartość księgowa brutto
+2869.59
+131.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52470
+15.12.2025
+wartość księgowa brutto
+2869.59
+132.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52471
+15.12.2025
+wartość księgowa brutto
+2869.59
+133.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52472
+15.12.2025
+wartość księgowa brutto
+2869.59
+134.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52473
+15.12.2025
+wartość księgowa brutto
+2869.59
+135.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52474
+15.12.2025
+wartość księgowa brutto
+2869.59
+136.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52475
+15.12.2025
+wartość księgowa brutto
+2869.59
+137.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52476
+15.12.2025
+wartość księgowa brutto
+2869.59
+138.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52477
+15.12.2025
+wartość księgowa brutto
+2869.59
+139.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52478
+15.12.2025
+wartość księgowa brutto
+2869.59
+140.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52479
+15.12.2025
+wartość księgowa brutto
+2869.59
+141.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52480
+15.12.2025
+wartość księgowa brutto
+2869.59
+142.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52481
+15.12.2025
+wartość księgowa brutto
+2869.59
+143.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52482
+15.12.2025
+wartość księgowa brutto
+2869.59
+144.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52483
+15.12.2025
+wartość księgowa brutto
+2869.59
+145.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52484
+15.12.2025
+wartość księgowa brutto
+2869.59
+146.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52485
+15.12.2025
+wartość księgowa brutto
+2869.59
+147.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52486
+15.12.2025
+wartość księgowa brutto
+2869.59
+148.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52487
+15.12.2025
+wartość księgowa brutto
+2869.59
+149.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52488
+15.12.2025
+wartość księgowa brutto
+2869.59
+150.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52489
+15.12.2025
+wartość księgowa brutto
+2869.59
+151.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52490
+15.12.2025
+wartość księgowa brutto
+2869.59
+152.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52491
+15.12.2025
+wartość księgowa brutto
+2869.59
+153.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52492
+15.12.2025
+wartość księgowa brutto
+2869.59
+154.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52493
+15.12.2025
+wartość księgowa brutto
+2869.59
+155.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52494
+15.12.2025
+wartość księgowa brutto
+2869.59
+156.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52495
+15.12.2025
+wartość księgowa brutto
+2869.59
+157.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52496
+15.12.2025
+wartość księgowa brutto
+2869.59
+158.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52497
+15.12.2025
+wartość księgowa brutto
+2869.59
+159.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52498
+15.12.2025
+wartość księgowa brutto
+2869.59
+160.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52499
+15.12.2025
+wartość księgowa brutto
+2869.59
+161.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52500
+15.12.2025
+wartość księgowa brutto
+2869.59
+162.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52501
+15.12.2025
+wartość księgowa brutto
+2869.59
+163.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52502
+15.12.2025
+wartość księgowa brutto
+2869.59
+164.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52503
+15.12.2025
+wartość księgowa brutto
+2869.59
+165.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52504
+15.12.2025
+wartość księgowa brutto
+2869.59
+166.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52505
+15.12.2025
+wartość księgowa brutto
+2869.59
+167.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52506
+15.12.2025
+wartość księgowa brutto
+2869.59
+168.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52507
+15.12.2025
+wartość księgowa brutto
+2869.59
+169.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52508
+15.12.2025
+wartość księgowa brutto
+2869.59
+170.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52509
+15.12.2025
+wartość księgowa brutto
+2869.59
+171.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52510
+15.12.2025
+wartość księgowa brutto
+2869.59
+172.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52511
+15.12.2025
+wartość księgowa brutto
+2869.59
+173.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52512
+15.12.2025
+wartość księgowa brutto
+2869.59
+174.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52513
+15.12.2025
+wartość księgowa brutto
+2869.59
+175.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52514
+15.12.2025
+wartość księgowa brutto
+2869.59
+176.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52515
+15.12.2025
+wartość księgowa brutto
+2869.59
+177.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52516
+15.12.2025
+wartość księgowa brutto
+2869.59
+178.
+LAPTOP 16 GEN 8
+UG-W/GR-4/52517
+15.12.2025
+wartość księgowa brutto
+2869.59
+179.
+TABLET ZAE5
+UG-W/GR-4/52518
+15.12.2025
+wartość księgowa brutto
+1523.36
+180.
+TABLET ZAE5
+UG-W/GR-4/52519
+15.12.2025
+wartość księgowa brutto
+1523.36
+181.
+TABLET ZAE5
+UG-W/GR-4/52520
+15.12.2025
+wartość księgowa brutto
+1523.36
+182.
+TABLET ZAE5
+UG-W/GR-4/52521
+15.12.2025
+wartość księgowa brutto
+1523.36
+183.
+TABLET ZAE5
+UG-W/GR-4/52522
+15.12.2025
+wartość księgowa brutto
+1523.36
+184.
+TABLET ZAE5
+UG-W/GR-4/52523
+15.12.2025
+wartość księgowa brutto
+1523.36
+185.
+TABLET ZAE5
+UG-W/GR-4/52524
+15.12.2025
+wartość księgowa brutto
+1523.36
+186.
+TABLET ZAE5
+UG-W/GR-4/52525
+15.12.2025
+wartość księgowa brutto
+1523.36
+187.
+TABLET ZAE5
+UG-W/GR-4/52526
+15.12.2025
+wartość księgowa brutto
+1523.36
+188.
+TABLET ZAE5
+UG-W/GR-4/52527
+15.12.2025
+wartość księgowa brutto
+1523.36
+189.
+TABLET ZAE5
+UG-W/GR-4/52528
+15.12.2025
+wartość księgowa brutto
+1523.36
+190.
+TABLET ZAE5
+UG-W/GR-4/52529
+15.12.2025
+wartość księgowa brutto
+1523.36
+191.
+TABLET ZAE5
+UG-W/GR-4/52530
+15.12.2025
+wartość księgowa brutto
+1523.36
+192.
+TABLET ZAE5
+UG-W/GR-4/52531
+15.12.2025
+wartość księgowa brutto
+1523.36
+193.
+TABLET ZAE5
+UG-W/GR-4/52532
+15.12.2025
+wartość księgowa brutto
+1523.36
+194.
+TABLET ZAE5
+UG-W/GR-4/52533
+15.12.2025
+wartość księgowa brutto
+1523.36
+195.
+TABLET ZAE5
+UG-W/GR-4/52534
+15.12.2025
+wartość księgowa brutto
+1523.36
+196.
+TABLET ZAE5
+UG-W/GR-4/52535
+15.12.2025
+wartość księgowa brutto
+1523.36
+197.
+TABLET ZAE5
+UG-W/GR-4/52536
+15.12.2025
+wartość księgowa brutto
+1523.36
+198.
+TABLET ZAE5
+UG-W/GR-4/52537
+15.12.2025
+wartość księgowa brutto
+1523.36
+199.
+TABLET ZAE5
+UG-W/GR-4/52538
+15.12.2025
+wartość księgowa brutto
+1523.36
+200.
+TABLET ZAE5
+UG-W/GR-4/52539
+15.12.2025
+wartość księgowa brutto
+1523.36
+201.
+TABLET ZAE5
+UG-W/GR-4/52540
+15.12.2025
+wartość księgowa brutto
+1523.36
+202.
+TABLET ZAE5
+UG-W/GR-4/52541
+15.12.2025
+wartość księgowa brutto
+1523.36
+203.
+TABLET ZAE5
+UG-W/GR-4/52542
+15.12.2025
+wartość księgowa brutto
+1523.36
+204.
+TABLET ZAE5
+UG-W/GR-4/52543
+15.12.2025
+wartość księgowa brutto
+1523.36
+205.
+TABLET ZAE5
+UG-W/GR-4/52544
+15.12.2025
+wartość księgowa brutto
+1523.36
+206.
+TABLET ZAE5
+UG-W/GR-4/52545
+15.12.2025
+wartość księgowa brutto
+1523.36
+207.
+TABLET ZAE5
+UG-W/GR-4/52546
+15.12.2025
+wartość księgowa brutto
+1523.36
+208.
+TABLET ZAE5
+UG-W/GR-4/52547
+15.12.2025
+wartość księgowa brutto
+1523.36
+209.
+TABLET ZAE5
+UG-W/GR-4/52548
+15.12.2025
+wartość księgowa brutto
+1523.36
+210.
+TABLET ZAE5
+UG-W/GR-4/52549
+15.12.2025
+wartość księgowa brutto
+1523.36
+211.
+TABLET ZAE5
+UG-W/GR-4/52550
+15.12.2025
+wartość księgowa brutto
+1523.36
+212.
+TABLET ZAE5
+UG-W/GR-4/52551
+15.12.2025
+wartość księgowa brutto
+1523.36
+213.
+TABLET ZAE5
+UG-W/GR-4/52552
+15.12.2025
+wartość księgowa brutto
+1523.36
+214.
+TABLET ZAE5
+UG-W/GR-4/52553
+15.12.2025
+wartość księgowa brutto
+1523.36
+215.
+TABLET ZAE5
+UG-W/GR-4/52554
+15.12.2025
+wartość księgowa brutto
+1523.36
+216.
+TABLET ZAE5
+UG-W/GR-4/52555
+15.12.2025
+wartość księgowa brutto
+1523.36
+217.
+TABLET ZAE5
+UG-W/GR-4/52556
+15.12.2025
+wartość księgowa brutto
+1523.36
+218.
+TABLET ZAE5
+UG-W/GR-4/52557
+15.12.2025
+wartość księgowa brutto
+1523.36
+219.
+TABLET ZAE5
+UG-W/GR-4/52558
+15.12.2025
+wartość księgowa brutto
+1523.36
+220.
+TABLET ZAE5
+UG-W/GR-4/52559
+15.12.2025
+wartość księgowa brutto
+1523.36
+221.
+TABLET ZAE5
+UG-W/GR-4/52560
+15.12.2025
+wartość księgowa brutto
+1523.36
+222.
+TABLET ZAE5
+UG-W/GR-4/52561
+15.12.2025
+wartość księgowa brutto
+1523.36
+223.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52562
+15.12.2025
+wartość księgowa brutto
+1629.75
+224.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52563
+15.12.2025
+wartość księgowa brutto
+1629.75
+225.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52564
+15.12.2025
+wartość księgowa brutto
+1629.75
+226.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52565
+15.12.2025
+wartość księgowa brutto
+1629.75
+227.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52566
+15.12.2025
+wartość księgowa brutto
+1629.75
+228.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52567
+15.12.2025
+wartość księgowa brutto
+1629.75
+229.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52568
+15.12.2025
+wartość księgowa brutto
+1629.75
+230.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52569
+15.12.2025
+wartość księgowa brutto
+1629.75
+231.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52570
+15.12.2025
+wartość księgowa brutto
+1629.75
+232.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52571
+15.12.2025
+wartość księgowa brutto
+1629.75
+233.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52572
+15.12.2025
+wartość księgowa brutto
+1629.75
+234.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52573
+15.12.2025
+wartość księgowa brutto
+1629.75
+235.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52574
+15.12.2025
+wartość księgowa brutto
+1629.75
+236.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52575
+15.12.2025
+wartość księgowa brutto
+1629.75
+237.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52576
+15.12.2025
+wartość księgowa brutto
+1629.75
+238.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52577
+15.12.2025
+wartość księgowa brutto
+1629.75
+239.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52578
+15.12.2025
+wartość księgowa brutto
+1629.75
+240.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52579
+15.12.2025
+wartość księgowa brutto
+1629.75
+241.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52580
+15.12.2025
+wartość księgowa brutto
+1629.75
+242.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52581
+15.12.2025
+wartość księgowa brutto
+1629.75
+243.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52582
+15.12.2025
+wartość księgowa brutto
+1629.75
+244.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52583
+15.12.2025
+wartość księgowa brutto
+1629.75
+245.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52584
+15.12.2025
+wartość księgowa brutto
+1629.75
+246.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52585
+15.12.2025
+wartość księgowa brutto
+1629.75
+247.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52586
+15.12.2025
+wartość księgowa brutto
+1629.75
+248.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52587
+15.12.2025
+wartość księgowa brutto
+1629.75
+249.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52588
+15.12.2025
+wartość księgowa brutto
+1629.75
+250.
+TABLET ZAE5
+UG-W/GR-4/52589
+19.12.2025
+wartość księgowa brutto
+1523.36
+251.
+TABLET ZAE5
+UG-W/GR-4/52590
+19.12.2025
+wartość księgowa brutto
+1523.36
+252.
+TABLET ZAE5
+UG-W/GR-4/52591
+19.12.2025
+wartość księgowa brutto
+1523.36
+253.
+TABLET ZAE5
+UG-W/GR-4/52592
+19.12.2025
+wartość księgowa brutto
+1523.36
+254.
+TABLET ZAE5
+UG-W/GR-4/52593
+19.12.2025
+wartość księgowa brutto
+1523.36
+255.
+TABLET ZAE5
+UG-W/GR-4/52594
+19.12.2025
+wartość księgowa brutto
+1523.36
+256.
+TABLET ZAE5
+UG-W/GR-4/52595
+19.12.2025
+wartość księgowa brutto
+1523.36
+257.
+TABLET ZAE5
+UG-W/GR-4/52596
+19.12.2025
+wartość księgowa brutto
+1523.36
+258.
+TABLET ZAE5
+UG-W/GR-4/52597
+19.12.2025
+wartość księgowa brutto
+1523.36
+259.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52598
+19.12.2025
+wartość księgowa brutto
+1629.75
+260.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52599
+19.12.2025
+wartość księgowa brutto
+1629.75
+261.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52600
+19.12.2025
+wartość księgowa brutto
+1629.75
+262.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52601
+19.12.2025
+wartość księgowa brutto
+1629.75
+263.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52602
+19.12.2025
+wartość księgowa brutto
+1629.75
+264.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52603
+19.12.2025
+wartość księgowa brutto
+1629.75
+265.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52604
+19.12.2025
+wartość księgowa brutto
+1629.75
+266.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52605
+19.12.2025
+wartość księgowa brutto
+1629.75
+267.
+TABLET ZAE5
+UG-W/GR-4/52606
+19.12.2025
+wartość księgowa brutto
+1523.36
+268.
+TABLET ZAE5
+UG-W/GR-4/52607
+19.12.2025
+wartość księgowa brutto
+1523.36
+269.
+TABLET ZAE5
+UG-W/GR-4/52608
+19.12.2025
+wartość księgowa brutto
+1523.36
+270.
+TABLET ZAE5
+UG-W/GR-4/52609
+19.12.2025
+wartość księgowa brutto
+1523.36
+271.
+TABLET ZAE5
+UG-W/GR-4/52610
+19.12.2025
+wartość księgowa brutto
+1523.36
+272.
+TABLET ZAE5
+UG-W/GR-4/52611
+19.12.2025
+wartość księgowa brutto
+1523.36
+273.
+TABLET ZAE5
+UG-W/GR-4/52612
+19.12.2025
+wartość księgowa brutto
+1523.36
+274.
+TABLET ZAE5
+UG-W/GR-4/52613
+19.12.2025
+wartość księgowa brutto
+1523.36
+275.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52614
+22.12.2025
+wartość księgowa brutto
+1629.75
+276.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52615
+22.12.2025
+wartość księgowa brutto
+1629.75
+277.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52616
+22.12.2025
+wartość księgowa brutto
+1629.75
+278.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52617
+22.12.2025
+wartość księgowa brutto
+1629.75
+279.
+LAPTOP PRZEGL. 82W7
+UG-W/GR-4/52618
+22.12.2025
+wartość księgowa brutto
+1629.75
+280.
+TABLET ZAE5
+UG-W/GR-4/52619
+22.12.2025
+wartość księgowa brutto
+1523.36
+281.
+TABLET ZAE5
+UG-W/GR-4/52620
+22.12.2025
+wartość księgowa brutto
+1523.36
+282.
+TABLET ZAE5
+UG-W/GR-4/52621
+22.12.2025
+wartość księgowa brutto
+1523.36
+283.
+TABLET ZAE5
+UG-W/GR-4/52622
+22.12.2025
+wartość księgowa brutto
+1523.36
+284.
+TABLET ZAE5
+UG-W/GR-4/52623
+22.12.2025
+wartość księgowa brutto
+1523.36
+285.
+TABLET ZAE5
+UG-W/GR-4/52624
+22.12.2025
+wartość księgowa brutto
+1523.36
+286.
+TABLET ZAE5
+UG-W/GR-4/52625
+22.12.2025
+wartość księgowa brutto
+1523.36
+287.
+TABLET ZAE5
+UG-W/GR-4/52626
+22.12.2025
+wartość księgowa brutto
+1523.36
+288.
+TABLET ZAE5
+UG-W/GR-4/52627
+22.12.2025
+wartość księgowa brutto
+1523.36
+289.
+TABLET ZAE5
+UG-W/GR-4/52628
+22.12.2025
+wartość księgowa brutto
+1523.36
+290.
+TABLET ZAE5
+UG-W/GR-4/52629
+22.12.2025
+wartość księgowa brutto
+1523.36
+291.
+TABLET ZAE5
+UG-W/GR-4/52630
+22.12.2025
+wartość księgowa brutto
+1523.36
+292.
+TABLET ZAE5
+UG-W/GR-4/52631
+22.12.2025
+wartość księgowa brutto
+1523.36
+293.
+TABLET ZAE5
+UG-W/GR-4/52632
+22.12.2025
+wartość księgowa brutto
+1523.36
+294.
+TABLET ZAE5
+UG-W/GR-4/52633
+22.12.2025
+wartość księgowa brutto
+1523.36
+295.
+TABLET ZAE5
+UG-W/GR-4/52634
+22.12.2025
+wartość księgowa brutto
+1523.36
+296.
+TABLET ZAE5
+UG-W/GR-4/52635
+22.12.2025
+wartość księgowa brutto
+1523.36
+297.
+TABLET ZAE5
+UG-W/GR-4/52636
+22.12.2025
+wartość księgowa brutto
+1523.36
+298.
+TABLET ZAE5
+UG-W/GR-4/52637
+22.12.2025
+wartość księgowa brutto
+1523.36
+299.
+TABLET ZAE5
+UG-W/GR-4/52638
+22.12.2025
+wartość księgowa brutto
+1523.36
+300.
+TABLET ZAE5
+UG-W/GR-4/52639
+22.12.2025
+wartość księgowa brutto
+1523.36
+301.
+TABLET ZAE5
+UG-W/GR-4/52640
+22.12.2025
+wartość księgowa brutto
+1523.36
+302.
+TABLET ZAE5
+UG-W/GR-4/52641
+22.12.2025
+wartość księgowa brutto
+1523.36
+303.
+TABLET ZAE5
+UG-W/GR-4/52642
+22.12.2025
+wartość księgowa brutto
+1523.36
+304.
+TABLET ZAE5
+UG-W/GR-4/52643
+22.12.2025
+wartość księgowa brutto
+1523.36
+305.
+TABLET ZAE5
+UG-W/GR-4/52644
+22.12.2025
+wartość księgowa brutto
+1523.36
+RAZEM
+702653.73200000077
+Zakład Gospodarki Komunalnej
+1.
+Skaner kodów ZENRA
+W/0575
+2022
+wartość księgowa brutto
+1590
+2.
+Skaner kodów ZENRA
+W/0576
+2022
+wartość księgowa brutto
+1590
+3.
+Telefon Samsung Galaxy Xvover 5
+W/0587
+2022
+wartość księgowa brutto
+324.45
+4.
+Tablet EM-I61J
+W/0635
+2024
+wartość księgowa brutto
+2305.29
+5.
+Notebook 15,6" Dell 3520
+W/0639
+2024
+wartość księgowa brutto
+2046.66
+6.
+Notebook 15,6" Dell 3520
+W/0640
+2024
+wartość księgowa brutto
+2046.66
+7.
+Zestaw komputerowy radiowego odczytu wodomierzy
+W/0650
+2024
+wartość księgowa brutto
+5641.43
+8.
+Drukarka Bluetooth Sewoo LK-P41
+W/0651
+2024
+wartość księgowa brutto
+2136.48
+10.
+Telefon Motorola Moto G15
+W/0675
+2025
+wartość księgowa brutto
+531.28
+11.
+Telefon Motorola Moto G15
+W/0676
+2025
+wartość księgowa brutto
+652.89
+12.
+Telefon i Phone 17 Pro
+W/0710
+2025
+wartość księgowa brutto
+4830.13
+13.
+Telefon i Phone 17 Pro
+W/0711
+2025
+wartość księgowa brutto
+4830.13
+14.
+Telefon MyPhone Hammer 6
+W/0713
+2025
+wartość księgowa brutto
+326.63
+15.
+Telefon MyPhone Hammer 6
+W/0714
+2025
+wartość księgowa brutto
+326.63
+16.
+Czytnik bezprzewodowy Newland
+W/0731
+2025
+wartość księgowa brutto
+1086.72
+17.
+Czytnik bezprzewodowy Newland
+W/0732
+2025
+wartość księgowa brutto
+1086.72
+RAZEM
+31352.100000000006
+GOPS
+1.
+Laptop
+1/2025/GOPS
+2025
+wartość księgowa brutto
+4500
+Rymanów, ul. Dworska 42
+RAZEM
+4500
+GOK
+1.
+Kasa fiskalna Link - 2 szt.
+2022
+wartość księgowa brutto
+3600
+2.
+Dysk SSD
+2022
+wartość księgowa brutto
+219
+3.
+Mikrofon AKG111LP - 2 szt.
+2022
+wartość księgowa brutto
+1250
+4.
+Mikrofon pojemnościowy - 2 szt.
+2022
+wartość księgowa brutto
+2000
+5.
+Zestaw mikrofonów bezprzewodowych
+2022
+wartość księgowa brutto
+6250
+6.
+Tablet
+2022
+wartość księgowa brutto
+1000
+7.
+Aparat Canon
+2022
+wartość księgowa brutto
+3694
+8.
+Laptop Dell
+2023
+wartość księgowa brutto
+4920
+9.
+Kasa fiskalna BIT
+2024
+wartość księgowa brutto
+1892
+10.
+Mikrofon bezprzewodowy
+2024
+wartość księgowa brutto
+1749
+11.
+Bezprzewodowy zestaw do transmisji wideo
+2025
+wartość księgowa brutto
+1590
+12.
+Robot do mycia okien
+2025
+wartość księgowa brutto
+1858.72
+13.
+Aparat Nikon z5
+2025
+wartość księgowa brutto
+5704.02
+14.
+Obiektyw Tamton do aparatu
+2025
+wartość księgowa brutto
+2654.33
+15.
+Mikrofon JBL
+2025
+wartość księgowa brutto
+422.96
+16.
+Głośnik JBL
+2025
+wartość księgowa brutto
+2039
+17.
+Nadajnik miniaturowy em 100g4 - 2 szt.
+2025
+wartość księgowa brutto
+2298.33
+18.
+Nadajnik do ręki skm 100 g4 2 szt.
+2025
+wartość księgowa brutto
+2298.33
+19.
+Kapsuła mikrofonowa - 2 szt.
+2025
+wartość księgowa brutto
+749.98
+20.
+Mikrofon nagłowny kardoidalny 2 szt.
+2025
+wartość księgowa brutto
+1088.68
+21.
+Mikrofon bezprz. Solo twin ht 660 4 szt.
+2025
+wartość księgowa brutto
+5170.72
+RAZEM
+52449.070000000014
+GOSiR
+1.
+Notebook 15,6'Dell
+GOSIR/W/244
+2024
+wartość księgowa brutto
+2265.92
+2.
+Smartfon APPLE IPHONE 16 PRO
+GOSIR/W8253
+2024
+wartość księgowa brutto
+5549.6
+3.
+Smartfon APPLE IPHONE 16 PRO
+GOSIR/W8254
+2024
+wartość księgowa brutto
+5549.59
+RAZEM
+13365.11
+Biblioteka Publiczna
+1
+zestaw Karaoke
+Lp. 138
+45447
+898.99
+GBP Rymanów
+RAZEM
+898.99
+ZEAS
+1.
+Notebook 15,6 DELL 3530i3 1305U/8BG/Win11P
+ST: G6LDF14 EX35227212376
+2024
+wartość księgowa brutto
+2367.75
+ul. Dworska 42, 38-480 Rymanów
+2.
+Netbook Dell Latitude 5550i3-1315U/16GB/512GB/Win11P
+NR INWENTARZOWY: 1000000317
+2025
+wartość księgowa brutto
+3616.2
+ul. Dworska 42, 38-480 Rymanów
+3.
+Notebook 15,6 Dell 3530
+ST:DZ01P04 EX:30414665588
+2023
+wartość księgowa brutto
+4157.3999999999996
+ul. Dworska 42, 38-480 Rymanów
+10141.349999999999
+SP w Sieniawie
+1.
+Dell Inspirion 15 3511-3162
+SP-SIENIAWA/1109
+2022
+wartość księgowa brutto
+2276.42
+ul. Kwiatowa 8
+38-480 Sieniawa
+2.
+Lenovo Legion
+SP-SIENIAWA/1110
+2022
+wartość księgowa brutto
+3098.63
+ul. Kwiatowa 8
+38-480 Sieniawa
+3.
+Notebook HP 15 s - rg2195nw
+SP-SIENIAWA/1111
+2022
+wartość księgowa brutto
+1788.62
+ul. Kwiatowa 8
+38-480 Sieniawa
+4.
+Urządzenie wielofunkcyjne Brother MFC
+SP-SIENIAWA/1134
+2022
+wartość księgowa brutto
+2000
+ul. Kwiatowa 8
+38-480 Sieniawa
+5.
+Laptop DELLVostro
+SP-SIENIAWA/1172
+2023
+wartość księgowa brutto
+2698
+ul. Kwiatowa 8
+38-480 Sieniawa
+6.
+Laptop DELLVostro 3510
+SP-SIENIAWA/1173
+2023
+wartość księgowa brutto
+2698
+ul. Kwiatowa 8
+38-480 Sieniawa
+7.
+Niszczarka Wallner HD-120
+SP-SIENIAWA/1186
+2023
+wartość księgowa brutto
+1039.3499999999999
+ul. Kwiatowa 8
+38-480 Sieniawa
+8.
+Laptop DELL Vostro 3520
+2023
+wartość księgowa brutto
+3098
+ul. Kwiatowa 8
+38-480 Sieniawa
+9.
+Drukarka elektryczna GODEX G500-UES4 TT203 dpi
+SP-SIENIAWA/1594
+2024
+wartość księgowa brutto
+1499
+ul. Kwiatowa 8
+38-480 Sieniawa
+10.
+Laptop DELL Vostro 3530 15,6
+SP-SIENIAWA/1663
+2024
+wartość księgowa brutto
+2569
+ul. Kwiatowa 8
+38-480 Sieniawa
+11.
+Laptop DELL Vostro 3530 15,6
+SP-SIENIAWA/1664
+2024
+wartość księgowa brutto
+2569
+ul. Kwiatowa 8
+38-480 Sieniawa
+12.
+Laptop DELL Vostro 3530 15,6
+SP-SIENIAWA/1665
+2024
+wartość księgowa brutto
+2569
+ul. Kwiatowa 8
+38-480 Sieniawa
+13.
+Laptop DELL Vostro 3530 15,6
+SP-SIENIAWA/1666
+2024
+wartość księgowa brutto
+2569
+ul. Kwiatowa 8
+38-480 Sieniawa
+14.
+Laptop Dell Latitude 3550
+SP-SIENIAWA/1700
+2024
+wartość księgowa brutto
+3765.93
+ul. Kwiatowa 8
+38-480 Sieniawa
+15.
+Urządzenie wielofunkcyjne Sharp mono
+SP-SIENIAWA/1701
+2025
+wartość księgowa brutto
+1328.4
+ul. Kwiatowa 8
+38-480 Sieniawa
+16.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1818
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+17.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1819
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+18.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1820
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+19.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1821
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+20.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1822
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+21.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1823
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+22.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1824
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+23.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1825
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+24.
+Lenovo ThinkPad E16
+SP-SIENIAWA/1826
+2025
+wartość księgowa brutto
+4544.8500000000004
+ul. Kwiatowa 8
+38-480 Sieniawa
+25.
+Kolumna aktywna BERINGER MPA 200 mikrofon
+SP-SIENIAWA/2871
+2025
+wartość księgowa brutto
+1479
+ul. Kwiatowa 8
+38-480 Sieniawa
+26.
+Monitor  27"IIYama G2745HSui
+SP-SIENIAWA/2877
+2025
+wartość księgowa brutto
+679.99
+ul. Kwiatowa 8
+38-480 Sieniawa
+27.
+Monitor  27"IIYama G2745HSui
+SP-SIENIAWA/2878
+2025
+wartość księgowa brutto
+680
+ul. Kwiatowa 8
+38-480 Sieniawa
+28.
+Yamaha P-S500B Pianino cyfrowe
+SP-SIENIAWA/2860
+2025
+wartość księgowa brutto
+7400
+ul. Kwiatowa 8
+38-480 Sieniawa
+29.
+Laptop Dell Inspirion 15 3530 i5-1334U
+SP-SIENIAWA/2880
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8
+38-480 Sieniawa
+30.
+Laptop Dell Inspirion 15 3530 i5-1334U
+SP-SIENIAWA/2881
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8
+38-480 Sieniawa
+31.
+Laptop Dell Inspirion 15 3530 i5-1334U
+SP-SIENIAWA/2882
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8
+38-480 Sieniawa
+32.
+Laptop Dell Inspirion 15 3530 i5-1334U
+SP-SIENIAWA/2883
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8
+38-480 Sieniawa
+33.
+Laptop Dell Inspirion 15 3530 i5-1334U
+SP-SIENIAWA/2884
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8
+38-480 Sieniawa
+RAZEM
+105458.99
+Szkoła Podstawowa w Klimkówce
+1.
+Zestaw: Laptop Lenovo , torba, myszka, naklejki - 9 sztuk x 4544,85 zł                           Laptop Lenovo ThinkPad E16 Gen 2 AMD nr seryjne: 21M6S3Y500PF5P7E64, 21M6S3Y500PF5P7R05,  21M6S3Y500PF5PCFX4, 21M6S3Y500PF5PDS7G,  21M6S3Y500PF5PEoGD,  21M6S3Y500PF5PEoLS,  21M6S3Y500PFDG8, 21M6S3Y500PF5PFDJV, 21M6S3Y500PF5PGP2A
+SPKLIMKOWKA/1690 - SPKLIMKOWKA/1698
+2025
+wartość księgowa brutto
+40903.65
+SP Klimkówka
+2.
+Lapotp ACER Acer Travelmate TMP216-51-G2-TCO
+SPKLIMKOWKA/1707
+2025
+wartość księgowa brutto
+3451
+SP Klimkówka
+3.
+Lapotp ACER Acer Travelmate TMP216-51-G2-TCO
+SPKLIMKOWKA/1711
+2025
+wartość księgowa brutto
+34511
+SP Klimkówka
+RAZEM
+78865.649999999994
+SP we Wróbliku Szlacheckim
+1.
+Projektor EPSON EB-W06
+S/N: X89E2900338
+2022
+wartość księgowa brutto
+4339
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+2.
+Głośnik mobilny JBL CHARGE 5
+S/N: ND0793-HM0268557
+2022
+wartość księgowa brutto
+649.99
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+3.
+Głośnik mobilny XMUSIC
+S/N: BTS850K
+2022
+wartość księgowa brutto
+499.99
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+4.
+Laptop Lenovo V15 G2 ALC 15
+S/N: PF4511KJ
+2022
+wartość księgowa brutto
+3000
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+5.
+Laptop Lenovo V15 G2 ALC 15
+S/N: PF453Q6P
+2022
+wartość księgowa brutto
+3000
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+6.
+Monitor interaktywny AVTEK
+TS 7 Lite 65"
+2023
+wartość księgowa brutto
+7500
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+7.
+Kamera cyfrowa CANON LEGRIA HF G70 4K
+S/N 703659100113
+2023
+wartość księgowa brutto
+4998
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+8.
+HK Audio Polar 12-system nagłośnieniowy
+N01-2422-70131727
+2024
+wartość księgowa brutto
+4090
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+9.
+Mikrofon RODE VIDEOMIC GO II
+HA0188386
+2024
+wartość księgowa brutto
+459
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+10.
+Ploter Brother SDX 2250
+2457
+2024
+wartość księgowa brutto
+4200
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+11.
+Monitor Interaktywny
+ZXEDL030010368455O00003
+2025
+wartość księgowa brutto
+8139
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+12.
+Zestaw mikrofonów bezprzewodowych Shure BLX288E/PG58 H&E ZESTAW PODWÓJNY
+3EF1892498
+2025
+wartość księgowa brutto
+2499
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+13.
+Zestaw komputerowy (tj. komputer przenośny + torba na laptop + mysz komputerowa + zestaw naklejek) 9 sztuk
+21M6S3Y500PF5P7WJG 21M6S3Y500PF5P8BF5 21M6S3Y500PF5P8V38 21M6S3Y500PF5PAAKF 21M6S3Y500PF5PE0FW 21M6S3Y500PF5PEPRK 21M6S3Y500PF5PF787 21M6S3Y500PF5PF7C6 21M6S3Y500PF5PFVFJ
+2024
+wartość księgowa brutto
+40903.65
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+RAZEM
+84277.63
+Szkoła Podstawowa w Króliku Polskim
+1.
+Laptop HP Elitebook 850
+748
+2022
+wartość księgowa brutto
+3000
+SP Królik Polski
+2.
+Laptop HP Elitebook 850
+749
+2022
+wartość księgowa brutto
+3000
+SP Królik Polski
+3.
+Laptop DELL VOSTTRO 3568
+896
+2024
+wartość księgowa brutto
+1500
+SP Królik Polski
+4.
+Laptop DELL VOSTTRO 3568
+897
+2024
+wartość księgowa brutto
+1500
+SP Królik Polski
+5.
+Laptop DELL VOSTTRO 3568
+898
+2024
+wartość księgowa brutto
+1500
+SP Królik Polski
+6.
+Laptop LENOVO ThinkPad E16 Gen 2
+1012
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+7.
+Laptop LENOVO ThinkPad E16 Gen 2
+1013
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+8.
+Laptop LENOVO ThinkPad E16 Gen 2
+1014
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+9.
+Laptop LENOVO ThinkPad E16 Gen 2
+1015
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+10.
+Laptop LENOVO ThinkPad E16 Gen 2
+1016
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+11.
+Laptop LENOVO ThinkPad E16 Gen 2
+1017
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+12.
+Laptop LENOVO ThinkPad E16 Gen 2
+1018
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+13.
+Laptop LENOVO ThinkPad E16 Gen 2
+1019
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+14.
+Laptop LENOVO ThinkPad E16 Gen 2
+1020
+2025
+wartość księgowa brutto
+4544.8500000000004
+SP Królik Polski
+15.
+Laptop DELL Pro Max 16
+1109
+2026
+wartość księgowa brutto
+6888
+SP Królik Polski
+RAZEM
+58291.649999999994
+Zespół Szkół Publicznych w Milczy
+1.
+Laptop
+DeLL Vostro Nr inw: ZSP-MILCZA/1042
+2023
+wartość księgowa brutto
+3348.99
+Milcza, ul. Szkolna 13, 38-483 Wróblik Szlachecki
+2.
+Czytnik kodów
+Nr inw: ZSP-MILCZA/1045
+2023
+wartość księgowa brutto
+600
+Milcza, ul. Szkolna 13, 38-483 Wróblik Szlachecki
+3.
+Defriblyrator AED
+ZSP-MILCZA/1125
+2024
+wartość księgowa brutto
+645.75
+Milcza, ul. Szkolna 13, 38-483 Wróblik Szlachecki
+4.
+Laptop Dell Vostro 3530- 2 szt.
+ZSP-MILCZA/1138-39
+2024
+wartość księgowa brutto
+5158
+Milcza, ul. Szkolna 13, 38-483 Wróblik Szlachecki
+5.
+Programowalny Robot Edukacyjny
+ZSP-MILCZA/1227-34
+2025
+wartość księgowa brutto
+1249.68
+Milcza, ul. Szkolna 13, 38-483 Wróblik Szlachecki
+6.
+Zestaw Komputerowy Lenowo Thinkpad- Rap Steam- 9 SZTUK
+21M6S3Y500PF5P8FEC,21M6S3Y500PF5PAH8H,21M6S3Y500PFCG1D,21M6S3Y500PF5PD7Q1,21M6S3Y500PF5PE090,21M6S3Y500PF5PE5V7,21M6S3Y500PF5PEACJ,21M6S3Y500PF5PEPR9,21M6S3Y500PF5PF9X4
+2025
+wartość księgowa brutto
+40903.65
+Milcza, ul. Szkolna 13, 38-483 Wróblik Szlachecki
+7.
+Lego SPIKe- robot edukacyjny- Rap Steam- 10 szt.
+LEGO45678
+2025
+wartość księgowa brutto
+23419.200000000001
+Milcza, ul. Szkolna 13, 38-483 Wróblik Szlachecki
+RAZEM
+75325.27
+Zespół Szkół Publicznych w Posadzie Górnej
+1.
+Tablet
+Lenovo YogaTab 11 Helio G90T 11"
+ZSP-POSADAGORNA/001737
+2022
+wartość księgowa brutto
+1360.38
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+2.
+Laptop
+HP 15s-eq2195nw
+ZSP-POSADAGORNA/001739
+2022
+wartość księgowa brutto
+2530
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+3.
+Laptop
+ASUS X515EA-BQ1221W
+ZSP-POSADAGORNA/001747
+2022
+wartość księgowa brutto
+2439
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+4.
+Laptop Lenowo Ideapad 3-15ALC
+ZSP-POSADAGORNA/001832
+2022
+wartość księgowa brutto
+2620
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+5.
+Laptop Lenowo Ideapad 3-15ALC
+ZSP-POSADAGORNA/001833
+2022
+wartość księgowa brutto
+2620
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+6.
+Laptop HP 17-cp1105nw
+ZSP-POSADAGORNA/001831
+2022
+wartość księgowa brutto
+3250
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+7.
+Tablet TCL TAB 10 LTE Szary
+ZSP-POSADAGORNA/001834
+2022
+wartość księgowa brutto
+750
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+8.
+Tablet TCL TAB 10 LTE Szary
+ZSP-POSADAGORNA/001835
+2022
+wartość księgowa brutto
+750.01
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+9.
+Głośnik JBL Charge 5 BLACK
+ZSP-POSADAGORNA/001875
+2023
+wartość księgowa brutto
+740
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+10.
+Lenovo tab M11 (TB330FU)
+ZSP-POSADAGORNA/002081
+2024
+wartość księgowa brutto
+740
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+11.
+Lenovo tab M11 (TB330FU)
+ZSP-POSADAGORNA/002082
+2024
+wartość księgowa brutto
+740
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+12.
+Lenovo tab M11 (TB330FU)
+ZSP-POSADAGORNA/002083
+2024
+wartość księgowa brutto
+740
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+13.
+Lenovo tab M11 (TB330FU)
+ZSP-POSADAGORNA/002084
+2024
+wartość księgowa brutto
+740
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+14.
+Lenovo tab M11 (TB330FU)
+ZSP-POSADAGORNA/002085
+2024
+wartość księgowa brutto
+740
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+15.
+Głośnik Power audio Blaupunkt PB06DB
+ZSP-POSADAGORNA/002061
+2024
+wartość księgowa brutto
+740
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+16.
+Tablet graficzny Bosto BT-19UHDT
+ZSP-POSADAGORNA/002060
+2024
+wartość księgowa brutto
+2599
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+17.
+Kamera termowizyjna UNI-T Uti730E
+ZSP-POSADAGORNA/002059
+2024
+wartość księgowa brutto
+2988.98
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+18.
+Mikrofon MIPRO ACT-312B/ACT-32Hx2 (5NB) - system podwójny 36519
+ZSP-POSADAGORNA/002055
+2024
+wartość księgowa brutto
+2380
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+19.
+Słuchawki kostne do terapii słuchowej Forbrain
+ZSP-POSADAGORNA/002107
+2024
+wartość księgowa brutto
+1550
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+20.
+Trainer AED 112p - AED treningowy z wyświetlaczem
+ZSP-POSADAGORNA/002195
+2025
+wartość księgowa brutto
+779
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+21.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002225
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+22.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002226
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+23.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002227
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+24.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002228
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+25.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002229
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+26.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002230
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+27.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002231
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+28.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002232
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+29.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002233
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+30.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002234
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+31.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002235
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+32.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002236
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+33.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002237
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+34.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002238
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+35.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002239
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+36.
+Lenovo ThinkPad E16 Gen 2 AMD
+ZSP-POSADAGORNA/002240
+2025
+wartość księgowa brutto
+4544.8500000000004
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+37.
+Insta360 X4 Adventure Bundle
+ZSP-POSADAGORNA/002318
+2025
+wartość księgowa brutto
+2150
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+38.
+PackESSL.V1L KIWI- Pack ESSENTIEL LV1L Biathlon LAser/ Pakiet Biathlon Laser LV1L
+ZSP-POSADAGORNA/002325
+2025
+wartość księgowa brutto
+9249
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+RAZEM
+115912.97000000004
+Zespół Szkół Publicznych w Rymanowie
+1.
+1 Dji Mini 3 -dron
+1581F5YHX2 3CJ0030CWM
+2024
+wartość księgowa brutto
+2370
+ul. Szkolna 2, 38-480 Rymanów
+2.
+1 Dron DJI Mini 3  z kontrolerem RC
+1581F5YHX2 4880032FRS
+2024
+wartość księgowa brutto
+2899
+ul. Szkolna 2, 38-480 Rymanów
+3.
+Lenovo Think Pad E16 Gen 2, Torba o laptopa Esperanza ET 101 , Mysz optyczna USB Natec Hoopoe 2 (NMY-1798), zestaw naklejek   -16 szt. -zestaw ( RAP STEAM).
+21M6S3Y500PF5P7E6Q, 21M6S3Y500PF5P8BD5, 21M6S3Y500PF5P8F6H, 21M6S3Y500PF5P8FS1, 21M6S3Y500PF5PA5NH, 21M6S3Y500PF5PEPP8, 21M6S3Y500PF5PEPPM, 21M6S3Y500PF5PEPQ6, 21M6S3Y500PF5PEPT5, 21M6S3Y500PF5PEZYR, 21M6S3Y500PF5PGHZE, 21M6S3Y500PF5PGXBK, 21M6S3Y500PF5PGZK3, 21M6S3Y500PF5PH24A, 21M6S3Y500PF5PH4E3, 21M6S3Y500PF5PHDRD
+2025
+wartość księgowa brutto
+72717.600000000006
+ul. Szkolna 2, 38-480 Rymanów
+RAZEM
+77986.600000000006
+Zespół Żłobków w Rymanowie
+1.
+GŁOSNIK MOBILNY XMUSIC BTS850G
+ŻR/W/148
+2022
+wartość księgowa brutto
+399
+RYMANÓW UL. SZKOLNA 2
+2.
+Tablet 10'' - kruger matz 2 szt.
+ŻR/W/172/1;  ŻR/W/172/2
+2024
+wartość księgowa brutto
+1699.89
+RYMANÓW UL. SZKOLNA 2
+3.
+Tablet 10'' - kruger matz, nr inwentarzowy: ŻD/W/171; ŻR/W/172
+ŻD/W/171
+2024
+wartość księgowa brutto
+849.93
+RYMANÓW-ZDRÓJ UL. SZKOLNA 14
+4.
+Notebook15,6'' Deel 3530i3-1305U/8GB nr inwentarzowy: ŻR/W/173
+ŻR/W/173
+2024
+wartość księgowa brutto
+2367.75
+RYMANÓW UL. SZKOLNA 2; RYMANÓW-ZDRÓJ UL. SZKOLNA 14
+RAZEM
+4917.57
+RAZEM
+1416396.682000001
+
+### xl/worksheets/sheet11.xml
+Ubezpieczenie mienia  od wszystkich ryzyk
+Wykaz monitoringu wizyjnego
+WYKAZ MONITORINGU WIZYJNEGO - SYSTEM KAMER - SPRZĘT NIE STARSZY NIŻ 5 LAT- rok 2022 i młodszy
+Lp.
+Nazwa sprzętu
+Nr inwentarzowy
+Rok produkcji/ data przyjęcia
+Rodzaj wartości - podstawa określenia sumy ubezpieczenia
+Suma ubezpieczenia
+Miejsce ubezpieczenia
+Uwagi, np. dzierżawa, użyczone mienie, cesja i inne
+Urząd Gminy Rymanów
+1.
+MONITORING WIZYJNY W SIENIAWIE PRZY DOMU LUDOWYM
+UG-ST/6/96
+2022
+wartość księgowa brutto
+7595
+2.
+MONITORING MIEJSKI
+UG-ST/6/97
+2024
+wartość księgowa brutto
+146000
+153595
+SP w  Sieniawie
+1.
+23 szt. kamer wewnętrznych 
+10 szt. kamer zewnętrznych
+Monitoring CCTV, zaprojektowany w systemie IP wraz z następującymi urządzeniami: rejestrator cyfrowy zabudowany w szafie, przełącznik Poe, zasilacz awaryjny UPS w szafie,panele krosowe, panele porządkujące z wieszakami, monitor CCTV, kable krosowe, kamery zewnętrzne tubowe, kamery wewntrzne kopułowe
+monitoring stanowi integralną część budynku szkoły wykazanej w zakładce Budynki, nr środka trwałego 000016
+2023
+wartość księgowa brutto
+57636.43
+ul. Kwiatowa 8
+38 - 480 Sieniawa
+monitoring stanowi integralną część budynku szkoły wykazanej w zakładce Budynki , nr środka trwałego 000016,
+57636.43
+Szkoła Podstawowa w Klimkówce
+1.
+Rejestrator IP DahuaDH-XVR5116HS
+SPKLIMKOWKA/1753
+2025
+wartość księgowa brutto
+1300
+SP Klimkówka
+1300
+Zespół Szkół Publicznych w Posadzie Górnej
+1.
+Rejestrator Dauha 16 kan analogowych 8
+kan IP
+ZSP-POSADAGORNA/001756
+2022
+księgowa brutto
+1845
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+2.
+Kamera DAHUA 2,8-12
+ZSP-POSADAGORNA/001836
+2022
+księgowa brutto
+900
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+3.
+Kamera DAHUA 2,8-12
+ZSP-POSADAGORNA/001837
+2022
+księgowa brutto
+900.01
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+4.
+Kamera CMR-T4223
+ZSP-POSADAGORNA/001972
+2024
+księgowa brutto
+530
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+5.
+Rejestrator Dahua NVR5232-EI
+ZSP-POSADAGORNA/002395
+2025
+księgowa brutto
+1881.9
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+6.
+Kamera TC-C32RN Tiandy
+ZSP-POSADAGORNA/002412
+2025
+księgowa brutto
+337.02
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+7.
+Kamera Dahua IPC-HDW1439V-A-IL0280B
+ZSP-POSADAGORNA/002411
+2025
+księgowa brutto
+306.27
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+8.
+Kamera Dahua IPC-HDW1439V-A-IL0280B
+ZSP-POSADAGORNA/002410
+2025
+księgowa brutto
+306.27
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+9.
+Kamera Dahua IPC-HDW1439V-A-IL0280B
+ZSP-POSADAGORNA/002409
+2025
+księgowa brutto
+306.27
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+10.
+Kamera Dahua IPC-HDW1439V-A-IL0280B
+ZSP-POSADAGORNA/002408
+2025
+księgowa brutto
+306.27
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+11.
+Kamera Dahua IPC-HDW1439V-A-IL0280B
+ZSP-POSADAGORNA/002407
+2025
+księgowa brutto
+306.27
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+12.
+Kamera Dahua IPC-HDW1439V-A-IL0280B
+ZSP-POSADAGORNA/002406
+2025
+księgowa brutto
+306.27
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+13.
+Kamera Dahua IPC-HDW1439V-A-IL0280B
+ZSP-POSADAGORNA/002405
+2025
+księgowa brutto
+306.27
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+RAZEM
+8537.8200000000033
+Zespół Szkół Publicznych w Rymanowie
+1.
+Rejestrator IP Dahua NVR4232-4KS32, 32 kamery
+8416.8417000000009
+2024
+wartość księgowa brutto
+20 000.00
+ul. Szkolna 2 38-480 Rymanów
+2.
+Rejestrator IP Dahua 16 kan. 2000 Mb/s
+7073
+2025
+wartość księgowa brutto
+2017.2
+ul. Szkolna 2 38-480 Rymanów
+RAZEM
+2017.2
+RAZEM
+223086.45
+
+### xl/worksheets/sheet12.xml
+Ubezpieczenie mienia  od wszystkich ryzyk
+Wykaz serwerów oraz elektroniki krytycznej
+WYKAZ SERWERÓW ORAZ ELEKTRONIKI KRYTYCZNEJ – BEZ WZGLĘDU NA WIEK
+Lp.
+Nazwa sprzętu
+Nr inwentarzowy
+Rok produkcji/ data przyjęcia
+Rodzaj wartości - podstawa określenia sumy ubezpieczenia
+Suma ubezpieczenia
+Urząd Gminy Rymanów
+1.
+MACIERZ DYSKOWA
+UG-ST/4/55
+2018
+wartość księgowa brutto
+62596.4
+2.
+SERWER E-USŁUGI II
+UG-ST/4/56
+2018
+wartość księgowa brutto
+29778.87
+3.
+ZESTAW SERWEROWY DELL POWEREDGE R450
+UG-ST/4/59
+2023
+wartość księgowa brutto
+189420
+4.
+DELL POWERVAULT LT07
+UG-ST/4/60
+2023
+wartość księgowa brutto
+23985
+305780.27
+Zakład Gospodarki Komunalnej
+1.
+Serwer Fujitsu Primergy
+ŚT/0203
+2024
+wartość księgowa brutto
+14098.66
+14098.66
+Szkoła Podstawowa w Klimkówce
+1.
+Serwer - komputer sprzętowy z wirtualizacją serwera - Actina Prime i5 /Intel Core i5-12400, 32GB RAM, Dysk: SSD 256 GB, HDD 1TB/ 2x LAN 1GBPs
+SPKLIMKOWKA/1498
+2024
+wartość księgowa brutto
+2999
+2999
+RAZEM
+322877.93
+ISO 27001: A 5.13; Klasyfikacja dokumentu: wewnętrzny – pusty dokument (bez danych); ograniczony – wypełniony dokument (z danymi)
+
+### xl/worksheets/sheet13.xml
+Lp.
+Ubezpieczający (nazwa, REGON)
+Ubezpieczony (nazwa, REGON)
+Numer rejestracyjny
+Wybrany zakres ubezpieczenia
+Nr nadwozia, VIN
+Rodzaj pojazdu
+Marka pojazdu
+Model/ typ pojazdu
+Wersja wyposażenia
+ dla pojazdów z AC
+Ilość miejsc
+Ładowność  [kg]
+Rok produkcji
+Data pierwszej rej.
+Poj. Silnika
+ [ccm]
+Moc
+[kW]
+Rodzaj skrzyni biegów/
+przen. napędu 
+ dla pojazdów z AC
+Wyposażenie dodatkowe 
+ dla pojazdów z AC
+Wyposażenie specjalne 
+ dla pojazdów z AC
+Data   zamontowania   wyposażenia 
+ dla pojazdów z AC
+Dotychczasowa suma ubezpieczenia z ostatniej polisy
+dla pojazdów z AC
+wartość pojazdu
+Rodzaj sumy ubezpieczenia   
+ dla pojazdów z AC
+Assistance
+Czy pojazd będzie wyjeżdżał na teren Rosji, Ukrainy,  Białorusi, Mołdawii?
+Czy pojazd służy do nauki jazdy?
+Czy pojazd ma napęd elektryczny?
+Czy pojazd został poddany tuningowi innemu niż fabryczny lub modyfikacji wykraczającej poza specyfikację producenta dla danego modelu i marki (w tym montaż instalacji gazowej)?
+Czy pojazd jest wynajmowany lub użyczany na podstawienie innej umowy?
+Okres ubezpieczenia
+OC ppm
+Okres ubezpieczenia ubezpieczeń dobrowolnych
+Uwagi
+OC ppm
+ZK
+AC
+NNW
+ASS
+OP
+SZ
+DMC
+przebieg
+od
+do
+od
+do
+1.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR83AU
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+30016
+pożarniczy
+Star
+200
+6
+6500
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+2.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKRA563
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+A200LC276568
+pożarniczy
+Star
+200
+6
+6500
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+3.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR33YX
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF1FLGHB68V328318
+pożarniczy
+Renault
+Trafic
+6
+2464
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+4.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR31EY
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WF0LXXBDFL4Y00472
+pożarniczy
+Ford
+Furgon350M
+6
+2402
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+5.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+KUK8926
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+69693
+pożarniczy
+Star
+200
+6
+6500
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+6.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+KSA958D
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+9827
+pożarniczy
+Star
+244
+6
+6500
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+7.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKRP639
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+RKR013030003
+przyczepa
+przyczepa
+x
+x
+x
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+x
+x
+8.
+GMINA RYMANÓW; 370440590
+OSP RYMANÓW; 371026041
+RKR11L2
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+SUJP442CKX000116
+pożarniczy
+Jelcz
+14
+6
+11100
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46163
+46527
+46163
+46527
+9.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+KUA3234
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+551812
+pożarniczy
+Daf
+6
+6500
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+10.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR56JY
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+182021
+pożarniczy
+Star
+266
+6
+6500
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+11.
+GMINA RYMANÓW; 370440590
+UOSP RYMANÓW-ZDRÓJ; 371107354
+RKR00667
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF1VBH6U350975077
+pożarniczy
+Renault
+Master Maxi
+6
+2299
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46282
+46646
+46282
+46646
+12.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKRAF18
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SZ9G30000ERRB2251
+przyczepa
+przyczepa
+Głowacz
+x
+x
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46298
+46662
+x
+x
+13.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR15266
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+Z3B2705707R004221
+pożarniczy
+GAZ
+Gazela
+6
+2637
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46334
+46698
+46334
+46698
+14.
+GMINA RYMANÓW; 370440590
+OSP KLIMKÓWKA;  371167215
+RKR07631
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF1VBH6U353482840
+pożarniczy
+Renault
+Master
+6
+2299
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46335
+46699
+46335
+46699
+15.
+GMINA RYMANÓW; 370440590
+OSP LADZIN; 180033296
+RKR24112
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WDB6502821K052960
+pożarniczy
+Mercedes Benz
+1224
+6
+5958
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46121
+46485
+46121
+46485
+16.
+GMINA RYMANÓW; 370440590
+OSP POSADA DOLNA; 371027425
+RKR74998
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WMAN36ZZ4AY248887
+pożarniczy
+Man
+TGM
+6
+6500
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+46388
+46752
+17.
+GMINA RYMANÓW; 370440590
+OSP RYMANÓW; 371026041
+RKR99G8
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF1VBH6J347758461
+pożarniczy
+Renault
+Master
+6
+2299
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46285
+46649
+46285
+46649
+18.
+GMINA RYMANÓW; 370440590
+OSP RYMANÓW; 371026041
+RKR03998
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+ZFA17800003079707
+sam.pożarniczy opreracyjny
+Fiat
+Palio
+5
+1400
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46450
+46815
+46450
+46815
+19.
+GMINA RYMANÓW; 370440590
+OSP RYMANÓW; 371026041
+RKR FU98
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SVPC400X60GK1029
+przyczepa
+Zeppia
+S. Cymerman
+x
+x
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46253
+46617
+x
+x
+20.
+GMINA RYMANÓW; 370440590
+OSP NOWA WIEŚ; 180185304
+RKR32525
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WF0XXBDFL3U19550
+pożarniczy
+Ford
+Transit
+6
+2402
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46316
+46680
+46316
+46680
+21.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKRGH98
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SYAS11NA0K0002888
+przyczepa lekka
+Stim
+S11
+x
+x
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46417
+46781
+x
+x
+22.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR37998
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WV1ZZZ70Z3H117851
+pożarniczy
+Volkswagen
+Transporter
+8
+2461
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46445
+46809
+46445
+46809
+23.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR53998
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WDB9760631L007854
+pożarniczy
+MERCEDES
+BENZ ATEGO
+5
+6370
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46113
+46477
+46113
+46477
+24.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR56512
+TAK
+NIE
+TAK
+TAK
+NIE
+NIE
+NIE
+YV2T0Y1B8PZ144452
+pożarniczy
+VOLVO
+FLD3C
+6
+16000
+6635
+2022
+7698
+5690
+983638
+921601
+brutto
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46405
+46769
+46405
+46769
+25.
+GMINA RYMANÓW; 370440590
+OSP WRÓBLIK SZLACHECKI; 371166813
+RKR53999
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF645ACA000006319
+pożarniczy
+Renault
+Midlum
+8
+6174
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46243
+46607
+46243
+46607
+26.
+GMINA RYMANÓW; 370440590
+Zakład Gospodarki Komunalnej 4022843
+RKR60798
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+38018314613093
+pożarniczy
+DAIMLER-BENZ
+1019F
+9
+9506
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46383
+46747
+46383
+46747
+27.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR66998
+TAK
+NIE
+TAK
+TAK
+NIE
+NIE
+NIE
+YS2P4X40002203110
+pożarniczy
+SCANIA
+P370
+6
+20000
+21500
+2024
+12742
+1300
+1443600
+1308700
+brutto
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46114
+46478
+46114
+46478
+28.
+GMINA RYMANÓW; 370440590
+OSP POSADA DOLNA; 371027425
+RKR8F86
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+RKR013100021
+przyczepa lekka
+SAM
+750
+x
+x
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46163
+46527
+x
+x
+29.
+GMINA RYMANÓW; 370440590
+UOSP RYMANÓW-ZDRÓJ; 371107354
+RKRLM11
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+H0JAGMA23M0000504
+ciągnik rolniczy
+ODES
+PATHCROSS MAX PRO
+2
+650
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46142
+46506
+46142
+46506
+30.
+GMINA RYMANÓW; 370440590
+OSP RYMANÓW; 371026041
+RKR68112
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WDF63970513331230
+samochód osobowy
+Mercedes
+VITO 120
+9
+2987
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46198
+46562
+46198
+46562
+31.
+GMINA RYMANÓW; 370440590
+OSP RYMANÓW; 371026041
+RKRJK98
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+H0JAGNA20M0000448
+ciągnik rolniczy
+ODES
+PATHCROSS MAX PRO
+2
+800
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46272
+46636
+46272
+46636
+32.
+GMINA RYMANÓW; 370440590
+OSP POSADA DOLNA; 371027425
+RKR69998
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+1C4RJFCT3CC224248
+samochód osobowy
+JEEP
+Grand Cherokee 10-13
+5
+5654
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46212
+46211
+46212
+46211
+33.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKRLA97
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SVNFA800A00007176
+przyczepa lekka
+FARO
+MAGICUS
+x
+x
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46375
+46374
+x
+x
+34.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKRLC11
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SV9PC0750RCGK1013
+przyczepa lekka
+CYMERMAN
+PC750
+x
+x
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46374
+46373
+x
+x
+35.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKR66544
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+Z3B2705708R003128
+pożarniczy
+GAZ
+GRK 27057-047
+5
+2637
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46390
+46754
+46390
+46754
+36.
+GMINA RYMANÓW; 370440590
+GMINA RYMANÓW; 370440590
+RKRKH98
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SVNFA800A00005743
+przyczepa lekka
+FARO
+MAGICUS
+x
+x
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46383
+46747
+x
+x
+37.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+RKR 24757
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF7YDTMDC12341916
+Samochód ciężarowy
+Citroen
+Jumper
+3
+3500
+2013
+41439
+2198
+96
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46172
+46536
+38.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR 1G36
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WMAN18ZZ2AY241079
+Samochód ciężarowy
+MAN
+TGM 18.240
+3
+18000
+2009
+40204
+6871
+184
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46413
+46777
+39.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR 68PN
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+XLEP4X20004368533
+Samochód ciężarowy
+SCANIA
+P94GB
+3
+18000
+1996
+35408
+9000
+162
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46207
+46571
+40.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR 43SF
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WDB9036221R298055
+Samochód ciężarowy
+Mercedes
+311CDI
+7
+3500
+2001
+37145
+2148
+80
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46341
+46705
+41.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR 13WR
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VWASBFTLOY1126383
+Samochód ciężarowy
+Nissan
+CABSTAR E
+3
+3500
+2001
+36906
+2953
+88
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46372
+46736
+42.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+KSD 177U
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+377072
+Ciągnik rolniczy
+Ursus
+C330
+1
+2240
+1986
+31511
+1960
+22.4
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+43.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+KSO 0889
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+00037M
+Ciągnik rolniczy
+MTZ
+320
+1
+2450
+1997
+35800
+1551
+25
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+44.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+brak
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+JCB3CX4TK01706502
+Koparka, ładowarka
+JCB
+3CX TURBO
+1
+2010
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46217
+46581
+45.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR 1P69
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+SA92VM40X42068816
+Inny
+Johnston
+Sweepers 142A 101T
+2
+4000
+2005
+38369
+2776
+74
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46391
+46755
+46.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+KSD 247G
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+4588
+Przyczepa
+Przyczepa TO-35
+8000
+1982
+31720
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+47.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR 37XP
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+SZB6540XX81X00958
+Przyczepa
+Pronar
+T-654
+3780
+2008
+39848
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46422
+46786
+48.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+KSD258G
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+365
+Przyczepa
+Żuk
+Dłużyca
+1000
+2000
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+49.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR66E7
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+ZFA16900001081039
+Samochód ciężarowy
+Fiat
+Panda
+2
+1455
+2008
+39483
+1248
+51
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46198
+46562
+50.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR8V50
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+337213343
+Ciągnik rolniczy
+Fendt
+310 Vario
+2
+8000
+2011
+40899
+4038
+73
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46378
+46742
+51.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR08P1
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+SZB6792XXB2X00432
+Przyczepa
+Pronar
+T679/2
+16350
+2011
+40899
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46378
+46742
+52.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR9F80
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+MEP110448007
+Przyczepa
+Meprozet
+PN-70
+9400
+2011
+40899
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46378
+46742
+53.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR6U52
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+ZCFC3581005558109
+Samochód ciężarowy
+Iveco
+Daily
+2
+3500
+2005
+23--08-2005
+2300
+85
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46264
+46628
+54.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR68L4
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+ZFA16900000999943
+Samochód ciężarowy
+Fiat
+Panda
+2
+1455
+2007
+40135
+1248
+51
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46170
+46534
+55.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR35P5
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+PD2121954
+Przyczepa
+Cynkomet
+T-117
+4680
+2012
+41247
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46360
+46724
+56.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR 03359
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF1FW1HH646682103
+Samochód ciężarowy
+Renault
+Kangoo
+2
+2193
+2011
+40919
+1461
+80
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46398
+46762
+57.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKR 05425
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF644AHH00003404
+Samochód ciężarowy
+Renault
+Midlum
+2
+18000
+2009
+39951
+7146
+286
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46203
+46567
+58.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+RKRCW40
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+SXE1P202DGS007237
+Przyczepa
+NEPTUN
+REMORAUE 1
+750
+2016
+42816
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46103
+46467
+59.
+Zakład Gospodarki Komunalnej 4022843
+Zakład Gospodarki Komunalnej 4022843
+KSA606N
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+75845
+Samochód ciężarowy
+Star
+200
+2
+10750
+1990
+33263
+6230
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46388
+46752
+60.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+RKRGA09
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+ZKDBB502W0TS30176
+Ciągnik rolniczy
+Same
+Dorado
+1
+5200
+2016
+42915
+3849
+61
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46369
+46733
+61.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+RKR 41838
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+EWOLVSH6F3CB029861
+Samochód ciężarowy
+Opel
+Movano
+7
+3500
+2012
+41121
+2299
+107
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46297
+46661
+62.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+RKR06053
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WMAN36ZZ5FY330182
+Samochód ciężarowy
+MAN WUKO
+TGM
+3
+15000
+2015
+42229
+6871
+184
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46247
+46611
+63.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+RKR EL78
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+000A3K4P31VS05658
+Ciągnik rolniczy
+ZETOR
+MAJOR
+1
+4300
+2017
+43087
+2925
+55.3
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46374
+46738
+64.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+RKR27702
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VF77F9HF0GJ634653
+Samochód ciężarowy
+Citroen
+Berlingo
+3
+2140
+2016
+42527
+1560
+66
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46331
+46695
+65.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+brak
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+NSUC26CCNZLN57048
+koparka
+Case
+CX26C
+2019
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46313
+46677
+66.
+Gmina Rymanów 370440590
+Gmina Rymanów 370440590
+RKR56065
+TAK
+NIE
+TAK
+TAK
+NIE
+NIE
+NIE
+YV2V0Y1A7NZ141104
+Samochód ciężarowy
+ZOELLER TECH
+FEB3C
+2
+20500
+20500
+2022
+44918
+7698
+210
+67436
+automatyczna
+brak
+śmieciarka/zabudowa
+793094
+755800
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46379
+46743
+46379
+46743
+67.
+Gmina Rymanów 370440590
+Gmina Rymanów 370440590
+RKRKG64
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+FTTM2A84PNC000307
+Ciągnik rolniczy
+ARBOS
+2040
+1
+2400
+2022
+45224
+1794
+29.3
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46320
+46684
+68.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+RKR60772
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+ZCFC3592005960259
+Samochód ciężarowy
+IVECO
+Daily 35S13
+3
+3500
+2013
+41478
+2287
+93
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46383
+46747
+69.
+Gmina Rymanów 370440590
+Gmina Rymanów 370440590
+RKRFW58
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+SUCE6ALA5K1006534
+Przyczepa
+WIOLA
+W2
+3500
+2019
+43752
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46313
+46677
+70.
+Gmina Rymanów 370440590
+Zakład Gospodarki Komunalnej 4022843
+JCB 3CX
+TAK
+NIE
+TAK
+TAK
+NIE
+NIE
+NIE
+JCB27H54V53566878
+Koparka, ładowarka
+JCB
+3CX PLUS EH
+1
+8600
+2025
+4800
+81
+348mh
+automatyczna
+brak
+Koparko/ładowarka
+595320
+522800
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46331
+46695
+46331
+46695
+71.
+Gmina Rymanów 370440596
+Gmina Rymanów 370440596
+RKRKH98
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SVNFA800A00005743
+przyczepa lekka
+FARO
+MAGIRUS
+750
+2023
+46383
+46747
+72.
+Gmina Rymanów 370440597
+OSP POSADA DOLNA; 371027425
+RKRMF98
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+TAPSDE572SJ116847
+ciągnik rolniczy
+polaris
+TP05
+2026
+46452
+46086
+46452
+46086
+73.
+Gmina Rymanów 370440598
+OSP Królik Polski
+RKR72040
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+VANL80ZZZYY066013
+specjalny pożarniczy
+steyr
+144S28
+8
+2001
+36909
+6870
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+46114
+46478
+46114
+46478
+74.
+Gmina Rymanów 370440598
+Gmina Rymanów 370440598
+RKRHY80
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+TAPTAS996MK018361
+ciągnik rolniczy
+polaris
+RANGER 1000
+1
+2022
+46455
+46820
+46455
+46820
+75.
+Gmina Rymanów 370440592
+GMINNY OŚRODEK SPORTU I REKREACJI
+RKRKX50
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SWNB75000R0146020
+przyczepa lekka
+niewiadów
+x
+750
+2024
+x
+46255
+46619
+76.
+Gmina Rymanów 370440595
+OSP w Głębokiem, Głębokie 106, 38-480 Głębokie, NIP 6842355617
+RKR28112
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+SUJP442CKR0000020
+specjalny pożarniczy
+jelcz
+014
+6
+9350
+1994
+11100
+46395
+46759
+46395
+46759
+77.
+Gmina Rymanów 370440595
+GMINNY OŚRODEK SPORTU I REKREACJI
+RKR73825
+TAK
+NIE
+TAK
+TAK
+TAK
+NIE
+NIE
+VXFVLEHT0SU355573
+ciężarowy
+fiat
+scudo
+6
+2026
+46120
+138867.01
+130000
+brutto
+TAK 200 km Polska
+NIE
+NIE
+NIE
+NIE
+NIE
+46120
+46119
+46120
+46119
+200 km Polska
+78.
+Gmina Rymanów 370440595
+Gmina Rymanów 370440595
+RZ116GY
+TAK
+NIE
+TAK
+TAK
+TAK
+NIE
+NIE
+LNNBBDEE8SD253518
+osobowy
+cherry
+Tiiggo 8 1,5 T-GDI Super Hibrid Prestig
+7
+12109
+2025
+45895
+1500 Hybryda
+105 kW
+M1
+x
+x
+x
+156000
+133000
+brutto
+TAK 200 km Polska
+NIE
+NIE
+NIE
+NIE
+NIE
+46354
+46718
+46354
+46718
+200 km Polska
+79.
+Gmina Rymanów 370440595
+Gminny Ośrodek Kultury w Rymanowie, REGON 370333858
+RKR7Y77
+TAK
+NIE
+NIE
+NIE
+NIE
+NIE
+NIE
+SX9EMAS2ABAWK1101
+przyczepa specjalna
+alspaw
+EMAS750
+0
+2011
+40728
+46413
+46777
+80.
+Gmina Rymanów 370440596
+OSP Posada Górna  ul. 3 Maja 73,  38-481 Posada Górna
+RKR74112
+TAK
+NIE
+NIE
+TAK
+NIE
+NIE
+NIE
+WV2ZZZ7HZ4H063668
+ciężarowy
+Volkswagen
+Transporter T5 TDI L2
+6
+2800
+765
+2003
+38093
+1898
+63
+NIE
+NIE
+NIE
+46499
+46864
+46499
+46864
+Lp.
+Ubezpieczający (nazwa, REGON)
+Ubezpieczony (nazwa, REGON)
+Numer rejestracyjny
+Wybrany zakres ubezpieczenia
+Nr nadwozia, VIN
+Rodzaj pojazdu
+Marka pojazdu
+Model/ typ pojazdu
+Wersja wyposażenia
+ dla pojazdów z AC
+Ilość miejsc
+Ładowność  [kg]
+Rok produkcji
+Data pierwszej rej.
+Poj. Silnika
+ [ccm]
+Moc
+[kW]
+Rodzaj skrzyni biegów/
+przen. napędu 
+ dla pojazdów z AC
+Wyposażenie dodatkowe 
+ dla pojazdów z AC
+Wyposażenie specjalne 
+ dla pojazdów z AC
+Data   zamontowania   wyposażenia 
+ dla pojazdów z AC
+Dotychczasowa suma ubezpieczenia z ostatniej polisy
+dla pojazdów z AC
+Rodzaj sumy ubezpieczenia   
+ dla pojazdów z AC
+Assistance
+Czy pojazd będzie wyjeżdżał na teren Rosji, Ukrainy,  Białorusi, Mołdawii?
+Czy pojazd służy do nauki jazdy?
+Czy pojazd ma napęd elektryczny?
+Czy pojazd został poddany tuningowi innemu niż fabryczny lub modyfikacji wykraczającej poza specyfikację producenta dla danego modelu i marki (w tym montaż instalacji gazowej)?
+Czy pojazd jest wynajmowany lub użyczany na podstawienie innej umowy?
+Okres ubezpieczenia
+OC ppm
+Okres ubezpieczenia ubezpieczeń dobrowolnych
+Uwagi
+OC ppm
+ZK
+AC
+NNW
+ASS
+OP
+SZ
+DMC
+przebieg
+od
+do
+od
+do
+
+### xl/worksheets/sheet14.xml
+raport szkodowy Gminy Rymanów za okres 5 lat od 01.06.2021 na podstawie raportów ubezpieczycieli na dzień 16.04.2026 r
+l.p.
+Nazwa ryzyka
+Okres od
+Okres do
+Data wystąpienia szkody
+data zgłoszenia
+Kwota wypłaty
+Koszty bezpośrednie
+Rezerwa odszkodowawcza CSOS/SLS
+Kwota regresu
+Opis szkody
+1
+All Risk
+44529
+44533
+0
+0
+0
+0
+uderzenie pojazdu  odmówiona
+2
+OC dróg
+44750
+45114
+739.79
+buenaleyte administrowanie drogami
+3
+OC
+44813
+44918
+1424.34
+wyrzucenie, wylanie lub spadnicie przedmiotu
+4
+All Risk
+44941
+44965
+1355.98
+silny wiatr
+5
+OC
+44999
+45072
+0
+odmowa
+6
+All Risk
+2023-06-01
+2024-05-31
+2023-11-07
+3727.78
+1600
+0
+0
+Dnia 07.11.2023r. doszło do zalania budynku administracyjnego ZGK w Rymanowie.
+7
+All Risk
+2023-06-01
+2024-05-31
+2024-01-04
+2979.99
+0
+0
+0
+W dniu 04.01.2024, doszło do uszkodzenia i wyłamania drzwi na skutek porywistego wiatru.
+All Risk
+45309
+45331
+2364
+uszkodzenie kolektora solarnego
+All Risk
+45502
+45524
+0
+0
+0
+0
+W wyniku wyładowań atmosferycznych uszkodzeniu uległ sterownik solarny.
+8
+OC dróg
+2024-06-01
+2025-05-31
+2025-02-21
+0
+123
+0
+0
+kolizja drogowa z kozłem sarny.
+9
+OC z tytułu prowadzenia działalności gospodarczej
+2024-06-01
+2025-05-31
+2025-03-17
+0
+1740
+0
+0
+Obrażenia ciała doznane na skutek wywrócenia się na oblodzonej drodze.
+10
+OC z tytułu prowadzenia działalności gospodarczej
+2024-06-01
+2025-05-31
+2025-03-17
+0
+0
+0
+0
+Upadek na śliskiej nawierzchni
+11
+OC z tytułu prowadzenia działalności gospodarczej
+2024-06-01
+2025-05-31
+2024-08-16
+0
+0
+0
+0
+uszkodzenie opon o kamienie
+12
+Ubezpieczenie sprzętu elektronicznego
+2024-06-01
+2025-05-31
+2024-06-10
+559
+0
+0
+0
+Uszkodzenie monitora liyama Prolite XU2792QSU wskutek awarii przepięć w sieci elektroenergetycznej spowodowanych wyładowaniami atmosferycznymi
+13
+All Risk
+2024-06-01
+2025-05-31
+2024-07-29
+3112.13
+123
+0
+0
+W wyniku wichury, która przeszła przez miejscowość doszło złamania drzewa, które uszkodziło ogrodzenie. Ponadto silny wiatr uszkodził fragment dachu.
+14
+All Risk
+2024-06-01
+2025-05-31
+2024-12-20
+19000
+0
+0
+9500
+W wyniku silnego wiatru doszło do zniszczenia piłkochwytów oraz naciągów bocznych siatek na boisku Orlik
+15
+OC z tytułu prowadzenia działalności gospodarczej
+2025-06-01
+2026-05-31
+2025-07-24
+5300
+114.99
+0
+0
+W dniu 24.07.2025 r w godzinach 17:30-18:16 miał miejsce w Rymanowie ulewny deszcz, w wyniku którego nastąpiło wylanie wody z kratki kanalizacyjnej zlokalizowanej w kotłowni budynku mieszkalnego nr 7 położonego w Rymanowie przy ul. Bieleckiego.
+16
+OC z tytułu prowadzenia działalności gospodarczej
+2025-06-01
+2026-05-31
+2025-11-12
+5000
+0
+0
+0
+Poszkodowana wychodząc ze sklepu przewróciła się o wysokie gwoździe w wyniku czego przewróciła się i doznała złamania kości nosowych
+17
+OC z tytułu prowadzenia działalności gospodarczej
+2025-06-01
+2026-05-31
+2025-06-25
+0
+0
+0
+0
+W wyniku najechania na ubytek w jezdni doszło do uszkodzenia opony oraz felgi w pojeździe
+18
+All Risk
+2025-06-01
+2026-05-31
+2026-01-12
+1000
+123
+0
+0
+W dniu 12 stycznia 2026r. o godzinie 7:40 stwierdzono zniszczenie w części męskiej szaletów publicznych.
+19
+All Risk
+2025-06-01
+2026-05-31
+2025-07-24
+11042.99
+0
+0
+0
+w wyniku ulewy nastapilo wylanie wody z kratki kanalizacyjnej przez co zalana została piwnica, kotlownia, korytarz, mieszkanie nr 6 (panele, drzwi)
+20
+All Risk
+2025-06-01
+2026-05-31
+2025-10-20
+3776.78
+0
+0
+0
+Doszło do zbicia szyby z nieznanych przyczyn
+21
+All Risk
+2025-06-01
+2026-05-31
+2025-11-25
+0
+0
+0
+0
+Doszło do zatkania studzienki w wyniku czego zalało całą piwnice.
+22
+All Risk
+2025-06-01
+2026-05-31
+2025-09-02
+3683.85
+0
+0
+0
+zbicie szyby w szkole przez ucznia
+23
+All Risk
+2025-06-01
+2026-05-31
+2026-01-15
+11650
+293
+0
+0
+Szkoda zalaniowa w budynku Szkoły Podstawowej we Wróbliku Szlacheckim. Przyczyną zdarzenia były ekstremalne warunki atmosferyczne: intensywne opady śniegu, siarczysty mróz oraz nagła odwilż, co doprowadziło do czasowego zablokowania jednej z rynien odprowadzających wodę opadową. W konsekwencji doszło do cofnięcia się wody i jej przedostania się do wnętrza budynku.
+24
+OC ppm
+46041
+1700
+RKR05425 - renault ciężarowy
+25
+OC ppm
+45786
+8500
+RKR1P69 - johnston, specjalny
+26
+OC ppm
+45898
+1952
+RKR8V50- ciagnik rolniczy Fendt
+27
+OC ppm
+44642
+721
+RKR24757 - citroen jumper, ciężarowy
+89589.63
+4116.99
+0
+9500
+
+### xl/worksheets/sheet2.xml
+LP.
+Pytania dot. oceny ryzyka
+Urząd Gminy
+ZGK
+GOPS
+GOSiR
+GOK
+Biblioteka Publiczna
+Zespół Ekonomiczno Administracyjny Szkół w Rymanowie
+SP w Sieniawie
+Szkoła Podstawowa im. Jana Pawła II w Klimkówce
+Szkoła Podstawowa im. Ks. Kard. Stefana Wyszyńskiego we Wróbliku Szlacheckim, ul. Szkolna 5, 38-483 Wróblik Szlachecki
+Szkoła Podstawowa im. Polskich Nobilistów w Króliku Polskim
+Zespół Szkół Publicznych w Milczy
+ZESPÓŁ SZKÓŁ PUBLICZNYCH w Posadzie Górnej
+Zespół Szkół Publicznych w Rymanowie
+ZESPÓŁ ŻŁOBKÓW GMINY RYMANÓW UL. SZKOLNA 2, 38-480 RYMANÓW
+1
+Czy w okresie ostatnich 25 lat w zgłaszanych do ubezpieczenia lokalizacjach wystąpiły szkody powodziowe lub podtopienia?  Jeśli tak, prosimy o podanie informacji, w którym roku nastąpiła powódź/podtopienie, jakie mienie zostało dotknięte szkodą i w jakiej wysokości oraz jakie zostały podjęte działania prewencyjne.
+-
+NIE
+nie
+NIE
+Nie
+NIE
+NIE
+nie
+TAK - Szkoła Podstwowa im.ks. Kardynała Stefana Wyszyńskiego - 02.2021 r. w wyniku odwilży zostały zalane pomieszczenia szkolne (3 klasy i 2 toalety) oraz pomieszczenia w budynku przy boiskach "Orlik",
+1997, 2015, 2021 zalanie kotłowni i małej Sali gimnastycznej. Brak szczegółowych danych
+TAK/ok.2017/podtopienie pomieszczenia w suterenach
+nie
+NIE
+NIE
+2
+Czy wszystkie budynki zgłoszone do ubezpieczenia posiadają pozwolenie na użytkowanie stosownie do aktualnego przeznaczenia? Jeśli nie, prosimy o wskazanie budynków nieposiadających takiego pozwolenia wraz z określeniem przyczyny.
+TAK
+Tak
+TAK
+tak
+TAK
+Właścicielem budynków jest Gmina -  my posiadamy tylko umowę bezpłatnego użyczenia
+TAK
+TAK
+tak
+TAK
+TAK
+TAK
+tak
+TAK
+TAK
+3
+Czy mienie będące przedmiotem ubezpieczenia jest zabezpieczone w sposób przewidziany obowiązującymi przepisami aktów prawnych w zakresie ochrony przeciwpożarowej?
+TAK
+Tak
+TAK
+tak
+TAK
+Tak
+TAK
+TAK
+tak
+TAK
+TAK
+TAK
+tak
+TAK
+TAK
+4
+Czy wszystkie budynki zgłoszone do ubezpieczenia i ich instalacje poddawane są regularnym przeglądom wynikającym z przepisów prawa, co potwierdzone jest każdorazowo pisemnym protokołami? Jeśli nie, prosimy o wskazanie budynków niespełniających powyższego warunku wraz z określeniem przyczyny.
+TAK
+Tak
+TAK
+tak
+TAK
+Tak
+TAK
+TAK
+tak
+TAK
+TAK
+TAK
+tak
+TAK
+TAK
+5
+Czy w konstrukcji budynków zgłoszonych do ubezpieczenia znajduje się płyta warstwowa? Jeżeli tak, prosimy o informacje co wykonano z płyty warstwowej oraz jaki jest rodzaj wypełnienia.
+TAK, dach - pokrycie, elewacja, styropian/polistyren
+-
+NIE
+nie
+Nie wiem
+NIE
+Pokrycie dachowe - płyta warstwowa
+nie
+NIE
+Brak danych
+NIE WIEM
+tak, piana
+NIE
+6
+Czy do ubezpieczenia zgłoszone zostały budynki nieużytkowane, pustostany?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE DOTYCZY
+7
+Czy do ubezpieczenia mienia w zakresie all risk zgłoszone zostały budowle hydrotechniczne (tj. nabrzeża, mola, tamy, groble, kanały, wały przeciwpowodziowe i mienie na nich się znajdujące)?/dotyczy jednostki nadrzędnej bądź zarządcy dróg/ Jeśli tak, prosimy o ich wykaz z wskazaniem jednostkowych sum ubezpieczenia.
+NIE
+-
+NIE
+nie
+nie
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE DOTYCZY
+8
+Czy do ubezpieczenia zgłoszone zostały obiekty użytkowane sezonowo? Jeśli tak, prosimy o podanie wykazu oraz sposobu zabezpieczenia przed dostępem osób trzecich poza sezonem użytkowania.
+NIE
+-
+NIE
+tak
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE DOTYCZY
+9
+Czy do ubezpieczenia zgłoszone zostało mienie zabytkowe, zbiory i eksponaty muzealne? Jeśli tak, prosimy o wykaz wraz z wartością w zakładce mienie zabytkowe
+TAK
+-
+NIE
+nie
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+10
+Czy do ubezpieczenia zgłoszone zostały światłowody?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+11
+Czy Ubezpieczony posiada, zarządza, administruje wysypiskiem śmieci, sortownią, spalarnią odpadów? /nie dotyczy Powiatów/
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+12
+Czy Ubezpieczony posiada, zarządza, administruje punktami selektywnej zbiórki odpadów? /nie dotyczy Powiatów/ Jeśli tak, prosimy o podanie informacji nt lokalizacji, konstrukcji obiektów, rodzaju składowanych odpadów, dalszego przekazywania odpadów i zabezpieczeń przed dostępem osób trzecich.
+TAK, ul. Mitkowskiego Rymanów, wiata na kontenery, (gruz, odpady remontowo-budowlane, odpady biodegradowalne, odpady wielkogabarytowe, opony, tworzywa sztuczne, opakowania ze szkła, leki, chemikalia, elektrośmieci, baterie, akumulatory, makulatura, metal) odbiorem odpadów zajmują się firmy zewnętrzne, ogrodzenie, monitoring
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+13
+Czy posiadają i/lub użytkują Państwo bezzałogowe statki powietrzne (drony) lub inne statki powietrzne?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+TAK
+NIE
+14
+Czy Państwa Jednostka wynajmuje od innych podmiotów nieruchomości? Jeśli tak to jakie?
+NIE
+-
+NIE
+nie
+Na podstawie umowy użyczenia GOK użytkuje Biuro Informacji Turystucznej w Rymanowie Zdroju oraz w Rymanowie, Galeria Sztuki w Rymanowie-Zdroju
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+15
+Czy jednostka organizuje imprezy masowe - jeśli tak, to proszę o podanie szacowanej ilości takich imprez w ciągu roku oraz szacowaną ilość uczestników. Jeśli są to imprezy stałe - prosimy o wykaz
+NIE
+-
+NIE
+nie
+TAK, 1 ROCZNIE "DNI RYMANOWA"
+nie
+NIE
+Dzień dziecka - 200
+Dzień seniora - 200
+Koncert harytatywny - 200
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+16
+Czy jednostka organizuje imprezy inne niż przedstawione powyżej? ( otwarte, rekreacyjno-rozrywkowe, warsztaty szkolne, festyny, pikniki, wystawy) Jeśli tak to prosimy o opis tych imprez lub prosimy o załączenie wykazu tych imprez
+NIE
+-
+NIE
+nie
+TAK
+nie
+NIE
+NIE
+tak, warsztaty dla uczniów, pikniki, zajęcia rekreacyjno-rozrywkowe
+TAK - rekreacyjno-rozrywkowe, warsztaty szkolne, festyny, pikniki, wystawy w zalezności od okoliczności i zgodnie z potrzebą środowiska szkolnego
+NIE
+NIE
+tak, np. apele, zawody sportowe, itp.
+TAK
+NIE
+17
+Czy podczas organizowania imprez są/ mogą być użyte fajerwerki (sztuczne ognie)?
+NIE
+-
+NIE
+nie
+TAK
+nie
+NIE DOTYCZY
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE DOTYCZY
+18
+Czy organizacja pokazu sztucznych ogni jest przekazywana zewnętrznym podmiotom?
+x
+-
+NIE
+nie
+TAK
+nie
+NIE DOTYCZY
+NIE
+nie dotyczy
+NIE
+NIE
+NIE
+nie planujemy takich atrakcji
+NIE
+NIE DOTYCZY
+19
+Czy wśród orgaznizowanych przez Państwa imprez są imprezy obejmujące sporty motorowe, sporty lotnicze lub sporty ekstremalne?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE DOTYCZY
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+20
+Czy Państwa Jednostka korzysta z rzeczy ruchomych należących do osób trzecich na podstawie umowy najmu, dzierżawy, użyczenia, leasingu itp.? Jeśli tak, to jakiego rodzaju są tą ruchomości (np. pojazdy, sprzęt elektroniczny)? Jaka jest najwyższa wartość takiej ruchomości?
+TAK, syrena alarmowa, 45000 zł
+Tak - 399209,00zł
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+TAK/laptopy UG
+tak - laptopy z KPO
+NIE
+NIE
+21
+Czy jednostka prowadzi działalność hotelową lub internaty ?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+sezonowe (lipiec, sierpień) schronisko młodzieżowe
+NIE
+NIE
+22
+Czy Jednostka przyjmuje mienie osób trzecich:
+NIE
+-
+NIE
+nie
+Tak, w Budynku Kina Sokół swoją siedzibę ma Stowarzyszenie Nasz Rymanów oraz TG Sokół. Znajduje się tam mienie zabytkowe, zbiory i eksponaty muzealne.
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+- w jakim celu przechowania? Jeśli tak , to proszę podać rodzaj mienia
+x
+-
+-
+nie
+NIE DOTYCZY
+NIE
+nie
+TAK -własność gminy- laptopy - 15 szt., tablety - 9 szt., laptopy przeglądarkowe - 4 szt.
+NIE
+NIE
+NIE DOTYCZY
+- w celu obróbki, naprawy lub innych usług? Jeśli tak, to proszę podać rodzaj mienia
+x
+-
+-
+nie
+NIE DOTYCZY
+NIE
+nie
+NIE
+NIE
+NIE
+NIE DOTYCZY
+23
+Czy  administrujecie, zarządzacie Państwo drogami , jeśli tak proszę podać rodzaj oraz długość dróg danego rodzaju?
+drogi publiczne- gminne, drogi wewnętrzne
+-
+NIE
+nie
+Tak, drogi wewnetrzne
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+24
+Czy do ubezpieczenia mienia w zakresie all risk zgłoszone zostały drogi publiczne? /dotyczy jednostki nadrzędnej bądź zarządcy dróg/ Jeśli tak, prosimy o podanie długości dróg.
+NIE
+-
+NIE
+nie
+nie
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+25
+Czy w ramach dróg wymienionych powyżej lub poza nimi posiadacie Państwo lub administrujecie: mostami, wiaduktami, kładkami?
+NIE
+-
+NIE
+nie
+nie
+nie
+NIE
+NIE
+nie diotyczy
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+26
+Czy do ubezpieczenia mienia w zakresie all risk zgłoszona została infrastruktura mostowa? /dotyczy jednostki nadrzędnej bądź zarządcy dróg/ Jeśli tak, prosimy o podanie następujących danych:  - jednostkowych wartości obiektów mostowych, lokalizacji, długości obiektów mostowych i przęseł, stanu technicznego i opisu konstrukcji obiektów.
+NIE
+-
+NIE
+nie
+nie
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+27
+Czy Państwa Jednostka emituje jakieś szkodliwe substancje grożące zanieczyszczeniem powietrza, wody lub gruntu?  Jeśli tak, to proszę podać rodzaj substancji oraz ewentualny stopień zagrożenia dla środowiska.
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+28
+Czy w Jednostce używa się materiałów wybuchowych, młotów pneumatycznych lub kafarów?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+29
+Czy Państwa Jednostka korzysta z usług podwykonawców? Jeśli tak w jakim zakresie?
+NIE
+Tak usługi sprzetowe, sprzęt do zimowego utrzymania dróg
+NIE
+nie
+Tak, głównie odoby prowadzące zajęcia.
+nie
+NIE
+NIE
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+30
+Czy jednostka prowadzi stołówkę lub inną formę zorganizowanego żywienia ?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+TAK
+nie
+TAK - JADALNIA
+NIE
+TAK/katering
+tak
+TAK
+TAK
+31
+Czy prowadzona przez Państwa działalność związana  jest z udzielaniem świadczeń medycznych lub działaniami o charakterze profilaktycznym  ?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+32
+Czy posiadają Państwo koncesje? Jeśli tak jakie?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+33
+Czy organizują Państwo wyjazdy zagranicę dla swoich pracowników? Jeśli tak, prosimy o informację dokąd? W jakim charakterze?
+NIE
+-
+NIE
+nie
+Tak, wyjazdy służbowe - okazjonalnie, w zależności od potrzeb, np.. Do Włoch, Niemiec. 1-2 rocznie
+nie
+NIE
+NIE
+tak, wycieczki turystyczno-krajoznawcze
+NIE
+NIE
+NIE
+tak, sporadycznie (raz na dwa lata) wycieczki autokarowe - zwiedzanie
+NIE
+NIE
+34
+Czy pracują w Państwa Jednostce stażyści, praktykanci, osoby skierowane do prac społecznie użytecznych, osoby skierowane do pracy decyzją sądu lub inne osoby inne niż zatrudnione na umowę o pracę? Jeśli tak to prosimy o informacje, kto u Państwa z ww. kategorii pracowników pracuje oraz podanie, ile maksymalnie z tych osób pracuje u Państwa jednego dnia:
+TAK, stażyści, praktykanci, osoby do prac społ. użytecznych, 3 osoby
+Osoby skierowane do prac społeczno użytecznych, maksymalnie 3 osoby
+NIE
+nie
+Tak
+nie
+TAK, AKTUALNIE 1 STAZYSTA
+1 osoba staż
+tak, 1 osoba
+NIE
+NIE
+TAK/stażysta/1
+nie
+TAK - 2 OSOBY
+NIE
+35
+Czy posiadają Państwo mieszkania służbowe (np. mieszkania najmowane)?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+36
+Czy posiadają Państwo magazyny paliw płynnych i gazowych oraz materiałów palnych?
+NIE
+Tak
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+37
+Czy posiadają Państwo urządzenia  pływające np. jachty, łodzie, pogłębiarki itp. ?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+38
+Czy posiadacie Państwo pojazdy wolnobieżne nie podlegające obowiązkowi rejestracji (np. wózki widłowe, koparki)? Jeśli tak to ile? i jaki rodzaj?
+NIE
+3 szt                                                    koparko - ładowarki
+NIE
+tak
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+39
+Czy posiadają / wykorzystują Państwo lokomotywy lub wagony?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+40
+Czy w drodze umowy z klientami  lub osobami trzecimi, Państwa Jednostka rozszerza ustawowy zakres odpowiedzialności cywilnej?
+NIE
+-
+NIE
+tak
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+41
+Czy posiadacie Państwo: namioty, hale namiotowe, szklarnie i inne budynki o konstrukcji szklanej, które chcielibyście Państwo objąć ubezpieczeniem? Jeśli tak prosimy o uzupełnienie zakładki namioty, szklarnie
+NIE
+-
+NIE
+tak
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+42
+Czy posiadacie Państwo instalację solarną lub  fotowoltaiczną - jeśli tak prosimy o uzupełnienie zakładki nr 6
+TAK
+Tak
+NIE
+tak
+NIE
+nie
+NIE
+NIE
+tak
+NIE
+NIE
+TAK
+tak
+TAK
+NIE
+43
+Czy planowany jest zakup instalacji solarnych lub fotowoltaicznych?  jeśli tak prosimy o uzupełnienie zakładki środki trwałe
+BRAK DANYCH
+-
+NIE
+nie
+nie
+nie
+NIE
+NIE
+nie wiem
+NIE/TAK
+NIE
+NIE
+nie
+NIE
+NIE
+44
+Czy posiadacie Państwo pompy ciepła - jeśli tak prosimy o uzupełnienie zakładki środki trwałe
+NIE
+Tak
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+47
+Czy administrujecie Państwo parkingami? Czy są to parkingi strzeżone? Proszę wymienić.
+TAK
+-
+TAK (PARKING NIESTRZEŻONY)
+nie
+Tak, parking przy GOK, parking ogólnodostępny
+nie
+TAK, NIE SĄ STRZEŻONE
+TAK, niestrzeżone
+nie
+TAK - nie są to parkingi strzeżone
+NIE
+NIE
+nie (to nie jest parking, tylko miejsce, gdzie można zostawić samochody)
+TAK
+NIE
+Kto może korzystać z miejsc parkingowych? Np. pracownicy, osoby trzecie
+KAŻDY
+-
+PRCOWNICY, KLIENCI
+Parking ogólnodostępny
+PRACOWNICY, OSOBY TRZECIE
+Pracownicy, rodzice
+pracownicy, rodzice
+pracownicy, rodzice ucznów, inni klienci szkoły
+NIE
+TAK
+pracownicy
+PRACOWNICY , PETENCI
+NIE DOTYCZY
+Czy parking jest płatny?
+NIE
+-
+NIE
+Nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE DOTYCZY
+Czy wjazd na parking jest kontrolowany?
+NIE
+-
+NIE
+Nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+tak
+NIE
+NIE DOTYCZY
+Czy parking jest strzeżony?
+NIE
+-
+NIE
+Nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE DOTYCZY
+48
+Czy Jednostka organizuje wystawy czasowe lub stałe? Jeśli tak to prosimy o opis i szacunkową wartość wystawianych prac. W przypadku wystaw cyklicznych już zaplanowanych prosimy o zestawienie.
+NIE
+-
+NIE
+nie
+TAK, wystawy czasowe 1-miesięczne oraz wystawy stałe. Łączna wartość na każdą wystawę do 50 tys. zł.
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+49
+Czy w ciągu najbliższych 3 lat planujecie Państwo inwestycje budowlane - prosimy o opis
+BRAK DANYCH
+-
+NIE
+nie
+NIE
+Nie wiem
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+50
+Czy Ubezpieczony planuje lub jest w trakcie wykonywania remontów, przebudowy lub innych inwestycji o takim charakterze w odniesieniu do posiadanego mienia?  Jeśli tak, prosimy o wskazanie lokalizacji, w których takie inwestycje trwają lub są planowane. W przypadku remontów dróg prośba o podanie budżetu.
+BRAK DANYCH
+-
+NIE
+nie
+Tak, Kino Sokół.
+nie
+RACZEJ NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+51
+Czy jednostka wytwarza lub wprowadza na rynek produkty ? Jeśli tak, prosimy o podanie informacji co to za produkty
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+52
+Czy jednostka zatrudnia dziennych opiekunów w rozumieniu ustawy z dnia 4 lutego 2011r. o opiece nad dziećmi do lat 3?
+NIE
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+53
+Czy jednostka organizuje wycieczki krajowe dla swoich podopiecznych?
+NIE
+-
+NIE
+nie
+TAK
+nie
+NIE
+TAK
+tak
+TAK
+TAK
+TAK
+tak
+TAK
+NIE
+54
+Czy jednostka organizuje wycieczki zagraniczne dla swoich podopiecznych/ uczniów?
+NIE
+-
+NIE
+nie
+TAK
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+tak
+TAK
+NIE
+55
+Czy jednostka organizuje wypoczynek letni/ zimowy dla dzieci (uczniów/ podopiecznych)?
+NIE
+-
+NIE
+nie
+TAK
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+56
+Czy jednostka posiada obiekty sportowe np. boiska, sale gimnastyczne, baseny lodowiska, korty i inne sportowe lub rekreacyjne urządzenia? Jeśli tak to prosimy o podanie co to są za obiekty
+NIE
+-
+NIE
+tak
+NIE
+nie
+NIE
+TAK, boisko zielone, boisko
+ asfaltowe
+tak, boiska spotowe typu Orlik, sala gimnastyczna
+TAK - boiska "Orlik", sale gimnastyczne (mała i duża)
+TAK, sal agimnastyczna, boisko sportowe
+TAK/sala gimnastyczna
+boisko wielofunkcyjne, plac zabaw, sala gimnastyczna, siłownia, sala do gimnastyki korekcyjnej
+TAK (SALA GIMNASTYCZNA, STRZELNICA , BOISKO ORLIK)
+TAK
+57
+Czy obiekty sportowe są udostępniane osobom trzecim, jeśli tak to na jakich zasadach?
+x
+-
+NIE
+tak
+x
+nie
+NIE DOTYCZY
+NIE
+tak
+TAK - na zasadzie wynajmu
+TAK, najem
+TAK/wynajmu
+nie
+TAK urzyczenie na zasadzie współpracy - bezpłatne
+NIE
+59
+Czy finansują Państwo działalność jednostek OSP i/lub młodzieżowych drużyn pożarniczych ?
+TAK
+-
+NIE
+nie
+NIE
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+60
+Czy wyjeżdzają Państwo w delegacje służbowe  na terenie RP, proszę o podanie osientacyjnej liczby osobodni
+TAK, 50
+Tak, sporadycznie. Delegacje krajowe dotyczą głównie udziału Dyrektora w konferencjach i spotkaniach branżowych. Orientacyjnie ok. 10–20 osobodni rocznie
+TAK
+nie
+TAK
+Tak – 1 osoba
+TAK, 10 OSÓB
+TAK, 6, 1 -3 dni
+tak
+ok. 40 wyjazdów rocznie
+NIE
+TAK
+tak - kilkanaście osobodni
+TAK - 100 OSÓB
+TAK
+61
+Czt wyjeżdzają Państwo w delegacje zagraniczne? Jeśli tak do dokąd? Prosimy o podanie orientacyjnej liczby osobodni
+TAK, 15
+-
+NIE
+nie
+TAK
+nie
+NIE
+NIE
+nie
+NIE
+NIE
+NIE
+nie
+NIE
+NIE
+
+### xl/worksheets/sheet3.xml
+Ubezpieczenie mienia od wszystkich ryzyk    Wykaz budynków
+Wykaz budynków (grupa 1 KŚT)
+Lp.
+Rodzaj budynku/nazwa
+Przeznaczenie budynku
+Numer środka trwałego
+Suma ubezpieczenia
+Rodzaj wartości - podstawa określenia sumy ubezpieczenia
+Rok budowy
+Miejsce ubezpieczenia
+(adres)
+Powierzchnia użytkowa w m²
+Wysokość w m
+Liczba kondygnacji
+Windy
+Podpiwniczenie budynku
+Konstrukcja budynku
+Informacja o przeprowadzonych remontach i modernizacji budynków w ciągu ostatnich 10 lat (rok remontu, czego dotyczył remont) - nie dotyczy drobnych napraw
+Stan techniczny budynku
+Obiekt wyłączony z eksploatacji przez okres dłuższy niż 30 dni  TAK/ NIE
+Przyczyny wyłączenia z eksploatacji
+Obiekt pod nadzorem konserwatora budynków - TAK/ NIE
+Skladowanie - TAK/NIE, Jeżeli TAK proszę podać wysokość składowania
+Klimatyzacja
+Ogrzewanie
+Ogrzewanie inne niż wymienione
+Badania instalacji elektrycznej
+Badania instalacji odgromowej
+Hydranty zewnętrzne – liczba; data przeglądu
+Hydranty wewnętrzne – liczba; data przeglądu
+Gaśnice – rodzaj, liczba, data przeglądu
+Inne zabezpieczenia przeciwpożarowe (np. system detekcji pożaru, tryskacze, itp.)
+Zabezpieczenia przeciwkradzieżowe (np. ogrodzenie, oświetlenie, wartownik: kamery wewnętrzne ,                   
+kamery zewnętrzne , System Sygnalizacji Włamania i Napadu, System Kontroli Dostępu)
+Odległość do najbliższej rzeki
+czy lokalizacja była dotknięta powodzią
+Dach - konstrukcja
+Dach-pokrycie
+Elewacja
+Ocieplenie
+Technologia budowy
+Pozostałe informacje o konstrukcji budynku
+Urząd Gminy
+1.
+BUDYNEK GOSPODARCZO-GARAZOWY - REMIZA OSP PUŁAWY
+UG-ST/1/132
+109000
+wartość księgowa brutto
+2023
+38-480 PUŁAWY
+NIE
+NIE
+stalowa
+płyta warstwowa/ blacha stalowa
+płyty warstwowe i panele
+styropian/ polistyren
+stalowa
+dobry
+NIE
+NIE
+NIE
+węglowe
+biomasa
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+2.
+BUDYNEK - DZIENNY DOM POBYTU ŁAZY
+UG-ST/1/2
+40630.25
+wartość księgowa brutto
+38-480 ŁAZY
+168.27
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+3.
+BUDYNEK GOSP. (SZALETY) UL. KALWARIA - RYMANÓW
+UG-ST/1/9
+103572.04
+wartość księgowa brutto
+38-480 RYMANÓW
+55
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+4.
+PRZYSTANEK PKS- RYMANÓW ZDR.
+UG-ST/1/10
+35893.199999999997
+wartość księgowa brutto
+38-481 RYMANÓW-ZDRÓJ
+74
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+5.
+BLOK UL.RYNEK 19 RYMANÓW
+UG-ST/1/11
+175302
+wartość księgowa brutto
+1959
+38-480 RYMANÓW
+119.6
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+6.
+BLOK UL.RYNEK 21 RYMANÓW
+UG-ST/1/12
+594061.67000000004
+wartość księgowa brutto
+nieznany 1900/1905
+38-480 RYMANÓW
+340.82
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+7.
+BLOK UL. RYNEK 1 RYMANÓW
+UG-ST/1/13
+106027.55
+wartość księgowa brutto
+nieznany 1900/1905
+38-480 RYMANÓW
+237.49
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+8.
+BLOK UL.RYNEK 5 RYMANÓW
+UG-ST/1/14
+24922
+wartość księgowa brutto
+nieznany 1900/1905
+38-480 RYMANÓW
+79.31
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+9.
+BLOK UL.RYNEK 20 RYMANOW
+UG-ST/1/15
+358179.22
+wartość księgowa brutto
+1959
+38-480 RYMANÓW
+189.65
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+10.
+BLOK UL.BIELECKIEGO 2 RYMANÓW
+UG-ST/1/16
+144317.03
+wartość księgowa brutto
+nieznany 1900/1905
+38-480 RYMANÓW
+169.02
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+11.
+BLOK UL.BIELECKIEGO 7 RYMANÓW
+UG-ST/1/17
+579918.41
+wartość księgowa brutto
+nieznany 1900/1905
+38-480 RYMANÓW
+273.47000000000003
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+12.
+BLOK UL.KASZTANOWA 1, RYMANÓW ZDRÓJ
+UG-ST/1/19
+16497.79
+wartość księgowa brutto
+1970
+38-481 RYMANÓW-ZDRÓJ
+34.64
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+13.
+GARAŻ BLASZANY - STRAŻ MIEJSKA
+UG-ST/1/27
+10500
+wartość księgowa brutto
+2010
+38-480 RYMANÓW
+64
+NIE
+NIE
+stalowa
+blacha dachowa ocynkowana
+panele elewacyjne
+brak
+stalowa
+dobry
+NIE
+NIE
+NIE
+brak
+TAK
+TAK
+oświetlenie
+NIE
+14.
+SZATNIA SPORTOWA - MILCZA
+UG-ST/1/28
+36585
+wartość księgowa brutto
+38-483 MILCZA
+101.11
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+brak
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+15.
+DOM LUDOWY - WRÓBLIK KRÓLEWSKI
+UG-ST/1/31
+174529.96
+wartość księgowa brutto
+38-483 WRÓBLIK KRÓLEWSKI
+1150
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+16.
+DOM LUDOWY - SIENIAWA
+UG-ST/1/33
+880325.55
+wartość księgowa brutto
+38-480 SIENIAWA
+410
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie, kamery zewnętrzne
+NIE
+17.
+DOM LUDOWY - DESZNO i OSP DESZNO
+UG-ST/1/34,       UG-ST/1/50,       UG-ST/1/125
+433515.71
+wartość księgowa brutto
+38-481 RYMANÓW-ZDRÓJ
+465
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie, kamery zewnętrzne
+NIE
+18.
+BUDYNEK MILCZA UL. SZKOLNA 17 - DOM LUDOWY i OSP
+UG-ST/1/35,       UG-ST/1/120
+1390211.17
+wartość księgowa brutto
+38-483 MILCZA
+1290
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+oświetlenie, kamery zewnętrzne
+NIE
+19.
+DOM LUDOWY- PUŁAWY
+UG-ST/1/36
+590285.57999999996
+wartość księgowa brutto
+38-480 PUŁAWY
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+węglowe
+biomasa
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+20.
+DOM LUDOWY - LADZIN
+UG-ST/1/37
+213877.77
+wartość księgowa brutto
+38-480 LADZIN
+310
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie, kamery zewnętrzne
+NIE
+21.
+DOM LUDOWY - POSADA GÓRNA
+UG-ST/1/38
+167768.57
+wartość księgowa brutto
+38-481 POSADA GÓRNA
+370
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+22.
+DOM LUDOWY - POSADA DOLNA (RYMANÓW ul. MICKIEWICZA)
+UG-ST/1/39
+178260.02
+wartość księgowa brutto
+38-480 RYMANÓW
+300
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie, kamery zewnętrzne
+NIE
+23.
+DOM LUDOWY - KRÓLIK POLSKI
+UG-ST/1/40
+216863.31
+wartość księgowa brutto
+38-481 KRÓLIK POLSKI
+290
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+drewniana
+wełna mineralna
+murowano-drewniana
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+24.
+DOM LUDOWY - WRÓBLIK SZLACHECKI
+UG-ST/1/42
+1871040.3
+wartość księgowa brutto
+38-483 WRÓBLIK SZLACHECKI
+TAK
+częściowe
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+oświetlenie, kamery zewnętrzne
+NIE
+25.
+SZATNIA SPORTOWA - KLIMKÓWKA
+UG-ST/1/45
+11684.94
+wartość księgowa brutto
+38-480 KLIMKÓWKA
+218
+NIE
+NIE
+stalowa
+blacha dachowa ocynkowana
+płyty warstwowe i panele
+styropian/ polistyren
+stalowa
+dobry
+NIE
+NIE
+NIE
+elektryczne
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+26.
+DOM LUDOWY - BZIANKA
+UG-ST/1/46
+526337.03
+wartość księgowa brutto
+38-483 BZIANKA
+500
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+27.
+DOM LUDOWY - RYMANÓW ZDR. (PAWILON HANDL.- GALERIA ZDRÓJ 2012)
+UG-ST/1/47
+1798039.85
+wartość księgowa brutto
+38-481 RYMANÓW-ZDRÓJ
+TAK
+TAK
+żelbetowa
+papa
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie, kamery zewnętrzne
+NIE
+28.
+BUDYNEK REMIZY OSP WRÓBL. KRÓL.
+UG-ST/1/49
+52773.01
+wartość księgowa brutto
+38-483 WRÓBLIK KRÓLEWSKI
+168
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+brak
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+29.
+BUDYNEK REMIZY OSP - LADZIN
+UG-ST/1/51
+64032.73
+wartość księgowa brutto
+38-480 LADZIN
+101
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie,
+NIE
+30.
+BUDYNEK REMIZY OSP WRÓBL.SZLACH.
+UG-ST/1/52
+42857.18
+wartość księgowa brutto
+38-483 WRÓBLIK SZLACHECKI
+140
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie,
+NIE
+31.
+BUDYNEK REMIZY OSP - BZIANKA
+UG-ST/1/53
+51856.98
+wartość księgowa brutto
+38-483 BZIANKA
+160
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie,
+NIE
+32.
+BUDYNEK REMIZY OSP - POSADA GÓRNA
+UG-ST/1/54
+117527.85
+wartość księgowa brutto
+38-481 POSADA GÓRNA
+300
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie, kamery zewnętrzne
+NIE
+33.
+BUDYNEK REMIZY OSP - KRÓLIK POL.
+UG-ST/1/55
+32953.22
+wartość księgowa brutto
+38-481 KRÓLIK POLSKI
+92
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+drewniana
+wełna mineralna
+murowano-drewniana
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+34.
+BUDYNEK REMIZY OSP - POSADA DOL.
+UG-ST/1/56
+20223.79
+wartość księgowa brutto
+38-480 RYMANÓW
+164
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+35.
+BUDYNEK REMIZY OSP - SIENIAWA
+UG-ST/1/57
+88014.78
+wartość księgowa brutto
+38-480 SIENIAWA
+220
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+36.
+BUDYNEK REMIZY OSP - GŁĘBOKIE
+UG-ST/1/58
+132538.07999999999
+wartość księgowa brutto
+38-480 GŁĘBOKIE
+187
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie, kamery zewnętrzne
+NIE
+37.
+BUDYNEK RYMANÓW UL. GRUNWALDZKA 13 - OSP  RYMANÓW i POLICJA
+UG-ST/1/59,       UG-ST/1/117
+306734.44
+wartość księgowa brutto
+38-480 RYMANÓW
+340
+NIE
+NIE
+mieszana (żelbetowa i stalowa)
+papa
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie, kamery zewnętrzne
+NIE
+38.
+BUDYNEK REMIZY OSP - BAŁUCIANKA
+UG-ST/1/60
+244046.81
+wartość księgowa brutto
+38-481 BAŁUCIANKA
+200
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+39.
+BUDYNEK REMIZY OSP - NOWA WIEŚ
+UG-ST/1/61
+96533.31
+wartość księgowa brutto
+38-480 RYMANÓW
+209
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+40.
+KAPLICA CMENTARNA
+UG-ST/1/68
+1176990.68
+wartość księgowa brutto
+2010
+38-480 RYMANÓW
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+41.
+AMFITEATR+MOLO - CZARNY POTOK
+UG-ST/1/69
+447959.37
+wartość księgowa brutto
+2010
+38-481 RYMANÓW-ZDRÓJ
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+brak
+murowano-drewniana
+dobry
+NIE
+NIE
+NIE
+brak
+TAK
+TAK
+oświetlenie, kamery zewnętrzne
+NIE
+42.
+DOM LUDOWY - GŁĘBOKIE
+UG-ST/1/74
+1099656.8899999999
+wartość księgowa brutto
+2011
+38-480 GŁĘBOKIE
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+43.
+BUDYNEK GOSPODARCZY RYMANÓW-ZDR UL. KASZTANOWA 5 - LOKAL - REMIZA UOSP RYMANÓW ZDRÓJ I LOKAL ZGK
+UG-ST/1/78,        UG-ST/1/118
+620312.75
+wartość księgowa brutto
+38-481 RYMANÓW-ZDRÓJ
+395
+NIE
+NIE
+mieszana (żelbetowa i stalowa)
+papa
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+44.
+BUDYNEK SZKOLNY GŁĘBOKIE - STARY
+UG-ST/1/80
+301356.13
+wartość księgowa brutto
+38-480 GŁĘBOKIE
+260
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+45.
+BUDYNEK SZKOLNY GŁĘBOKIE - NOWY
+UG-ST/1/81
+398158.18
+wartość księgowa brutto
+38-480 GŁĘBOKIE
+386.02
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+46.
+BUDYNEK SZKOLNY BZIANKA
+UG-ST/1/82
+159058.20000000001
+wartość księgowa brutto
+1914
+38-483 BZIANKA
+643.54
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+47.
+BUDYNEK PRZEDSZKOLA SIÓST MIŁOSIERDZIA W RYMANOWIE-ZDROJU
+UG-ST/1/83
+638291.35
+wartość księgowa brutto
+38-481 RYMANÓW-ZDRÓJ
+858.82
+NIE
+TAK
+żelbetowa
+papa
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+48.
+BUDYNEK KLIMKÓWKA UL. ZDROJOWA 51 - LOKAL - DOM LUDOWY i OSP
+UG-ST/1/85,       UG-ST/1/119
+552301.48
+wartość księgowa brutto
+38-480 KLIMKÓWKA
+595
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+49.
+SZATNIA SPORTOWA W POSADZIE GÓRNEJ
+UG-ST/1/96
+161197.26999999999
+wartość księgowa brutto
+2014
+38-481 POSADA GÓRNA
+142
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+oświetlenie
+NIE
+50.
+BUDYNEK BIUROWY URZĘDU GMINY W RYMANOWIE
+UG-ST/1/97
+4468559.6100000003
+wartość księgowa brutto
+2015
+38-480 RYMANÓW
+TAK
+NIE
+mieszana (żelbetowa i stalowa)
+mieszane
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie, wartownik: kamery wewnętrzne ,                   
+kamery zewnętrzne , System Sygnalizacji Włamania i Napadu, System Kontroli Dostępu
+NIE
+51.
+SZATNIA SPORTOWA W GŁĘBOKIEM
+UG-ST/1/98
+50993.77
+wartość księgowa brutto
+38-480 GŁĘBOKIE
+36
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+brak
+TAK
+TAK
+oświetlenie
+NIE
+52.
+BUDYNEK GARAŻOWY URZĘDU GMINY W RYMANOWIE
+UG-ST/1/99
+212366.46
+wartość księgowa brutto
+2015
+38-480 RYMANÓW
+NIE
+NIE
+żelbetowa
+papa
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+brak
+TAK
+TAK
+ogrodzenie, oświetlenie, kamery zewnętrzne
+NIE
+53.
+PRZEPOMPOWNIA 106 KLIMKÓWKA UL. ZDROJOWA
+UG-ST/1/102
+163763.59
+wartość księgowa brutto
+lata 70 XXw.
+38-480 KLIMKÓWKA
+250
+NIE
+NIE
+żelbetowa
+gont bitumiczny
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+TAK
+brak
+TAK
+TAK
+ogrodzenie
+NIE
+54.
+BUDYNEK STACJI TRANSFORMATOROWEJ (ZEGAR) W RYMANOWIE ZDROJU
+UG-ST/1/106
+10000
+wartość księgowa brutto
+1929-30
+38-481 RYMANÓW-ZDRÓJ
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+brak
+tradycyjna (murowana)
+dobry
+NIE
+TAK
+NIE
+brak
+TAK
+TAK
+oświetlenie
+NIE
+55.
+BUDYNEK SOCJALNO-BIUROWY - PSZOK
+UG-ST/1/107
+215357.68
+wartość księgowa brutto
+2017
+38-480 RYMANÓW
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+elektryczne
+TAK
+TAK
+ogrodzenie, oświetlenie, kamery zewnętrzne
+NIE
+56.
+BUDYNEK PRZEPOMPOWNI WODY - POSADA GÓRNA ZLOKALIZOWANY NA DZIAŁCE NR 875/2
+UG-ST/1/110
+31500
+wartość księgowa brutto
+lata 90 XXw.
+38-481 POSADA GÓRNA
+40
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+57.
+AMFITEATR W RYMANOWIE-ZDROJU
+UG-ST/1/115
+1378833.9
+wartość księgowa brutto
+2018
+38-481 RYMANÓW-ZDRÓJ
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+brak
+murowano-drewniana
+dobry
+NIE
+NIE
+NIE
+elektryczne
+TAK
+TAK
+oświetlenie, kamery zewnętrzne
+NIE
+58.
+BUDYNEK USŁ.-HAN."KOGUTEK" W RYMANOWIE UL. RYNEK
+UG-ST/1/129
+230509.48
+wartość księgowa brutto
+38-480 RYMANÓW
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+elektryczne
+TAK
+TAK
+oświetlenie, kamery zewnętrzne
+NIE
+59.
+BUDYNEK MAGAZYNU ZARZĄDZANIA KRYZYSOWEGO
+UG-ST/1/139
+798015.2
+wartość księgowa brutto
+2025
+38-480 RYMANÓW
+NIE
+NIE
+stalowa
+płyta warstwowa/ blacha stalowa
+płyty warstwowe i panele
+styropian/ polistyren
+stalowa
+dobry
+NIE
+NIE
+NIE
+brak
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+60.
+BUDYNEK RYMANÓW UL. BIELECKIEGO 6
+UG-ST/1/140
+344427.84
+wartość księgowa brutto
+2025
+38-480 RYMANÓW
+NIE
+NIE
+żelbetowa
+papa
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+ogrodzenie, oświetlenie
+NIE
+25497847.929999996
+Zakład Gospodarki Komunalnej
+1.
+Zbiornik ZV 500
+ŚT/0106
+17169.599999999999
+wartość księgowa brutto
+2009
+Rymanów ul. Osiedle 40
+NIE
+NIE
+2.
+Budynek mieszkalny Wróblik Szlachecki
+ŚT/0125
+544633.35
+wartość księgowa brutto
+1968-1973
+Wróblik Szlachecki ul. Kolejowa 21
+228.97
+3
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+żelbet/beton
+dobry
+NIE
+NIE
+NIE
+gazowe
+ogroddzenie, oświetlenie, kamery zewnętrzne
+3.
+Budynek administracyjny
+ŚT/0151
+19084.18
+wartość księgowa brutto
+1989-1993
+Rymanów ul. Osiedle 40
+82.2
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+żelbet/beton
+dobry
+NIE
+NIE
+TAK
+pompy ciepła
+ogroddzenie, oświetlenie, kamery zewnętrzne
+4.
+Hala warsztatowa
+ŚT/0152
+169402.03
+wartość księgowa brutto
+1989-1993
+Rymanów ul. Osiedle 40
+585.4
+1
+NIE
+NIE
+mieszana (żelbetowa i stalowa)
+blacha dachowa ocynkowana
+tynk tradycyjny
+żelbet/beton
+dobry
+NIE
+NIE
+NIE
+gazowe
+ogroddzenie, oświetlenie, kamery zewnętrzne
+5.
+Budynek magazynowy
+ŚT/0153
+33550.89
+wartość księgowa brutto
+1988
+Rymanów ul. Osiedle 40
+241.4
+1
+NIE
+NIE
+mieszana (żelbetowa i stalowa)
+blacha dachowa ocynkowana
+tynk tradycyjny
+żelbet/beton
+dobry
+NIE
+NIE
+NIE
+brak
+ogroddzenie, oświetlenie, kamery zewnętrzne
+6.
+Budynek Gospodarczy
+ŚT/0154
+36910.269999999997
+wartość księgowa brutto
+1972
+Rymanów ul. Osiedle 40
+129.80000000000001
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+żelbet/beton
+dobry
+NIE
+NIE
+NIE
+elektryczne
+ogroddzenie, oświetlenie, kamery zewnętrzne
+7.
+Budynek gospodarczy Rymanów Zdrój
+ŚT/0124
+433322.5
+wartość księgowa brutto
+2012
+Rymanów-Zdrój ul. Kasztanowa dz. 89
+141.88999999999999
+2
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+żelbet/beton
+dobry
+NIE
+NIE
+NIE
+gazowe
+ogroddzenie, oświetlenie, kamery zewnętrzne
+8.
+Garaż
+ŚT/0180
+13494.63
+wartość księgowa brutto
+2018
+Rymanów ul. Osiedle 40
+40
+1
+NIE
+NIE
+stalowa
+blacha dachowa ocynkowana
+stalowa
+stal
+dobry
+NIE
+NIE
+NIE
+brak
+ogroddzenie, oświetlenie, kamery zewnętrzne
+9.
+Garaż samochodowy
+ŚT/0137
+4757.2700000000004
+wartość księgowa brutto
+2014
+Rymanów ul. Osiedle 40
+40
+1
+NIE
+NIE
+stalowa
+blacha dachowa ocynkowana
+stalowa
+stal
+dobry
+NIE
+NIE
+NIE
+brak
+ogroddzenie, oświetlenie, kamery zewnętrzne
+10.
+Budynek administracyjno - gospodarczy
+200000
+wartość księgowa brutto
+1996
+Rymanów ul. Mitkowskiego 38a
+120
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+żelbet/beton
+dobry
+NIE
+NIE
+NIE
+elektryczne
+ogroddzenie, oświetlenie, kamery zewnętrzne
+1472324.72
+Gminny Ośrodek Pomocy Społecznej w Rymanowie
+1.
+Gminny Ośrodek Pomocy Społecznej w Rymanowie - pomieszczenia biurowe (udział w nieruchomości - trwały zarząd) -  przy wycenie wartości odtworzeniowej powierzchnia rozliczona proporcjonalnie z ZEASem
+Pomieszczenia biurowe przeznaczone na działalność GOPS
+1
+518669.67
+wartość księgowa brutto
+2006 - remont istniejącego budynku
+Rymanów, ul. Dworska 42
+287.95
+ok. 10 m
+3
+NIE
+NIE
+stalowa
+papa
+cegła klinkierowa i tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+malowanie elewacji - 2011 r.
+dobry
+NIE
+NIE
+NIE
+TAK
+gazowe
+TAK 30.11.2021 (WAŻNE 5 LAT)
+TAK 30.11.2021 (WAŻNE 5 LAT)
+NIE
+TAK, 3 SZTUKI 17.06.2025
+TAK, 4 SZTUKI - PROSZKOWA G94X, 1 SZT. UGSZX, 17.06.2025
+MONITORING - ALARM PRZECIWWŁAMANIOWY - FIRMA KARABELA
+1 KM
+518669.67
+Gminny Ośrodek Kultury
+1.
+BUDYNEK "DOM KULTURY"
+DZIAŁALNOŚĆ KULTURALNA
+10054386.689999999
+wartość księgowa brutto
+2020
+UL. GRUNWALDZKA 11, 38-480 RYMANÓW
+1720.46
+5,75-11,83
+3
+TAK
+częściowe
+żelbetowa
+tynk tradycyjny
+wełna mineralna
+żelbetowo-murowana
+pokrycie dachowe - membrana dachowa PCV
+bardzo dobry
+NIE
+NIE
+TAK
+gazowe
+45712
+brak
+4 szt. - 09.03.2026
+proszkowa - 13 szt., kuchenna 1 szt, 09.03.2026
+1. System sygnalizacji pożaru, 2. System oddymiania
+Kamery wewnetrze, zewnętrzne, monitoning sygnałów alarmowych
+20M
+2.
+GARAŻ BLASZANY
+MAGAZYNOWANIE SCENY MOBILNEJ
+14800
+wartość księgowa brutto
+2011
+ul. Osiedle 40, 38-480 Rymanów
+70
+4.7
+1
+NIE
+NIE
+3.
+BUDYNEK "KINO SOKÓŁ" (Gminny Rejestr Zabytków)
+DZIAŁAŁNOŚĆ KULTURALNA
+1219639.9099999999
+wartość księgowa brutto
+1921
+UL. GRUNWALDZKA 9, 38-480 RYMANÓW
+562.74
+9.15
+2
+NIE
+częściowe
+mieszana (żelbetowa i stalowa)
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+inna
+dobry
+NIE
+NIE
+NIE
+gazowe
+14.02.2022 - ważne 5 lat
+brak
+2 szt. - 09.03.2026
+śniegowa - 3 szt., proszkowa - 7 szt., 09.03.2026
+brak
+Kamery wewnetrze, monitoning sygnałów alarmowych
+20M
+11288826.6
+GOSiR
+1.
+Budynek gospodarczy - korty tenisowe - Rymanów
+budynek gospodarczu
+GOSIR/ST/1/1
+76152.740000000005
+wartość księgowa brutto
+38-480 Rymanów, ul. Parkowa 3
+19.399999999999999
+4
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+NIE
+brak
+POZYTYWNE
+POZYTYWNE
+BRAK
+BRAK
+proszkowa - 1szt., 28.11.2025r.
+BRAK
+oświetlenie, kamery zewnętrzne
+ok. 120m
+2.
+Hala sportowa z punktem lekarskim - Sieniawa
+sport i rekreacja, usługi medyczne
+GOSIR/ST/1/4; GOSIR/ST/1/5
+5161536.3499999996
+wartość księgowa brutto
+38-480 Sieniawa, ul. Kwiatowa 10
+1651.2
+11.34
+2
+NIE
+NIE
+stalowa
+płyta warstwowa/ blacha stalowa
+mieszana inna
+styropian/ polistyren
+inna
+tradycyjna (murowana)
+2025r., termomodernizacja
+dobry
+NIE
+NIE
+NIE
+TAK
+gazowe
+POZYTYWNE
+POZYTYWNE
+1szt.
+4szt., 28.11.2025r.
+proszkowa - 7szt.,
+śniegowa - 1szt., 28.11.2025r.
+BRAK
+ogrodzenie, oświetlenie, kamery zewnętrzne, kamery wewnętrzne
+ok. 430m
+3.
+Lokal punktu lekarskiego - hala w Sieniawie
+usługi medyczne
+GOSIR/ST/1/5
+125289.21
+wartość księgowa brutto
+38-480 Sieniawa, ul. Kwiatowa 10
+4.
+Szalety miejskie w Rymanowie - Zdroju
+szalety miejskie
+GOSIR/ST/1/6
+575186.11
+wartość księgowa brutto
+38-481 Rymanów-Zdrój,
+ul. Zdrojowa 61
+98.6
+5.8
+1
+NIE
+NIE
+mieszana (żelbetowa i stalowa)
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+inna
+tradycyjna (murowana)
+2021r., przebudowa, termomodernizacja
+dobry
+NIE
+NIE
+NIE
+NIE
+gazowe
+POZYTYWNE
+BRAK
+BRAK
+proszkowa - 5szt., 28.11.2025r.
+BRAK
+oświetlenie
+ok. 100m
+5.
+Budynek technologiczny podziemny zlokalizowany na działce nr 419 w Rymanowie-Zdroju
+budynek technologiczny
+GOSIR/ST/1/7
+626405.36
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój,
+ul. Zdrojowa 58
+186.32
+1
+NIE
+TAK
+żelbetowa
+kamienna
+styropian/ polistyren
+żelbet/beton
+bardzo dobry
+NIE
+NIE
+NIE
+NIE
+brak
+POZYTYWNE
+BRAK
+BRAK
+proszkowa - 2szt., 28.11.2025r.
+BRAK
+oświetlenie, ogrodzenie, kamery zewnętrzne
+ok. 23m
+6.
+Budynek sanitarno-szatniowy zlokalizowany na działce nr 419 w Rymanowie-Zdroju
+budynek sanitarno-szatniowy
+GOSIR/ST/1/8
+1716723.88
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój,
+ul. Zdrojowa 58
+256.24
+5.8
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+mieszana inna
+styropian/ polistyren
+inna
+tradycyjna (murowana)
+bardzo dobry
+NIE
+NIE
+NIE
+NIE
+elektryczne
+POZYTYWNE
+POZYTYWNE
+1szt.
+BRAK
+proszkowa - 4szt., 28.11.2025r.
+BRAK
+oświetlenie, ogrodzenie, kamery zewnętrzne
+ok. 23m
+7.
+Ośrodek kultury fizycznej - budynek zaplecza sportowego - stadion Rymanów
+budynek zaplecza sportowego
+GOSIR/ST/1/9
+467611.03
+wartość księgowa brutto
+38-480 Rymanów,
+ul. Bieleckiego 6
+258.93
+6.7
+2
+NIE
+NIE
+żelbetowa
+papa
+mieszana inna
+styropian/ polistyren
+inna
+tradycyjna (murowana)
+2017r., termomodernizacja,
+2018r., remont pomieszczeń (szatnia),
+2025r., remont pomieszczeń (parter)
+dobry
+NIE
+NIE
+NIE
+NIE
+gazowe
+POZYTYWNE
+POZYTYWNE
+1szt.
+BRAK
+proszkowa - 3szt., 28.11.2025r.
+BRAK
+oświetlenie, ogrodzenie, kamery zewnętrzne
+ok. 420m
+8748904.6799999997
+Zespół Ekonomiczno Administracyjny Szkół w Rymanowie
+1.
+Zespół Ekonomiczno - Administracyjny Szkół w Rymanowie - pomieszczenia biurowe (udział w nieruchomości - trwały zarząd)   przy wycenie wartości odtworzeniowej powierzchnia rozliczona proporcjonalnie z GOPSem
+ADMINISTRACYJNO - BIUROWY
+000002
+262590.08000000002
+wartość księgowa brutto
+2006 (remont istniejącego budynku)
+ul. Dworska 42, 38-480 Rymanów
+151.25
+OK 10 METRÓW
+3
+NIE
+NIE
+stalowa
+papa
+cegła klinkierowa i tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+Malowanie elewacji budynku w 2021 roku
+dobry
+NIE
+NIE
+NIE
+TAK
+gazowe
+TAK 30.11.2021 (WAŻNE 5 LAT)
+TAK 30.11.2021 (WAŻNE 5 LAT)
+NIE
+TAK, 3 SZTUKI, 17.06.2025
+TAK, 4 SZTUKI - PROSZKOWA G94X, 1 SZTUKA UGSZX, 17.06.2025
+MONITORING (PRZEDSIĘBIORSTWO KARABELA), ALARM PRZECIW WŁAMANIOWY
+1 KM
+NIE
+262590.08000000002
+SP w Sieniawie
+1.
+Budynek szkoły
+Edukacja
+000016
+11455892.439999999
+wartość księgowa brutto
+2021 rozpoczęcie, 2025 zakończenie budowy
+Kwiatowa 8
+38 - 480 Rymanów
+3011.66
+11.4
+3
+TAK
+TAK
+mieszana (żelbetowa i stalowa)
+mieszane
+mieszana inna
+styropian/ polistyren
+tradycyjna (murowana)
+Dach z płyty warstwowej + drewno
+bardzo dobry
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+BRAK
+8 hydrantów
+sierpień 2025
+19 - proszkowe ABC
+2 UGS 2X
+Gaśnica proszkowa
+sierpień 2025
+Ogrodzenie, kamery zewnętrzne, wewnętrzne, oświetlenie
+300 m
+11455892.439999999
+Szkoła Podstawowa im. Jana Pawła II w Klimkówce
+1.
+Budynek (nowy) - po modernizacji
+placówka oświatowa
+000004
+2793007.63
+wartość księgowa brutto
+1998
+Klimkówka, ul. Zdojowa 49,           38-480 Rymanów
+2492
+14.29
+3
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+żelbetowo-murowana
+2023 - remont ktołowni, 2025 - remont instalacji wody użytkowej, cyrkulacji i instalacji hydrantowej w podpowniczeniu
+bardzo dobry
+NIE
+NIE
+NIE
+gazowe
+tak
+tak
+nie
+8 sztuk, 14.08.2025
+11 x  proszkwa, 2 x śniegowa CO2, 14.08.2025
+wyłącznik ppoż
+ogordzenie, kamery wewnętrzne,                 
+kamery zewnętrzne , System Sygnalizacji Włamania i Napadu
+10m
+2.
+Budynek (stary) - sala gimnastyczna
+placówka oświatowa
+000002, 000003
+986252.5
+wartość księgowa brutto
+2007
+Klimkówka, ul. Zdojowa 49,           38-480 Rymanów
+405.6
+12
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+inna
+bardzo dobry
+NIE
+NIE
+NIE
+gazowe
+tak
+tak
+nie
+1 sztuka, 14.08.2025
+1 x proszkowa, 14.08.2025
+wyłącznik ppoż
+ogordzenie, kamery wewnętrzne,                 
+kamery zewnętrzne , System Sygnalizacji Włamania i Napadu
+6m
+3.
+Pomieszczenia boisk sportowych ORLIK
+placówka oświatowa
+000006
+200478.14
+wartość księgowa brutto
+2012
+Klimkówka, ul. Zdojowa 49,  38-480 Rymanów
+34.9
+3.5
+1
+NIE
+NIE
+stalowa
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+inna
+bardzo dobry
+NIE
+NIE
+NIE
+gazowe
+tak
+nie
+nie
+1 sztuka, 14.08.2025
+1 x proszowa, 14.08.2025
+wyłącznik ppoż
+ogordzenie, kamery wewnętrzne,                 
+kamery zewnętrzne , System Sygnalizacji Włamania i Napadu
+20m
+3979738.27
+Szkoła Podstawowa im. Ks. Kard. Stefana Wyszyńskiego we Wróbliku Szlacheckim
+Szkoła Podstawowa im. Ks. Kard. Stefana Wyszyńskiego we Wróbliku Szlacheckim, ul. Szkolna 5, 38-483 Wróblik Szlacheck
+1.
+BUDYNEK SZKOLNY + SALA GIMNASTYCZNA
+obiekt edukacyjny do prowadzenia zajęć dydaktycznych z częścią sportową do prowadzenia zajęć wychowania fizycznego.
+000002
+3988864.21
+wartość księgowa brutto
+2002
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+3058
+13
+4
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+cegła klinkierowa i tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+dobry
+NIE
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+TAK 1szt.
+NIE
+TAK - gaśnice proszkowe, 11 szt. , sierpień 2025
+NIE
+ochrona - Karabela, zabezpiecznie systemem alarmowym, ogrodzenie, oświetlenie, 4 kamery zewnętrzne i kamery wewenętrzne.
+200 m
+NIE
+2.
+BUDYNEK ZAPLECZA BOISKA "ORLIK"
+budynek techniczno-socjalny służący obsłudze boisk (szatnie, sanitariaty, magazyn).
+000003
+326891.69
+wartość księgowa brutto
+2012
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+84.86
+3
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+drewniana
+styropian/ polistyren
+drewno
+2025 rok modernizacja elewacji drewnianej budynku zaplecza, montaż drzwi stalowych w budynku zaplecza, wykładzina PCV w pomiesczzeniu budynku zaplecza 253, montaż daszków nad wejściem do pomieszczeń budynku zaplecza 2szt.
+bardzo dobry
+TAK
+sezon zimowy ze wzgl. na trudne warunki pogodowe
+NIE
+NIE
+NIE
+elektryczne
+TAK
+TAK
+TAK 1szt.
+NIE
+TAK - gaśnice proszkowe, 1 szt., sierpień 2025
+NIE
+ogrodzenie, oświetlenie
+200 m
+NIE
+4315755.9000000004
+Szkoła Podstawowa im. Polskich Nobilistów w Króliku Polskim
+Szkoła Podstawowa im. Ks. Kard. Stefana Wyszyńskiego we Wróbliku Szlacheckim, ul. Szkolna 5, 38-483 Wróblik Szlacheck
+1.
+BUDYNEK SZKOLNY MUROWANY
+edukacja
+000002
+921825.81
+wartość księgowa brutto
+1994
+UL. Bieszczadzka 137, Królik Polski, 38-481 Rymanów Zdrój
+1441
+8
+2
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+tradycyjna (murowana)
+brak
+brak
+dobry
+NIE
+brak
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+NIE
+TAK, 4 szt., 08.2025 r.
+5 szt., proszkowa, 08.2025 r.
+BRAK
+Ogrodzenie, oświetlenie, kamery zewnętrzene i wewnętrzne, System Sygnalizacji Włamań i Napadów
+50 m
+TAK
+2.
+OGRODZENIE
+ogordzenie terenu wokół szkoły
+000003
+126200.01
+wartość księgowa brutto
+2010-2025
+UL. Bieszczadzka 137, Królik Polski, 38-481 Rymanów Zdrój
+365
+180
+nie dotyczy
+NIE
+NIE
+stalowa
+brak
+brak
+brak
+NIE
+brak
+NIE
+brak
+nie dotyczy
+nie dotyczy
+nie dotyczy
+nie dotyczy
+nie dotyczy
+nie dotyczy
+nie dotyczy
+nie dotyczy
+TAK
+3.
+SALA GIMNASTYCZNA Z ZAPLECZEM
+edukacja
+000004
+1242339.3899999999
+wartość księgowa brutto
+2012
+UL. Bieszczadzka 137, Królik Polski, 38-481 Rymanów Zdrój
+428.3
+8
+1
+NIE
+NIE
+stalowa
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+żelbet/beton
+brak
+brak
+dobry
+NIE
+brak
+NIE
+NIE
+NIE
+gazowe
+TAK
+TAK
+NIE
+TAK, 1 szt., 08.2025 r.
+1, proszkowa, 08.2025
+BRAK
+Ogrodzenie, oświetlenie, kamery zewnętrzene
+50 m
+TAK
+1368539.4
+Zespół Szkół Publicznych w Milczy
+Szkoła Podstawowa im. Ks. Kard. Stefana Wyszyńskiego we Wróbliku Szlacheckim, ul. Szkolna 5, 38-483 Wróblik Szlacheck
+1.
+BUDYNEK SZKOLNY – I SEGMENT
+SZKOŁA
+000003
+77629.429999999993
+księgowa brutto
+1961
+MILCZA UL. SZKOLNA 16, 38-483 WRÓBLIK SZLACHECKI
+247
+3
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+cegła klinkierowa
+styropian/ polistyren
+dobry
+NIE
+NIE
+NIE
+gazowe
+2030
+2030
+2
+kamery
+5 km
+NIE
+2.
+BUDYNEK SZKOLNY – II SEGMENT
+SZKOŁA
+000002
+35316.53
+księgowa brutto
+1914
+MILCZA UL. SZKOLNA 16, 38-483 WRÓBLIK SZLACHECKI
+324
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+cegła klinkierowa
+styropian/ polistyren
+inna
+dobry
+NIE
+NIE
+NIE
+gazowe
+2030
+2030
+1
+kamery
+5 km
+NIE
+3.
+BUDYNEK SZKOLNY – III SEGMENT
+SZKOŁA
+000004
+753236.33
+wartość księgowa brutto
+1995
+MILCZA UL. SZKOLNA 16, 38-483 WRÓBLIK SZLACHECKI
+996
+3
+NIE
+TAK
+drewniana
+blacha dachowa ocynkowana
+cegła klinkierowa
+styropian/ polistyren
+inna
+dobry
+NIE
+NIE
+NIE
+gazowe
+2030
+2030
+4
+kamery
+5 km
+NIE
+4.
+Hydrofornia (znajdująca się w budynku szkolnym - III segment
+00005
+5000
+wartość księgowa brutto
+1995
+MILCZA UL. SZKOLNA 16, 38-483 WRÓBLIK SZLACHECKI
+5.
+Budynek sali gimnastycznej
+Sala Gimnastyczna
+00006
+2155443.94
+wartość księgowa brutto
+2014
+MILCZA UL. SZKOLNA 16, 38-483 WRÓBLIK SZLACHECKI
+963.2
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+żelbet/beton
+bardzo dobry
+NIE
+TAK
+gazowe
+2030
+2030
+5
+kamery
+5 km
+NIE
+3026626.23
+Zespół Szkół Publicznych w Posadzie Górnej
+Szkoła Podstawowa im. Ks. Kard. Stefana Wyszyńskiego we Wróbliku Szlacheckim, ul. Szkolna 5, 38-483 Wróblik Szlacheck
+1.
+Budynek szkoły + termomodernizacja (w roku 2013)
+Szkoła
+000002
+697298.1
+wartość księgowa brutto
+1994
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+1372.8
+4
+NIE
+częściowe
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+żelbetowo-murowana
+nie
+bardzo dobry
+NIE
+TAK
+nie
+NIE
+gazowe
+TAK
+TAK
+0
+2- 14.08.2025
+7- 14.08.2025
+NIE
+kamery wewnętrzne ,                   
+Ogrodzenie, kamery zewnętrzne , System Sygnalizacji Włamania i Napadu
+40m
+NIE
+2.
+Budynek szkolny (nowe skrzydło)
+Szkoła
+000003
+466017.4
+wartość księgowa brutto
+2006
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+344.7
+2
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+żelbet/beton
+nie
+bardzo dobry
+NIE
+TAK
+nie
+NIE
+gazowe
+TAK
+TAK
+0
+2- 14.08.2025
+4- 14.08.2025
+NIE
+kamery wewnętrzne ,                   
+Ogrodzenie, kamery zewnętrzne , System Sygnalizacji Włamania i Napadu
+40m
+NIE
+3.
+Sala gimnastyczna
+Szkoła
+000004
+1985856.31
+wartość księgowa brutto
+2006
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+815.8
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+brak
+żelbet/beton
+nie
+bardzo dobry
+NIE
+TAK
+nie
+NIE
+gazowe
+TAK
+TAK
+0
+0
+1- 14.08.2025
+NIE
+kamery wewnętrzne ,                   
+Ogrodzenie, kamery zewnętrzne , System Sygnalizacji Włamania i Napadu
+40m
+NIE
+3149171.81
+3149171.81
+Zespół Szkół Publicznych w Rymanowie
+Szkoła Podstawowa im. Ks. Kard. Stefana Wyszyńskiego we Wróbliku Szlacheckim, ul. Szkolna 5, 38-483 Wróblik Szlacheck
+1.
+Budynek-Stara Szkoła bez części, którą zajmuje Żłobek
+Budynek użyteczności publicznej
+0000002, 000044
+1252037.42
+wartość księgowa brutto
+1927
+UL. SZKOLNA 2,      
+38-480 RYMANÓW
+2693,2 m2 (pow. użytkowa)
+17.40 m
+4
+NIE
+częściowe
+żelbetowa
+papa
+tynk tradycyjny
+brak
+tradycyjna (murowana)
+dostateczny
+NIE
+NIE
+NIE
+gazowe
+tak
+tak
+2 -21.08.2026
+proszkowe - 8 - 21.08.2026
+kamery zewnętrz,kamery wewnętrzne. Alarm
+1 km.
+NIE
+2.
+Sala gimnastyczna
+Budynek użyteczności publicznej
+000003
+1675065.19
+wartość księgowa brutto
+1975
+UL. SZKOLNA 2,            
+38-480 RYMANÓW
+1112 m2 (pow. użytkowa)
+6.84 m
+3
+NIE
+częściowe
+żelbetowa
+papa
+tynk tradycyjny
+styropian/ polistyren
+inna
+dostateczny
+NIE
+NIE
+NIE
+gazowe
+tak
+tak
+2 -21.08.2026
+2 -21.08.2026
+proszkowe - 3 - 21.08.2026
+Kamery wewnętrzne
+1 km.
+NIE
+3.
+Zaplecze sportowe
+Budynek użyteczności publicznej
+000005, 000006
+2240501.3199999998
+wartość księgowa brutto
+1989
+UL. SZKOLNA 2,            
+38-480 RYMANÓW
+12 m2 (pow.użytkowa)
+6.84 m
+1
+NIE
+NIE
+żelbetowa
+papa
+tynk tradycyjny
+styropian/ polistyren
+inna
+dobry
+NIE
+NIE
+NIE
+gazowe
+tak
+tak
+2 -21.08.2026
+1 km.
+NIE
+4.
+Strzelnica
+1989
+UL. SZKOLNA 2,            
+38-480 RYMANÓW
+567.80 m2 (pow. użytkowa)
+2.64 m
+2
+NIE
+NIE
+żelbetowa
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+inna
+bardzo dobry
+NIE
+NIE
+NIE
+gazowe
+tak
+tak
+2 -21.08.2026
+proszkowe - 1 - 21.08.2026
+Alarm
+1 km.
+NIE
+5.
+Budynek internatu
+1989
+UL. SZKOLNA 2,            
+38-480 RYMANÓW
+238.38 m2 (pow. użytkowa)
+5.6m.
+1
+NIE
+NIE
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+inna
+bardzo dobry
+NIE
+NIE
+NIE
+gazowe
+tak
+tak
+2 -21.08.2026
+proszkowe - 2 - 21.08.2026
+Kamery zewnętrz,kamery wewnętrzne.
+1 km.
+NIE
+6.
+Budynek -Nowa szkoła
+Budynek użyteczności publicznej
+000004
+6054559.8099999996
+wartość księgowa brutto
+2008
+UL. SZKOLNA 2,            
+38-480 RYMANÓW
+4343.59 m2 (pow. użytkowa)
+17.33 m
+4
+TAK
+częściowe
+drewniana
+blacha dachowa ocynkowana
+tynk tradycyjny
+styropian/ polistyren
+inna
+bardzo dobry
+NIE
+NIE
+NIE
+gazowe
+tak
+tak
+2 -21.08.2026
+9 - 21.08.2026
+proszkowe - 14 - 21.08.2026
+kamery zewnętrz,kamery wewnętrzne. Alarm
+1 km.
+NIE
+11222163.739999998
+11222163.739999998
+Zespół Żłobków w Rymanowie
+Szkoła Podstawowa im. Ks. Kard. Stefana Wyszyńskiego we Wróbliku Szlacheckim, ul. Szkolna 5, 38-483 Wróblik Szlacheck
+1.
+Część budynku w Starej Szkole w Rymanowie-piwnica
+OPIEKA NAD DZIECMI DO LAT 3
+000002
+1454176.83
+wartość księgowa brutto
+1927
+UL. SZKOLNA 2, 38-480 RYMANÓW
+279.47000000000003
+17,40m
+1
+NIE
+NIE
+Żelbetowa
+papa
+cegła klinkierowa i tynk tradycyjny
+brak
+tradycyjna (murowana)
+dostateczny
+NIE
+NIE DOTYCZY
+NIE
+NIE
+TAK
+gazowe
+AKTUALNE
+AKTUALNE
+2
+1 - PRZEGLĄD LUTY 2027
+PROSZKOWE 3 SZT. PRZEGLĄD -LUTY 2027
+BRAK
+MONITORING, DOZÓR FIRMY ZEWNĘTRZNEJ
+1 KM
+NIE
+2.
+BUDYNEK ŻŁOBKA "Wesołe Maluchy" w Rymanowie- Zdroju - Desznie
+OPIEKA NAD DZIEĆMI DO LAT 3
+000005
+707304.64
+wartość księgowa brutto
+1928
+UL. SZKOLNA 14, 38-481 Rymanów Zdrój
+271.47000000000003
+7.8
+2
+TAK
+NIE
+drewniana
+blacha dachowa ocynkowana
+drewniano-kamienna
+styropian/ polistyren
+MUROWANO-DREWNIANA
+WYMIANA POKRYCIA DACHOWEGO -2021, OCIEPLENIE BUDYNKU - 2017
+dobry
+NIE
+NIE DOTYCZY
+NIE
+NIE
+NIE
+gazowe
+AKTUALNE
+AKTUALNE
+1
+0
+PROSZKOWE 5 SZT. PRZEGLĄD -LUTY 2027
+BRAK
+TEREN OGRODZONY, OŚWIETLONY, MONITORING, ALARM-DOZÓR FIRMY ZEWNĘTRZNEJ
+150 M
+NIE
+2161481.4700000002
+RAZEM
+88468532.939999998
+
+### xl/worksheets/sheet4.xml
+Wykaz budowli (grupa 2 KŚT)
+Lp.
+Rodzaj budowli/nazwa
+Przeznaczenie budowli
+Numer środka trwałego
+Suma ubezpieczenia
+Rodzaj wartości - podstawa określenia sumy ubezpieczenia
+Rok budowy
+Miejsce ubezpieczenia
+(adres)
+Stan techniczny obiektu
+Obiekt wyłączony z eksploatacji przez okres dłuższy niż 30 dni  TAK/ NIE
+Przyczyny wyłączenia z eksploatacji
+Obiekt pod nadzorem konserwatora budynków - TAK/ NIE
+Urząd Gminy
+1.
+TĘŻNIA SOLANKOWA W PARKU W RYMANOWIE ZDROJU
+UG-ST/2/403
+299310
+wartość księgowa brutto
+2016
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+2.
+OŚWIETLENIE ZEWNĘTRZNE PUNKTU SELEKTYWNEJ ZBIÓRKI ODPADÓW KOMUNALNYCH
+UG-ST/2/299
+29237.84
+wartość księgowa brutto
+2017
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+3.
+WIATA NA KONTENERY - PSZOK
+UG-ST/2/296
+182464.45
+wartość księgowa brutto
+2017
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+4.
+WIATA NA FARBY I ELEKTROŚMIECI - PSZOK
+UG-ST/2/295
+56958.89
+wartość księgowa brutto
+2017
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+5.
+PERGOLA NR 1 PRZY STACJI MONITOROWANIA POWIETRZA
+UG-ST/2/272
+68904.039999999994
+wartość księgowa brutto
+2016
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+6.
+FONTANNA Z KOMORĄ STEROWNICZĄ - RYMANÓW RYNEK
+UG-ST/2/503
+705437.78
+wartość księgowa brutto
+2022
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+7.
+OBIEKTY MAŁEJ ARCHITEKTURY NA RYNKU W RYMANOWIE
+UG-ST/2/504
+1449856.17
+wartość księgowa brutto
+2022
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+8.
+MIASTECZKO ORGANIZACJI RUCHU DROGOWEGO DLA POJAZDÓW JEDNOŚLADOWYCH
+UG-ST/2/491
+210299.83
+wartość księgowa brutto
+2022
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+9.
+OŚWIETLENIE PRZEJŚCIA DLA PIESZYCH RYMANÓW-ZDRÓJ UL. ZDROJOWA
+UG-ST/2/572
+52419.99
+wartość księgowa brutto
+2025
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+10.
+PERGOLA RYMANÓW UL. RYNEK
+UG-ST/2/507
+72158.33
+wartość księgowa brutto
+2024
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+11.
+OŚWIETLENIE PRZEJŚCIA DLA PIESZYCH RYMANÓW UL. GRUNWALDZKA
+UG-ST/2/528
+48487.51
+wartość księgowa brutto
+2024
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+12.
+OŚWIETLENIE PRZEJŚCIA DLA PIESZYCH ULICA WYSPIAŃSKIEGO W RYMANOWIE-ZDROJU
+UG-ST/2/521
+41422.129999999997
+wartość księgowa brutto
+2023
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+13.
+PERGOLA NR 2 - NA SZLAKU ŚWIĄTYŃ KARPACKICH
+UG-ST/2/433
+49989.69
+wartość księgowa brutto
+2019
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+14.
+MURKI OPOROWE W PARKU ZDOJOWYM W RYMANOWIE ZDROJU
+UG-ST/2/429
+36439.269999999997
+wartość księgowa brutto
+2020
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+15.
+FONTANNA Z KOMORĄ STEROWNICZĄ - PARK ZDROJOWY RYMANÓW-ZDRÓJ
+UG-ST/2/421
+1115000
+wartość księgowa brutto
+2020
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+16.
+KŁADKA NA RZECE TABOR W RYMANOWIE-ZDROJU
+UG-ST/2/477
+277122.40000000002
+wartość księgowa brutto
+2021
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+17.
+SZALETY - RYMANÓW
+UG-ST/2/11
+58227.26
+wartość księgowa brutto
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+18.
+KŁADKA - CZARNY POTOK
+UG-ST/2/121
+218016.76
+wartość księgowa brutto
+2010
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+19.
+KŁADKA - CZARNY POTOK
+UG-ST/2/122
+218016.76
+wartość księgowa brutto
+2010
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+20.
+KŁADKA - CZARNY POTOK
+UG-ST/2/123
+218016.77
+wartość księgowa brutto
+2010
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+21.
+FONTANNA + PERGOLE - CZARNY POTOK
+UG-ST/2/124
+29178.74
+wartość księgowa brutto
+2010
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+22.
+BUDOWLA ZABEZPIECZAJĄCA BRZEGI - CZARNY POTOK I CZARNY STAW
+UG-ST/2/126
+455165.68
+wartość księgowa brutto
+2010
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+23.
+FONTANNA RYMNAÓW ZDRÓJ (PARK ZDROJOWY)
+UG-ST/2/128
+34934
+wartość księgowa brutto
+2010
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+24.
+OCZYSZCZALNIA ŚCIEKÓW
+UG-ST/2/9
+9184212.8699999992
+wartość księgowa brutto
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+25.
+ZBIORNIK WODNY
+UG-ST/2/245
+12500
+wartość księgowa brutto
+38-480 KLIMKÓWKA
+dobry
+NIE
+NIE
+26.
+OŚWIETLENIE PRZEJŚCIA DLA PIESZYCH RYMANÓW-ZDRÓJ UL. ZDROJOWA
+UG-ST/2/527
+94254.92
+wartość księgowa brutto
+2015
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+27.
+KANALIZACJA DESZCZOWA PRZY BUDYNKU URZĘDU GMINY W RYMANOWIE
+UG-ST/2/244
+197185.44
+wartość księgowa brutto
+2015
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+28.
+ZBIORNIK WODNY
+UG-ST/2/246
+12500
+wartość księgowa brutto
+38-480 KLIMKÓWKA
+dobry
+NIE
+NIE
+29.
+POMNIK "ŁAWECZKA Z ANNĄ POTOCKĄ"
+UG-ST/2/250
+74997.36
+wartość księgowa brutto
+2015
+38-481 RYMANÓW-ZDRÓJ
+dobry
+NIE
+NIE
+30.
+OŚWIETLENIE PLACÓW PRZY BUDYNKACH URZĘDU GMINY
+UG-ST/2/252
+161174.99
+wartość księgowa brutto
+2015
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+31.
+PRZEPOMPOWNIA ŚCIEKÓW NA KOLEKTORZE TŁOCZNYM POMIĘDZY MILCZĄ A RYMANOWEM
+UG-ST/2/264
+552333.04
+wartość księgowa brutto
+2015
+38-480
+dobry
+NIE
+NIE
+32.
+OŚWIETLENIE STADIONU W SIENIAWIE
+UG-ST/2/523
+10000
+wartość księgowa brutto
+2023
+38-480 SIENIAWA
+dobry
+NIE
+NIE
+33.
+KOMPLEKS BOISK SPORTOWYCH W KLIMKÓWCE
+UG-ST/2/561
+1831134.89
+wartość księgowa brutto
+2024
+38-480 KLIMKÓWKA
+dobry
+NIE
+NIE
+34.
+OŚWIETLENIE KOMPLEKSU BOISK SPORTOWYCH W KLIMKÓWCE
+UG-ST/2/559
+110819.8
+wartość księgowa brutto
+2024
+38-480 KLIMKÓWKA
+dobry
+NIE
+NIE
+35.
+OŚWIETLENIE STADIONU SPORTOWEGO WE WRÓBLIKU SZLACHECKIM
+UG-ST/2/494
+64682.05
+wartość księgowa brutto
+2022
+38-483 WRÓBLIK SZLACHECKI
+dobry
+NIE
+NIE
+18232859.649999999
+Zakład Gopodarki Komunalnej
+1
+Wiata stalowa
+ŚT/0167
+96733
+wartość księgowa brutto
+Rymanów ul. Osiedle 40
+dobry
+NIE
+NIE
+2
+Modernizacja osadnika Imhoff
+ŚT/0183
+408217.24
+wartość księgowa brutto
+Rymanów ul. Mitkowskiego 38a
+dobry
+NIE
+NIE
+3
+Modernizacja oczyszczalni ścieków
+ŚT/0186
+760203.52
+wartość księgowa brutto
+Rymanów ul. Mitkowskiego 38a
+dobry
+NIE
+NIE
+4
+Wiata nr 2
+ŚT/0194
+55726.400000000001
+wartość księgowa brutto
+Rymanów ul. Osiedle 40
+dobry
+NIE
+NIE
+1320880.1599999999
+GOSiR
+1.
+Korty tenisowe - Rymanów
+sport i rekreacja
+GOSIR/ST/2/1
+222719.86
+wartość księgowa brutto
+38-480 Rymanów, ul. Dworska
+bardzo dobry
+NIE
+2.
+Ogrodzenie - korty tenisowe Rymanów
+bezpieczeństwo i ochrona
+GOSIR/ST/2/2
+32111.75
+wartość księgowa brutto
+38-480 Rymanów, ul. Dworska
+bardzo dobry
+NIE
+3.
+Skatepark - Rymanów
+sport i rekreacja
+GOSIR/ST/2/3
+273576.5
+wartość księgowa brutto
+38-480 Rymanów, ul. Dworska
+bardzo dobry
+NIE
+4.
+Boisko rekreacyjno wielofunkcyjne w Rymanowie-Zdroju
+sport i rekreacja
+GOSIR/ST/2/4
+327500.61
+wartość księgowa brutto
+38-481 Rymanów-Zdrój,
+dobry
+NIE
+5.
+Plac Zabaw w Rymanowie-Zdroju
+rekreacja, rozwój fizyczny
+GOSIR/ST/2/5
+228518.81
+wartość księgowa brutto
+38-481 Rymanów-Zdrój,
+bardzo dobry
+NIE
+6.
+Ogrodzenie - działka z placem zabaw - Rymanów-Zdroj
+bezpieczeństwo i ochrona
+GOSIR/ST/2/6
+10000
+wartość księgowa brutto
+38-481 Rymanów-Zdrój,
+bardzo dobry
+NIE
+7.
+Oświetlenie kortów tenisowy w Rymanowie-Zdroju
+bezpieczeństwo i widoczność
+GOSIR/ST/2/7
+34351.96
+wartość księgowa brutto
+38-481 Rymanów-Zdrój, Zdrojowa 61
+bardzo dobry
+NIE
+8.
+Kompleks Kortów tenisowych - Rymanów-Zdrój
+sport i rekreacja
+GOSIR/ST/2/8
+927399.69
+wartość księgowa brutto
+2019
+38-481 Rymanów-Zdrój, Zdrojowa 61
+bardzo dobry
+NIE
+9.
+Kompleks basenowy zlokalizowany na działce 419 - Rymanów-Zdrój
+sport i rekreacja
+GOSIR/ST/2/9
+8241118.2000000002
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój, Zdrojowa 58
+bardzo dobry
+TAK
+obiekt sezonowy
+10.
+Boisko do piłki plażowej zlokalizowany na działce nr 419 Rymanów-Zdrój
+sport i rekreacja
+GOSIR/ST/2/10
+25898.26
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój, Zdrojowa 58
+bardzo dobry
+TAK
+obiekt sezonowy
+11.
+Ogrodzenie dzaiałki nr 419 - Rymanów-Zdroj
+bezpieczeństwo i ochrona
+GOSIR/ST/2/11
+98613.37
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój, Zdrojowa 58
+bardzo dobry
+NIE
+12
+Oświetlenie dzialki nr 419 - Rymanów-Zdrój
+bezpieczeństwo i widocznośc
+GOSIR/ST/2/12
+293730.07
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój, ul. Zdrojowa 58
+bardzo dobry
+NIE
+13
+Altana (na budtnku technologicznym)
+wypoczynek, ochrona przed słońcem
+GOSIR/ST/2/13
+7653.18
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój, ul. Zdrojowa 58
+bardzo dobry
+TAK
+obiekt sezonowy
+14
+Altana na działce nr 419 - Rymanów-Zdrój
+wypoczynek, ochrona przed słońcem
+GOSIR/ST/2/14
+7449.09
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój, ul. Zdrojowa 58
+bardzo dobry
+TAK
+obiekt sezonowy
+15
+ciągi piesze zlokalizowane na działce nr 419 - Rymanów-Zdrój
+rekreacja, rozwój fizyczny
+GOSIR/ST/2/15
+1066067.98
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój, ul. Zdrojowa 58
+bardzo dobry
+NIE
+16
+Siłownia zewnętrzna na działce 419 - Rymanów-Zdrój
+rekreacja, rozwój fizyczny
+GOSIR/ST/2/16
+24123.26
+wartość księgowa brutto
+2020
+38-481 Rymanów-Zdrój, ul. Zdrojowa 58
+bardzo dobry
+NIE
+17
+Ośrodek kultury fizycznej
+sport i rekreacja
+GOSIR/ST/2/18
+4780555.3899999997
+wartość księgowa brutto
+38-480 Rymanów, Bieleckiego 6
+dobry
+NIE
+18
+Ośrodek kultury fizycznej  stadion lekkoatletyczny - Rymanów
+sport i rekreacja
+GOSIR/ST/2/19
+3951661.14
+wartość księgowa brutto
+38-480 Rymanów, Bieleckiego 6
+bardzo dobry
+NIE
+19
+Ośrodek kultury fizycznej - ogrodzenie panelowe
+bezpieczeństwo i ochrona
+GOSIR/ST/2/20
+188535.62
+wartość księgowa brutto
+2025
+38-480 Rymanów, Bieleckiego 6
+bardzo dobry
+NIE
+20
+Ośrodek kultury fizycznej - ogrodzenie panelowe terenu
+bezpieczeństwo i ochrona
+GOSIR/ST/2/21
+154122.14000000001
+wartość księgowa brutto
+2025
+38-480 Rymanów, Bieleckiego 6
+bardzo dobry
+NIE
+21
+Ośrodek kultury fizycznej - studnia głębinowa
+zapewnienie zasobów wodnych
+GOSIR/ST/2/22
+30411.48
+wartość księgowa brutto
+2025
+38-480 Rymanów, Bieleckiego 6
+bardzo dobry
+NIE
+22
+Ośrodek kultury fizycznej - ciągi piesze - jezdne
+GOSIR/ST/2/23
+203193.1
+wartość księgowa brutto
+2025
+38-480 Rymanów, Bieleckiego 6
+bardzo dobry
+NIE
+21129311.460000005
+SP w Sieniawie
+1.
+Plac zabaw
+Edukacja
+000022
+47969.64
+wartość księgowa brutto
+2017
+Kwiatowa 8
+38 - 480 Rymanów
+dobry
+NIE
+NIE
+2.
+Mur oporowy
+000018
+113392.86
+wartość księgowa brutto
+2025
+Kwiatowa 8
+38 - 480 Rymanów
+bardzo dobry
+NIE
+NIE
+3.
+Ciągi piesze zlokalizowane przy budynku Szkoły
+000017
+739635.47
+wartość księgowa brutto
+2025
+Kwiatowa 8
+38 - 480 Rymanów
+bardzo dobry
+NIE
+NIE
+900997.97
+SPw Klimkówce
+1.
+Kompleks boisk sportowych ORLIK
+placówka oświatowa
+000007
+1065823.6000000001
+wartość księgowa brutto
+2012
+Klimkówka, ul. Zdojowa 49,           38-480 Rymanów
+dobry
+NIE
+NIE
+2.
+Ogrodzenie placu szkolnego
+placówka oświatowa
+000005 z gr I ŚT (kwota 35 000), 000008 z gr II ŚT (kwota 8300,00)
+43300
+wartość księgowa brutto
+2010
+Klimkówka, ul. Zdojowa 49,           38-480 Rymanów
+bardzo dobry
+NIE
+NIE
+1109123.6000000001
+SP we Wróbliku Szlacheckim
+1.
+DROGI,CHODNIKI,PARKINGI
+wewnętrzna infrastruktura komunikacyjna i postojowa na terenie szkoły.
+000004
+308396.12
+wartość księgowa brutto
+2002
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+dobry
+NIE
+NIE
+2.
+OGRODZENIE WOKÓŁ SZKOŁY
+ogrodzenie zabezpieczające teren placówki oświatowej
+000005
+99744.39
+wartość księgowa brutto
+2005
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+dostateczny
+NIE
+NIE
+3.
+PLAC ZABAW PRZY BUDYNKU SZKOLNYM
+strefa rekreacyjna dla dzieci wyposażona w urządzenia zabawowe.
+000007
+49993
+wartość księgowa brutto
+2017
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+dostateczny
+NIE
+NIE
+4.
+KOMPLEKS BOISK SPORTOWYCH „ORLIK”
+zewnętrzne boiska sportowe do gry w piłkę nożną, koszykówkę, tenisa
+000006
+2415674.41
+wartość księgowa brutto
+2012, modernizacja w 2025
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+bardzo dobry
+TAK
+sezon zimowy ze wzgl. na trudne warunki pogodowe
+NIE
+2873807.92
+2873807.92
+SP w Króliku Polskim
+1.
+STUDNIA GŁĘBINOWA
+pobór wody
+000005
+24909.35
+wartość księgowa brutto
+brak danych
+UL. Bieszczadzka 137, Królik Polski, 38-481 Rymanów Zdrój
+dobry
+NIE
+brak
+NIE
+2.
+Plac zabaw przy budynku szkolnym
+edukacja
+000006
+49995
+wartość księgowa brutto
+brak danych
+UL. Bieszczadzka 137, Królik Polski, 38-481 Rymanów Zdrój
+dobry
+NIE
+brak
+NIE
+3.
+Stadion sportowy w Króliku Polskim
+edukacja
+000007
+119053.04
+wartość księgowa brutto
+brak danych
+UL. Bieszczadzka 137, Królik Polski, 38-481 Rymanów Zdrój
+dobry
+NIE
+brak
+NIE
+193957.39
+193957.39
+Zespół Szkół Publicznych w Milczy
+1.
+Ogrodzenie przy szkole
+Ogrodzenie
+40000
+wartość księgowa brutto
+2015
+MILCZA UL. SZKOLNA 16, 38-483 WRÓBLIK SZLACHECKI
+NIE
+NIE
+40000
+40000
+Zespół Szkół Publicznych w Posadzie Górnej
+1.
+Boisko wielofunkcyjne z trawy syntetycznej
+Szkoła
+000005
+267514.45
+wartość księgowa brutto
+2015
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+bardzo dobry
+NIE
+TAK
+2.
+Plac zabaw przy boisku wielofunkcyjnym
+Szkoła
+000006
+114185.67
+wartość księgowa brutto
+2015
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+bardzo dobry
+NIE
+TAK
+381700.12
+Zespół Szkół Publicznych w Rymanowie
+1.
+Boisko orlik
+Budynej użyteczności publicznej
+000009
+2199866.09
+wartość księgowa brutto
+2010 (modernizacja w 2023 roku)
+UL. SZKOLNA 2,            
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+2.
+Ogrodzenie
+Budynej użyteczności publicznej
+000008
+369613.81
+wartość księgowa brutto
+2008
+UL. SZKOLNA 2,            
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+3.
+Drogi, chodniki,  parkingi
+Budynej użyteczności publicznej
+000007
+1031302.21
+wartość księgowa brutto
+2008
+UL. SZKOLNA 2,            
+38-480 RYMANÓW
+dobry
+NIE
+NIE
+3600782.11
+Zespół Żłobków w Rymanowie
+1.
+Plac zabaw: zestaw zabawowy Gąsienica, bujak konik, bujak motyl, ścianka edukacyjna, tablica do rysowania, gra kółko – krzyżyk, domek, tablica regulaminowa, kosz metalowy, ogrodzenie z HDPE, nawierzchnia – płyty SBR + podbudowa + krawężniki
+opieka nad dziećmi do lat 3
+000003
+73339
+wartość księgowa brutto
+2019
+UL. SZKOLNA 2, 38-480 RYMANÓW
+dobry
+NIE
+NIE
+73339
+razem
+49856759.38000001
+
+### xl/worksheets/sheet5.xml
+Ubezpieczenie mienia od wszystkich ryzyk. Wykaz namiotów lub hal namiotowych, budynków z pokryciem namiotowym, brezentowym lub powłoką pneumatyczną, szklarni, inspektów, tuneli foliowych oraz znajdującego się w nich mienia
+Lp.
+Rodzaj obiektu/ nazwa
+Przeznaczenie obiektu
+Numer środka trwałego
+Suma ubezpieczenia
+Rodzaj wartości - podstawa określenia sumy ubezpieczenia
+Rodzaj i wartość mienia znajdującego się w obiekcie
+Rok budowy
+Miejsce ubezpieczenia
+(adres)
+Uzrąd Gminy
+1.
+NAMIOT HANDLOWY 3X6 m
+UG-W/GR-8/51455
+1740
+wartość księgowa brutto
+2.
+NAMIOT IMPREZOWY 3X3m PCV
+UG-W/GR-8/51323
+1608.85
+wartość księgowa brutto
+3348.85
+GOSiR
+1.
+Hala namiotowa o konstrukcji metalowej
+przekrycie lodowiska
+GOSIR/ST/8/22
+319760
+wartość księgowa brutto
+Lodowisko sztuczne mrożone - 429400,00 zł
+2023
+ul. Zdrojowa 58, 38-481 Rymanów-Zdrój
+2.
+Hala namiotowa o konstrukcji metalowej
+przekrycie kortów
+GOSIR/ST/2/8
+451935.21
+wartość księgowa brutto
+sprzęt sportowy - 10000,00 zł
+2020
+ul. Zdrojowa 61, 38-481 Rymanów-Zdrój
+771695.21
+ISO 27001: A 5.13; Klasyfikacja dokumentu: wewnętrzny – pusty dokument (bez danych); ograniczony – wypełniony dokument (z danymi)
+
+### xl/worksheets/sheet6.xml
+Ubezpieczenie mienia od wszystkich ryzyk
+Środki trwałe i środki niskiej wartości
+Środki trwałe i środki niskiej wartości
+Lp.
+Grupy środków trwałych i innych
+WARTOŚĆ KSIĘGOWA BRUTTO  
+(łączna wartość wszystkich środków ewidencjonowanych w poszczególnej grupie księgowej) BĘDĄCYCH WŁASNOŚCIĄ  Ubezpieczonego*
+Razem
+WARTOŚĆ KSIĘGOWA BRUTTO  
+(łączna wartość wszystkich środków ewidencjonowanych w poszczególnej grupie księgowej) BĘDĄCYCH WŁASNOŚCIĄ  Ubezpieczonego*
+Suma ubezpieczenia
+Suma ubezpieczenia
+Właściciel
+Suma ubezpieczenia
+Urząd Gminy Rymanów
+Zakład Gospodarki Komunalnej
+GOPS
+GOSiR
+GOK
+Biblioteka Publiczna
+ZEAS
+SP w Sieniawie
+Szkoła Podstawowa w Klimkówce
+SP we Wróbliku Szlacheckim
+Szkoła Podstawowa w Króliku Polskim
+Zespół Szkół Publicznych w Milczy
+Zespół Szkół Publicznych w Posadzie Górnej
+Zespół Szkół w Rymanowie
+Zespół Żłobków Rymanowie
+1.
+Grupa III  
+KOTŁY I MASZYNY ENERGETYCZNE
+1808743.16
+1808743.16
+158166.75
+20000
+0
+0
+136539.69
+188275
+0
+2.
+Grupa IV  
+MASZYNY, URZĄDZENIA I APARATY OGÓLNEGO ZASTOSOWANIA 
+ (bez sprzętów elektronicznych wykazanych w tabelach nr 2, 2a, 2b)
+204170.86
+204170.86
+148054.54999999999
+26444.5
+0
+32862
+8000
+24354
+59294.82
+0
+3.
+Grupa V  
+SPECJALISTYCZNE MASZYNY, URZĄDZENIA I APARATY 
+ (bez sprzętów elektronicznych wykazanych w tabelach nr 2, 2a, 2b)
+174893.08
+174893.08
+141848.70000000001
+73084.44
+0
+6000
+5160
+7889
+33864.03
+0
+4.
+Grupa VI 
+ URZĄDZENIA TECHNICZNE 
+ (bez sprzętów elektronicznych wykazanych w tabelach nr 2, 2a, 2b )
+4758339.03
+85300
+Podkarpacki Urząd Wojewódzki, Starostwo Powiatowe w Krośnie
+4843639.03
+495823.05
+3936
+418033.37
+429974.09
+10217.99
+13739.1
+0
+5.
+Grupa VII  
+ŚRODKI TRANSPORTU 
+ (po wyłączeniu pojazdów mechanicznych podlegających rejestracji)
+0
+0
+26366
+186426.5
+0
+0
+6.
+Grupa VIII 
+ NARZĘDZIA, PRZYRZĄDY, RUCHOMOSCI I WYPOSAŻENIE 
+ (bez sprzętów elektronicznych wykazanych w tabelach nr 2, 2a, 2b)
+2707983.81
+2707983.81
+186738.9
+12189.3
+1755520.81
+385014.87
+25953
+4268.78
+89808.67
+502157.04
+7.
+Środki niskocenne / grupa 013 ,
+ mienie poza ewidencją, mienie w ewidencji ilościowej 
+ (bez sprzętów elektronicznych wykazanych w tabelach nr 2, 2a, 2b)
+3765117.48
+17095.61
+Narodowa i Akademicka Sieć Komputerowa - Państwowy Instytut Badawczy w Warszawie, Fiserv Polska S.A., Starostwo Powiatowe w Krośnie
+3782213.09
+744662.42
+328482.24
+679407.33
+662347.35
+36550
+130261.27
+1020483.31
+763124.39
+825435.32
+510024.57
+568460.59
+1131667.7
+3799814.34
+262994.37
+8.
+Grupa 014 (zbiory biblioteczne)
+10579.74
+10579.74
+0
+731902
+110281.51
+85430.2
+148414.16
+95067.56
+55421.8
+190653.87
+287161.90999999997
+0
+RAZEM
+13429827.160000002
+102395.61
+13532222.770000001
+1901660.37
+391052.04
+3112472.45
+1510198.31
+768452
+130261.27
+1162717.82
+861714.59
+1002472.26
+612981.13
+860448.74
+1322321.5699999998
+4884306.24
+262994.37
+Lp.
+* Jeśli w ramach środków trwałych znajduje się sprzęt/jednostki pływające (np. kajaki, rowery wodne, łódki) prosimy o dodatkowe informacje:
+1.
+nazwa, model, rok produkcji
+2.
+wartość
+3.
+gdzie jednostki są użytkowane – wskazanie lokalizacji, zbiorników wodnych
+4.
+czy użytkownikiem jednostek są tylko i wyłącznie pracownicy zatrudnieni przez Ubezpieczonego? Jeśli nie – proszę o podanie informacji, kto poza pracownikami
+5.
+w jaki sposób jednostki pływające są zabezpieczone przed ryzykiem kradzieży, rabunku, dewastacji?
+Lp.
+* Jeśli w ramach środków trwałych znajdują się bezzałogowe statki powietrzne, drony prosimy o dodatkowe informacje:
+1.
+nazwa, producent, nr fabryczny, rok produkcji, wartość
+Lp.
+* Jeśli w ramach środków trwałych znajdują się instalacje solarne, fotowoltaiczne, prosimy o dodatkowe informacje:
+UG
+ZGK
+GOSiR
+SP w Klimkówka
+ZS w Milczy
+Zespół Szkół Publicznych w Posadzie Górnej
+ZS w Rymanowie
+1.
+rodzaj, wartość
+1. Instalacja prądotwórcza wiatrowa - 568 979,77 zł wartość księgowa brutto (2019 r.), 2. Instalacja fotowoltaiczna - 958 811,93 zł wartość księgowa brutto (2019 r.), 3. INSTALACJA FOTOWOLTAICZNA 30kWP Z MAGAZYNEM ENERGII 20kwH - 143 843,16 zł wartość księgowa brutto (2025 r.)
+Fotowoltaika - 137166,75
+solary, 43663,77 zł
+solary, 37467,19 zł
+solary, 188435,75 zł
+instalacja solarna, 34 501,86 zł
+instalacja solarna 10 217,99 wykazana w ŚT w gr VI
+panele fotowoltaiczne (wartość ok. 2 000,00 zł)
+fotowoltaika 35 763,49 zł (kwota 13 739,10 wykazana w ŚR gr VI, oraz 22 024,39 wykazana z grupie 013)
+2.
+gdzie mienie jest zlokalizowane - adres i umiejscowienie (dach, ściana budynku itd.)?
+1. INSTALACJA WIATROWA ZŁOŻONA Z 4 SZTUKI TURBIN WIATROWYCH,  NA SŁUPACH BETONOWYCH (ul. Mitkowskiego 38-480 Rymanów), INSTALACJA FOTOWOLTAICZNA ZŁOŻONA Z 527 SZT - MODUŁÓW FOTOWOTAICZNYCH WRAZ Z INSTALACJĄ (ul. Mitkowskiego 38-480 Rymanów), 3. Panele na dachu budynku UG w Rymanowie (ul. mitkowskiego 14A, 38-480 Rymanów)
+Rymanów ul. Osiedle 40 - dach budynku magazynowego i wiaty stalowej
+ul. Kwiatowa 10, 38-480 Sieniawa, dach
+ul. Bieleckiego 6, 38-480 Rymanów, dach
+ul. Zdrojowa 58, 38-481 Rymanów-Zdrój
+Klimkówka, ul. Zdrojowa 49, dach budynku
+Milcza, ul. Szkolna 13, 38-483 Wróblik Szlachecki (dach głównego budynku)
+na dachu szkoły, a ich powierzchnia to 9 m^2
+DACH - Budynku LO . ul Szkolna 2 38-480 Rymanów
+ISO 27001: A 5.13; Klasyfikacja dokumentu: wewnętrzny – pusty dokument (bez danych); ograniczony – wypełniony dokument (z danymi)
+
+### xl/worksheets/sheet7.xml
+Ubezpieczenie mienia od wszystkich ryzyk
+Mienie o charakterze zabytkowym, artystycznym i unikatowym*
+*(w tym mienie pod ochroną konserwatora zabytków lub mienie znajdujące się na terenie objętym ochroną), artystycznym i unikatowym lub przedmioty o wartości kolekcjonerskiej, eksponaty muzealne, dzieła sztuki,  futra, biżuteria, metale i kamienie szlachetne, antyki, zbiory filatelistyczne i numizmatyczne, rękopisy, eksponaty, księgozbiory, starodruki, białe kruki, inkunabuły, itp.
+Lp.
+Nazwa przedmiotu
+Wartość
+Sposób określenia wartości (np. wycena rzeczoznawcy, faktura zakupu, wycena komisji wewnętrznej)
+Informacja o zabezpieczeniach przeciwpożarowych oraz przeciwkradzieżowych
+Miejsce ubezpieczenia
+1.
+BUDYNEK STACJI TRANSFORMATOROWEJ (ZEGAR) W RYMANOWIE ZDROJU
+10000
+wycena komisji wewnętrznej
+x
+38-481 RYMANÓW -ZDRÓJ
+2
+BUDYNEK SZKOLNY BZIANKA
+159058.20000000001
+wycena komisji wewnętrznej
+x
+38-483 BZIANKA
+ISO 27001: A 5.13; Klasyfikacja dokumentu: wewnętrzny – pusty dokument (bez danych); ograniczony – wypełniony dokument (z danymi)
+
+### xl/worksheets/sheet8.xml
+Ubezpieczenie mienia od wszystkich ryzyk
+Środki obrotowe
+Lp.
+Rodzaj
+Środki łatwopalne lub wybuchowe
+Sposób zabezpieczenia środków łatwopalnych lub wybuchowych
+Rodzaj wartości - podstawa określenia sumy ubezpieczenia
+Dzienna wartość maksymalna przewidywana w okresie ubezpieczenia (w zł)
+Dzienna wartość średnia przewidywana w okresie ubezpieczenia (w zł)
+Miejsce ubezpieczenia
+Miejsce składowania
+Informacja o zabezpieczeniach przeciwpożarowych oraz przeciwkradzieżowych
+Opis składowania
+ZGK
+1.
+Np. Części maszyn, części eksploatycjne, materiały biurowe, paliwa, samochody, inne -prosimy o wskazanie rodzaju
+TAK
+Paliwa płynne – olej napędowy do celów eksploatacyjnych Zakładu (zbiornik/stacja paliw na terenie ZGK). Zbiornik paliwowy atestowany, zlokalizowany na terenie bazy ZGK, wyposażony w system dystrybucji, zabezpieczenia przed wyciekiem, teren ogrodzony i monitorowany. Dostęp wyłącznie dla upoważnionych pracowników.
+koszt nabycia lub wytworzenia
+35000
+25000
+Baza Zakładu Gospodarki Komunalnej w Rymanowie, ul. Osiedle 40
+inny sposób składowania
+2.
+Materiały, półprodukty, porukcja w toku, wyroby gotowe, towary
+NIE
+koszt nabycia lub wytworzenia
+3.
+koszt nabycia lub wytworzenia
+ISO 27001: A 5.13; Klasyfikacja dokumentu: wewnętrzny – pusty dokument (bez danych); ograniczony – wypełniony dokument (z danymi)
+
+### xl/worksheets/sheet9.xml
+Ubezpieczenie mienia  od wszystkich ryzyk
+Wykaz sprzętu elektronicznego stacjonarnego
+Urząd Gminy
+GOSiR
+GOK
+Częstotliwość wykonywania kopii zapasowych danych
+co najmniej raz na 3 dni
+co najmniej raz na 3 dni
+co najmniej raz w tygodniu
+Sposób przechowywania kopii zapasowych
+inna strefa pożarowa
+inny – prosimy o wskazana jaki?
+inny – prosimy o wskazana jaki?
+Czy sprzęt komputerowy podlega okresowej konserwacji/serwisowi
+TAK
+TAK
+Jeśli TAK - kto dokonuje tych czynności (firma zewnętrzna, pracownik jednostki)
+pracownik jednostki
+pracownik
+Co jaki czas dokonywane są przeglądy/ konserwacja
+raz na kwartał
+raz na 6 m-cy
+Czy urządzenia zaopatrzone są w instalację antyprzepięciową (listwy, UPS, itp.)
+TAK
+TAK
+TAK
+WYKAZ  SPRZĘTU STACJONARNEGO - SPRZĘT NIE STARSZY NIŻ 5 LAT - rok 2022 i młodszy
+Lp.
+Nazwa sprzętu
+Nr inwentarzowy
+Rok produkcji/ data przyjęcia
+Rodzaj wartości - podstawa określenia sumy ubezpieczenia
+Suma ubezpieczenia
+Miejsce ubezpieczenia
+Uwagi, np. dzierżawa, użyczone mienie, cesja i inne
+Urząd Gminy Rymanów
+1.
+DELL VOSTRO 3910
+UG-W/GR-4/52053
+11.01.2023
+wartość księgowa brutto
+3905.25
+2.
+DELL VOSTRO 3910
+UG-W/GR-4/52054
+11.01.2023
+wartość księgowa brutto
+3905.25
+3.
+DELL VOSTRO 3910
+UG-W/GR-4/52055
+11.01.2023
+wartość księgowa brutto
+3905.25
+4.
+DELL VOSTRO 3910
+UG-W/GR-4/52056
+11.01.2023
+wartość księgowa brutto
+3905.25
+5.
+DELL VOSTRO 3910
+UG-W/GR-4/52057
+11.01.2023
+wartość księgowa brutto
+3905.25
+6.
+DELL VOSTRO 3910
+UG-W/GR-4/52058
+11.01.2023
+wartość księgowa brutto
+3905.25
+7.
+DELL VOSTRO 3910
+UG-W/GR-4/52059
+11.01.2023
+wartość księgowa brutto
+3905.25
+8.
+EPSON ES-580W
+UG-W/GR-4/52062
+11.01.2023
+wartość księgowa brutto
+2393.58
+9.
+EPSON ES-580W
+UG-W/GR-4/52063
+11.01.2023
+wartość księgowa brutto
+2393.58
+10.
+EPSON ES-580W
+UG-W/GR-4/52064
+11.01.2023
+wartość księgowa brutto
+2393.58
+11.
+EPSON ECO TANK L6270
+UG-W/GR-4/52070
+28.04.2023
+wartość księgowa brutto
+1722
+12.
+FORTISWITCH-124F
+UG-W/GR-4/52076
+11.05.2023
+wartość księgowa brutto
+5227.5
+13.
+FORTISWITCH-148F
+UG-W/GR-4/52077
+11.05.2023
+wartość księgowa brutto
+8056.5
+14.
+FORTISWITCH-148F
+UG-W/GR-4/52078
+11.05.2023
+wartość księgowa brutto
+8056.5
+15.
+FORTISWITCH-148F
+UG-W/GR-4/52079
+11.05.2023
+wartość księgowa brutto
+8056.5
+16.
+DRUKARKA BROTHER PT-E550WSP
+UG-W/GR-4/51893
+31.03.2022
+wartość księgowa brutto
+704.2
+17.
+DRUKARKA EPSON L3210
+UG-W/GR-4/51934
+01.07.2022
+wartość księgowa brutto
+581
+18.
+DELL All in One OptiPlex 7490
+UG-W/GR-4/52014
+30.12.2022
+wartość księgowa brutto
+3357.9
+19.
+URZ. WIELOF. - SHARP MXB355
+UG-W/GR-4/52152
+23.01.2024
+wartość księgowa brutto
+3036.87
+20.
+URZ. WIELOF. - SHARP MXB355
+UG-W/GR-4/52153
+26.01.2024
+wartość księgowa brutto
+3036.87
+21.
+KOMPUTER ALL IN ONE (ZESTAW)
+UG-W/GR-4/52154
+07.02.2024
+wartość księgowa brutto
+4046.7
+22.
+KOMPUTER ALL IN ONE (ZESTAW)
+UG-W/GR-4/52155
+07.02.2024
+wartość księgowa brutto
+4046.7
+23.
+KOMPUTER ALL IN ONE (ZESTAW)
+UG-W/GR-4/52156
+07.02.2024
+wartość księgowa brutto
+4046.7
+24.
+URZ. WIELOF. - SHARP MX-B427W
+UG-W/GR-4/52179
+05.03.2024
+wartość księgowa brutto
+3146.34
+25.
+URZ. WIELOF. - SHARP MX-B427W
+UG-W/GR-4/52180
+05.03.2024
+wartość księgowa brutto
+3146.34
+26.
+SIGNOTEC Delta Signature Pad
+UG-W/GR-4/52182
+11.03.2024
+wartość księgowa brutto
+2558.4
+27.
+SIGNOTEC Delta Signature Pad
+UG-W/GR-4/52183
+11.03.2024
+wartość księgowa brutto
+2558.4
+28.
+SIGNOTEC Delta Signature Pad
+UG-W/GR-4/52184
+11.03.2024
+wartość księgowa brutto
+2558.4
+29.
+SIGNOTEC Delta Signature Pad
+UG-W/GR-4/52185
+11.03.2024
+wartość księgowa brutto
+2558.4
+30.
+ZEST. KOMP. DELL V3910MT i3
+UG-W/GR-4/52213
+22.07.2024
+wartość księgowa brutto
+2808.73
+31.
+ZEST. KOMP. DELL V3910MT i3
+UG-W/GR-4/52214
+22.07.2024
+wartość księgowa brutto
+2808.73
+32.
+ZEST. KOMP. DELL V3910MT i3
+UG-W/GR-4/52215
+22.07.2024
+wartość księgowa brutto
+2808.73
+33.
+ZEST. KOMP. DELL V3910MT i3
+UG-W/GR-4/52216
+22.07.2024
+wartość księgowa brutto
+2808.73
+34.
+ZEST. KOMP. DELL V3910MT i3
+UG-W/GR-4/52217
+22.07.2024
+wartość księgowa brutto
+2808.71
+35.
+ZEST. KOMP. DELL V3910MT i5
+UG-W/GR-4/52218
+22.07.2024
+wartość księgowa brutto
+3273.03
+36.
+ZEST. KOMP. DELL V3910MT i5
+UG-W/GR-4/52219
+22.07.2024
+wartość księgowa brutto
+3273.03
+37.
+URZ. WIELOF. - SHARP MX-3071EU
+UG-W/GR-4/52301
+02.09.2025
+wartość księgowa brutto
+5512.95
+38.
+URZ. WIELOF. - SHARP MX-2651EU
+UG-W/GR-4/52353
+04.11.2025
+wartość księgowa brutto
+4900.3999999999996
+39.
+ZESTAW KONFERENCYJNY INTERAKTYWNY
+UG-ST/6/100
+46022
+wartość księgowa brutto
+16932.12
+40.
+URZĄDZENIE FORTIGATE - 100F HARDWARE PLUS
+UG-ST/8/170
+45077
+wartość księgowa brutto
+36130
+41.
+URZĄDZENIE WIELOFUNKCYJNE BIZHUB C250I
+UG-ST/8/166
+45107
+wartość księgowa brutto
+17609.91
+42.
+URZĄDZENIE WIELOFUNKCYJNE BIZHUB C250I
+UG-ST/8/167
+45107
+wartość księgowa brutto
+17609.91
+43.
+URZĄDZENIE WIELOFUNKCYJNE SHARP COLOR BP50C26EU
+UG-ST/8/179
+45504
+wartość księgowa brutto
+16396.189999999999
+RAZEM
+240700.87999999995
+Zakład Gospodarki Komunalnej
+1.
+Zestaw komputerowy Dell
+W/0588
+2022
+wartość księgowa brutto
+2718.18
+2.
+UPS Ever
+W/0589
+2022
+wartość księgowa brutto
+551.37
+3.
+Zestaw monitoringu
+W/0604
+2022
+wartość księgowa brutto
+4013.99
+4.
+Rejestrator Cello
+W/0617
+2023
+wartość księgowa brutto
+11585.62
+5.
+Monitor Philips 241V8L/00
+W/0623
+2024
+wartość księgowa brutto
+377.42
+6.
+Zestaw komputerowy Dell
+W/0636
+2024
+wartość księgowa brutto
+2499.7199999999998
+7.
+Zestaw komputerowy Dell
+W/0637
+2024
+wartość księgowa brutto
+2499.7199999999998
+8.
+Telefon Panasonic KX-TG 2511
+W/0642
+2024
+wartość księgowa brutto
+210.4
+9.
+Telefon Panasonic KX-TG 2511
+W/0643
+2024
+wartość księgowa brutto
+210.39
+10.
+Centrala IP PRIMA
+W/0644
+2024
+wartość księgowa brutto
+2685.85
+11.
+Drukarka Epson EcoTank L6270
+W/0649
+2024
+wartość księgowa brutto
+1668.54
+12.
+Urządzenie wielofunkcyjne Kyocera
+W/0663
+2024
+wartość księgowa brutto
+1651.8
+13.
+Głowica do programowania wodomierzy
+W/0698
+2025
+wartość księgowa brutto
+1510.34
+14.
+Monitoring hydrantów
+W/0703
+2025
+wartość księgowa brutto
+1663.06
+15.
+Monitoring hydrantów
+W/0704
+2025
+wartość księgowa brutto
+1663.06
+16.
+Monitoring hydrantów
+W/0705
+2025
+wartość księgowa brutto
+1663.08
+17.
+Monitoring hydrantów
+W/0706
+2025
+wartość księgowa brutto
+1663.08
+18.
+Monitoring hydrantów
+W/0707
+2025
+wartość księgowa brutto
+1663.08
+19.
+Router stacj. ZTE MF297D2
+W/0712
+2025
+wartość księgowa brutto
+213.64
+20.
+Monitor Samsung 27''
+W/0715
+2025
+wartość księgowa brutto
+405.87
+21.
+Monitor Samsung 27''
+W/0716
+2025
+wartość księgowa brutto
+405.87
+22.
+Monitor 24" Dell P2425
+W/0720
+2025
+wartość księgowa brutto
+604.44000000000005
+23.
+Monitor 24" Dell P2425
+W/0721
+2025
+wartość księgowa brutto
+604.44000000000005
+24.
+Zestaw komputerowy HP
+W/0606
+2023
+wartość księgowa brutto
+2538.9
+9.
+Zestaw komputerowy Dell
+W/0655
+2024
+wartość księgowa brutto
+2521.75
+25.
+Stacja ładująca do Newland
+W/0730
+2025
+wartość księgowa brutto
+615.14
+RAZEM
+48408.750000000015
+GOPS
+1.
+Klimatyzator
+4/2023/GOPS
+2023
+wartość księgowa brutto
+6150
+Rymanów, ul. Dworska 42
+2.
+Klimatyzator
+5/2023/GOPS
+2023
+wartość księgowa brutto
+6150
+Rymanów, ul. Dworska 42
+3.
+Ekspres do kawy
+5/2024/GOPS
+2024
+wartość księgowa brutto
+4199.99
+Rymanów, ul. Dworska 42
+4.
+Drukarka KYCERA
+6/2024/GOPS
+2024
+wartość księgowa brutto
+2500
+Rymanów, ul. Dworska 42
+5.
+Klimatyzator
+10/2024/GOPS
+2024
+wartość księgowa brutto
+6150
+Rymanów, ul. Dworska 42
+6.
+Klimatyzator
+11/2024/GOPS
+2024
+wartość księgowa brutto
+6150
+Rymanów, ul. Dworska 42
+7.
+Kserokopiarka
+5/2025/GOPS
+2025
+wartość księgowa brutto
+8900
+Rymanów, ul. Dworska 42
+8.
+Klimatyzator
+9/2025/GOPS
+2025
+wartość księgowa brutto
+6150
+Rymanów, ul. Dworska 42
+9.
+Klimatyzator
+10/2025/GOPS
+2025
+wartość księgowa brutto
+6150
+Rymanów, ul. Dworska 42
+10.
+Klimatyzator
+11/2025/GOPS
+2025
+wartość księgowa brutto
+6150
+Rymanów, ul. Dworska 42
+11.
+Klimatyzator
+12/2025/GOPS
+2025
+wartość księgowa brutto
+6150
+Rymanów, ul. Dworska 42
+RAZEM
+64799.99
+GOK
+1.
+Dysk sieciowy NAS/macierz
+2022
+wartość księgowa brutto
+1819
+2.
+Drukarka 3D
+2022
+wartość księgowa brutto
+1590
+3.
+Skaner 3D
+2022
+wartość księgowa brutto
+1180
+4.
+Ploter laserowy
+2022
+wartość księgowa brutto
+2900
+5.
+Monitor - 3 szt.
+2022
+wartość księgowa brutto
+3900
+6.
+Komputer - cyfryzacja
+2022
+wartość księgowa brutto
+13000
+7.
+Kserokopiarka Konica Minolta C308
+2022
+wartość księgowa brutto
+13299.99
+8.
+Konsoleta Behtinger x32
+2022
+wartość księgowa brutto
+19062.5
+9.
+Kamera PTZ NewTek
+2022
+wartość księgowa brutto
+11532.48
+10.
+Kamera PTZ NewTek
+2022
+wartość księgowa brutto
+11532.48
+11.
+NewTek TriCaster
+2022
+wartość księgowa brutto
+63948.93
+12.
+Kserokopiarka
+2023
+wartość księgowa brutto
+6125.4
+13.
+Zestaw komputerowy
+2023
+wartość księgowa brutto
+9000
+14.
+Projektor multimedialny
+2023
+wartość księgowa brutto
+6500
+15.
+Konwerter hdmi
+2023
+wartość księgowa brutto
+900
+16.
+Monitor
+2023
+wartość księgowa brutto
+548
+17.
+Analogowy mikser audio Allen&Heath
+2023
+wartość księgowa brutto
+2460
+18.
+Projektor NEC PA1004 UL
+2023
+wartość księgowa brutto
+46986
+19.
+Obiektyw NEC NP41L
+2023
+wartość księgowa brutto
+3936
+20.
+Nagrywarka blueray ASUA
+2023
+wartość księgowa brutto
+738
+21.
+Niszczarka HSM
+2023
+wartość księgowa brutto
+1500
+22.
+Bindownica
+2023
+wartość księgowa brutto
+1400
+23.
+Zestaw komputerowy Dell
+2024
+wartość księgowa brutto
+2847.45
+24.
+Maszyna do popcornu
+2024
+wartość księgowa brutto
+1840
+25.
+Ekspres do kawy
+2024
+wartość księgowa brutto
+4499.1000000000004
+26.
+Gofrownica Hendi
+2024
+wartość księgowa brutto
+1098
+27.
+Nagrzewacz do nachosów
+2024
+wartość księgowa brutto
+887
+28.
+Sterownik DMX
+2025
+wartość księgowa brutto
+12338.38
+29.
+Komputer
+2025
+wartość księgowa brutto
+1720.1
+30.
+Monitor
+2025
+wartość księgowa brutto
+379
+31.
+Odkurzacz piorący Puzi
+2025
+wartość księgowa brutto
+2559
+32.
+Odkurzacz Karcher
+2025
+wartość księgowa brutto
+288
+33.
+Karnisz elektryczny
+2025
+wartość księgowa brutto
+1804.64
+34.
+listwy LED
+2025
+wartość księgowa brutto
+3145.08
+35.
+Reflektory PAR
+2025
+wartość księgowa brutto
+2751.7
+36.
+Lampa trójnóg 4 szt.
+2025
+wartość księgowa brutto
+1989
+37.
+Lampy teatralne 2 szt.
+2025
+wartość księgowa brutto
+1624.4
+38.
+Ekspres do kawy Delonghi
+2025
+wartość księgowa brutto
+2399
+39.
+Projektor Optoma
+2025
+wartość księgowa brutto
+5142.47
+40.
+Komputer + karta graficzna
+2025
+wartość księgowa brutto
+3757.03
+41.
+Komputer
+2025
+wartość księgowa brutto
+2482.9899999999998
+42.
+Odbiornik stacjonarny em100g4 2 szt.
+2025
+wartość księgowa brutto
+2903.15
+43.
+Rozdzielacz do mikrofonów 2 szt.
+2025
+wartość księgowa brutto
+1297.56
+44.
+Bazy do mikrofonów 8 szt.
+2025
+wartość księgowa brutto
+2465.04
+45.
+Bramka do oświetlenia
+2025
+wartość księgowa brutto
+1136.5899999999999
+46.
+Rozdzielacz dmx splitter
+2025
+wartość księgowa brutto
+306.5
+47.
+Rozdzielacz systemu audio
+2025
+wartość księgowa brutto
+218.7
+285738.66000000009
+GOSiR
+1.
+Zestaw komputerowy Dell
+GOSIR/W/255
+2024
+wartość księgowa brutto
+3207.6
+UL. Zdrojowa 40/5; 38-481 Rymanów-Zdrój
+2.
+Serwer plików
+GOSIR/W/257
+2024
+wartość księgowa brutto
+2295.34
+UL. Zdrojowa 40/5; 38-481 Rymanów-Zdrój
+RAZEM
+5502.9400000000005
+ZEAS
+1.
+Dysk sieciowy NAS
+Dysk sieciowy NAS QNAP TS-230
+2022
+wartość księgowa brutto
+1769
+ul. Dworska 42, 38-480 Rymanów
+2.
+Klimatyzator Gree Pular
+Klimatyzator Gree Pular 3,2 KW
+2022
+wartość księgowa brutto
+2400
+ul. Dworska 42, 38-480 Rymanów
+3.
+Urządzenie wielofunkcyjne
+RICOH MP C401 NR SER G076PC00459
+2022
+wartość księgowa brutto
+4674
+ul. Dworska 42, 38-480 Rymanów
+4.
+Notebook Dell
+Notebook Dell V3510i5-1135G7
+2022
+wartość księgowa brutto
+3591.6
+ul. Dworska 42, 38-480 Rymanów
+5.
+PRINTER 52 cmp B/W A4 Luna EU- drukarka
+SHARP MX-B557P nr 50GA824-009
+2023
+wartość księgowa brutto
+3370.2
+ul. Dworska 42, 38-480 Rymanów
+6.
+Urządzenie Konica Minolta BIZHUB C258
+A7R0027024599
+2023
+wartość księgowa brutto
+5535
+ul. Dworska 42, 38-480 Rymanów
+7.
+Urządzenie wielofunkcyjne Sharp
+SHARP MX-B427PW nr29sa706-006
+2023
+wartość księgowa brutto
+2312.4
+ul. Dworska 42, 38-480 Rymanów
+8.
+Klimatyzator HAIER  2-SZT
+numer ser: AABL60E0000XCN1F0297, numer ser: AABL60E0000XCN1F1137
+2022
+wartość księgowa brutto
+4800
+ul. Dworska 42, 38-480 Rymanów
+9.
+Zestaw Komputerowy DEELL V 3910MT i3 12100/8GB/nvme 256GB Monitor FHD/DVD/Win 11 Pro
+SERVICE TAG: B1NFQ04
+2024
+wartość księgowa brutto
+2830.23
+ul. Dworska 42, 38-480 Rymanów
+10.
+Niszczarka biurowa Tarnator
+Tarnator C8 nr inwentarzowy 10000275
+2024
+wartość księgowa brutto
+1800
+ul. Dworska 42, 38-480 Rymanów
+11.
+Drukarka Sharp MXB427PWEU
+MXB427PWEU nr inwentarzowy 10000282
+2024
+wartość księgowa brutto
+1328.4
+ul. Dworska 42, 38-480 Rymanów
+12.
+Drukarka Sharp MXB427P
+MXB427P nr inwentarzowy 10000283
+2024
+wartość księgowa brutto
+1328.4
+ul. Dworska 42, 38-480 Rymanów
+13.
+Printer 44CPM BLK A4 Luna2 EU
+44CPM BLK A4 Luna2 EU nr inwentarzowy 10000302
+2024
+wartość księgowa brutto
+2364.06
+ul. Dworska 42, 38-480 Rymanów
+14.
+Drukarka Sharp MXB427PWEU
+MXB427PWEU nr inwentarzowy 10000295
+2023
+wartość księgowa brutto
+1328.4
+ul. Dworska 42, 38-480 Rymanów
+15.
+Urządzenie Ricoh MP C3004ex
+NR INWENTARZOWY: 10000310
+2025
+wartość księgowa brutto
+6765
+ul. Dworska 42, 38-480 Rymanów
+16.
+Monitor "27"
+NR INWENTARZOWY: 1000000314
+2025
+wartość księgowa brutto
+455.1
+ul. Dworska 42, 38-480 Rymanów
+17.
+Niszczarka HSM shredstar X15
+NR INWENTARZOWY: 1000000318
+2025
+wartość księgowa brutto
+1439.1
+ul. Dworska 42, 38-480 Rymanów
+RAZEM
+48090.89
+SP w Sieniawie
+1.
+Monitor interaktywny Newline Trutouch
+SP-SIENIAWA/1113
+2022
+wartość księgowa brutto
+6750
+ul. Kwiatowa 8, 38-480 Sieniawa
+2.
+Monitor interaktywny Newline Trutouch
+SP-SIENIAWA/1135
+2022
+wartość księgowa brutto
+6350
+ul. Kwiatowa 8, 38-480 Sieniawa
+3.
+Projektor multimedialny Epson EB-E20
+SP-SIENIAWA/1179
+2023
+wartość księgowa brutto
+2099
+ul. Kwiatowa 8, 38-480 Sieniawa
+4.
+Projektor multimedialny Epson EB-E20
+SP-SIENIAWA/1204
+2023
+wartość księgowa brutto
+2099
+ul. Kwiatowa 8, 38-480 Sieniawa
+5.
+Pralka BOSCH
+SP-SIENIAWA/1745
+2025
+wartość księgowa brutto
+1949
+ul. Kwiatowa 8, 38-480 Sieniawa
+6.
+Kapsuła Rotaid zewnętrzna Transparent Green z alarmem
+SP-SIENIAWA/1867
+2025
+wartość księgowa brutto
+1968
+ul. Kwiatowa 8, 38-480 Sieniawa
+7.
+Defibrylator
+SP-SIENIAWA/1868
+2025
+wartość księgowa brutto
+4536
+ul. Kwiatowa 8, 38-480 Sieniawa
+8.
+Monitor interaktywny 75
+SP-SIENIAWA/2836
+2025
+wartość księgowa brutto
+6828
+ul. Kwiatowa 8, 38-480 Sieniawa
+9.
+Monitor interaktywny 75
+SP-SIENIAWA/2837
+2025
+wartość księgowa brutto
+6828
+ul. Kwiatowa 8, 38-480 Sieniawa
+10.
+Monitor interaktywny 75
+SP-SIENIAWA/2838
+2025
+wartość księgowa brutto
+6828
+ul. Kwiatowa 8, 38-480 Sieniawa
+11.
+Monitor interaktywny 75
+SP-SIENIAWA/2839
+2025
+wartość księgowa brutto
+6828
+ul. Kwiatowa 8, 38-480 Sieniawa
+12.
+Monitor interaktywny 75
+SP-SIENIAWA/2840
+2025
+wartość księgowa brutto
+6828
+ul. Kwiatowa 8, 38-480 Sieniawa
+13.
+Kuchnia 6118IE2 376HTaPP
+SP-SIENIAWA/2866
+2025
+wartość księgowa brutto
+2700
+ul. Kwiatowa 8, 38-480 Sieniawa
+14.
+Komputer stacjonarny ACTINA, monitor PHILIPS CYFROWY UCZEŃ
+SP-SIENIAWA/2851
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8, 38-480 Sieniawa
+15.
+Komputer stacjonarny ACTINA, monitor PHILIPS CYFROWY UCZEŃ
+SP-SIENIAWA/2852
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8, 38-480 Sieniawa
+16.
+Komputer stacjonarny ACTINA, monitor PHILIPS CYFROWY UCZEŃ
+SP-SIENIAWA/2853
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8, 38-480 Sieniawa
+17.
+Komputer stacjonarny ACTINA, monitor PHILIPS CYFROWY UCZEŃ
+SP-SIENIAWA/2854
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8, 38-480 Sieniawa
+18.
+Komputer stacjonarny ACTINA, monitor PHILIPS CYFROWY UCZEŃ
+SP-SIENIAWA/2855
+2025
+wartość księgowa brutto
+3750
+ul. Kwiatowa 8, 38-480 Sieniawa
+RAZEM
+81341
+Szkoła Podstawowa w Klimkówce
+1.
+Monitor interaktywny NEWLINE TRUTOUCH TT-6519RS
+SPKLIMKOWKA/1296
+2022
+wartość księgowa brutto
+5995
+SP Klimkówka
+2.
+Monitor interaktywny NEWLINE TRUTOUCH TT-6519RS
+SPKLIMKOWKA/1297
+2022
+wartość księgowa brutto
+5995
+SP Klimkówka
+3.
+Projektor multimedialny EPSON EB-E20 S
+SPKLIMKOWKA/1423
+2023
+wartość księgowa brutto
+2099
+SP Klimkówka
+4.
+Drukarka etykiet inwentarzowych G500-UES 4*
+SPKLIMKOWKA/1432
+2024
+wartość księgowa brutto
+1449
+SP Klimkówka
+5.
+Monitor interaktywny NEWLINE LYRA TT-6523Q
+SPKLIMKOWKA/1472
+2024
+wartość księgowa brutto
+5549
+SP Klimkówka
+6.
+Kserokopiarka Konica Minolta Bizhub
+SPKLIMKOWKA/1497
+2024
+wartość księgowa brutto
+4920
+SP Klimkówka
+7.
+Komputer DELL OptiPlex 3060 SFF/ Intel Core i5-8500/ 16GB RAM/ 256GB SSD/ - 20 sztuk x 899,00 zł
+SPKLIMKOWKA/1499 - SPKLIMKOWKA/1518
+2024
+wartość księgowa brutto
+17980
+SP Klimkówka
+8.
+Monitor DELL 21,4" LED - 20 sztuk x 364,00 zł
+SPKLIMKOWKA/1526 - SPKLIMKOWKA/1545
+2024
+wartość księgowa brutto
+7280
+SP Klimkówka
+9.
+Monitor interaktywny Newline LYRA PRO TT-6523QA 65"
+SPKLIMKOWKA/1701
+2025
+wartość księgowa brutto
+5200
+SP Klimkówka
+10
+Komputer stacjonarny - urządzenie wielofunkcyjne FlySky Premium
+SPKLIMKOWKA/1706
+2025
+wartość księgowa brutto
+9999
+SP Klimkówka
+11.
+Komputer stacjonarny - urządzenie wielofunkcyjne FlySky Premium
+SPKLIMKOWKA/1709
+2025
+wartość księgowa brutto
+9999
+SP Klimkówka
+RAZEM
+76465
+SP we Wróbliku Szlacheckim
+1.
+Zestaw komputerowy Magiczny Dywan komputer+projektor
+0053F0214
+2023
+wartość księgowa brutto
+9900
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+2.
+Zestaw komputerowy Magiczny Dywan komputer+projektor
+0053F0215
+2024
+wartość księgowa brutto
+9901
+UL.SZKOLNA 5, 38-483 WRÓBLIK SZLACHECKI
+RAZEM
+19801
+Szkoła Podstawowa w Króliku Polskim
+1.
+Ultimate Robot Kit
+800
+2022
+wartość księgowa brutto
+2090
+SP Królik Polski
+2.
+Drukarka laserowa wielofunkcyjna HP M283 fdw
+685
+2022
+wartość księgowa brutto
+3500
+SP Królik Polski
+3.
+Zestaw - kompuer stacjonarny LENOVO Think Centre M900
+686
+2022
+wartość księgowa brutto
+2033
+SP Królik Polski
+4.
+Drukarka GODEX G500 4""TT 203DPI
+977
+2025
+wartość księgowa brutto
+1499
+SP Królik Polski
+5.
+Tablica interaktywna 4K 65" PHILIPS 65BDL3552T
+972
+2025
+wartość księgowa brutto
+5000
+SP Królik Polski
+6.
+Tablica interaktywna 4K 65" PHILIPS 65BDL3552T
+978
+2025
+wartość księgowa brutto
+5966
+SP Królik Polski
+7.
+Komputer stacjonarny  HP EliteDesk 800 G2
+1002
+2025
+wartość księgowa brutto
+1000
+SP Królik Polski
+8.
+Komputer stacjonarny Fly Sky
+1052
+2025
+wartość księgowa brutto
+9999
+SP Królik Polski
+9.
+Drukarka HP Smart Tank 720
+1101
+2025
+wartość księgowa brutto
+999
+SP Królik Polski
+10.
+Klimatyzator Haier Pearl 5,0 kW
+986
+2025
+wartość księgowa brutto
+5400
+SP Królik Polski
+11.
+Klimatyzator Haier Pearl 5,0 kW
+987
+2025
+wartość księgowa brutto
+5400
+SP Królik Polski
+12.
+Komputer stacjonarny DELL
+1108
+2026
+wartość księgowa brutto
+3493.2
+SP Królik Polski
+13.
+Urządzenie wielofunkcyjne CANON MF752Cdw II
+1110
+2026
+wartość księgowa brutto
+1525.2
+SP Królik Polski
+RAZEM
+47904.399999999994
+Zespół Szkół Publicznych w Milczy
+1.
+Kopiarka
+Konica Minolta Biz Hub c 220 Nr inw: ZSP-MILCZA/1014
+2023
+wartość księgowa brutto
+4551
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+2.
+Monitor Interaktywny
+New Line Nr inw: ZSP-MILCZA/1031
+2023
+wartość księgowa brutto
+5549
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+3.
+Drukarka etykiet GODEX
+ZSP-Milcza/1049
+2024
+wartość księgowa brutto
+1499
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+4.
+Monitor Interaktywny
+ZSP-MILCZA/1137
+2024
+wartość księgowa brutto
+5549
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+5.
+Monitor Interaktywny
+ZSP-MILCZA/1226
+2025
+wartość księgowa brutto
+5350
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+6.
+Minitor interaktywny New Line
+ZSP-MILCZA/1244
+2025
+wartość księgowa brutto
+5287.7
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+7.
+Minitor interaktywny New Line
+ZSP-MILCZA/1245
+2025
+wartość księgowa brutto
+5287.7
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+8.
+Kopiarka- Konicaminolta
+ZSP-MILCZA/1319
+2025
+wartość księgowa brutto
+5535
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+9.
+Komputer stacjonarny
+ZSP-MILCZA/1351
+2025
+wartość księgowa brutto
+9999
+Milcza, ul. Szkolna 16, 38-483 Wróblik Szlachecki
+RAZEM
+48607.4
+Zespół Szkół Publicznych w Posadzie Górnej
+1
+Drukarka HP LaserJet Pro M28A
+ZSP-POSADAGORNA/001746
+2022
+wartość księgowa brutto
+850
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+2
+Monitor Monitor Philips 223V5LSB2
+ZSP-POSADAGORNA/001748
+2022
+wartość księgowa brutto
+440
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+3
+Monitor Monitor Philips 223V5LSB2
+ZSP-POSADAGORNA/001749
+2022
+wartość księgowa brutto
+440
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+4
+Monitor Monitor Philips 223V5LSB2
+ZSP-POSADAGORNA/001750
+2022
+wartość księgowa brutto
+440
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+5
+Monitor Monitor Philips 223V5LSB2
+ZSP-POSADAGORNA/001751
+2022
+wartość księgowa brutto
+440
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+6
+Monitor Monitor Philips 223V5LSB2
+ZSP-POSADAGORNA/001752
+2022
+wartość księgowa brutto
+439.98
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+7
+Projektor Optoma W330UST
+ZSP-POSADAGORNA/001754
+2022
+wartość księgowa brutto
+5300
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+8
+EKRAN Avtek TT-Board 90 PRO
+ZSP-POSADAGORNA/001753
+2022
+wartość księgowa brutto
+3300
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+9
+EKRAN
+Avtek TT-Board 90 PRO
+ZSP-POSADAGORNA/001742
+2022
+wartość księgowa brutto
+3330
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+10
+Projektor Vivitek DH772UST + uchwyt ścienny
+WM3
+ZSP-POSADAGORNA/001741
+2022
+wartość księgowa brutto
+5320
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+11
+AMD Ryzen5 Zestaw komputerowy
+ZSP-POSADAGORNA/001827
+2022
+wartość księgowa brutto
+3700
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+12
+Tablica multimedialna
+Monitor interaktywny Avtek 75 cali
+ZSP-POSADAGORNA/001842
+2022
+wartość księgowa brutto
+8600
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+13
+Telewizor TV Philips 65PUS7008/12
+ZSP-POSADAGORNA/001870
+2023
+wartość księgowa brutto
+2550.23
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+14
+Monitor AOC 27G2SAE/BK
+ZSP-POSADAGORNA/001895
+2023
+wartość księgowa brutto
+820
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+15
+Projektor krótkoogniskowy BenQ TH685P
+ZSP-POSADAGORNA/001897
+2023
+wartość księgowa brutto
+3650
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+16
+Gogle MetaQuest 3
+ZSP-POSADAGORNA/001918
+2023
+wartość księgowa brutto
+3300
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+17
+Switch D-Link DSG-1024D
+ZSP-POSADAGORNA/001935
+2024
+wartość księgowa brutto
+409
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+18
+Podłoga interaktywna FlySky Basic
+ZSP-POSADAGORNA/001949
+2024
+wartość księgowa brutto
+11589.99
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+19
+Tablica interaktywna TAB-AVTEK ITV 100
+ZSP-POSADAGORNA/001977
+2024
+wartość księgowa brutto
+3210.3
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+20
+Projektor EpsonEB-685w
+ZSP-POSADAGORNA/001976
+2024
+wartość księgowa brutto
+4200
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+21
+Switch D-Link DSG-1024D
+ZSP-POSADAGORNA/001969
+2024
+wartość księgowa brutto
+449
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+22
+Komputer stacjonarny (Ryzen 5 32GB)
+ZSP-POSADAGORNA/001964
+2024
+wartość księgowa brutto
+3128.46
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+23
+Monitor LED Samsung LS 27C362
+ZSP-POSADAGORNA/001957
+2024
+wartość księgowa brutto
+629
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+24
+Kopiarka Konica Minolta Bizhub C364
+ZSP-POSADAGORNA/002005
+2024
+wartość księgowa brutto
+6094.65
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+25
+Zestaw komputerowy z monitorem
+ZSP-POSADAGORNA/002075
+2024
+wartość księgowa brutto
+5926
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+26
+Drukarka HP LaserJet 107a
+ZSP-POSADAGORNA/002039
+2024
+wartość księgowa brutto
+550
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+27
+Keyboard YAMAHA PSR-SX720
+ZSP-POSADAGORNA/002127
+2025
+wartość księgowa brutto
+5100
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+28
+Ekspres Philips 5500 series EP5547/90 czarny
+ZSP-POSADAGORNA/002246
+2025
+wartość księgowa brutto
+2500
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+29
+Drukarka Canon MAXIFY GX4040 Mega Tank
+ZSP-POSADAGORNA/002303
+2025
+wartość księgowa brutto
+1509
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+30
+Kopiarka KONICAMINOLTA BIZHUB C364e- gwarancja 12mies PM15K
+ZSP-POSADAGORNA/002301
+2025
+wartość księgowa brutto
+5535
+Posada Górna Ul. 3 Maja 164, 38-481 Rymanów Zdrój
+RAZEM
+93750.61
+Zespół Szkół Publicznych w Rymanowie
+1.
+Monitor Avtek 6 Litte 65'
+2 szt. 7 400 zł
+68220331000802
+40211119000295
+2022
+wartość księgowa brutto
+14800
+ul. Szkolna 2, 38-480 Rymanów
+2.
+Monitor LG 65 TR3DJ '     1 x 7 400.00 zł
+109CVDQ03806
+2022
+wartość księgowa brutto
+7400
+ul. Szkolna 2, 38-480 Rymanów
+3.
+Monitor interaktywny AVTEK 7 mate 75' -          9 499.00 zł
+40221028000380
+2022
+wartość księgowa brutto
+9499
+ul. Szkolna 2, 38-480 Rymanów
+4.
+Monitor interaktywny AVTEK 7 mate 75' -          8 490.00 zł
+88230924000438
+2023
+wartość księgowa brutto
+8490
+ul. Szkolna 2, 38-480 Rymanów
+5.
+Monitor interaktywny AVTEK 7 mate 75' -          8 490.00 zł
+40221028000380
+2023
+wartość księgowa brutto
+8490
+ul. Szkolna 2, 38-480 Rymanów
+6.
+Monitor interaktywny AVTEK 7 mate 65' -          6 190, 00 zł
+68220331000802
+2023
+wartość księgowa brutto
+6190
+ul. Szkolna 2, 38-480 Rymanów
+7.
+Monitor interaktywny AVTEK 7 mate 65' -          6 190, 00 zł
+68220331000774
+2023
+wartość księgowa brutto
+6190
+ul. Szkolna 2, 38-480 Rymanów
+8.
+Podłoga Interaktywna  SMARTFLOOR - 12 490.00 ZŁ
+I2004000795P
+2023
+wartość księgowa brutto
+12490
+ul. Szkolna 2, 38-480 Rymanów
+9.
+Monitor Interaktywny Avtec TS 7 Lite 65'- 2 szt.
+88230922000451 88230922000502
+2023
+wartość księgowa brutto
+10780
+ul. Szkolna 2, 38-480 Rymanów
+10.
+Monitor iinteraktywny Avtec TS 7 Lite 75'
+99240312000167
+2023
+wartość księgowa brutto
+6490
+ul. Szkolna 2, 38-480 Rymanów
+11.
+Monitor Interaktywny Avtev TS 8.1 Mate G75
+75240603000152
+2024
+wartość księgowa brutto
+7390
+ul. Szkolna 2, 38-480 Rymanów
+12.
+Monitor Interaktywny Avtev TS 8Mate G75
+75240603000150
+2024
+wartość księgowa brutto
+7390
+ul. Szkolna 2, 38-480 Rymanów
+13.
+Monitor Interaktywny Avtev TS 8.1 Mate G75
+7524-603000151
+2024
+wartość księgowa brutto
+5990
+ul. Szkolna 2, 38-480 Rymanów
+14.
+Monitor Interaktywny Avtev TS 8Mate G75
+99240926000502
+2024
+wartość księgowa brutto
+5990
+ul. Szkolna 2, 38-480 Rymanów
+15.
+Monitor Interaktywny Avtev TS 8Mate G75
+99240926000489
+2024
+wartość księgowa brutto
+5990
+ul. Szkolna 2, 38-480 Rymanów
+16.
+Monitor Interaktywny Avtev TS 8Mate G65
+99240806000102
+2024
+wartość księgowa brutto
+4990
+ul. Szkolna 2, 38-480 Rymanów
+17.
+Monitor Interaktywny Avtev TS 8Mate G65
+99240806000019
+2024
+wartość księgowa brutto
+4990
+ul. Szkolna 2, 38-480 Rymanów
+18.
+Monitor Interaktywny Avtev TS 8 Mate 75
+99240807000094
+2024
+wartość księgowa brutto
+5990
+ul. Szkolna 2, 38-480 Rymanów
+19.
+Monitor Interaktywny IIYAMA 75' Pro Line TE7512MIS
+S/N 1237040820058
+2025
+wartość księgowa brutto
+5390
+ul. Szkolna 2, 38-480 Rymanów
+20.
+Monitor Interaktywny IIYAMA 75' Pro Line TE7512MIS
+S/N 1237040420625
+2025
+wartość księgowa brutto
+5390
+ul. Szkolna 2, 38-480 Rymanów
+21.
+Monitor Interaktywny Avtek TS 8 Mate 75"
+99250510001090
+2025
+wartość księgowa brutto
+6290
+ul. Szkolna 2, 38-480 Rymanów
+22.
+Monitor Interaktywny Avtek TS 8 Mate 75"
+09250510001092
+2025
+wartość księgowa brutto
+6290
+ul. Szkolna 2, 38-480 Rymanów
+23.
+Monitor interaktywny 75" IIyama Pro Lite TE7512MIS
+S/N 1237043720113
+2025
+wartość księgowa brutto
+5290
+ul. Szkolna 2, 38-480 Rymanów
+RAZEM
+168189
+Zespół Żłobków w Rymanowie
+1.
+Urzadzenie wielofunkcyjne- canon pixma G 3010
+ŻR/W/140
+2022
+wartość księgowa brutto
+799
+RYMANÓW UL. SZKOLNA 2
+2.
+URZĄDZENIE WIELOFUNKCYJNE Epson EcoTankL6490
+ŻD/W/154
+2023
+wartość księgowa brutto
+1979
+RYMANÓW-ZDRÓJ UL. SZKOLNA 14
+3.
+URZĄDZENIE WIELOFUNKCYJNESharp MX 2651
+ŻR/W/189
+2025
+wartość księgowa brutto
+4499.34
+RYMANÓW UL. SZKOLNA 2
+RAZEM
+7277.34
+RAZEM
+1236577.8599999999

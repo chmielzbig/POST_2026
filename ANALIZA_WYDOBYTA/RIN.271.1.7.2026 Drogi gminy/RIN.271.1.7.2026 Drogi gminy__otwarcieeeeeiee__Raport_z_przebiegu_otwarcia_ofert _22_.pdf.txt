@@ -1,0 +1,219 @@
+ŹRÓDŁO: RIN.271.1.7.2026 Drogi gminy
+PLIK: RIN.271.1.7.2026 Drogi gminy/otwarcieeeeeiee/Raport_z_przebiegu_otwarcia_ofert (22).pdf
+ROZMIAR: 115259
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 08.07.2026 10:17:21
+
+
+
+Identyfikator postępowania:          ocds-148610-88cea165-1811-4145-926b-b84b323d8dcf
+
+Numer etapu postępowania:            1
+
+Nazwa zamówienia:                    Modernizacja dróg gminnych i wewnętrznych zarządzanych
+przez Gminę Rymanów
+
+Nazwa Zamawiającego:                 Gmina Rymanów
+
+Wyznaczony termin otwarcia ofert:    08.07.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:   08.07.2026 10:16:52
+
+Termin zakończenia otwarcia ofert:   08.07.2026 10:17:20
+
+Liczba złożonych ofert:              3
+
+W tym:
+
+        złożonych w terminie:                           3
+        wycofanych:                                     0
+
+
+
+Oferta nr 1:
+
+        Status:                              Złożono w terminie
+        Termin rozpoczęcia składania:        06.07.2026 21:41:12
+        Termin złożenia:                     06.07.2026 21:41:14
+        Całkowity czas składania oferty:     2 sek
+        Termin rozpoczęcia otwarcia:         08.07.2026 10:16:52
+        Termin zakończenia otwarcia:         08.07.2026 10:16:52
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:      807,56 KB
+        Identyfikator oferty:                ocds-148610-88cea165-1811-4145-926b-
+         b84b323d8dcf:59820:01:01
+        Dane Wykonawcy, który wysłał ofertę: DROGBUD GOLCOWA PRO SPÓŁKA Z
+         OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ|DROGBUD PRO|6861691167|383223217
+        Hash transportowy oferty:
+
+         d4ab4e95c1a4085357fcf9776b3dac642cacdd1b5e37bdca4d79ce776837553c
+        Master hash oferty:
+
+         4881336e07c5635d7a60b6ee6e5d76e4e1e7a8b9e06ce6e1dc97e3f1a4e25365
+        Zaszyfrowany klucz:
+
+         bIzPAPQMOaR7tSGaGbncn4p0eaiHOaiJV9nOc9qmYNaRNMnIsbkztfHpGGkPxPrCsIu4ZTJ8XS
+         UBoKybkg4ljRUYdZ0F0dNehf5QRgBtnCJ7+c3Qk7OHK4KEF+EIbkRGivyh5WbclLI01NESdVMO
+
+
+                                               1
+        BVkmFoViMK98LJkfHOFLahofHmxPgTJczkRLP5cKEe41ehM5l5w9vOq8lvCjkj3cEFxN3bbhCC
+        V4P7wCY2DCcmThxYsx2zX32IxRjWr3xFeHtlHDxxUF1izQ4RjT3tCTbJZTSDGbtf2fOpdglDP52S
+        KHHkPvWWKUIrm3SUoJ89V7xhR6cv3411I4mt6pyQ9VWQ==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-88cea165-1811-4145-926b-
+                   b84b323d8dcf_Oferta_1-1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        687,76 KB
+               o   czy formularz poprawnie przetworzony: Tak, ale wymaga weryfikacji własnej po
+                   stronie użytkownika
+               o   czy podpisany:                        Tak, ale zmodyfikowany po podpisaniu
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Tak
+
+               o   nazwa pliku:                          Oświadczenie wykonawcy_Załącznik nr 2
+                   do SWZ.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        291,10 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Potwierdzenie zapłaty wadium.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        169,48 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 2:
+
+       Status:                              Złożono w terminie
+       Termin rozpoczęcia składania:        07.07.2026 14:48:26
+       Termin złożenia:                     07.07.2026 14:48:32
+       Całkowity czas składania oferty:     6 sek
+       Termin rozpoczęcia otwarcia:         08.07.2026 10:16:52
+       Termin zakończenia otwarcia:         08.07.2026 10:16:52
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:      3,84 MB
+       Identyfikator oferty:                ocds-148610-88cea165-1811-4145-926b-
+        b84b323d8dcf:52266:01:01
+       Dane Wykonawcy, który wysłał ofertę: ZAKŁAD PRODUKCYJNO-USŁUGOWO-
+        HANDLOWY "BOGBUD" BOGDAN WRONKOWICZ||6842309669|371104114
+       Hash transportowy oferty:
+
+        3798704b50c8608da927a64fff8babe96103b74581c54824cdf69dfa59f72f5b
+
+
+
+                                                  2
+       Master hash oferty:
+
+        ab931a611ac113bc6262271aadbb7e3493078ad869e09b5843966ed0a6ace58f
+       Zaszyfrowany klucz:
+
+        A5q9gBJCEmxfnkt5mujjFjid7taKBK7NCWB5+ad6aKCTpsv7kQNNupeZIjIE1er7z24Hf4GdNm/
+        ubhLsLcrLUyyj39nImN8l0jWMHr7jUFOuZH50lCDKFTuA+pa1zHtFjI0VCv7qSJuMFabwIfW2yu
+        uzPEsLFUZQqtEWOwGu+pRoNoZ/YnAaxEZQIvPYmQxKzHfhOBUA9LN2/
+        Dbga+tbTy1kE5OQN9m3w1R4H/
+        QsotDOi+rRv9KlEKgBMm5BKUXJ3WODHvl1xEp0ztlid+8CgfASc1ByJywNTSHKfvdrL2SlMXsRR
+        T2YXcGFHL9uA5RlRG+ULFyaSrTRVeCj/xqvWQ==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-88cea165-1811-4145-926b-
+                   b84b323d8dcf_Oferta_1.BES.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        440,63 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Oświadczenia - Modernizacja dróg
+                   gminnych i wewnętrznych zarządzanych przez Gminę Rymanów.BES.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        3,76 MB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Gwarancja FV.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        293,93 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+Oferta nr 3:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    07.07.2026 15:34:06
+       Termin złożenia:                                 07.07.2026 15:34:07
+       Całkowity czas składania oferty:                 1 sek
+       Termin rozpoczęcia otwarcia:                     08.07.2026 10:16:52
+       Termin zakończenia otwarcia:                     08.07.2026 10:16:52
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:                  702,98 KB
+
+
+
+                                                  3
+   Identyfikator oferty:                      ocds-148610-88cea165-1811-4145-926b-
+    b84b323d8dcf:25908:01:01
+   Dane Wykonawcy, który wysłał ofertę:       STRABAG Sp. z o.o.|STRABAG|5210421928
+   Hash transportowy oferty:
+
+    fb6824adaf30f0b1375ab61af85516c20e34e4cc91d5ef2e84e8a8f517740790
+   Master hash oferty:
+
+    13918fa4b83f59d5c43b68512d84983b78a437a0edddcb3be17dcc96ea26d7da
+   Zaszyfrowany klucz:
+
+    ZVF7mwdcz9xzsgbH5QHZBdtXcD9MQyjCzBnPcUB7hvWrrP8miKr9Y2w57QdU1FvlHncgJpn9
+    ZO7etfzyeQ2fDFh57Qpxd8b0k2ZI+RAiUyXUleeqSaBT6DUNnKXZqOeAFxTA5Y3zwcrAjHFWE
+    FPdBCUZ4eQneEmBduRK4qZfq6YZWvWxDuR9KE6INX7sNpw+MOrUYqkqZT19BRxhHGthH/
+    Ji5uheKFj4uAhtFOxjMRAD1cdYg6jGz4P0mu1mSirdnvb3EJQLSYmfo+5gp4mwTPSvuqIiWYu
+    MOCVUI3QN1Sa5hCVu+a1SA0/IRSU/HWP3NveHBy2N5PRIXull3h8P8g==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-88cea165-1811-4145-926b-
+           b84b323d8dcf_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        322,54 KB
+       o   czy formularz poprawnie przetworzony: Tak
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          199_PJ_CC_Lukaszek_Michalewicz.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        210,96 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          333 GMINA RYMANÓW 15000.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        78,45 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          STRABAG_OSW_WYKONAWCY.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        314,29 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+
+
+                                           4
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                              5
+

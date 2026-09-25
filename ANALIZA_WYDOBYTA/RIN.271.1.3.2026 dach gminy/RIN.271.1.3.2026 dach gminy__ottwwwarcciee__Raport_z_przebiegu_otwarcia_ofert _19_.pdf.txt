@@ -1,0 +1,522 @@
+ŹRÓDŁO: RIN.271.1.3.2026 dach gminy
+PLIK: RIN.271.1.3.2026 dach gminy/ottwwwarcciee/Raport_z_przebiegu_otwarcia_ofert (19).pdf
+ROZMIAR: 93777
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 07.05.2026 10:16:54
+
+
+
+Identyfikator postępowania:           ocds-148610-4ac50650-7268-4e01-a4fe-850f0ea880ea
+
+Numer etapu postępowania:             1
+
+Nazwa zamówienia:                     Remont pokrycia dachowego budynku Urzędu Gminy w
+Rymanowie
+
+Nazwa Zamawiającego:                  Gmina Rymanów
+
+Wyznaczony termin otwarcia ofert:     07.05.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:    07.05.2026 10:16:02
+
+Termin zakończenia otwarcia ofert:    07.05.2026 10:16:52
+
+Liczba złożonych ofert:               9
+
+W tym:
+
+        złożonych w terminie:                           9
+        wycofanych:                                     0
+
+
+
+Oferta nr 1:
+
+        Status:                                         Złożono w terminie
+        Termin rozpoczęcia składania:                   03.05.2026 08:20:45
+        Termin złożenia:                                03.05.2026 08:20:46
+        Całkowity czas składania oferty:                1 sek
+        Termin rozpoczęcia otwarcia:                    07.05.2026 10:16:02
+        Termin zakończenia otwarcia:                    07.05.2026 10:16:02
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:                 105,92 KB
+        Identyfikator oferty:                           ocds-148610-4ac50650-7268-4e01-
+         a4fe-850f0ea880ea:46988:01:01
+        Dane Wykonawcy, który wysłał ofertę:            "DOMAR" DAWID ZARZECKI||
+         5423021199|200450910
+        Hash transportowy oferty:
+
+         4be9763597e66d5e57ae3cdcaf3e5edfb89cb343016843989e1f6072a7dc7383
+        Master hash oferty:
+
+         3a7ac868adb8b0519bd9dd652e1a7cb7ade98e174b030c29f18043ca93a5e5b9
+        Zaszyfrowany klucz:
+
+         TJOuzi5buzsXqeBfpZtMb2hidhYAA4tmvht7kDaJlRM27HJc5Zg7jYlMBkBEhykAccIygml8sIpPV
+         bmyXifEAKHQASByEXT6Sk70FC+hbIHbc2GF8cgdwbPphgUkl7cjDSkebDFKxsLZz37JvpkBu5e8
+
+
+                                                1
+        ME0VyVKh+f0L4+j1PbvCJ0X/yBs/
+        OlCCjTsNinGGE25ft7unY2v2JUjEgMbnJ67gt7hiiw5eUdCj334JpcLhU9cGMgxHuBZbwUz5ln1y
+        gzySep3tKt1WVWLGXaAFn5ZesHEXVkBY3CEaFzlUFt3Uz6o2wi1r4F/kj/
+        LtwX2bbkaElCXZQLhuCubz3HqEiw==
+       Czy udało się odszyfrować klucz oferty:   Tak
+       Czy udało się odszyfrować ofertę:         Tak
+       Czy udało się rozpakować ofertę:          Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+                   a4fe-850f0ea880ea_Oferta_1.T.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        265,40 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 2:
+
+       Status:                                        Złożono w terminie
+       Termin rozpoczęcia składania:                  06.05.2026 15:06:27
+       Termin złożenia:                               06.05.2026 15:06:28
+       Całkowity czas składania oferty:               1 sek
+       Termin rozpoczęcia otwarcia:                   07.05.2026 10:16:03
+       Termin zakończenia otwarcia:                   07.05.2026 10:16:03
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:                424,31 KB
+       Identyfikator oferty:                          ocds-148610-4ac50650-7268-4e01-
+        a4fe-850f0ea880ea:94729:01:01
+       Dane Wykonawcy, który wysłał ofertę:           ABE Budownictwo EMIL BAIDA|ABE
+        Budownictwo|6842597786|180634009
+       Hash transportowy oferty:
+
+        a5708cdb289d168066354bb96125dfb39d0a45053a5ae4ae0f266b99eb9c1524
+       Master hash oferty:
+
+        2be1df86f9a6e270ce21f65bbf7a3acfbab5514cc67109d30d6bba782988135b
+       Zaszyfrowany klucz:
+
+        GV+nEsCyBAtmj4zrvh9U6/ApdHJhGHmby6RrlAnu7SYaAKoi5TM+iVuMur8h/gKsRownBibzU
+        bRXVQK6nmvbtxqbu0RPGlM1S6rcbrx55mXmWrB6qVgj/
+        N69xXGBieyAVBPoZx08k9QL05DJmz02RNofeHDrjC/
+        ccTL1+veOAaXVxHEz1g3JDzVULJBFakc9R0ce0Wner72Hr4J9AbOj/cBxY4xP8sp9/
+        Ossmukuq6gi2SpUouz3j9ymkV51fmjs23c4n9+osnIHCeVOD7sr6d/lU9mJ/
+        pIR+EmqCWkEKZISJpr5jXP+h+gp2TQFuqm66qZBmoLfFZ7pvq4z9kTtUQ==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+       Lista plików w odszyfrowanej ofercie:
+
+                                                 2
+               o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+                   a4fe-850f0ea880ea_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        197,87 KB
+               o   czy formularz poprawnie przetworzony: Nie
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        325,14 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 3:
+
+       Status:                                         Złożono w terminie
+       Termin rozpoczęcia składania:                   06.05.2026 18:48:19
+       Termin złożenia:                                06.05.2026 18:48:21
+       Całkowity czas składania oferty:                2 sek
+       Termin rozpoczęcia otwarcia:                    07.05.2026 10:16:02
+       Termin zakończenia otwarcia:                    07.05.2026 10:16:02
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:                 1,21 MB
+       Identyfikator oferty:                           ocds-148610-4ac50650-7268-4e01-
+        a4fe-850f0ea880ea:73558:01:01
+       Dane Wykonawcy, który wysłał ofertę:            BUD-REM PBO||8241328108|015574123
+       Hash transportowy oferty:
+
+        deb8a7bb672d065083113619c6aa154da4a4f50036f75c7d1147642447bb973b
+       Master hash oferty:
+
+        023735f18811c7699fd1782707a64a5ec14923e399d264d62cc0d074a316b780
+       Zaszyfrowany klucz:
+
+        O2g+e4nak54E1JJHtFjs2zahaUN5i4xFqgViZUu7y1z9V8DC3Kblei3+tOzQZQZv730TLZkwC2sIp
+        +stbnjiBhpvPnKUc9qQhSnm9s6bjTxhF52Mkc6MVNprENhQMFLlVB6jBe28ZUMJX+THGL31a
+        V8BzU1kk1XIAnhPGE9YJK8bsFQAZkoVhvv9a/
+        +lWBWa8rVB4zTwZlslFik2AONsp2iF2g5i4BpsH/
+        rZYLFAzBLkm+4jmXebyMdR1DkQ+pB8yQNiOyahIurSjPDTkJcFkXuSpz3EtbubUgHld6ukMOF
+        UAMyA2qeegvQVm+zJDrsGCt73ADqP8Ytsf+OtioBSvg==
+       Czy udało się odszyfrować klucz oferty:  Tak
+       Czy udało się odszyfrować ofertę:        Tak
+       Czy udało się rozpakować ofertę:         Tak
+       Lista plików w odszyfrowanej ofercie:
+
+
+
+
+                                                 3
+               o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+                   a4fe-850f0ea880ea_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        527,38 KB
+               o   czy formularz poprawnie przetworzony: Nie
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          ZAŁ 2.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        892,98 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+Oferta nr 4:
+
+       Status:                                 Złożono w terminie
+       Termin rozpoczęcia składania:           06.05.2026 20:26:56
+       Termin złożenia:                        06.05.2026 20:26:58
+       Całkowity czas składania oferty:        2 sek
+       Termin rozpoczęcia otwarcia:            07.05.2026 10:16:03
+       Termin zakończenia otwarcia:            07.05.2026 10:16:03
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:         792,16 KB
+       Identyfikator oferty:                   ocds-148610-4ac50650-7268-4e01-
+        a4fe-850f0ea880ea:88367:01:01
+       Dane Wykonawcy, który wysłał ofertę:    RED-BUD Przedsiębiorstwo Remontowo-
+        Budowlane|RED-BUD P.R.B.|9721002465|300944246
+       Hash transportowy oferty:
+
+        d2da3d1f722ee77f1205ff7b9fc48d1645677cf12db66d2ad2804362502b4593
+       Master hash oferty:
+
+        346ca68976b106522db847745f0b208da2e88c4aa558c24e9b9fa0a6d6409c24
+       Zaszyfrowany klucz:
+
+        glb0bsjEt5pMB2P7Jk3fxjwt0gxmrbqGTNjxOt6sEG8m9pZ70CgJ6Ee41C+1O6uViDGCKYEq9w
+        HnxGb+hiBFWRsPpv0ApnYtYHdBkMV3XM60Vgv/
+        wdACu0ZmxzQd37j34IjmKfn+1MeHZ+559M+DHXQmz2dgtIvSJbKb1FW1g482JfhvnknNE9lht
+        vMjCIvYf9fXSPjXEPd5CEbXQc70NWhmbwGPdj90ZJwbhZ97CEzoPTwQqKCVhlwZSdO/
+        mp+O+AkVcLJAC8kadPS3bxFH1y60flHxqZnwmFKm2Unj7l1a5U7ENaUq1Qp+m16FOSKwJE4
+        A6EkIgh46iqRqqUXV1A==
+       Czy udało się odszyfrować klucz oferty:  Tak
+       Czy udało się odszyfrować ofertę:        Tak
+       Czy udało się rozpakować ofertę:         Tak
+       Lista plików w odszyfrowanej ofercie:
+
+
+
+
+                                                  4
+               o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+                   a4fe-850f0ea880ea_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        236,03 KB
+               o   czy formularz poprawnie przetworzony: Nie
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          ZAŁ 2.pdf podpis.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        703,96 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+Oferta nr 5:
+
+       Status:                                          Złożono w terminie
+       Termin rozpoczęcia składania:                    06.05.2026 22:14:31
+       Termin złożenia:                                 06.05.2026 22:14:33
+       Całkowity czas składania oferty:                 2 sek
+       Termin rozpoczęcia otwarcia:                     07.05.2026 10:16:02
+       Termin zakończenia otwarcia:                     07.05.2026 10:16:02
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:                  1,16 MB
+       Identyfikator oferty:                            ocds-148610-4ac50650-7268-4e01-
+        a4fe-850f0ea880ea:128524:01:01
+       Dane Wykonawcy, który wysłał ofertę:             CEL-BUD Usługi Ogólnobudowlane Piotr
+        Borek||6842280612|369253784
+       Hash transportowy oferty:
+
+        3fe0d17a512a8399656167e1a5d5d4a4b246d4f712e64c01bce413a81cc08abb
+       Master hash oferty:
+
+        27f501a364d51b160d9447e1066232d9dd4dba11197be1555bbe9d5f3c076950
+       Zaszyfrowany klucz:
+
+        HXOBLycxckvVWZIQuoeurqGmlGk+f1HTaJTADNNYm+PMQdI3ArQVqi4uUFh2gQldq7rfed+S
+        6iwsTQ55xRoKGWbDBluL3J807OpqtQR9PzhuDaVVMJv9oHKOBltDcmmqCgPPdGe6yKVKsZ3
+        7T3Gh78WuVldfNyxhrQOFXFcl/9f5/
+        zfN9dPNG13Jk9xY8ZjwjTFjVvrNiHX3I9IO9laeQrpnxg06QGS2JVF+3PWTUYb9fHuJK+uBzf/
+        LYB2D9lbPI2qtF12/
+        cDKKUczqVx4kc6CFNyX3meGhfrhQJEXsuepBuguHG4nJNrm1tGNWK0PSM+MqzHvdKpWAA
+        jBH8HzSDg==
+       Czy udało się odszyfrować klucz oferty:   Tak
+       Czy udało się odszyfrować ofertę:         Tak
+       Czy udało się rozpakować ofertę:          Tak
+       Lista plików w odszyfrowanej ofercie:
+
+
+                                                  5
+               o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+                   a4fe-850f0ea880ea_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        538,60 KB
+               o   czy formularz poprawnie przetworzony: Nie
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp (1).pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        706,39 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 6:
+
+       Status:                              Złożono w terminie
+       Termin rozpoczęcia składania:        07.05.2026 01:43:00
+       Termin złożenia:                     07.05.2026 01:43:01
+       Całkowity czas składania oferty:     1 sek
+       Termin rozpoczęcia otwarcia:         07.05.2026 10:16:02
+       Termin zakończenia otwarcia:         07.05.2026 10:16:02
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:      1,04 MB
+       Identyfikator oferty:                ocds-148610-4ac50650-7268-4e01-
+        a4fe-850f0ea880ea:177869:01:01
+       Dane Wykonawcy, który wysłał ofertę: APW SPÓŁKA Z OGRANICZONĄ
+        ODPOWIEDZIALNOŚCIĄ|APW SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ|
+        8133845002|387107229
+       Hash transportowy oferty:
+
+        766b49aeeeaa2a1702e4e4136f9dc066a0037ec1a0c99570ae78993a8a399664
+       Master hash oferty:
+
+        ff0bcf32e18fe7712b29c4a892df2d12de563305da9991b0f9c4c01296a332ed
+       Zaszyfrowany klucz:
+
+        OEekdomLR1iMr433PI+hb3OgzYme8U0QnZ0A07Pd65U8l6YcRc/Ced8dHEE/g/QkDNurPbW
+        97mrwc9/H+KNTyD3GXyEH1fXdUGlN2f8n//
+        OJmvKdXRIbfJGs28427o1UVRDSVF5+0uJSadjwc0bSkYtFGykLoMXLC7tjwsqan6/
+        mGBKZug7gTbJ16ohUKkO/
+        wO7LRxMKRILaYd52Oe9UuKtcnUWrZxmvPho+Z2uVRUegKkKnjBcsgxXtgflZFJrKV7GvHkg8w
+        R8DS0SuNtXB2XvXa6zZ+3PrTpWp43fmKoz2ZD9PZ4V1drJscCx/exq/tB/
+        H44kbbKbIDSDmNxzrew==
+       Czy udało się odszyfrować klucz oferty: Tak
+       Czy udało się odszyfrować ofertę:       Tak
+       Czy udało się rozpakować ofertę:        Tak
+
+                                                 6
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+                   a4fe-850f0ea880ea_Oferta_1 (1).pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        234,89 KB
+               o   czy formularz poprawnie przetworzony: Nie
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Załączniki Rymanów.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        1,01 MB
+               o   czy podpisany:                        Nie
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Tak
+
+Oferta nr 7:
+
+       Status:                               Złożono w terminie
+       Termin rozpoczęcia składania:         07.05.2026 04:06:39
+       Termin złożenia:                      07.05.2026 04:06:40
+       Całkowity czas składania oferty:      1 sek
+       Termin rozpoczęcia otwarcia:          07.05.2026 10:16:02
+       Termin zakończenia otwarcia:          07.05.2026 10:16:02
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:       758,81 KB
+       Identyfikator oferty:                 ocds-148610-4ac50650-7268-4e01-
+        a4fe-850f0ea880ea:163965:01:01
+       Dane Wykonawcy, który wysłał ofertę:  AMTC POLAND SPÓŁKA Z OGRANICZONĄ
+        ODPOWIEDZIALNOŚCIĄ||6793253057|523665507
+       Hash transportowy oferty:
+
+        e6e3b4b82a08f52cf76bb3ca1159ccf9d394599f4032f3e7a54aed81d45fbd99
+       Master hash oferty:
+
+        b0a3009ed2ee14cbe547e9aa0bae197caf5b4b735440c7b3e12c8eb6731f6dcf
+       Zaszyfrowany klucz:
+
+        cE8omKeVeygQ+jFyvwi1Lye4jA6H5NXfLMH0/HoM49giXZAE0Zo0nVQvceL7gkBlM/
+        mU4Ho09U0IwxG2jKZ6rWdKEP6+yIxZm2mxOwAhPn5EKL97p93gTwV4lpCVuKnnOjg6u5gdj
+        LCMSmDdmMfXW/
+        MKzEmyxos8ydfdM0/9TIOfttlYyqDLhJJxt8txwm152n8mrrVA8Byx3yR0raLMX4EYqHtCiwDf
+        WzFPNmBbCWgckOJG801iwdX5bKUOJJyd/5qcHPnEj9kdR/fCCm/
+        flColfJ2jLxwfnifqlVxOmIZGnHXndpxOBjJftEhXEFmhZI5dJFaqftjqYgSjpLWJCA==
+       Czy udało się odszyfrować klucz oferty:    Tak
+       Czy udało się odszyfrować ofertę:          Tak
+       Czy udało się rozpakować ofertę:           Tak
+       Lista plików w odszyfrowanej ofercie:
+
+
+                                                  7
+               o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+                   a4fe-850f0ea880ea_Oferta_1.pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        966,40 KB
+               o   czy formularz poprawnie przetworzony: Tak
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          AMTC POLAND - Odpis KRS.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        766,41 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          AMTC POLAND - Pełnomocnictwo.pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        218,47 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 8:
+
+       Status:                               Złożono w terminie
+       Termin rozpoczęcia składania:         07.05.2026 07:17:05
+       Termin złożenia:                      07.05.2026 07:17:07
+       Całkowity czas składania oferty:      2 sek
+       Termin rozpoczęcia otwarcia:          07.05.2026 10:16:02
+       Termin zakończenia otwarcia:          07.05.2026 10:16:02
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:       1,36 MB
+       Identyfikator oferty:                 ocds-148610-4ac50650-7268-4e01-
+        a4fe-850f0ea880ea:69944:01:01
+       Dane Wykonawcy, który wysłał ofertę:  JNS SPÓŁKA Z OGRANICZONĄ
+        ODPOWIEDZIALNOŚCIĄ||5170426456|522463173
+       Hash transportowy oferty:
+
+        d3f9815c66329ad5bab94d0e9e976d4b44abb1d903e9e26220d02c792e811c59
+       Master hash oferty:
+
+        41efddd4d1ddf5b86ac9367f181f6e3cf6e010206e101923be6a6b6e824dd46b
+       Zaszyfrowany klucz:
+
+        bRHSdZtTahweKWMrbYQNHjWqTelkK4PbsYCajGyHTTBkeZriy58b4m8lC7SLfxaJit4IOErG32y
+        h+T+pXk9k4/Q612hf6tr85bH0LgO+XyoccxQGjNcnrYZWYaAJ0kqGYTLvKcMxT7EkFil/
+        IRX5WVPfG3Nus8DJLArBUSmEGsxMp+4xdgoKblL0f6KU553uqVH+4zlDqjcOYc8g/
+        Eu1uyw6qdJrm115wrMP1qd20OsKmf9DQg/
+        fT0Z9V1r9eTeoymfI7CyP6Dit1gGnsRsEVQrmUr+4qjHAr2J+8HZ1/h17MjShWWvAGcu/
+        9WmD4hafOiV1/cgoZKaNq1bTgZEiGw==
+
+                                                  8
+       Czy udało się odszyfrować klucz oferty:         Tak
+       Czy udało się odszyfrować ofertę:               Tak
+       Czy udało się rozpakować ofertę:                Tak
+       Lista plików w odszyfrowanej ofercie:
+
+               o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+                   a4fe-850f0ea880ea_Oferta_1.. (1).pdf
+               o   typ pliku:                            Formularz
+               o   rozmiar pliku:                        534,45 KB
+               o   czy formularz poprawnie przetworzony: Nie
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          RYMANÓW Remont pokrycia dachowego-1
+                   (1).pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        339,14 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+               o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+                   wykonawcow-z-art-125-ust-1-ustawy-Pzp (1).pdf
+               o   typ pliku:                            Inny plik
+               o   rozmiar pliku:                        596,43 KB
+               o   czy podpisany:                        Tak
+               o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+Oferta nr 9:
+
+       Status:                               Złożono w terminie
+       Termin rozpoczęcia składania:         07.05.2026 08:06:18
+       Termin złożenia:                      07.05.2026 08:06:19
+       Całkowity czas składania oferty:      1 sek
+       Termin rozpoczęcia otwarcia:          07.05.2026 10:16:02
+       Termin zakończenia otwarcia:          07.05.2026 10:16:02
+       Całkowity czas otwierania oferty:
+       Rozmiar scalonego pliku oferty:       751,48 KB
+       Identyfikator oferty:                 ocds-148610-4ac50650-7268-4e01-
+        a4fe-850f0ea880ea:175219:01:01
+       Dane Wykonawcy, który wysłał ofertę:  SAB-TECH SPÓŁKA Z OGRANICZONĄ
+        ODPOWIEDZIALNOŚCIĄ||5532599253|541857776
+       Hash transportowy oferty:
+
+        f8e5f400210ccdacf0e4083ffcce489364820fdc344bc5529402784aa90cb005
+       Master hash oferty:
+
+        7504cf837008c201d3ceb3c85a2f211fbef665de9912a057aefdef78ecb74622
+
+
+
+                                                  9
+   Zaszyfrowany klucz:
+
+    rG7JDGsXUBuaLlg/tc9NuFVPhEFb+G38hWs2l9Ok+7UzLZyNSHY4QjThikrI3cZ7HaamptnMOR
+    aYEVPX4fEjZSJeHeb/1mCnVABhdsOfNp8MzgJbamcen7CKUiu5EGJTHuUlWlr/M/
+    Jgvy20OX2E8n47zUcQKfNr/VqFwcFF9UnRKe79CR33CE/
+    RkXqkCnKHZ8tz8eLbs8lG9iLosAieI0/
+    zKGNcOFgyPzOlLduTuBfqh+ZJvhevBEt4b037XgNJZu23+iuRX2QgFuI67ukwJswjtvKOnN1bFxC
+    eNlZgrDAM42DiusK7K7bV+2QsyAToXFNxR9z6LlFM37JjqItgkw==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-4ac50650-7268-4e01-
+           a4fe-850f0ea880ea_Oferta_1-2.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        178,44 KB
+       o   czy formularz poprawnie przetworzony: Nie
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Zał nr 2 do SWZ oswiadczenia-wykonawcy-
+           wykonawcow-z-art-125-ust-1-ustawy-Pzp.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        128,23 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Zał nr 3 do SWZ oświadczenie o grupie
+           kapitałowej.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        188,07 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Zał nr 4-B - wykaz robót do SWZ.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        241,50 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Zał nr 5-B wykaz osób do SWZ.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        201,60 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+
+
+                                          10
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                              11
+

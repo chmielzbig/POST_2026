@@ -1,0 +1,66 @@
+ŹRÓDŁO: RIN.271.1.12.2026 LekOfinansach
+PLIK: RIN.271.1.12.2026 LekOfinansach/otwoarcie/Roboczy_plik_xml (1).xml
+ROZMIAR: 3716
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<informacjaDlaPrezesa xmlns="https://ezamowienia.gov.pl/xml-schema/idp#1.0.0" dataWypelnienia="2026-09-18+02:00">
+    <trybZamowienia>
+        <trybZamowienia id="1.1.1">Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybZamowienia>
+    </trybZamowienia>
+    <sekcja1>
+        <nazwa>Gmina Rymanów</nazwa>
+        <kni>REGON 370440590</kni>
+        <adres>Mitkowskiego 14A</adres>
+        <miejscowosc>Rymanów</miejscowosc>
+        <kod>38-480</kod>
+        <woj>Podkarpackie</woj>
+        <kraj>Polska</kraj>
+        <www>https://ezamowienia.gov.pl/mp-client/search/list/ocds-148610-d368337f-73cb-4c2f-814d-ce66b3b92466</www>
+        <rodzaj>Zamawiający publiczny -&gt; jednostka sektora finansów publicznych -&gt; jednostka samorządu terytorialnego</rodzaj>
+        <sposobPrzeprowadzeniaPostepowania>Postępowanie prowadzone jest samodzielnie przez zamawiającego</sposobPrzeprowadzeniaPostepowania>
+        <daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieNazwa></daneDotyczacePodmiotuPowierzonoProwadzenieNazwa>
+            <daneDotyczacePodmiotuPowierzonoProwadzenieniKni></daneDotyczacePodmiotuPowierzonoProwadzenieniKni>
+        </daneDotyczacePodmiotuPowierzonoProwadzenieniSekcja>
+    </sekcja1>
+    <sekcja2>
+        <informacjaDotyczy>Zamówienia publicznego</informacjaDotyczy>
+        <rodzajZamowieniaUmRam>zamówienie klasyczne</rodzajZamowieniaUmRam>
+        <idPostepowania>ocds-148610-d368337f-73cb-4c2f-814d-ce66b3b92466</idPostepowania>
+        <nrReferencyjnyPost>RIN.271.1.12.2026</nrReferencyjnyPost>
+        <nazwaZamowieniaUmowyRamowej>Usługa organizacji wycieczek obejmująca zagadnienia edukacji finansowej w ramach Programu „Lekcje o finansach”- edycja 2026</nazwaZamowieniaUmowyRamowej>
+        <rodzajPrzedmiotuZamowienia>Usługi</rodzajPrzedmiotuZamowienia>
+        <czyWCzesciach>false</czyWCzesciach>
+        <czyCzesciowe>false</czyCzesciowe>
+        <liczbaCzesci>1</liczbaCzesci>
+        <trybUdzieleniaZPodstawa>Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy</trybUdzieleniaZPodstawa>
+        <dataWszczeciaPostepowania>2026-09-10</dataWszczeciaPostepowania>
+        <czyOgloszenieWBzpAlboTed>true</czyOgloszenieWBzpAlboTed>
+        <nrOgloszeniaBzpAlboTed>2026/BZP 00432036/01</nrOgloszeniaBzpAlboTed>
+        <czyWspolfinansowaneEU>false</czyWspolfinansowaneEU>
+        <nazwaProjektuEU></nazwaProjektuEU>
+    </sekcja2>
+    <sekcja4>
+        <informacjaOOfertach idSekcji="1">
+            <czyDotyczy>false</czyDotyczy>
+            <numerLubNazwaCzesci>1</numerLubNazwaCzesci>
+            <kwotaZamawiajacyNaSfinansowanie>421 413,00 PLN</kwotaZamawiajacyNaSfinansowanie>
+            <kwotaJakaZamierzaPrzeznaczyc></kwotaJakaZamierzaPrzeznaczyc>
+            <terminOtwarciaOfert>2026-09-18</terminOtwarciaOfert>
+            <liczbaZaproszonychWykonawcow>0</liczbaZaproszonychWykonawcow>
+            <daneWykonawcow>
+                <czyWykonawcyUbiegajaSieWspolnie>false</czyWykonawcyUbiegajaSieWspolnie>
+                <kpdSekcja>
+                    <nazwa>Krajowe Centrum Realizacji Sp. z o.o.</nazwa>
+                    <kni>REGON 526048459</kni>
+                    <miejscowosc>Lublin</miejscowosc>
+                    <woj>lubelskie</woj>
+                    <kraj>Polska</kraj>
+                    <rodzajWykonwacy>Mikroprzedsiębiorstwo</rodzajWykonwacy>
+                </kpdSekcja>
+                <cenaLubKoszt>Cena: 389 000,00 PLN</cenaLubKoszt>
+            </daneWykonawcow>
+        </informacjaOOfertach>
+    </sekcja4>
+    <sekcja5/>
+</informacjaDlaPrezesa>

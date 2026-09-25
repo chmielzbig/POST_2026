@@ -1,0 +1,73 @@
+ŹRÓDŁO: RIN.271.1.3.2026 dach gminy
+PLIK: RIN.271.1.3.2026 dach gminy/ottwwwarcciee/offertyy/wezw do uzupeł/odpAMTC/Raport_Weryfikacja_podpisu_20260512120232370.pdf
+ROZMIAR: 352171
+
+Szafir 2.0.0 (build 704)                                                           2026-05-12 12:02:32
+
+
+
+
+                                                                               elektronicznypodpis.pl
+
+
+
+
+                            Raport z weryfikacji podpisu
+
+INFORMACJE O DOKUMENCIE:
+Nazwa pliku                     Zał nr 2 do SWZ oswiadczenia-wykonawcy-wykonawcow-z-art-125-ust-1-
+                                ustawy-Pzp.pdf
+Data weryfikacji podpisów       2026-05-12 12:02:32
+
+SZCZEGÓŁY WERYFIKACJI:
+
+
+
+
+                                                1
+Szafir 2.0.0 (build 704)       2026-05-12 12:02:32
+
+
+
+
+                           2
+Szafir 2.0.0 (build 704)       2026-05-12 12:02:32
+
+
+
+
+                           3
+Szafir 2.0.0 (build 704)                                                              2026-05-12 12:02:32
+
+
+Podpis: Pozytywny
+Rodzaj certyfikatu               Kwalifikowany
+Format podpisu                   PAdES-BES
+Data złożenia podpisu            2026-05-12 11:52:12
+Podpis zawiera znacznik czasu    Brak
+Certyfikat podpisującego /       Nazwa powszechna: Agata Zofia Tabath
+składającego pieczęć             Kraj: PL
+Numer seryjny certyfikatu        19202875661584265430651846362013550942202189
+Wystawca certyfikatu             Nazwa powszechna: Centrum Kwalifikowane EuroCert
+                                 Nazwa organizacji: EuroCert Sp. z o.o.
+                                 Kraj: PL
+                                 Identyfikator organizacji: VATPL-9512352379
+Lista CRL wykorzystana do        -
+weryfikacji certyfikatu
+Odpowiedź OCSP wykorzystana do   Status: GOOD
+weryfikacji certyfikatu
+                                 12 May 2026 10:02:12 GMT
+Zweryfikowano na dzień           2026-05-12 12:02:11 (Bieżący czas systemowy)
+Status weryfikacji               Pozytywny
+                                 Kwalifikowany podpis poprawnie zweryfikowany certyfikatem
+                                 kwalifikowanym
+Uwagi                            Weryfikowany podpis został uznany za kwalifikowany. Zgodnie z Art. 25.
+                                 Punkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z
+                                 23 lipca 2014 r. kwalifikowany podpis elektroniczny ma skutek prawny
+                                 równoważny podpisowi własnoręcznemu.
+
+
+
+
+                                                 4
+

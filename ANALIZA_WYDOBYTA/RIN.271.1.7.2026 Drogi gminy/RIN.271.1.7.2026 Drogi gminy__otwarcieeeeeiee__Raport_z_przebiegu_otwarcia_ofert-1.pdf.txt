@@ -1,0 +1,123 @@
+ŹRÓDŁO: RIN.271.1.7.2026 Drogi gminy
+PLIK: RIN.271.1.7.2026 Drogi gminy/otwarcieeeeeiee/Raport_z_przebiegu_otwarcia_ofert-1.pdf
+ROZMIAR: 78009
+
+RAPORT Z PRZEBIEGU OTWARCIA OFERT
+Data i czas wygenerowania raportu: 14.07.2026 10:16:49
+
+
+
+Identyfikator postępowania:          ocds-148610-de8064db-c9ef-4197-a898-3da90e97dbeb
+
+Numer etapu postępowania:            1
+
+Nazwa zamówienia:                    Dostawa średniego samochodu pożarniczego 4x4 dla OSP w
+Sieniawie, Gm. Rymanów
+
+Nazwa Zamawiającego:                 OCHOTNICZA STRAŻ POŻARNA W SIENIAWIE
+
+Wyznaczony termin otwarcia ofert:    14.07.2026 10:15:00
+
+Termin rozpoczęcia otwarcia ofert:   14.07.2026 10:16:07
+
+Termin zakończenia otwarcia ofert:   14.07.2026 10:16:49
+
+Liczba złożonych ofert:              1
+
+W tym:
+
+        złożonych w terminie:                           1
+        wycofanych:                                     0
+
+
+
+Oferta nr 1:
+
+        Status:                               Złożono w terminie
+        Termin rozpoczęcia składania:         13.07.2026 14:08:45
+        Termin złożenia:                      13.07.2026 14:08:46
+        Całkowity czas składania oferty:      1 sek
+        Termin rozpoczęcia otwarcia:          14.07.2026 10:16:07
+        Termin zakończenia otwarcia:          14.07.2026 10:16:07
+        Całkowity czas otwierania oferty:
+        Rozmiar scalonego pliku oferty:       1,95 MB
+        Identyfikator oferty:                 ocds-148610-de8064db-c9ef-4197-a898-
+         3da90e97dbeb:44593:01:01
+        Dane Wykonawcy, który wysłał ofertę:  PRZEDSIĘBIORSTWO SPECJALISTYCZNE
+         "BOCAR" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ|P.S bocar sp.z.o.o|
+         5730008637|150024122|44593
+        Hash transportowy oferty:
+
+         013fc9fc9453372beef25682726141cdfb05b0366d616bfb2f55826bfddd04a7
+        Master hash oferty:
+
+         aa7d30f4980c2f9dfea3a70d48f497251918552652e3a665868400535e56fc90
+        Zaszyfrowany klucz:
+
+         hmUFTNAF1uf0AIH2TF+S1FDT/wMH3vh0XX3nxx5TbLxNfh5mdyrsgscX2upQQWJHBcJU7cfr
+
+
+                                               1
+    Sxt522wFD9DrObT1WhEKtL8WpRDONg3rLVj2M0Nn0nukagQqasoI6+THhJX0qmbctHfWjNQ
+    DjeryBWrIguHGFOm3WG+ehLpIH0d7mEMoJM+/
+    TCVmJD21QMj2FGx9OWjxPDuPe31mIOq0po8ib6S1tzrt7XVkj6iH+9shj49qT+5cDHYUdf65uS
+    YKSdFI6faMdqMJD9qdAC2jwc72LOOZ3oWN9ofTo22QP7Irw41ttX8FA5A9bi6U2ZYPeQ/
+    9HOjc9d58R0AYF7tN9g==
+   Czy udało się odszyfrować klucz oferty: Tak
+   Czy udało się odszyfrować ofertę:       Tak
+   Czy udało się rozpakować ofertę:        Tak
+   Lista plików w odszyfrowanej ofercie:
+
+       o   nazwa pliku:                          ocds-148610-de8064db-c9ef-4197-a898-
+           3da90e97dbeb_Oferta_1.pdf
+       o   typ pliku:                            Formularz
+       o   rozmiar pliku:                        425,70 KB
+       o   czy formularz poprawnie przetworzony: Tak
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Świadectwo Dopuszczenia.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        257,60 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Zał nr 2 do SWZ - zał do formularza
+           ofertowego - oferowane parametry samochodu.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        455,75 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Zał nr 4 do SWZ - oswiadczenia-
+           wykonawcy-wykonawcow-z-art-125-ust-1-ustawy-Pzp.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        387,12 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          Zał nr 10 do SWZ - oświadczenie
+           wykonawcy dotyczące przesłanek wykluczenia.pdf
+       o   typ pliku:                            Inny plik
+       o   rozmiar pliku:                        685,48 KB
+       o   czy podpisany:                        Tak
+       o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika: Nie
+
+       o   nazwa pliku:                          KRS 6.07.2026.pdf
+       o   typ pliku:                            Inny plik
+
+                                           2
+           o   rozmiar pliku:                        193,92 KB
+           o   czy podpisany:                        Tak
+           o   podpis wymaga weryfikacji we własnym zakresie przez użytkownika:   Nie
+
+
+
+
+Raport z przebiegu otwarcia ofert wygenerowany automatycznie na Platformie e-Zamówienia.
+
+
+
+
+                                              3
+
