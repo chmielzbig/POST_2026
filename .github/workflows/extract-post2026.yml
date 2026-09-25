@@ -1,0 +1,28 @@
+name: Extract POST_2026 materials
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/extract_post2026.py"
+      - "RIN.271.1.*.zip"
+      - "Zestawienie postepowan do 2021 do 2024 roku.xlsx"
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install helpers
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils antiword catdoc
+      - name: Extract
+        run: python scripts/extract_post2026.py
+      - name: Commit extracted text
+        run: |
+          git config user.name "chatgpt-analysis-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add ANALIZA_WYDOBYTA
+          git diff --cached --quiet || git commit -m "Wydobądź tekst dokumentów POST_2026"
+          git push
